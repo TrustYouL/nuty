@@ -1,0 +1,1208 @@
+
+"topscan_collage" = "Kolaj";
+
+"topscan_doctag" = "Tetapkan Tag";
+
+"topscan_picquality" = "Kualiti gambar";
+
+"topscan_addto" = "Tambah";
+
+"topscan_share" = "Kongsi";
+
+"topscan_email" = "E-mel";
+
+"topscan_merge" = "Gabung";
+
+"topscan_copy" = "Salin/Pindahkan";
+
+"topscan_sortby" = "Isih Ikut";
+
+"topscan_more" = "Lagi";
+
+"topscan_savetogallery" = "Simpan Ke Galeri";
+
+"topscan_upload" = "Muat Naik";
+
+"topscan_uploadsucceeded" = "Muat Naik Berjaya";
+
+"topscan_uploadfailed" = "Muat naik gagal";
+
+"topscan_delete" = "Hapus";
+
+"topscan_cancel" = "Batalkan";
+
+"topscan_ok" = "OKEY";
+
+"topscan_about" = "mengenai";
+
+"topscan_error" = "RALAT!";
+
+"topscan_skip" = "Langkau";
+
+"topscan_decryption" = "Nyahsulit";
+
+"topscan_allselect" = "Pilih semua";
+
+"topscan_cancelallselect" = "Nyahpilih semua";
+
+"topscan_items" = "Dipilih";
+
+"topscan_printing" = "Cetak";
+
+"topscan_pdf" = "PDF";
+
+"topscan_note" = "Catatan";
+
+"topscan_retake" = "Ambil Semula";
+
+"topscan_ocr" = "Kenalpasti Teks";
+
+"topscan_watermarktitle" = "Tera air";
+
+"topscan_addwatermark" = "Tambah Tera air";
+
+"topscan_editwatermark" = "Edit tera air";
+
+"topscan_clearwatermark" = "Kosongkan kandungan";
+
+"topscan_removewatermark" = "Keluarkan tera air";
+
+"topscan_remind" = "Amaran";
+
+"topscan_loading" = "memuatkan...";
+
+"topscan_deleteoption" = "Adakah anda pasti bahawa anda mahu menghapuskan semua dokumen yang dipilih?";
+
+"topscan_deletecurrentpage" = "Adakah anda pasti bahawa untuk menghapuskan halaman ini?";
+
+"topscan_deletecurrentdoc" = "Adakah anda pasti bahawa anda ingin menghapuskan dokumen semasa?";
+
+"topscan_bind" = "Penyediaan Akaun E-mel";
+
+"topscan_savefail" = "Ralat data!";
+
+"topscan_phonememoryalert" = "Disebabkan masalah memori telefon, kolaj yang lebih besar daripada 30 gambar boleh menyebabkan kerosakan. Adakah anda mahu meneruskan?";
+
+"topscan_continueshare" = "Terus berkongsi";
+
+"topscan_savealert" = "Adakah anda pasti untuk keluar tanpa menyimpan perubahan?";
+
+"topscan_deletesignatureimagealert" = "Adakah anda pasti mahu menghapuskan imej tandatangan?";
+
+"topscan_discard" = "Membuang perubahan";
+
+
+"topscan_movesuccess" = "Dokumen dipindahkan dengan jayanya!";
+
+"topscan_copysuccess" = "Dokumen disalin dengan jayanya!";
+
+"topscan_mergesuccess" = "Dokumen digabungkan dengan jayanya!";
+
+"topscan_clearphotos" = "Foto yang baru diambil tidak akan disimpan. Adakah anda pasti membuang foto?";
+
+"topscan_noalert" = "Jangan ingatkan lagi";
+
+"topscan_editpdf" = "Edit PDF";
+
+"topscan_addpage" = "Tambah halaman";
+
+"topscan_collageimage" = "Imej Kolaj...";
+
+"topscan_collageproof" = "Bukti Harta benda";
+
+"topscan_collagedriverlicense" = "Lesen memandu";
+
+"topscan_collageidcard" = "Kad Pengenalan";
+
+
+
+"topscan_collagepassport" = "Pasport";
+
+"topscan_collageaccountbook" = "Buku Akaun";
+
+"topscan_idcardanti" = "Anti-pemalsuan";
+
+"topscan_importpic" = "Galeri";
+
+"topscan_userdefinedsize" = "Tentukan sendiri saiz fail untuk dikongsi";
+
+"topscan_filecompressiontitle" = " Masukkan 0-99 nisbah mampatan";
+
+"topscan_manualsorting" = "Penyusunan Manual";
+
+"topscan_firstontop" = "Pertama di atas";
+
+"topscan_lastontop" = "Terakhir di atas";
+
+"topscan_siderename" = "Namakan Semula";
+
+"topscan_creatdatadescend" = "Tarikh Buat (menaik)";
+
+"topscan_creatdataascend" = "Tarikh Buat (menurun)";
+
+"topscan_filenameatoz" = "Nama Fail(A hingga Z)";
+
+"topscan_filenameztoa" = "Nama Fail(Z hingga A)";
+
+"topscan_girdview2" = "Pandangan grid";
+
+"topscan_girdview3" = "(3 lajur)";
+
+"topscan_girdviewlist" = "Paparan Senarai";
+
+"topscan_folderlocationtop" = "Folder di atas";
+
+"topscan_folderlocationbottom" = "Folder di bawah";
+
+"topscan_fax" = "Faks";
+
+"topscan_hidepagedetails" = "Sembunyikan Perincian Halaman";
+
+"topscan_displaypagedetails" = "Paparkan Perincian  Halaman";
+
+"topscan_batchedit" = "Edit dalam kumpulan";
+
+"topscan_pdffile" = "Fail PDF";
+
+"topscan_image_jpg" = "Imej(JPG)";
+
+"topscan_longimage_jpg" = "Kongsi sebagai imej panjang";
+
+"topscan_txt" = "Kongsi txt";
+
+"topscan_originalsize" = "Saiz asal";
+
+"topscan_medium" = "Sederhana";
+
+"topscan_small" = "Kecil";
+
+"topscan_superhigh" = "Sangat Tinggi";
+
+"topscan_shareapp" = "Kongsi aplikasi ini";
+
+"topscan_backup" = "Sandar & Pulihkan";
+
+"topscan_icouldbackup" = "Sandarkan";
+
+"topscan_importimage" = "Import imej";
+
+"topscan_mergepdf" = "Gabungkan PDF";
+
+"topscan_importfile" = "Import fail";
+
+"topscan_longpresstip" = "Saya faham";
+
+"topscan_search" = "Carian";
+
+"topscan_homemoredocremind" = "Peringatan dokumen";
+
+"topscan_settingtemplate" = "Templat";
+
+"topscan_settingfamily" = "Keluarga";
+
+"topscan_shareappcontent" = "Terdapat perisian pengimbas yang hebat, muat turun pautan";
+
+"topscan_mergefilemethodtitle" = "Pilih Kaedah Penggabungan";
+
+"topscan_mergefilemethodkeepold" = "Gabungkan Dan Simpan Dokumen Lama";
+
+"topscan_mergefilemethoddeleteold" = "Gabungkan Dan Hapuskan Dokumen Lama";
+
+"topscan_cameradiscardtitle" = "Buang halaman";
+
+"topscan_cameradiscardmssage" = "Buang semua halaman?";
+
+"topscan_cameraaccidenttitle" = "Maklumat";
+
+"topscan_cameraaccidentmssage" = "beberapa imej yang anda ambil kali terakhir masih belum diproses, adakah anda mahu memuatkan ia?";
+
+"topscan_cameralighton" = "Pasang";
+
+"topscan_cameralightoff" = "Tutup";
+
+"topscan_cameralightauto" = "Auto";
+
+"topscan_cameralighttorch" = "Obor";
+
+"topscan_cameratypetotext" = "Untuk teks";
+
+"topscan_cameratypesingle" = "Tunggal";
+
+"topscan_cameratypebatch" = "Kumpulan";
+
+"topscan_cameratypeqrbarcode" = "QR& Kod Bar";
+
+"topscan_camerapermissiontitle" = "Sila buka kebenaran kamera";
+
+"topscan_camerapermissionguide" = "Menetapkan-Privasi-Kamera";
+
+"topscan_albumpermissiontitle" = "Sila buka kebenaran album";
+
+"topscan_albumpermissionguide" = "Tetapan-Privasi-Foto-Semua Foto";
+
+"topscan_safeentertips" = "Sila masukkan kata laluan 4 digit!";
+
+
+
+"topscan_loginouttipsmessage" = "Adakah anda pasti mahu log keluar?";
+    
+"topscan_psderror" = "Kata laluan salah. Sila cuba lagi!";
+    
+"topscan_pdferror" = "Kata laluan tidak sepadan, cuba lagi!";
+    
+"topscan_touchidnotenrolled" = "Peranti tidak dikesan untuk mengaktifkan Pengenalan sentuh, sila pergi ke pusat tetapan telefon untuk mengaktifkan fungsi Pengenalan sentuh.";
+    
+"topscan_faceidnotenrolled" = "Peranti tidak dikesan untuk mengaktifkan Pengenalan wajah, sila pergi ke pusat tetapan telefon untuk mengaktifkan fungsi Pengenalan wajah.";
+    
+"topscan_opensysset" = "Kebenaran untuk menetapkan pusat";
+    
+"topscan_againvafaceid" = "Klik untuk mengesahkan Pengenalan Wajah";
+    
+"topscan_againvatouchid" = "Klik untuk mengesahkan Pengenalan Sentuh";
+    
+"topscan_pdfpagenumberno" = "Tiada nombor halaman";
+    
+"topscan_pdfpagenumberlowerl" = "bahagian bawah-kiri";
+    
+"topscan_pdfpagenumberbottomc" = "bahagian bawah tengah";
+    
+"topscan_pdfpagenumberlowerr" = "bahagian bawah-kanan";
+    
+"topscan_pdfpagenumberupperl" = "bahagian atas-kiri";
+    
+"topscan_pdfpagenumberheadc" = "kepala tengah";
+    
+"topscan_pdfpagenumberupperr" = "bahagian atas-kanan";
+    
+"topscan_colletionfunctiontitle" = "Pilih Dokumen";
+    
+"topscan_pdfdirectionauto" = "Laraskan secara automatik mengikut saiz imej";
+    
+"topscan_pdfdirectionlandscape" = "Landskap";
+    
+"topscan_pdfaddsignature" = "Potret";
+    
+"topscan_changepdfsizealert" = "Perubahan semasa akan menetapkan semula tandatangan PDF. Adakah anda mahu meneruskan?";
+    
+"topscan_emptypdfnamealert" = "Nama PDF tidak boleh kosong!";
+    
+"topscan_createdsuccessfully" = "Dibuat dengan jayanya";
+    
+"topscan_hasfolder" = "Dokumen/folder sudah wujud.Sila pilih nama lain.";
+    
+"topscan_creationfailed" = "Penciptaan gagal";
+    
+"topscan_duplicationname" = "Nama itu telah wujud. Sila tukar yang lain.";
+    
+"topscan_folderexists" = "Folder telah wujud";
+    
+"topscan_emailinvalidtips" = "Sila masukkan alamat e-mel yang betul";
+    
+"topscan_defaultprocess" = "Proses lalai";
+    
+"topscan_original" = "Asal";
+    
+"topscan_blackwhite" = "B&W";
+    
+"topscan_blackwhite2" = "B&W2";
+    
+"topscan_blackwhite3" = "B&W3";
+    
+"topscan_nostalgic" = "Nostalgia";
+    
+"topscan_magiccolor" = "Warna Ajaib";
+    
+"topscan_magiccolor2" = "Warna Ajaib2";
+    
+"topscan_grayscale" = "Skala Kelabu";
+    
+"topscan_lastfilter" = "Penapis Terakhir";
+    
+"topscan_clear" = "Kosongkan";
+    
+"topscan_clearmarks" = "Bersihkan tanda";
+    
+"topscan_markstip" = "Tanda(tandatangan, grafiti dll) akan dibersihkan sekiranya anda meneruskannya. Pasti untuk membersihkan tanda?";
+    
+"topscan_setting" = "Ke Tetapan";
+    
+"topscan_deletedrive" = "Adakah anda pasti mahu menghapuskan fail sandaran semasa?";
+    
+"topscan_thereisnotstoragespaceon" = "Tiada ruang storan yang cukup di telefon anda. Sila cuba semula!";
+    
+"topscan_dropboxsussess" = "Sandaran telah dipindahkan ke Dropbox.";
+    
+"topscan_boxsussess" = "Sandaran telah dipindahkan ke Box.";
+    
+"topscan_googledrivesussess" = "Sandaran telah dipindahkan ke Google Drive.";
+    
+"topscan_onedrivesussess" = "Sandaran telah dipindahkan ke Onedrive.";
+    
+"topscan_startbackupinbackground" = "Mula memuat naik fail sandaran di latar belakang";
+    
+"topscan_backupinbackgroundaleat" = "Memuat naik fail sandaran akan dilakukan di latar belakang, menutup aplikasi boleh menyebabkan proses sandaran gagal.";
+    
+"topscan_myselfemailshow" = "E-mel kepada diri saya";
+    
+"topscan_toemailtitle" = "Ke";
+    
+"topscan_subjectplaceholder" = "Subjek";
+    
+"topscan_bodyplaceholder" = "Kandungan";
+    
+"topscan_emailsettingguide" = "Anda boleh menukar e-mel dalam Tetapan->Umum->E-mel";
+    
+"topscan_picturequalityheight" = "Tinggi";
+    
+"topscan_picturequalitylow" = "Rendah";
+    
+"topscan_defaultpagesize" = "Saiz Halaman Lalai";
+    
+"topscan_privacypolicy" = "Dasar Privasi";
+    
+"topscan_faq" = "Soalan Lazim";
+    
+"topscan_sendfeedback" = "Hantar Maklumbalas";
+    
+"topscan_version" = "Versi";
+    
+"topscan_rateapp" = "Nilai Pengimbas Ringkas";
+    
+"topscan_settinggeneral" = "Umum";
+    
+"topscan_settingdocmanagement" = "Pengurusan Dokumen";
+    
+"topscan_settingourapp" = "Aplikasi kami";
+    
+"topscan_settingfaxname" = "Faks Mudah";
+    
+"topscan_settingfaxreceivename" = "Terima Faks";
+    
+"topscan_settinguseragreement" = "Perjanjian Pengguna";
+    
+"topscan_settingusersuggestion" = "Cadangan dan Maklum balas";
+    
+"topscan_settingdocname" = "Nama Dokumen";
+    
+"topscan_settingdoctime" = "Masa Dokumen";
+    
+"topscan_changepagesize" = "Tukar Saiz Halaman";
+    
+"topscan_documentname" = "Nama Dokumen ditentukan sendiri";
+    
+"topscan_documentdate" = "Masa Dokumen yang ditentukan sendiri";
+    
+"topscan_autosavetogallery" = "Auto Simpan Ke Album";
+    
+"topscan_saveoriginalimage" = "Simpan Imej Asal";
+    
+"topscan_saveoriginalimagetip" = "Ciri ini terutamanya menetapkan semula fungsi pemotongan, yang menambahkan ruang storan.";
+
+
+
+
+"topscan_savetogallerytip" = "Simpan imbasan ke Galeri secara automatik";
+
+"topscan_textblankprompt" = "Kenali imej & ubah menjadi teks";
+
+"topscan_noteplaceholder" = "Mula menambah catatan!";
+
+"topscan_ocrtexttdit" = "Edit";
+
+"topscan_ocrtextcopy" = "Salin";
+
+"topscan_ocrtextexport" = "Eksport";
+
+"topscan_ocrtexttranslation" = "Terjemahan";
+
+"topscan_ocrdefaultlanguage" = "Bahasa Inggeris";
+
+"topscan_ocrautomatic" = "Automatik";
+
+"topscan_ocrtextagain" = "OCR lagi";
+
+"topscan_ocrtypecloud" = "Awan OCR";
+
+"topscan_ocrtypelocal" = "Pengiktirafan pantas tempatan";
+
+"topscan_ocrtypelocaltip" = "Hanya menyokong aksara Latin";
+
+"topscan_ocrdownfail" = "muat turun gagal";
+
+"topscan_ocrrecentanguages" = "Bahasa terkini";
+
+"topscan_ocralllanguages" = "Semua bahasa";
+
+"topscan_ocrexportcopy" = "Salin ke Papan Keratan";
+
+"topscan_ocrchooseendpoint" = "Pilih titik akhir yang paling hampir";
+
+"topscan_ocrgoogleendpointprompt" = "Pilih nod global terbaik secara automatik, tidak perlu memilih!";
+
+"topscan_ocrthirdocrfailprompt" = "Ralat pemprosesan atau teks tidak tersedia, sila cuba lagi!";
+
+"topscan_networkstate" = "WLAN Dimatikan";
+
+"topscan_networkstatecontent" = "Anda boleh menghidupkan WLAN untuk aplikasi \'simpleScan\' dalam Tetapan";
+
+"topscan_ocragainallpage" = "Semua halaman";
+
+"topscan_ocragaincurrentpage" = "Halaman ini";
+
+"topscan_ocrtextagainvctip" = "Pengeditan yang dibuat semasa pembacaaan pruf akan hilang jika anda mengetuk Kembali";
+
+"topscan_ocrocrvctip" = "Adakah anda pasti mahu keluar dari pengecaman teks semasa?";
+
+"topscan_ocrocrgooglepoint" = "Global";
+
+"topscan_ocrocragaintitle" = "Ketuk teks untuk diedit";
+
+"topscan_ocrocrlanguagetitle" = "Bahasa";
+
+"topscan_ocrocragainendpoint" = "Titik Akhir";
+
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Kenali halaman semasa";
+
+"topscan_ocrocragainrecognizeallpages" = "Kenali semua halaman";
+
+"topscan_translatesourcelanguage" = "Bahasa Sumber";
+
+"topscan_translatetargetlanguage" = "Bahasa Sasaran";
+
+"topscan_deletelanguagepack" = "Hapuskan model bahasa";
+
+"topscan_stoploadlanguagepack" = "Berhenti memuat turun model bahasa";
+
+"topscan_scorecancel" = "Bukan sekarang";
+
+"topscan_scorefivestar" = "5 Bintang";
+
+"topscan_tagsungrouped" = "Dileraikan";
+
+"topscan_tagsalldocs" = "Semua dokumen";
+
+"topscan_tagssearchplaceholder" = "Tag input";
+
+"topscan_tagsalltagstitle" = "Semua Tag";
+
+"topscan_tagsalreadyexists" = "Tag telah wujud!";
+
+"topscan_tagstagdelete" = "Label yang dihapuskan tidak dapat dipulihkan. Sahkan untuk hapus?";
+
+"topscan_tagsdone" = "Selesai";
+
+"topscan_tagssettag" = "Tetapkan Teg";
+
+"topscan_tagstagmanager" = "Tag";
+
+"topscan_tagsentermanager" = "Tag";
+
+"topscan_tagstagnotecontent" = "Adakah anda mahu menyimpan pengeditan?";
+
+"topscan_tagstagmanageradd" = "Tambah Tag Baharu";
+
+"topscan_tagstagmanageraddplac" = "Sila Masukkan Nama Tag";
+
+"topscan_tagscreatelabs" = "Untuk membuat label ~";
+
+"topscan_drivestartupdate" = "Fail sandaran mula dimemuat naik ...";
+  
+"topscan_driveuploading" = "memuat naik...";
+  
+"topscan_buildingpdf" = "Membina PDF";
+  
+"topscan_processingjpg" = "Memproses JPG";
+  
+"topscan_processing" = "Memproses ...";
+  
+"topscan_processingdoc" = "Memproses Dokumen";
+  
+"topscan_processingzip" = "Memproses ZIP";
+  
+"topscan_sortprocessing" = "Pemprosesan isih";
+  
+"topscan_removeing" = "Membuang";
+  
+"topscan_copyprocessing" = "Menyalin";
+  
+"topscan_moveprocessing" = "Bergerak";
+  
+"topscan_mergeing" = "Menggabungkan";
+  
+"topscan_initdata" = "Memulakan data";
+  
+"topscan_docpasswordicon" = "Kunci";
+  
+"topscan_docpasswordunlockicon" = "Buka kunci";
+  
+"topscan_pdfpassword" = "PDF eksport kata laluan";
+  
+"topscan_pdfpasswordclear" = "Padam kata laluan PDF";
+  
+"topscan_touchtitle" = "Sila sahkan Pengenalan Sentuh";
+  
+"topscan_clearapppsd" = "Adakah anda mahu mengosongkan pilihan kata laluan Aplikasi?";
+  
+"topscan_cleardocpsd" = "Adakah anda mahu mengosongkan pilihan kata laluan Akses Dokumen?";
+  
+"topscan_passwordhelptip" = "Perlukan bantuan ?";
+  
+"topscan_passwordhelpsubject" = "Maklum balas kata laluan dokumen";
+  
+"topscan_passwordapphelpsubject" = "Maklum balas kata laluan aplikasi";
+  
+"topscan_enterpwd" = "Sila Masukkan Kata Laluan";
+  
+"topscan_appsecurity" = "Keselamatan aplikasi";
+  
+"topscan_apppwd" = "Kata laluan aplikasi";
+  
+"topscan_setpasswordlaceholder" = "Sila masukkan kata laluan anda";
+  
+"topscan_resetpasswordlaceholder" = "Masukkan semula kata laluan anda";
+  
+"topscan_setpasswordtitle" = "Tetapkan Kata laluan";
+  
+"topscan_setpdfpasswordtitle" = "Kata laluan PDF";
+  
+"topscan_resetpasswordtitle" = "Masukkan Kata laluan";
+  
+"topscan_writepasswordfail" = "Kata laluan tidak sepadan, sila cuba lagi!";
+  
+"topscan_writetwopasswordfail" = " Dua kali kata laluan yang dimasukkan tidak sepadan, sila cuba lagi!";
+  
+"topscan_backupbottomtitle" = "Pulihkan dari sandaran terdahulu atau pindahkan imbasan dari peranti lain";
+  
+"topscan_docaccesspassword" = "Kata laluan Akses Dokumen";
+  
+"topscan_turnoffpassword" = "Matikan kata laluan";
+  
+"topscan_changepassword" = "Tukar kata laluan";
+  
+"topscan_storagespacenotenough" = "Telefon tidak mempunyai ruang storan yang mencukupi";
+  
+"topscan_storagespacetitle" = "Ruang storan telefon kurang dari 200M, untuk mengelakkan fail tidak dapat ditulis, kosongkan sedikit ruang";
+  
+"topscan_appheadingtitle" = "Tetapkan kata laluan aplikasi untuk melindungi keselamatan dokumen";
+  
+"topscan_docheadingtitle" = "Tetapkan kata laluan untuk melihat dokumen yang dilindungi kata laluan";
+  
+"topscan_pdfheadingtitle" = "Tetapkan kata laluan untuk berkongsi dan mengeksport fail PDF untuk melindungi privasi fail";
+  
+"topscan_batchall" = "Penuh";
+  
+"topscan_batchauto" = "Auto";
+  
+"topscan_batchfit" = "Sesuai";
+  
+"topscan_left" = "Kiri";
+  
+"topscan_right" = "Kanan";
+  
+"topscan_crop" = "Potong";
+  
+"topscan_filter" = "Tapis";
+  
+"topscan_prompt" = "Segera";
+  
+"topscan_promptcontent" = "Perubahan belum disimpan. Simpan sekarang?";
+  
+"topscan_no" = "Tidak";
+  
+"topscan_yes" = "Ya";
+  
+"topscan_batchsave" = "Simpan";
+  
+"topscan_scansignature" = "Imbas tandatangan anda";
+  
+"topscan_importsignature" = "Import dari album";
+  
+"topscan_waittip" = "Fail sedang diproses, sila tunggu...";
+  
+"topscan_nooriginalimgdefault" = "Beberapa fail tidak dapat diset semula dan dipotong, dan fail asalnya tidak dapat dijumpai";
+  
+"topscan_nooriginalimgfilter" = "Beberapa fail tidak dapat disaring semula, kerana fail asalnya tidak dapat dijumpai";
+  
+"topscan_nooriginalimgmore" = "dan banyak lagi";
+  
+"topscan_nooriginalimgsetting" = "anda boleh membuka pilihan tetapan untuk menyimpan pilihan gambar asal";
+  
+"topscan_alldatanooriginalimg" = "Tidak dapat set semula pemotongan, fail asal tidak wujud!";
+  
+"topscan_alldatanooriginalimgfilter" = "Tidak dapat set semula pemprosesan penapis, fail asalnya tidak wujud!";
+  
+"topscan_cropautomatic" = "Pemotongan Imej Auto";
+  
+"topscan_cropautomatictip" = "Pemotongan Imej Auto di bawah mod Imbas Kumpulan";
+  
+"topscan_cropautomaticcameraaip" = "Pemotongan automatik";
+  
+"topscan_camerafilterremind" = "Anda boleh menukar mod kumpulan penapis lalai";
+  
+"topscan_cameracropremindfirst" = "Anda boleh mengubah sama ada";
+  
+"topscan_cameracropremindsecond" = "mod kumpulan dipotong";
+  
+"topscan_flitertypeapplylocation" = "Terapkan ke semua halaman";
+  
+"topscan_colletionpdftolongpictitle" = "Eksport PDF ke Gambar Panjang";
+  
+"topscan_colletionpdftopictitle" = "PDF ke Imej";
+  
+"topscan_colletionpdfpasswordtitle" = "Kata laluan PDF";
+  
+"topscan_colletionpdfextracttitle" = "Ekstrak PDF";
+  
+"topscan_colletiondocpasswordtitle" = "Kata laluan Dokumen";
+  
+"topscan_colletionscanidcardtitle" = "Imbas Kad Pengenalan";
+  
+"topscan_colletionpdfaddwatermarktitle" = "PDF Tambah Tera Air";
+  
+"topscan_colletionpdfsignaturetitle" = "Tandatangan PDF";
+  
+"topscan_colletionpdfpageadjustment" = "Pelarasan Halaman PDF";
+  
+"topscan_colletionimagetopdf" = "Imej ke PDF";
+  
+"topscan_colletionbottomtitle" = "Ekstrak Halaman";
+  
+"topscan_colletionmydevice" = "Peranti Saya";
+  
+"topscan_colletionpdfextractbottomtitle" = "Ekstrak menghasilkan dokumen baru";
+  
+"topscan_docreminedtitle" = "Dayakan Kebenaran Pemberitahuan";
+  
+"topscan_docreminedcontent" = "Anda tidak mengaktifkan kebenaran pemberitahuan, jadi anda tidak dapat menggunakan Amaran Dokumen sehingga diaktifkan.";
+  
+"topscan_docreminetime" = "Masa peringatan dokumen perlu lebih lama daripada waktu sistem semasa!";
+  
+"topscan_questiontype" = "Sila pilih jenis";
+  
+"topscan_questiondescrible" = "Sila masukkan soalan atau cadangan anda";
+  
+"topscan_suggestionremind" = "Untuk membuat tangkapan skrin pada iPhone 8 dan versi terdahulu, tekan butang Tidur/Bangun dan butang Laman Utama pada masa yang sama";
+  
+"topscan_suggestionremindx" = "Untuk membuat tangkapan skrin pada iPhone X dan versi terkini, tekan butang Naikkan Kelantangan dan Kunci pada masa yang sama.";
+  
+"topscan_questiontypecrash" = "Kerosakan/Bebatan";
+
+"topscan_questiontypetaking" = "Mengambil gambar/mengimport dari album";
+
+"topscan_questiontypephoto" = "Pengeditan gambar";
+
+"topscan_questiontypeocr" = "OCR";
+
+"topscan_questiontypefax" = "Faks";
+
+"topscan_questiontypepoint" = "Titik-C";
+
+"topscan_questiontypeshare" = "Kongsi/E-mel/Cetak";
+
+"topscan_questiontypeinterface" = "Antara muka";
+
+"topscan_questiontypefeatures" = "Lebih banyak ciri";
+
+"topscan_questiontypeother" = "Soalan lain";
+
+"topscan_questiontypetoast" = "Adakah terdapat masalah penggunaan? Atau anda boleh memberi kami maklum balas mengenai cadangan dan keperluan fungsi aplikasi,dan kami senang mendengar pendapat anda.";
+
+"topscan_questionsetting" = "Tetapan";
+
+"topscan_questioncontinue" = "Teruskan";
+
+"topscan_questioninvalidemail" = "Alamat e-mel tidak sah";
+
+"topscan_questiontoasttitle" = "Tambahkan tangkapan skrin (pilihan)";
+
+"topscan_submittedsuccessfully" = "Dihantar dengan jayanya!";
+
+"topscan_suggestioncontenttitle" = "Perincian";
+
+"topscan_suggestionsubmit" = "Hantar";
+
+"topscan_remindtitle" = "Tajuk";
+
+"topscan_remindreturn" = "Kembali";
+
+"topscan_guidetitleprofessional" = "Profesional";
+
+"topscan_guidetitlecollage" = "Mod kolaj Pengenalan";
+
+"topscan_guidetitlebackup" = "Sandarkan dan Pulihkan";
+
+"topscan_guideprofessionaldes" = "Mengesan dokumen secara automatik, memproses pemotongan pantas, menjelaskan dan meningkatkan dokumen.";
+
+"topscan_guidecollagedes" = "Imej kad Pengenalan kolaj ke dalam dokumen, sediakan pelbagai pilihan templat, dan saiz tersuai.";
+
+"topscan_guideimagedes" = "Kenali teks secara automatik melalui teknologi awan AI, edit, salin, kongsi, eksport teks anda.";
+
+"topscan_guidebackupdes" = "Sandarkan dokumen anda ke storan awan atau storan tempatan, dan kembalikan dokumen yang disandarkan pada bila-bila masa.";
+
+"topscan_showstatustitle" = "Memuatkan Data";
+
+"topscan_placeholderpassword" = "kata laluan";
+
+"topscan_manualsorttitle" = "Tekan Lama untuk Isih Secara Manual";
+
+"topscan_docgraffiti" = "Grafiti";
+
+"topscan_docaddtext" = "Tambah teks";
+
+"topscan_copypage" = "Salin halaman semasa";
+
+"topscan_copyallpages" = "Salin semua halaman";
+
+"topscan_showprocess" = "Memproses ...";
+
+"topscan_importimgerror" = "Fail tidak wujud, atau ralat data!";
+
+"topscan_somefileloss" = "Sebilangan ralat membaca fail!";
+ 
+
+
+
+
+
+"topscan_cardprompt" = "Ciri yang mesti ada! Anda boleh membuat e-salinan kad pengenalan dua belah dalam 1 minit. 100% rsedia dicetak.";
+ 
+"topscan_paperexample" = "Contoh kertas A4";
+ 
+"topscan_restorebackup" = "SANDAR SEKARANG";
+ 
+"topscan_restorelastbackup" = "Tarikh sandaran terakhir";
+ 
+"topscan_restoremerge" = "Pulihkan semula dan Gabungkan semua dokumen semasa";
+ 
+"topscan_restoredelete" = "Pulihkan semula dan hapus semua dokumen semasa";
+ 
+"topscan_restoretitle" = "PULIHKAN SEMULA";
+ 
+"topscan_restorenotlogin" = "Tiada status log masuk akaun awan yang dikesan.";
+ 
+"topscan_restorenotrepeat" = "Memuat naik fail sandaran, sila tunggu...";
+ 
+"topscan_restorebackwifi" = "Proses sandaran ketika ada Wi-Fi sahaja";
+ 
+"topscan_restorenodocument" = "Pada masa ini tiada dokumen yang tersedia, sila tambah dokumen terlebih dahulu.";
+ 
+"topscan_restorequery" = "membuat pertanyaan...";
+ 
+"topscan_restorequeryfailed" = "Pertanyaan gagal atau fail sandaran tidak dijumpai.";
+ 
+"topscan_restoreprocessfiles" = "Memproses fail";
+ 
+"topscan_restorebackupfailed" = "Sandaran gagal!";
+ 
+"topscan_restoreuploadingfile" = "Memuat naik fail, sila tunggu ......";
+ 
+"topscan_saferepasscode" = "Masukkan semula Kod laluan";
+ 
+"topscan_saferepassword" = "Sila masukkan semula kata laluan";
+ 
+"topscan_applicationsecrulty" = "Permohonan sekuriti";
+ 
+"topscan_verifypasscode" = "Sahkan Kod laluan";
+ 
+"topscan_setpasscode" = "Tetapkan Kod laluan";
+ 
+"topscan_enternewpassword" = "Masukkan kata laluan baharu";
+ 
+"topscan_filetype" = "Jenis fail";
+ 
+"topscan_fileformat" = "Format fail";
+ 
+"topscan_sharepdfformat" = "Kongsi fail dalam format .PDF";
+ 
+"topscan_sharezipformat" = "Kongsi fail dalam format .ZIP";
+ 
+"topscan_sharejpgformat" = "Kongsi fail dalam format .JPG";
+ 
+"topscan_newfolderprompt" = "Folder Baharu";
+ 
+"topscan_currentdocument" = "Dokumen semasa";
+ 
+"topscan_recognizetitle" = "Kenal pasti";
+ 
+"topscan_filedeleteprompt" = "Fail sandaran berjaya dipadamkan!";
+ 
+"topscan_filedownbackup" = "Muat turun fail sandaran";
+ 
+"topscan_filestartbackup" = "Fail sandaran mula dimuat turun";
+ 
+"topscan_filerestoresuccessed" = "Pemulihan fail sandaran berjaya.";
+ 
+"topscan_uploadsingin" = "Daftar Masuk";
+ 
+"topscan_singoutlowercase" = "Daftar Keluar";
+ 
+"topscan_processingerror" = "Ralat pemprosesan fail!";
+ 
+"topscan_barcodeopenurl" = "Buka URL";
+ 
+"topscan_barcoderesult" = "Pengecaman Hasil";
+ 
+"topscan_downloadlanguage" = "Memuat turun bahasa...";
+ 
+"topscan_graffitibrush" = "Berus";
+ 
+"topscan_graffitiopacity" = "Kelegapan";
+ 
+"topscan_graffitieraser" = "Pemadam";
+ 
+"topscan_graffiticolor" = "Warna";
+ 
+"topscan_graffitiundo" = "Buat asal";
+ 
+"topscan_graffitiredo" = "Buat semula";
+ 
+"topscan_nosignture" = "Tiada Tandatangan!";
+ 
+"topscan_graffititext" = "Teks";
+     
+"topscan_graffitireplacefile" = "Ganti fail semasa";
+     
+"topscan_graffiticreatefile" = "Buat fail baru";
+     
+"topscan_graffiticopyto" = "Salin ke";
+     
+"topscan_graffitimoveto" = "Pindah Ke";
+     
+"topscan_graffititextrecognition" = "Pengecaman Teks";
+     
+"topscan_ocraccount" = "Pengurusan akaun OCR";
+     
+"topscan_loginsuccessful" = "log masuk berjaya!";
+     
+"topscan_appleloginsuccessful" = "Log masuk akaun Apple berjaya!";
+     
+"topscan_googleloginsuccessful" = "Log masuk akaun Google berjaya!";
+     
+"topscan_loginregister" = "Log masuk atau daftar";
+     
+"topscan_resetpassword" = "Menetapkan semula kata laluan";
+     
+"topscan_copysuccessful" = "Salin Berjaya";
+     
+"topscan_copyfailed" = "Gagal menyalin";
+     
+"topscan_loginicloudtips" = "Untuk mengelakkan kehilangan baki anda, kami menggunakan akaun untuk mengikat baki anda. Pada masa yang sama, anda juga dapat menggunakan baki antara beberapa peranti. Sila log masuk atau daftarkan akaun anda.";
+     
+"topscan_loginnow" = "Log masuk sekarang";
+     
+"topscan_emailemptytips" = "E-mel Tidak boleh kosong";
+     
+"topscan_psdemptytips" = "Kata Laluan Tidak boleh kosong";
+ 
+"topscan_codeemptytips" = "Kod Pengesahan Tidak boleh kosong";
+ 
+"topscan_tips" = "Petua";
+ 
+"topscan_subscriptsuccessfully" = "Terima kasih kerana melanggan premium! ";
+ 
+"topscan_autorenewable" = "Boleh dibaharui secara automatik, batalkan bila-bila masa.";
+ 
+"topscan_nofreetrial" = "TIADA Percubaan Percuma";
+ 
+"topscan_details" = "Perincian";
+ 
+"topscan_restorepurchase" = "Pulihkan ltem yang Dibeli";
+ 
+"topscan_freetrial" = "Cubaan percuma";
+ 
+"topscan_unlimitedfolders" = "Folder Tanpa Had";
+ 
+"topscan_unlimitedfoldersintroduce" = "Pembukaan folder dan subfolder tanpa had.";
+ 
+"topscan_noads" = "Tiada iklan";
+ 
+"topscan_noadsintroduce" = "Alih keluar iklan dari Simple Scanner.";
+ 
+"topscan_pdffileencryption" = "Penyulitan fail PDF";
+ 
+"topscan_pdffileencryptionintroduce" = "Anda boleh menetapkan kata laluan untuk imbasan anda (resit atau fail sulit) untuk melindungi privasi anda.";
+ 
+"topscan_ocrtypecloudintroduce" = "Gunakan teknologi awan AI untuk mengenali dan mengekstrak teks, 1000+ halaman tersedia setiap bulan.";
+ 
+"topscan_cloudservice" = "Perkhidmatan awan";
+ 
+"topscan_cloudserviceintroduce" = "Muat naik dokumen, PDF, jpg, jenis fail anda secara automatik ke Cloud Drive atau iCloud untuk mengelakkan kehilangan dokumen.";
+ 
+"topscan_functionofcollage" = "Fungsi kolaj";
+ 
+"topscan_functionofcollageintroduce" = "Gunakan fungsi kolaj untuk menggabungkan beberapa halaman menjadi satu halaman.";
+ 
+"topscan_unlimitedscans" = "Imbasan Tanpa Had";
+ 
+"topscan_unlimitedscansintroduce" = "Tiada had bilangan dokumen yang diimbas.";
+ 
+"topscan_clearwaternark" = "Bersihkan tera air";
+ 
+"topscan_clearwaternarkintroduce" = "Keluarkan tera air PDF dan pastikan PDF sentiasa bersih dan kemas.";
+ 
+"topscan_writesignature" = "Tandatangan";
+ 
+"topscan_writesignatureintroduce" = "Imbas tandatangan anda yang ditulis di atas kertas untuk menghasilkan e-tandatangan yang kelihatan sama seperti yang asal.";
+ 
+"topscan_highqualitydoc" = "Dokumen berkualiti tinggi";
+ 
+"topscan_highqualitydocintroduce" = "Pelbagai pilihan pemilihan kualiti gambar, pilih pilihan berkualiti tinggi, menjadikan dokumen lebih jelas.";
+ 
+"topscan_emailmyself" = "E-mel Sendiri";
+ 
+"topscan_emailmyselfintroduce" = "Hantarkan dokumen kepada diri anda melalui e-mel, lebih cepat dan lebih senang.";
+ 
+"topscan_exportpdfdoc" = "Eksport Dokumen PDF";
+ 
+"topscan_exportpdfdocintroduce" = "Eksport PDF ke aplikasi lain dengan cepat, atau simpan di telefon anda. sendiri";
+ 
+"topscan_backupintroduce" = "Sokongan dan pemulihan berbilang peranti untuk memastikan dokumen sentiasa segerak.";
+ 
+"topscan_graffiti" = "Grafiti";
+ 
+"topscan_graffitiintroduce" = "Ubah suai dokumen, grafiti, tambah teks, tandatangan, dll.";
+ 
+"topscan_applock" = "Kunci APP";
+ 
+"topscan_applockintroduce" = "Aktifkan Pengenalan Wajah atau Pengenalan Sentuh untuk membuka kunci SimpleScanner dalam satu langkah.";
+ 
+"topscan_imagetotext" = "Imej ke Teks";
+ 
+"topscan_imagetotextintroduce" = "Gunakan ciri OCR untuk mengenali teks pada imej untuk mencari atau berkongsi nanti";
+ 
+"topscan_propdfeditor" = "Penyunting PDF";
+ 
+"topscan_propdfeditorintroduce" = "Edit halaman PDF, tambahkan tandatangan dan grafiti, kata laluan PDF, hapus tera air, dll.";
+ 
+"topscan_gotosetting" = "Pergi ke Tetapan";
+ 
+"topscan_ocrnummorethan" = "Awan OCR telah digunakan untuk mengenal pasti 1000 halaman/bulan dalam pusingan pengiraan semasa. Sekiranya anda terus mengenal pasti, anda perlu membeli halaman OCR, atau sila tunggu pusingan pengiraan seterusnya untuk menambahkan 1000 halaman OCR secara automatik.";
+ 
+"topscan_upgradeaccount" = "20+ ciri yang lebih maju";
+ 
+"topscan_upgradepremium" = "Naik taraf ke premium";
+ 
+"topscan_premium" = "Premium";
+ 
+"topscan_nopurrestore" = "Tiada pembelian untuk pemulihan!";
+ 
+"topscan_restorefailed" = "Gagal memulihkan pembelian.";
+ 
+"topscan_restoresuccessfully" = "Pulihkan pembelian dengan jayanya.";
+
+"topscan_bindcontent" = "Anda belum menyiapkan akaun e-mel anda, Pergi ke \"Tetapan E-mel\" di telefon anda, pilih \"Tambah Akaun\" untuk membuat akaun e-mel anda";
+ 
+"topscan_cameratypeidcardintroduce" = "Imbas & salin kedua-dua belah kad pengenalan pada satu halaman dalam masa 1 minit, kekalkan saiz asal kad. 100 % p cetakan sedia. ";
+ 
+
+"topscan_paymenttext1" = "Pembayaran akan dikenakan ke Akaun iTunes semasa pengesahan pembelian.";
+
+"topscan_forgotpsd" = "Lupa kata laluan anda?";
+ 
+"topscan_signup" = "Mendaftar";
+ 
+"topscan_noaccount" = "Tiada akaun?";
+ 
+"topscan_login" = "Log masuk";
+ 
+"topscan_quicklogin" = "Log masuk pantas";
+ 
+"topscan_paynow" = "Bayar sekarang";
+ 
+"topscan_send" = "Hantar";
+ 
+"topscan_signinsuccess" = "Log masuk berjaya!";
+ 
+"topscan_resend" = "Hantar semula";
+ 
+"topscan_sendcodesuccess" = "Hantar berjaya";
+ 
+"topscan_entervercode" = "Masukkan kod pengesahan";
+ 
+"topscan_addorginalfile" = "Tambah sandaran fail asal";
+ 
+"topscan_turnonpassword" = "Hidupkan kata laluan";
+
+"topscan_rotate" = "Putar";
+"topscan_tipask" = "Jangan pernah bertanya";
+    
+"topscan_croptipmsg" = "Tindakan itu dapat menghapus semua hasil OCR,nota, tera air ,tandatangan, grafiti ,Teks. Teruskan?";
+    
+"topscan_scoretitle" = "Sekiranya anda menyukai Simple Scanner, bolehkah anda memberi penilaian kepada kami di App Store untuk menyokong kami?";
+    
+"topscan_resetpsd" = "Kami hanya memerlukan Pengenalan E-mel berdaftar anda yang menghantar arahan tetapan semula kata laluan kepada anda.";
+    
+"topscan_compressionration" = "Catuan pemampatan";
+    
+"topscan_size" = "Saiz";
+    
+"topscan_compression" = "Pemampatan";
+    
+"topscan_pdfpagenumber" = "Nombor Halaman";
+    
+"topscan_pdfpagedirection" = "Arah halaman";
+    
+"topscan_image" = "Imej";
+    
+"topscan_subscriptfailedtips" = "Pengesahan langganan gagal, sila pergi ke Laman Utama-> Tetapan-> Pulihkan Pembelian!";
+    
+"topscan_cropautomaticcameraaip" = "Potong automatik";
+    
+"topscan_nextstep" = "Langkah seterusnya";
+    
+"topscan_addsignature" = "Tambahkan tandatangan";
+
+"topscan_subsctiptplan" = "Pelan Langganan Anda";
+    
+"topscan_renewedday" = "Hari yang diperbaharu";
+    
+"topscan_automaticrenewal" = "Pembaharuan Automatik";
+    
+"topscan_moredetails" = "Maklumat lanjut";
+    
+"topscan_drivedownloadfiles" = "Import awan";
+    
+"topscan_download" = "Muat Turun";
+    
+"topscan_downloadsuccessfilly" = "Muat turun Berjaya";
+    
+"topscan_downloadfailed" = "Muat turun gagal";
+    
+"topscan_uselimitedversion" = "Gunakan versi terhad";
+    
+"topscan_termsofserice" = "Syarat Perkhidmatan";
+    
+"topscan_unlimitedfeatures" = "Ciri Tanpa Had";
+    
+"topscan_subscriptiongives" = "Langganan ini memberi anda akses tanpa had menggunakan hak istimewa kami. Sekiranya anda tidak membatalkan sebelum percubaan berakhir, anda akan dikenakan bayaran secara automatik sehingga anda membatalkannya.";
+
+    
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+   
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"simplescan_batchsave" = "Save";
+"simplescan_cancel" = "Cancel";
+"simplescan_pleasenote" = "Please note:";
+"simplescan_importdatatype" = "Currently, only support import JPG, PNG, PDF formats.";
+
+"simplescan_fileothersuccessfully" = "Files in other formats may not be imported successfully.";
+
+"simplescan_fileintotal" = "files in total";
+
+
+

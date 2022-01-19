@@ -1,0 +1,169 @@
+/* 
+    localizable.strings
+    WeScanSampleProject
+
+    Created by Boris Emorine on 2/27/18.
+    Copyright © 2018 WeTransfer. All rights reserved.
+*/
+
+/* The "Next" button on the right side of the navigation bar on the Edit screen. */
+"wescan.edit.button.next" = "下一步";
+
+/* The title on the navigation bar of the Edit screen. */
+"wescan.edit.title" = "";
+
+/* The title on the navigation bar of the Review screen. */
+"wescan.review.title" = "回顾";
+
+/* The button titles on the Scanning screen. */
+"wescan.scanning.cancel" = "取消";
+"wescan.scanning.auto" = "自动";
+"wescan.scanning.manual" = "手动";
+/*
+"simpleScan.addto" = "添加";
+"simpleScan.share" = "分享";
+"simpleScan.email" = "邮件";
+"simpleScan.sort by" = "排序";
+"simpleScan.more" = "更多";
+"simpleScan.saveToGallery" = "保存至文件夹";
+"simpleScan.delete" = "删除";
+"simpleScan.cancel" = "取消";
+"simpleScan.ok" = "确定";
+"simpleScan.allSelect" = "全选";
+"simpleScan.cancelAllSelect" = "取消全选";
+"simpleScan.items" = "项";
+"simpleScan.printing" = "打印";
+"simpleScan.remind" = "提示";
+"simpleScan.deleteOption" = "确定要删除所选选项吗";
+"simpleScan.bind" = "请先绑定邮箱";
+"simpleScan.bindContent" = "您还未设置邮箱账户，请打开手机系统设置，进入“账户与密码，点击“添加账户”，即可创建您的邮箱账户";
+"simpleScan.addPic" = "请添加图片";
+
+"simpleScan.firstOnTop" = "顺序查看";
+"simpleScan.lastOnTop" = "逆序查看";
+"simpleScan.sideRename" = "重命名";
+"simpleScan.creatDataDescend" = "创建时间（从旧到新）";
+"simpleScan.creatDataAscend" = "创建时间（从新到旧）";
+"simpleScan.fileNameAToZ" = "文档名（从A到Z）";
+"simpleScan.fileNameZToA" = "文档名（从Z到A）";
+"simpleScan.girdView2" = "展开视图（2列）";
+"simpleScan.girdView3" = "展开视图（3列）";
+"simpleScan.girdViewList" = "单列展示";
+
+//创建文件夹的提示语
+"simpleScan.createdSuccessfully" = "创建成功";
+"simpleScan.hasFolder" = "该文件夹已存在";
+"simpleScan.creationFailed" = "创建失败";
+
+//图片处理
+"simpleScan.defaultProcess" = "自动增强模式";
+"simpleScan.original" = "原图";
+"simpleScan.blackwhite" = "黑白";
+"simpleScan.grayscale" = "灰色";
+"simpleScan.magiccolor" = "增强并锐化";
+"simpleScan.gaussianblur" = "高斯模糊";
+"simpleScan.nostalgic" = "怀旧";
+//"simpleScan.colorreplace" = "色彩替换";
+"simpleScan.lastfilter" = "Last Filter";
+
+//设置
+"simpleScan.setting" = "设置";
+//图片质量
+"simpleScan.pictureQuality" = "图片质量";
+"simpleScan.pictureQualityHeight" = "高";
+"simpleScan.pictureQualityMedium" = "中";
+"simpleScan.pictureQualityLow" = "低";
+//图片大小
+"simpleScan.defaultPageSize" = "页面大小";
+//支持
+"simpleScan.privacyPolicy" = "隐私政策";
+"simpleScan.faq" = "常见问题";
+"simpleScan.sendFeedback" = "反馈信息";
+"simpleScan.version" = "版本";
+*/
+"simpleScan.addto" = "Add to";
+"simpleScan.share" = "Share";
+"simpleScan.email" = "Email";
+"simpleScan.merge" = "Merge";
+"simpleScan.copy" = "Copy/Move";
+"simpleScan.sort by" = "Sort by";
+"simpleScan.more" = "More";
+"simpleScan.saveToGallery" = "Save To Gallery";
+"simpleScan.delete" = "Delete";
+"simpleScan.cancel" = "Cancel";
+"simpleScan.ok" = "OK";
+"simpleScan.allSelect" = "Select all";
+"simpleScan.cancelAllSelect" = "Deselect all";
+"simpleScan.items" = "Selected";
+"simpleScan.printing" = "Print";
+"simpleScan.remind" = "Warning";
+"simpleScan.deleteOption" = "Are you sure you want to delete all selected documents?";
+"simpleScan.bind" = "Email Account Setup";
+"simpleScan.bindContent" = "You haven't set your email account, Please go to your phone “Setting-Accounts & Passwords”,tap “Add Account” to create your email account";
+"simpleScan.addPic" = "Please add pictures";
+
+"simpleScan.firstOnTop" = "First on top";
+"simpleScan.lastOnTop" = "Last on top";
+"simpleScan.sideRename" = "Rename";
+"simpleScan.creatDataDescend" = "Date Create (ascending)";
+"simpleScan.creatDataAscend" = "Date Create (descending)";
+"simpleScan.fileNameAToZ" = "File Name(A to Z)";
+"simpleScan.fileNameZToA" = "File Name(Z to A)";
+"simpleScan.girdView2" = "Gird view";
+"simpleScan.girdView3" = "Gird view(3 columns)";
+"simpleScan.girdViewList" = "List view";
+"simpleScan.folderLocationTop" = "Folder On Top";
+"simpleScan.folderLocationBottom" = "Folder On Bottom";
+"simpleScan.fax" = "Fax";
+"simpleScan.hidePageDetails" = "Hide Page Details";
+"simpleScan.displayPageDetails" = "Display Page Details";
+"simpleScan.emailMyself" = "Email Myself";
+"simpleScan.pdfFile" = "PDF file";
+"simpleScan.image(JPG)" = "Image(JPG)";
+"simpleScan.originalSize" = "Original size";
+"simpleScan.medium" = "Medium";
+"simpleScan.small" = "Small";
+
+//pdf大小设置
+"simpleScan.letter" = "Letter(216mm*279mm)";
+"simpleScan.a4" = "A4(210mm*297mm)";
+"simpleScan.legal" = "Legal(216mm*356mm)";
+"simpleScan.a3" = "A3(297mm*420mm)";
+"simpleScan.a5" = "A5(149mm*210mm)";
+"simpleScan.businessCard" = "Business Card(85mm*55mm)";
+
+
+//创建文件夹的提示语
+"simpleScan.createdSuccessfully" = "Created successfully";
+"simpleScan.hasFolder" = "Document/folder already exists.Please choose a different name";
+"simpleScan.creationFailed" = "Creation failed";
+
+//图片处理
+"simpleScan.defaultProcess" = "Default Process";
+"simpleScan.original" = "Original";
+"simpleScan.blackwhite" = "B&W";
+"simpleScan.nostalgic" = "Nostalgic";
+"simpleScan.gaussianblur" = "G&B";
+"simpleScan.magiccolor" = "Magic Color";
+"simpleScan.colorreplace" = "Color Replace";
+"simpleScan.grayscale" = "Grayscale";
+"simpleScan.lastfilter" = "Last Filter";
+
+//设置
+"simpleScan.setting" = "Settings";
+"simpleScan.email" = "Email";
+//图片质量
+"simpleScan.pictureQuality" = "Picture quality";
+"simpleScan.pictureQualityHeight" = "Heigh";
+"simpleScan.pictureQualityMedium" = "Medium";
+"simpleScan.pictureQualityLow" = "Low";
+//图片大小
+"simpleScan.defaultPageSize" = "Default Page Size";
+//支持
+"simpleScan.privacyPolicy" = "Privacy Policy";
+"simpleScan.faq" = "FAQ";
+"simpleScan.sendFeedback" = "Send Feedback";
+"simpleScan.version" = "Version";
+
+//Doc Management部分的数据
+"simpleScan.documentName" = "Self-defined Document Name";

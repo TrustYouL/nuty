@@ -1,0 +1,167 @@
+//
+//  PrefixHeader.pch
+//  SimpleScan
+//
+//  Created by admin3 on 2020/6/1.
+//  Copyright © 2020 admin3. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <MessageUI/MFMailComposeViewController.h>
+#import <Foundation/Foundation.h>
+#import <CoreServices/CoreServices.h>
+#import <UserNotifications/UserNotifications.h>
+#import <CloudKit/CloudKit.h>
+#import <CoreTelephony/CTCellularData.h>
+
+#endif
+#include <sys/param.h>
+#include <sys/mount.h>
+#import "AppDelegate.h"
+#import "TOPHomeModel.h"
+#import "TOPBaseViewController.h"
+#import "TOPSettingEmailModel.h"
+#import "TOPSettingFormatModel.h"
+#import "TOPTagsModel.h"
+#import "TOPTagsListModel.h"
+#import "TOPTagsManagerModel.h"
+#import "TOPScameraBatchSave.h"
+#import "UIDevice+SSDevice.h"
+#import "UIViewController+JDExtension.h"
+#import "UIView+JXExtension.h"
+#import "TOPKeyChainStore.h"
+#import "TOPUUID.h"
+#import "TOPURLHeader.h"
+#import "UIColor+DarkMode.h"
+#import "TOPNetWorkManager.h"
+// 第三方
+//#import "UIResponder+Adapt.h"
+#import "UIResponder+font.h"
+#import "TZImagePickerController.h"
+#import <SVProgressHUD.h>
+#import <WebKit/WebKit.h>
+#import <Firebase.h>
+#import <FirebaseFunctions/FIRFunctions.h>
+//#import <Flurry.h>
+#import <GPUImage/GPUImage.h>
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <UIImage+MultiFormat.h>
+#import <SDImageCache.h>
+#import <AFNetworking/AFNetworking.h>
+#import <Masonry/Masonry.h>
+#import <FirebaseAnalytics/FIRAnalytics.h>
+//google
+#import <AppAuth/AppAuth.h>
+#import <GoogleSignIn/GoogleSignIn.h>
+#import <GTMAppAuth/GTMAppAuth.h>
+#import <GTMSessionFetcher/GTMSessionFetcherService.h>
+#import <GTMSessionFetcher/GTMSessionFetcherLogging.h>
+#import <GoogleAPIClientForREST/GTLRUtilities.h>
+#import <GTLRDrive.h>
+#import <GTLRService.h>
+#import <GoogleMobileAds/GoogleMobileAds.h>
+#import <AppTrackingTransparency/AppTrackingTransparency.h>
+//#import <AppLovinSDK/AppLovinSDK.h>
+// dropbox
+#import <ObjectiveDropboxOfficial/ObjectiveDropboxOfficial.h> //头文件
+#import <OneDriveSDK/OneDriveSDK.h>
+#import <BoxContentSDK/BOXContentSDK.h>
+// Realm
+#import <Realm/Realm.h>
+// 扩展类+工具类
+#import "TOPAppTools.h"
+#import "ColorMacro.h"
+#import "TOPCommonMacro.h"
+#import <MJExtension.h>
+#import "TOPImageTitleButton.h"
+#import "TOPWHCFileManager.h"
+#import "TOPDocumentHelper.h"
+#import "TOPDataModelHandler.h"
+#import "TOPScanerShare.h"
+#import "TOPEnumHeader.h"
+#import "TOPPictureProcessTool.h"
+#import "TOPScannerHttpRequest.h"
+#import "FHGoogleLoginManager.h"
+#import "SSZipArchive.h"
+#import "TOPCornerToast.h"
+#import "TOPProgressStripeView.h"
+#import "TOPDocPasswordView.h"
+#import "TOPLoadingCircleView.h"
+#import "TOPBaseChildViewController.h"
+#import "UIView+EqualMargin.h"
+#import "TOPTextField.h"
+#import "TOPPresentNavViewController.h"
+#import "TOPBaseNavViewController.h"
+#import "TOPBaseCollectionView.h"
+#import "TOPDateFormatter.h"
+#import "TOPDBService.h"
+#import "TOPDBQueryService.h"
+#import "TOPDBDataHandler.h"
+#import "TOPEditDBDataHandler.h"
+#import "TOPFileDataManager.h"
+#import "TOPFileTargetModel.h"
+#import "TOPValidateTools.h"
+#import "TOPUUID.h"
+#import "TOPSubscriptTools.h"
+#import "TOPSubscriptModel.h"
+#import "TOPDocNoticeModel.h"
+
+#import "TOPMainTabBarController.h"
+#import "TOPSCameraViewController.h"
+#import "TOPCamerBatchViewController.h"
+#import "TOPBatchViewController.h"
+#import "TOPSingleBatchViewController.h"
+#import "TOPEditPDFViewController.h"
+#import "TOPPDFSettingViewController.h"
+#import "TOPPDFSignatureViewController.h"
+#import "TOPImageWaterMarkController.h"
+#import "TOPCollageViewController.h"
+#import "TOPSignatureViewController.h"
+#import "TOPGraffitiViewController.h"
+#import "TOPGraffitiLabelViewController.h"
+#import "TOPPhotoCombineSignatureVC.h"
+#import "TOPPhotoShowOCRVC.h"
+#import "TOPPhotoShowTextTranslationVC.h"
+#import "TOPCameraShowViewController.h"
+#import "TOPPhotoReEditVC.h"
+#import "TZPhotoPickerController.h"
+#import "TZPhotoPreviewController.h"
+#import "TOPSCAlertController.h"
+#import "TOPAppSafeEnterViewController.h"
+#import "TOPAppSafeShowPasswordVC.h"
+#import "TOPTouchUnlockViewController.h"
+#import "TOPIDCardCollageViewController.h"
+#import "TOPDocumentRemindVC.h"
+#import "TOPSubscribeVC.h"
+#import "TOPLocalFlowLayout.h"
+#import "TOPFileTargetListViewController.h"
+#import "TopEditFolderAndDocNameVC.h"
+#import "TOPCellularView.h"
+/*
+#import "TOPHomeViewController.h"
+#import "TOPHomeChildViewController.h"
+#import "TOPNextFolderViewController.h"
+ */
+#import "TOPSearchFileViewController.h"
+#import "TOPHomeTopMergeVC.h"
+
+#import "TOPPermissionManager.h"
+#import "TOPUserInfoManager.h"
+#import "TOPTabBarModel.h"
+#import "TOPSubscriptionPayListViewController.h"
+#import "UIViewController+ConfigNavBar.h"
+
+#import "TOPBinHelper.h"
+#import "TOPBinQueryHandler.h"
+#import "TOPBinEditDataHandler.h"
+#import "TOPBinDataHandler.h"
+
+#import "TOPInAppDataType.h"
+#import "TOPDiscountThemeView.h"
+
+#endif /* PrefixHeader_pch */

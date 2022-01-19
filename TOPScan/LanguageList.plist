@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Arabic - ara</key>
+		<string>ara</string>
+	</dict>
+	<dict>
+		<key>Bulgarian - bul</key>
+		<string>bul</string>
+	</dict>
+	<dict>
+		<key>Chinese(Simplified) - chs</key>
+		<string>chs</string>
+	</dict>
+	<dict>
+		<key>Chinese(Traditional) - cht</key>
+		<string>cht</string>
+	</dict>
+	<dict>
+		<key>Croatian - hrv</key>
+		<string>hrv</string>
+	</dict>
+	<dict>
+		<key>Czech - cze</key>
+		<string>cze</string>
+	</dict>
+	<dict>
+		<key>Danish - dan</key>
+		<string>dan</string>
+	</dict>
+	<dict>
+		<key>Dutch - dut</key>
+		<string>dut</string>
+	</dict>
+	<dict>
+		<key>English - eng</key>
+		<string>eng</string>
+	</dict>
+	<dict>
+		<key>Finnish - fin</key>
+		<string>fin</string>
+	</dict>
+	<dict>
+		<key>French - fre</key>
+		<string>fre</string>
+	</dict>
+	<dict>
+		<key>German - ger</key>
+		<string>ger</string>
+	</dict>
+	<dict>
+		<key>Greek - gre</key>
+		<string>gre</string>
+	</dict>
+	<dict>
+		<key>Hungarian - hun</key>
+		<string>hun</string>
+	</dict>
+	<dict>
+		<key>Korean - kor</key>
+		<string>kor</string>
+	</dict>
+	<dict>
+		<key>Italian - ita</key>
+		<string>ita</string>
+	</dict>
+	<dict>
+		<key>Japanese - jpn</key>
+		<string>jpn</string>
+	</dict>
+	<dict>
+		<key>Polish - pol</key>
+		<string>pol</string>
+	</dict>
+	<dict>
+		<key>Portuguese - por</key>
+		<string>por</string>
+	</dict>
+	<dict>
+		<key>Russian - rus</key>
+		<string>rus</string>
+	</dict>
+	<dict>
+		<key>Slovenian - slv</key>
+		<string>slv</string>
+	</dict>
+	<dict>
+		<key>Spanish - spa</key>
+		<string>spa</string>
+	</dict>
+	<dict>
+		<key>Swedish - swe</key>
+		<string>swe</string>
+	</dict>
+	<dict>
+		<key>Turkish - tur</key>
+		<string>tur</string>
+	</dict>
+	<dict>
+		<key>Afrikaans - af</key>
+		<string>af</string>
+	</dict>
+	<dict>
+		<key>Albanian - sq</key>
+		<string>sq</string>
+	</dict>
+	<dict>
+		<key>Armenian - hy</key>
+		<string>hy</string>
+	</dict>
+	<dict>
+		<key>Belorussian - be</key>
+		<string>be</string>
+	</dict>
+	<dict>
+		<key>Bengali - bn</key>
+		<string>bn</string>
+	</dict>
+	<dict>
+		<key>Catalan - ca</key>
+		<string>ca</string>
+	</dict>
+	<dict>
+		<key>Estonian - et</key>
+		<string>et</string>
+	</dict>
+	<dict>
+		<key>Filipino - fil</key>
+		<string>fil</string>
+	</dict>
+	<dict>
+		<key>Gujarati - gu</key>
+		<string>gu</string>
+	</dict>
+	<dict>
+		<key>Hebrew - iw</key>
+		<string>iw</string>
+	</dict>
+	<dict>
+		<key>Hindi - hi</key>
+		<string>hi</string>
+	</dict>
+	<dict>
+		<key>Icelandic - is</key>
+		<string>is</string>
+	</dict>
+	<dict>
+		<key>Indonesian - id</key>
+		<string>id</string>
+	</dict>
+	<dict>
+		<key>Kannada - kn</key>
+		<string>kn</string>
+	</dict>
+	<dict>
+		<key>Khmer - km</key>
+		<string>km</string>
+	</dict>
+	<dict>
+		<key>Lao - lo</key>
+		<string>lo</string>
+	</dict>
+	<dict>
+		<key>Latvian - lv</key>
+		<string>lv</string>
+	</dict>
+	<dict>
+		<key>Lithuanian - lt</key>
+		<string>lt</string>
+	</dict>
+	<dict>
+		<key>Macedonian - mk</key>
+		<string>mk</string>
+	</dict>
+	<dict>
+		<key>Malay - ms</key>
+		<string>ms</string>
+	</dict>
+	<dict>
+		<key>Malayalam - ml</key>
+		<string>ml</string>
+	</dict>
+	<dict>
+		<key>Marathi - mr</key>
+		<string>mr</string>
+	</dict>
+	<dict>
+		<key>Nepali - ne</key>
+		<string>ne</string>
+	</dict>
+	<dict>
+		<key>Norwegian - no</key>
+		<string>no</string>
+	</dict>
+	<dict>
+		<key>Persian - fa</key>
+		<string>fa</string>
+	</dict>
+	<dict>
+		<key>Punjabi - pa</key>
+		<string>pa</string>
+	</dict>
+	<dict>
+		<key>Romanian - ro</key>
+		<string>ro</string>
+	</dict>
+	<dict>
+		<key>Serbian - sr</key>
+		<string>sr</string>
+	</dict>
+	<dict>
+		<key>Serbian - sr-Latn</key>
+		<string>sr-Latn</string>
+	</dict>
+	<dict>
+		<key>Slovak - sk</key>
+		<string>sk</string>
+	</dict>
+	<dict>
+		<key>Tamil - ta</key>
+		<string>ta</string>
+	</dict>
+	<dict>
+		<key>Telugu - te</key>
+		<string>te</string>
+	</dict>
+	<dict>
+		<key>Thai - th</key>
+		<string>th</string>
+	</dict>
+	<dict>
+		<key>Ukrainian - uk</key>
+		<string>uk</string>
+	</dict>
+	<dict>
+		<key>Vietnamese - vi</key>
+		<string>vi</string>
+	</dict>
+	<dict>
+		<key>Yiddish - yi</key>
+		<string>yi</string>
+	</dict>
+	<dict>
+		<key>Other languages</key>
+		<string>other</string>
+	</dict>
+</array>
+</plist>

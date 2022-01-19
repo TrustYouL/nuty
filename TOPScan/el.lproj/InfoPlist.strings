@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/26.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+//权限授权提示
+
+NSCameraUsageDescription = "Εκτελέστε την εφαρμογή για πρόσβαση στην κάμερα για σάρωση εγγράφων";
+  
+NSPhotoLibraryUsageDescription = "Εκτελέστε την εφαρμογή για πρόσβαση στη συλλογή για λήψη εγγράφων";
+  
+NSFaceIDUsageDescription = "Εκτελέστε την εφαρμογή για πρόσβαση στην εφαρμογή ξεκλειδώματος FaceID";
+  

@@ -1,0 +1,19 @@
+/* 
+  InfoPlist.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/26.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+//权限授权提示
+
+
+NSCameraUsageDescription = "Futtassa az alkalmazást, hogy hozzáférjen a kamerához dokumentumok szkenneléséhez";
+  
+NSPhotoLibraryUsageDescription = "Futtassa az alkalmazást a galéria eléréséhez dokumentumok beszerzéséhez";
+  
+NSFaceIDUsageDescription= "Futtassa az alkalmazást a FaceID feloldó alkalmazás eléréséhez";
+  
+  
+
+

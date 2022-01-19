@@ -1,0 +1,1212 @@
+
+
+"topscan_collage" = "کلاژ";
+     
+"topscan_doctag" = "تنظیم برچسب";
+     
+"topscan_picquality" = "کیفیت عکس";
+     
+"topscan_addto" = "اضافه کردن";
+     
+"topscan_share" = "اشتراک گذاری";
+     
+"topscan_email" = "پست الکترونیک";
+     
+"topscan_merge" = "ادغام";
+     
+"topscan_copy" = "کپی/انتقال";
+     
+"topscan_sortby" = "مرتب سازی بر اساس";
+     
+"topscan_more" = "بیشتر";
+     
+"topscan_savetogallery" = "ذخیره در گالری";
+     
+"topscan_upload" = "بارگذاری";
+     
+"topscan_uploadsucceeded" = "آپلود موفق بود";
+     
+"topscan_uploadfailed" = "آپلود ناموفق بود";
+     
+"topscan_delete" = "حذف";
+     
+"topscan_cancel" = "لغو";
+     
+"topscan_ok" = "بسیارخوب";
+     
+"topscan_about" = "در باره";
+     
+"topscan_error" = "خطا";
+     
+"topscan_skip" = "پرش";
+     
+"topscan_decryption" = "رمزگشایی";
+     
+"topscan_allselect" = "انتخاب همه";
+     
+"topscan_cancelallselect" = "لغو انتخاب همه";
+     
+"topscan_items" = "انتخاب شد";
+     
+"topscan_printing" = "چاپ";
+     
+"topscan_pdf" = "PDF";
+     
+"topscan_note" = "توجه";
+     
+"topscan_retake" = "بازپس گرفتن";
+     
+"topscan_ocr" = "تشخیص متن";
+     
+"topscan_watermarktitle" = "واتر مارک";
+     
+"topscan_addwatermark" = "واتر مارک اضافه کنید";
+     
+"topscan_editwatermark" = "واتر مارک را ویرایش کنید";
+     
+"topscan_clearwatermark" = "پاک کردن محتوا";
+     
+"topscan_removewatermark" = "علامت واتر مارک را بردارید";
+     
+"topscan_remind" = "هشدار";
+     
+"topscan_loading" = "بارگذاری...";
+     
+"topscan_deleteoption" = "آیا مطمئن هستید که می خواهید همه اسناد انتخاب شده را حذف کنید؟";
+     
+"topscan_deletecurrentpage" = "آیا مطمئن هستید که این صفحه را حذف می کنید؟";
+     
+"topscan_deletecurrentdoc" = "آیا مطمئن هستید که می خواهید سند فعلی را حذف کنید؟";
+     
+"topscan_bind" = "راه اندازی حساب ایمیل";
+     
+"topscan_savefail" = "خطای داده!";
+     
+"topscan_phonememoryalert" = "به دلیل مشکلات حافظه تلفن ، کلاژهای بزرگتر از 30 عکس ممکن است خراب شوند. می خواهید ادامه دهید؟";
+     
+"topscan_continueshare" = "به اشتراک گذاری ادامه دهید";
+     
+"topscan_savealert" = "آیا مطمئنید بدون ذخیره تغییرات می خواهید ترک کنید؟";
+     
+"topscan_deletesignatureimagealert" = "آیا مطمئن هستید که می خواهید تصویر امضا را حذف کنید؟";
+     
+"topscan_discard" = "لغو تغییرات";
+   
+   
+"topscan_movesuccess" = "انتقال سند(ها) با موفقیت!";
+     
+"topscan_copysuccess" = "سند(ها) را با موفقیت کپی کنید!";
+     
+"topscan_mergesuccess" = "ادغام سند(ها) با موفقیت!";
+     
+"topscan_clearphotos" = "عکس های گرفته شده ذخیره نمی شوند. آیا مطمئن هستید که عکس(ها) را کنار می گذارید؟";
+     
+"topscan_noalert" = "دوباره یادآوری نکن";
+     
+"topscan_editpdf" = "ویرایش PDF";
+     
+"topscan_addpage" = "اضافه کردن صفحه";
+     
+"topscan_collageimage" = "کلاژ تصویر...";
+     
+"topscan_collageproof" = "اثبات مالکیت";
+     
+"topscan_collagedriverlicense" = "گواهینامه رانندگی";
+     
+"topscan_collageidcard" = "کارت شناسایی";
+     
+   
+   
+"topscan_collagepassport" = "گذرنامه";
+     
+"topscan_collageaccountbook" = "دفترچه حساب";
+     
+"topscan_idcardanti" = "ضد جعل";
+     
+"topscan_importpic" = "گالری";
+     
+"topscan_userdefinedsize" = "اندازه فایل اشتراکی خود تعریف شده";
+     
+"topscan_filecompressiontitle" = "نسبت فشرده سازی را بین 0-99 وارد کنید";
+     
+"topscan_manualsorting" = "مرتب سازی دستی";
+     
+"topscan_firstontop" = "اول در بالا";
+     
+"topscan_lastontop" = "آخرین در بالا";
+     
+"topscan_siderename" = "تغییر نام دهید";
+     
+"topscan_creatdatadescend" = "تاریخ ایجاد (صعودی)";
+     
+"topscan_creatdataascend" = "تاریخ ایجاد (نزولی)";
+     
+"topscan_filenameatoz" = "نام فایل(A تا Z)";
+     
+"topscan_filenameztoa" = "نام فایل(Z تا A)";
+     
+"topscan_girdview2" = "نمای  گرید";
+     
+"topscan_girdview3" = "(3 ستون)";
+     
+"topscan_girdviewlist" = "نمای لیست";
+     
+"topscan_folderlocationtop" = "پوشه در بالا";
+     
+"topscan_folderlocationbottom" = "پوشه در پایین";
+     
+"topscan_fax" = "فکس";
+     
+"topscan_hidepagedetails" = "پنهان کردن جزئیات صفحه";
+     
+"topscan_displaypagedetails" = "نمایش جزئیات صفحه";
+     
+"topscan_batchedit" = "ویرایش دسته ای";
+     
+"topscan_pdffile" = "فایل پی دی اف";
+     
+"topscan_image_jpg" = "تصویر(JPG)";
+     
+"topscan_longimage_jpg" = "اشتراک گذاری به عنوان تصویر طولانی";
+     
+"topscan_txt" = "اشتراک txt";
+     
+"topscan_originalsize" = "اندازه اصلی";
+     
+"topscan_medium" = "متوسط";
+     
+"topscan_small" = "کوچک";
+     
+"topscan_superhigh" = "فوق العاده بالا";
+     
+"topscan_shareapp" = "این برنامه را به اشتراک بگذارید";
+     
+"topscan_backup" = "پشتیبان گیری و بازیابی";
+     
+"topscan_icouldbackup" = "پشتیبان گیری";
+     
+"topscan_importimage" = "وارد کردن تصویر";
+     
+"topscan_mergepdf" = "ادغام PDF";
+     
+"topscan_importfile" = "وارد کردن فایل";
+     
+"topscan_longpresstip" = "دریافت کردم!";
+     
+"topscan_search" = "جستجو کردن";
+     
+"topscan_homemoredocremind" = "یادآوری سند";
+     
+"topscan_settingtemplate" = "قالب";
+     
+"topscan_settingfamily" = "خانواده";
+     
+"topscan_shareappcontent" = "یک نرم افزار اسکنر عالی پیدا کردم ، لینک دانلود\n";
+     
+"topscan_mergefilemethodtitle" = "یک روش ادغام را انتخاب کنید";
+     
+"topscan_mergefilemethodkeepold" = "ادغام و نگهداری سند قدیمی";
+     
+"topscan_mergefilemethoddeleteold" = "ادغام و حذف سند قدیمی";
+     
+"topscan_cameradiscardtitle" = "صفحات را کنار بگذارید";
+     
+"topscan_cameradiscardmssage" = "همه صفحات کنار گذاشته شود؟";
+     
+"topscan_cameraaccidenttitle" = "اطلاعات";
+     
+"topscan_cameraaccidentmssage" = "برخی از تصاویر که آخرین بار گرفته اید پردازش نشده اند ، آیا می خواهید آنها را بارگیری کنید؟";
+     
+"topscan_cameralighton" = "روشن";
+     
+"topscan_cameralightoff" = "خاموش";
+     
+"topscan_cameralightauto" = "خودکار";
+     
+"topscan_cameralighttorch" = "چراغ قوه";
+     
+"topscan_cameratypetotext" = "به متن";
+     
+"topscan_cameratypesingle" = "تنها";
+     
+"topscan_cameratypebatch" = "دسته ای";
+     
+"topscan_cameratypeqrbarcode" = "QR و بارکد";
+     
+"topscan_camerapermissiontitle" = "لطفاً مجوزهای دوربین را باز کنید";
+     
+"topscan_camerapermissionguide" = "تنظیم-حریم-دوربین";
+     
+"topscan_albumpermissiontitle" = "لطفاً مجوزهای آلبوم را باز کنید";
+     
+"topscan_albumpermissionguide" = "تنظیمات - حریم خصوصی - عکسها - همه عکسها";
+     
+"topscan_safeentertips" = "لطفاً رمز 4 رقمی وارد کنید!";
+     
+   
+   
+"topscan_loginouttipsmessage" = "آیا مطمئن هستید که می خواهید خارج شوید؟";
+         
+"topscan_psderror" = "رمز عبور اشتباه. لطفا مجددا امتحان کنید!";
+         
+"topscan_pdferror" = "رمز عبور مطابقت نداشت ، دوباره امتحان کنید!";
+         
+"topscan_touchidnotenrolled" = "دستگاه برای فعال کردن شناسه لمسی تنظیم نشده است ، لطفاً به مرکز تنظیمات تلفن بروید تا عملکرد ID لمسی را فعال کنید.";
+         
+"topscan_faceidnotenrolled" = "دستگاه برای فعال کردن شناسه چهره تنظیم نشده است ، لطفاً به مرکز تنظیمات تلفن بروید تا عملکرد ID شناسه چهره را فعال کنید.";
+         
+"topscan_opensysset" = "مجوز برای تنظیم مرکز";
+         
+"topscan_againvafaceid" = "برای تأیید Face ID کلیک کنید";
+         
+"topscan_againvatouchid" = "برای تأیید Touch ID کلیک کنید";
+         
+"topscan_pdfpagenumberno" = "شماره صفحه ای وجود ندارد";
+         
+"topscan_pdfpagenumberlowerl" = "پایین چپ";
+         
+"topscan_pdfpagenumberbottomc" = "پایین وسط";
+         
+"topscan_pdfpagenumberlowerr" = "پایین سمت راست";
+         
+"topscan_pdfpagenumberupperl" = "بالا سمت چپ";
+         
+"topscan_pdfpagenumberheadc" = "بالا وسط";
+         
+"topscan_pdfpagenumberupperr" = "سمت راست بالا";
+         
+"topscan_colletionfunctiontitle" = "سند را انتخاب کنید";
+         
+"topscan_pdfdirectionauto" = "تنظیم خودکار با اندازه تصویر";
+         
+"topscan_pdfdirectionlandscape" = "افقی";
+         
+"topscan_pdfaddsignature" = "عمودی";
+         
+"topscan_changepdfsizealert" = "تغییرات فعلی امضای PDF را بازنشانی می کند. می خواهید ادامه دهید؟";
+         
+"topscan_emptypdfnamealert" = "نام PDF نمی تواند خالی باشد!";
+         
+"topscan_createdsuccessfully" = "با موفقیت ایجاد شد";
+         
+"topscan_hasfolder" = "سند/پوشه از قبل وجود دارد.لطفاً نام دیگری انتخاب کنید";
+         
+"topscan_creationfailed" = "ایجاد ناموفق بود";
+         
+"topscan_duplicationname" = "این نام قبلاً وجود داشته است.لطفاً به نام دیگری تغییر دهید.";
+         
+"topscan_folderexists" = "پوشه از قبل وجود دارد.";
+         
+"topscan_emailinvalidtips" = "لطفا آدرس ایمیل صحیح را وارد کنید";
+         
+"topscan_defaultprocess" = "روند پیش فرض";
+         
+"topscan_original" = "اصلی";
+         
+"topscan_blackwhite" = "B&W";
+         
+"topscan_blackwhite2" = "B&W2";
+         
+"topscan_blackwhite3" = "B&W3";
+         
+"topscan_nostalgic" = "نوستالژیک";
+         
+"topscan_magiccolor" = "رنگ جادویی";
+         
+"topscan_magiccolor2" = "رنگ جادویی2";
+         
+"topscan_grayscale" = "خاکستری";
+         
+"topscan_lastfilter" = "آخرین فیلتر";
+         
+"topscan_clear" = "پاک کردن";
+         
+"topscan_clearmarks" = "پاک کردن مارک ها";
+         
+"topscan_markstip" = "در صورت ادامه، مارک ها(امضا ، گرافیتی و غیره) پاک می شوند. حتماً مارک ها را پاک می کنید؟";
+         
+"topscan_setting" = "به تنظیمات";
+         
+"topscan_deletedrive" = "آیا مطمئن هستید که می خواهید فایل پشتیبان فعلی را حذف کنید؟";
+         
+"topscan_thereisnotstoragespaceon" = "فضای ذخیره سازی کافی در تلفن شما وجود ندارد. لطفا دوباره تلاش کنید!";
+         
+"topscan_dropboxsussess" = "نسخه پشتیبان تهیه شده به Dropbox منتقل شد.";
+         
+"topscan_boxsussess" = "نسخه پشتیبان تهیه شده به Box منتقل شد.";
+         
+"topscan_googledrivesussess" = "نسخه پشتیبان تهیه شده به Google Drive منتقل شد.";
+         
+"topscan_onedrivesussess" = "نسخه پشتیبان تهیه شده به Onedrive منتقل شد.";
+         
+"topscan_startbackupinbackground" = "بارگذاری فایلهای پشتیبان را در پس زمینه شروع کنید";
+         
+"topscan_backupinbackgroundaleat" = "بارگذاری فایل پشتیبان در پس زمینه انجام می شود ، بسته شدن برنامه ممکن است باعث خرابی نسخه پشتیبان شود.";
+         
+"topscan_myselfemailshow" = "به خودم ایمیل بزنم";
+         
+"topscan_toemailtitle" = "به";
+         
+"topscan_subjectplaceholder" = "موضوع";
+         
+"topscan_bodyplaceholder" = "بدنه ایمیل";
+         
+"topscan_emailsettingguide" = "می توانید ایمیل را در تنظیمات -> عمومی -> ایمیل تغییر دهید";
+         
+"topscan_picturequalityheight" = "ارتفاع";
+         
+"topscan_picturequalitylow" = "کم";
+         
+"topscan_defaultpagesize" = "اندازه پیش فرض صفحه";
+         
+"topscan_privacypolicy" = "سیاست حفظ حریم خصوصی";
+         
+"topscan_faq" = "سوالات متداول";
+         
+"topscan_sendfeedback" = "ارسال بازخورد";
+         
+"topscan_version" = "نسخه";
+         
+"topscan_rateapp" = "امتیاز بندی Simple Scanner";
+         
+"topscan_settinggeneral" = "عمومی";
+         
+"topscan_settingdocmanagement" = "مدیریت سند";
+         
+"topscan_settingourapp" = "برنامه ما";
+         
+"topscan_settingfaxname" = "فکس ساده";
+         
+"topscan_settingfaxreceivename" = "دریافت نمابر";
+         
+"topscan_settinguseragreement" = "توافق کاربر";
+         
+"topscan_settingusersuggestion" = "پیشنهاد و بازخورد";
+         
+"topscan_settingdocname" = "نام سند";
+         
+"topscan_settingdoctime" = "زمان سند";
+         
+"topscan_changepagesize" = "تغییر اندازه صفحه";
+         
+"topscan_documentname" = "نام سند خود تعریف شده";
+         
+"topscan_documentdate" = "زمان سند خود تعریف شده";
+         
+"topscan_autosavetogallery" = "ذخیره خودکار در آلبوم";
+         
+"topscan_saveoriginalimage" = "ذخیره تصویر اصلی";
+         
+"topscan_saveoriginalimagetip" = "این ویژگی عمدتا عملکرد برش را بازنشانی می کند که باعث افزایش فضای ذخیره سازی می شود";
+     
+   
+   
+   
+"topscan_savetogallerytip" = "اسکن ها را به طور خودکار در گالری ذخیره کنید";
+     
+"topscan_textblankprompt" = "تصویر را بشناسید و به متن تبدیل کنید";
+     
+"topscan_noteplaceholder" = "شروع به اضافه کردن یادداشت ها!";
+     
+"topscan_ocrtexttdit" = "ویرایش";
+     
+"topscan_ocrtextcopy" = "کپی";
+     
+"topscan_ocrtextexport" = "صادرات";
+     
+"topscan_ocrtexttranslation" = "ترجمه";
+     
+"topscan_ocrdefaultlanguage" = "انگلیسی";
+     
+"topscan_ocrautomatic" = "خودکار";
+     
+"topscan_ocrtextagain" = "دوباره OCR";
+     
+"topscan_ocrtypecloud" = "OCR ابری";
+     
+"topscan_ocrtypelocal" = "تشخیص سریع محلی";
+     
+"topscan_ocrtypelocaltip" = "فقط از حروف لاتین پشتیبانی می کند";
+     
+"topscan_ocrdownfail" = "بارگیری ناموفق است";
+     
+"topscan_ocrrecentanguages" = "زبانهای اخیر";
+     
+"topscan_ocralllanguages" = "تمام زبانها";
+     
+"topscan_ocrexportcopy" = "کپی به کلیپ بورد";
+     
+"topscan_ocrchooseendpoint" = "نزدیکترین نقطه پایان را انتخاب کنید";
+     
+"topscan_ocrgoogleendpointprompt" = "بهترین گره جهانی را به صورت خودکار انتخاب کنید ، نیازی به انتخاب نیست!";
+     
+"topscan_ocrthirdocrfailprompt" = "خطای پردازش یا اینکه متنی در دسترس نیست ، لطفاً دوباره امتحان کنید!";
+     
+"topscan_networkstate" = "WLAN خاموش است";
+     
+"topscan_networkstatecontent" = "می توانید WLAN را برای برنامه \'simpleScan\' در تنظیمات روشن کنید";
+     
+"topscan_ocragainallpage" = "تمام صفحات";
+     
+"topscan_ocragaincurrentpage" = "صفحه فعلی";
+     
+"topscan_ocrtextagainvctip" = "اگر روی «برگشت» ضربه بزنید ، ویرایش های انجام شده در هنگام تصحیح از بین می روند";
+     
+"topscan_ocrocrvctip" = "آیا مطمئن هستید که می خواهید از تشخیص متن فعلی خارج شوید؟";
+     
+"topscan_ocrocrgooglepoint" = "جهانی";
+     
+"topscan_ocrocragaintitle" = "برای ویرایش روی متن ضربه بزنید";
+     
+"topscan_ocrocrlanguagetitle" = "زبان";
+     
+"topscan_ocrocragainendpoint" = "نقطه پایان";
+     
+ 
+ 
+ 
+
+ 
+"topscan_ocrocragainrecognizecurrentpage" = "صفحه فعلی را بشناسید";
+   
+"topscan_ocrocragainrecognizeallpages" = "همه صفحات را بشناسید";
+   
+"topscan_translatesourcelanguage" = "زبان مبدا";
+   
+"topscan_translatetargetlanguage" = "زبان مقصد";
+   
+"topscan_deletelanguagepack" = "حذف مدل زبان";
+   
+"topscan_stoploadlanguagepack" = "مدل زبان بارگیری را متوقف کنید";
+   
+"topscan_scorecancel" = "الان نه";
+   
+"topscan_scorefivestar" = "5 ستاره";
+   
+"topscan_tagsungrouped" = "دسته بندی نشده";
+   
+"topscan_tagsalldocs" = "همه سندها";
+   
+"topscan_tagssearchplaceholder" = "برچسب ورودی";
+   
+"topscan_tagsalltagstitle" = "همه برچسب ها";
+   
+"topscan_tagsalreadyexists" = "برچسب از قبل وجود دارد!";
+   
+"topscan_tagstagdelete" = "برچسب های پاک شده قابل بازیابی نیستند. تأیید برای حذف؟";
+   
+"topscan_tagsdone" = "انجام شد";
+   
+"topscan_tagssettag" = "تنظیم برچسب ها";
+   
+"topscan_tagstagmanager" = "برچسب";
+   
+"topscan_tagsentermanager" = "برچسب ها";
+   
+"topscan_tagstagnotecontent" = "آیا می خواهید ویرایش ها را ذخیره کنید؟";
+   
+"topscan_tagstagmanageradd" = "افزودن برچسب جدید";
+   
+"topscan_tagstagmanageraddplac" = "لطفاً نام برچسب را وارد کنید";
+   
+"topscan_tagscreatelabs" = "برای ایجاد اتیکت ~";
+     
+"topscan_drivestartupdate" = "فایل پشتیبان بارگذاری می شود";
+       
+"topscan_driveuploading" = "بارگذاری...";
+       
+"topscan_buildingpdf" = "ساخت PDF";
+       
+"topscan_processingjpg" = "پردازش JPG";
+       
+"topscan_processing" = "در حال پردازش";
+       
+"topscan_processingdoc" = "در حال پردازش سند";
+       
+"topscan_processingzip" = "در حال پردازش ZIP";
+       
+"topscan_sortprocessing" = "مرتب سازی پردازش";
+       
+"topscan_removeing" = "حذف کردن";
+       
+"topscan_copyprocessing" = "کپی برداری";
+       
+"topscan_moveprocessing" = "در حال حرکت";
+       
+"topscan_mergeing" = "در حال ادغام شدن";
+       
+"topscan_initdata" = "در حال آماده سازی داده ها";
+       
+"topscan_docpasswordicon" = "قفل کردن";
+       
+"topscan_docpasswordunlockicon" = "باز کردن قفل";
+       
+"topscan_pdfpassword" = "رمز عبور صادرات PDF";
+       
+"topscan_pdfpasswordclear" = "رمزعبور PDF را پاک کنید";
+       
+"topscan_touchtitle" = "لطفاً Touch ID را تأیید کنید";
+       
+"topscan_clearapppsd" = "آیا می خواهید گزینه های رمز ورود برنامه را پاک کنید؟";
+       
+"topscan_cleardocpsd" = "آیا می خواهید گزینه های رمز ورود دسترسی به سند را پاک کنید؟";
+       
+"topscan_passwordhelptip" = "کمک خواستن ؟";
+       
+"topscan_passwordhelpsubject" = "بازخورد رمز ورود سند";
+       
+"topscan_passwordapphelpsubject" = "بازخورد رمز ورود برنامه";
+       
+"topscan_enterpwd" = "لطفا رمز عبور را وارد کنید";
+       
+"topscan_appsecurity" = "امنیت برنامه";
+       
+"topscan_apppwd" = "گذرواژه برنامه";
+       
+"topscan_setpasswordlaceholder" = "لطفا رمز عبور خود را وارد کنید";
+       
+"topscan_resetpasswordlaceholder" = "لطفا رمز خود را مجددا وارد کنید";
+       
+"topscan_setpasswordtitle" = "گذاشتن رمز عبور";
+       
+"topscan_setpdfpasswordtitle" = "رمز عبور PDF";
+       
+"topscan_resetpasswordtitle" = "رمز عبور را وارد کنید";
+       
+"topscan_writepasswordfail" = "رمزعبور ها مطابقت ندارند ، لطفاً دوباره امتحان کنید!";
+       
+"topscan_writetwopasswordfail" = " دو ورودی رمز عبور با هم مطابقت ندارند ، لطفا دوباره امتحان کنید!";
+       
+"topscan_backupbottomtitle" = "بازیابی را از پشتیبان گیری قبلی انجام دهید یا اسکن ها را از دستگاه دیگری منتقل کنید";
+       
+"topscan_docaccesspassword" = "رمز ورود Doc";
+       
+"topscan_turnoffpassword" = "رمز عبور را خاموش کنید";
+       
+"topscan_changepassword" = "رمز عبور را تغییر دهید";
+       
+"topscan_storagespacenotenough" = "فضای ذخیره سازی تلفن کافی نیست";
+       
+"topscan_storagespacetitle" = "فضای ذخیره سازی تلفن کمتر از 200M است ، برای جلوگیری از نوشتن فایل ها روی همدیگر، لطفاً فضای خالی ایجاد کنید";
+       
+"topscan_appheadingtitle" = "رمز عبور برنامه را برای محافظت از امنیت سند تنظیم کنید";
+       
+"topscan_docheadingtitle" = "رمز عبور را برای مشاهده اسناد محافظت شده با رمز عبور، تنظیم کنید";
+       
+"topscan_pdfheadingtitle" = "برای محافظت حریم خصوصی فایل، رمز عبور خود را برای به اشتراک گذاری و صادر کردن فایل های PDF تنظیم کنید";
+       
+"topscan_batchall" = "پر";
+       
+"topscan_batchauto" = "خودکار";
+       
+"topscan_batchfit" = "مناسب";
+       
+"topscan_left" = "چپ";
+       
+"topscan_right" = "راست";
+       
+"topscan_crop" = "برش";
+       
+"topscan_filter" = "فیلتر";
+       
+"topscan_prompt" = "سریع";
+       
+"topscan_promptcontent" = "تغییرات هنوز ذخیره نشده است اکنون ذخیره شود؟";
+       
+"topscan_no" = "خیر";
+       
+"topscan_yes" = "بله";
+       
+"topscan_batchsave" = "ذخیره";
+       
+"topscan_scansignature" = "امضای خود را اسکن کنید";
+       
+"topscan_importsignature" = "وارد کردن از آلبوم";
+       
+"topscan_waittip" = "پردازش فایل ، لطفا صبر کنید...";
+       
+"topscan_nooriginalimgdefault" = "برخی از فایل ها قابل بازنشانی و برش نیستند و فایل اصلی یافت نمی شود";
+       
+"topscan_nooriginalimgfilter" = "برخی از فایل ها مجدداً فیلتر نمی شوند ، زیرا فایل اصلی یافت نمی شود";
+       
+"topscan_nooriginalimgmore" = "و بیشتر";
+       
+"topscan_nooriginalimgsetting" = "می توانید گزینه تنظیمات را باز کنید تا گزینه اصلی تصویر ذخیره شود";
+       
+"topscan_alldatanooriginalimg" = "بازنشانی محصول امکان پذیر نیست ، فایل اصلی وجود ندارد!";
+       
+"topscan_alldatanooriginalimgfilter" = "پردازش فیلتر قابل تنظیم مجدد نیست ، فایل اصلی وجود ندارد!";
+       
+"topscan_cropautomatic" = "برش خودکار تصویر";
+       
+"topscan_cropautomatictip" = "برش خودکار تصاویر در حالت اسکن دسته ای";
+       
+"topscan_cropautomaticcameraaip" = "برش خودکار";
+       
+"topscan_camerafilterremind" = "می توانید فیلتر پیش فرض حالت دسته ای را تغییر دهید";
+       
+"topscan_cameracropremindfirst" = "می توانید تغییر دهید";
+       
+"topscan_cameracropremindsecond" = "حالت دسته ای بریده شده است";
+       
+"topscan_flitertypeapplylocation" = "اعمال به تمام صفحات";
+       
+"topscan_colletionpdftolongpictitle" = "صادرات PDF به تصویر بلند";
+       
+"topscan_colletionpdftopictitle" = "PDF به تصویر";
+       
+"topscan_colletionpdfpasswordtitle" = "رمز عبور PDF";
+       
+"topscan_colletionpdfextracttitle" = "استخراج PDF";
+       
+"topscan_colletiondocpasswordtitle" = "رمز ورود سند";
+       
+"topscan_colletionscanidcardtitle" = "شناسه اسکن کارت";
+       
+"topscan_colletionpdfaddwatermarktitle" = "اضافه کردن واترمارک PDF";
+       
+"topscan_colletionpdfsignaturetitle" = "امضای PDF";
+       
+"topscan_colletionpdfpageadjustment" = "تنظیم صفحه PDF";
+       
+"topscan_colletionimagetopdf" = "تصویر به PDF";
+       
+"topscan_colletionbottomtitle" = "استخراج صفحه";
+       
+"topscan_colletionmydevice" = "دستگاه من";
+       
+"topscan_colletionpdfextractbottomtitle" = "استخراج سند جدید ایجاد می کند";
+       
+"topscan_docreminedtitle" = "مجوزهای اعلان را فعال کنید";
+       
+"topscan_docreminedcontent" = "شما مجوزهای اعلان را فعال نمی کنید ، بنابراین نمی توانید از هشدارهای سند استفاده کنید ، تا زمانی که هشدارها فعال نشوند.";
+       
+"topscan_docreminetime" = "زمان یادآوری سند باید بیشتر از زمان فعلی سیستم باشد!";
+       
+"topscan_questiontype" = "لطفاً یک نوع را انتخاب کنید";
+       
+"topscan_questiondescrible" = "لطفاً سوال یا پیشنهاد را وارد کنید";
+       
+"topscan_suggestionremind" = "برای ایجاد عکس از آیفون 8 و بالاتر ، همزمان دکمه Sleep/Wake و دکمه Home را فشار دهید";
+       
+"topscan_suggestionremindx" = "برای ایجاد عکس از آیفون X و بالاتر ، همزمان دکمه افزایش صدا و قفل را فشار دهید.";
+       
+"topscan_questiontypecrash" = "از کار افتادن/تأخیر";
+     
+"topscan_questiontypetaking" = "گرفتن عکس/وارد کردن از آلبوم";
+     
+"topscan_questiontypephoto" = "ویرایش عکس";
+     
+"topscan_questiontypeocr" = "OCR";
+     
+"topscan_questiontypefax" = "فکس";
+     
+"topscan_questiontypepoint" = "نقاط C";
+     
+"topscan_questiontypeshare" = "اشتراک گذاری/ایمیل/چاپ";
+     
+"topscan_questiontypeinterface" = "رابط";
+     
+"topscan_questiontypefeatures" = "ویژگی های بیشتر";
+     
+"topscan_questiontypeother" = "سوالات دیگر";
+     
+"topscan_questiontypetoast" = "آیا مشکلی در استفاده وجود دارد؟ یا می توانید درباره پیشنهادات و نیازهای عملکرد برنامه بازخورد دهید و ما خوشحال می شویم که به نظرات شما گوش فرا دهیم.";
+     
+"topscan_questionsetting" = "تنظیمات";
+     
+"topscan_questioncontinue" = "ادامه دهید";
+     
+"topscan_questioninvalidemail" = "آدرس ایمیل نامعتبر است";
+     
+"topscan_questiontoasttitle" = "افزودن عکسهای صفحه (اختیاری)";
+     
+"topscan_submittedsuccessfully" = "با موفقیت ثبت شد !";
+     
+"topscan_suggestioncontenttitle" = "جزئیات";
+     
+"topscan_suggestionsubmit" = "ارسال";
+     
+"topscan_remindtitle" = "عنوان";
+     
+"topscan_remindreturn" = "برگشت";
+     
+"topscan_guidetitleprofessional" = "حرفه ای";
+     
+"topscan_guidetitlecollage" = "حالت کلاژ شناسه";
+     
+"topscan_guidetitlebackup" = "پشتیبان گیری و بازیابی";
+     
+"topscan_guideprofessionaldes" = "به طور خودکار اسناد را شناسایی کنید ، پردازش سریع محصول را انجام دهید ، اسناد را بهبود دهید.";
+     
+"topscan_guidecollagedes" = "تصاویر کارت شناسایی را در یک سند جمع کنید ، چندین گزینه الگو و اندازه سفارشی ارائه دهید.";
+     
+"topscan_guideimagedes" = "به طور خودکار متن را از طریق فناوری AI cloud شناسایی کنید ، متن خود را ویرایش ، کپی ، اشتراک گذاری کنید ، صادر کنید.";
+     
+"topscan_guidebackupdes" = "از اسناد خود در ذخیره سازی ابری یا حافظه محلی نسخه پشتیبان تهیه کنید و اسناد پشتیبان را در هر زمان بازیابی کنید.";
+     
+"topscan_showstatustitle" = "در حال بارگیری داده ها";
+     
+"topscan_placeholderpassword" = "کلمه عبور";
+     
+"topscan_manualsorttitle" = "برای مرتب سازی دستی فشار طولانی دهید";
+     
+"topscan_docgraffiti" = "گرافیتی\n";
+     
+"topscan_docaddtext" = "متن را اضافه کنید";
+     
+"topscan_copypage" = "کپی کردن صفحه فعلی";
+     
+"topscan_copyallpages" = "همه صفحات را کپی کنید";
+     
+"topscan_showprocess" = "در حال پردازش...";
+     
+"topscan_importimgerror" = "فایل وجود ندارد ، یا خطای داده!";
+     
+"topscan_somefileloss" = "خطایی در خواندن برخی از فایل ها وجود دارد!";
+      
+    
+    
+    
+    
+    
+"topscan_cardprompt" = "یک ویژگی ضروری! شما می توانید در عرض 1 دقیقه یک کپی الکترونیکی دو طرفه از کارت شناسایی تهیه کنید. 100 % r برای چاپ آسان است.";
+      
+"topscan_paperexample" = "نمونه کاغذ A4";
+      
+"topscan_restorebackup" = "همین حالا نسخه پشتیبان تهیه کن";
+      
+"topscan_restorelastbackup" = "آخرین تاریخ تهیه نسخه پشتیبان";
+      
+"topscan_restoremerge" = "تمام اسناد فعلی را بازیابی و ادغام کنید";
+      
+"topscan_restoredelete" = "تمام اسناد فعلی را بازیابی و حذف کنید";
+      
+"topscan_restoretitle" = "بازگرداندن";
+      
+"topscan_restorenotlogin" = "وضعیت ورود به سیستم حساب ابری شناسایی نشده است.";
+      
+"topscan_restorenotrepeat" = "در حال بارگذاری فایل پشتیبان ، لطفا صبر کنید...";
+      
+"topscan_restorebackwifi" = "پشتیبان گیری فقط از طریق Wi-Fi";
+      
+"topscan_restorenodocument" = "در حال حاضر هیچ سندی در دسترس نیست ، لطفاً ابتدا سندی را اضافه کنید.";
+      
+"topscan_restorequery" = "پرس و جو...";
+      
+"topscan_restorequeryfailed" = "پرسش انجام نشد یا فایل پشتیبان یافت نشد.";
+      
+"topscan_restoreprocessfiles" = "پردازش فایل ها";
+      
+"topscan_restorebackupfailed" = "پشتیبان گیری انجام نشد!";
+      
+"topscan_restoreuploadingfile" = "در حال بارگذاری فایل، لطفا صبر کنید...";
+      
+"topscan_saferepasscode" = "رمز عبور را دوباره وارد کنید";
+      
+"topscan_saferepassword" = "لطفاً رمز ورود مجدد را وارد کنید";
+      
+"topscan_applicationsecrulty" = "امنیت برنامه";
+      
+"topscan_verifypasscode" = "رمز عبور را تأیید کنید";
+      
+"topscan_setpasscode" = "رمز عبور را تنظیم کنید";
+      
+"topscan_enternewpassword" = "گذرواژه جدید وارد کنید";
+      
+"topscan_filetype" = "نوع فایل";
+      
+"topscan_fileformat" = "فرمت فایل";
+      
+"topscan_sharepdfformat" = "به اشتراک گذاشتن فایل ها در قالب .PDF";
+      
+"topscan_sharezipformat" = "به اشتراک گذاشتن فایل ها در قالب .ZIP";
+      
+"topscan_sharejpgformat" = "به اشتراک گذاشتن فایل ها در قالب .JPG";
+      
+"topscan_newfolderprompt" = "پوشه جدید";
+      
+"topscan_currentdocument" = "سند فعلی";
+      
+"topscan_recognizetitle" = "تشخیص";
+      
+"topscan_filedeleteprompt" = "فایل پشتیبان با موفقیت حذف شد!";
+      
+"topscan_filedownbackup" = "بارگیری فایل پشتیبان...";
+      
+"topscan_filestartbackup" = "بارگیری فایل پشتیبان شروع می شود";
+      
+"topscan_filerestoresuccessed" = "بازیابی فایل پشتیبان با موفقیت انجام شد.";
+      
+"topscan_uploadsingin" = "ورود";
+      
+"topscan_singoutlowercase" = "خروج از سیستم";
+      
+"topscan_processingerror" = "خطای پردازش فایل!";
+      
+"topscan_barcodeopenurl" = "URL را باز کنید";
+      
+"topscan_barcoderesult" = "نتیجه شناخت";
+      
+"topscan_downloadlanguage" = "بارگیری زبان...";
+      
+"topscan_graffitibrush" = "قلم مو";
+      
+"topscan_graffitiopacity" = "تیرگی";
+      
+"topscan_graffitieraser" = "پاک کن";
+      
+"topscan_graffiticolor" = "رنگ";
+      
+"topscan_graffitiundo" = "واگرد";
+      
+"topscan_graffitiredo" = "دوباره انجام دهید";
+      
+"topscan_nosignture" = "هیچ امضایی نیست!";
+      
+"topscan_graffititext" = "پیامک";
+          
+"topscan_graffitireplacefile" = "فایل فعلی را جایگزین کنید";
+          
+"topscan_graffiticreatefile" = "فایل جدید ایجاد کنید";
+          
+"topscan_graffiticopyto" = "کپی در";
+          
+"topscan_graffitimoveto" = "حرکت به";
+          
+"topscan_graffititextrecognition" = "شناخت متن ";
+          
+"topscan_ocraccount" = "مدیریت حساب OCR";
+          
+"topscan_loginsuccessful" = "با موفقیت وارد شوید";
+          
+"topscan_appleloginsuccessful" = "ورود به سیستم حساب Apple با موفقیت انجام شد!";
+          
+"topscan_googleloginsuccessful" = "ورود به سیستم حساب Google با موفقیت انجام شد!";
+          
+"topscan_loginregister" = "ورود یا ثبت نام";
+          
+"topscan_resetpassword" = "بازنشانی رمز عبور";
+          
+"topscan_copysuccessful" = "کپی با موفقیت";
+          
+"topscan_copyfailed" = "کپی انجام نشد";
+          
+"topscan_loginicloudtips" = "به منظور جلوگیری از، از دست دادن مانده حساب شما ، از حساب استفاده می کنیم تا موجودی شما را متصل کنیم. همزمان ، می توانید از مانده حساب بین چندین دستگاه نیز استفاده کنید. لطفا وارد شوید یا حساب خود را ثبت کنید.";
+          
+"topscan_loginnow" = "اکنون وارد شوید";
+          
+"topscan_emailemptytips" = "ایمیل نمی تواند خالی باشد";
+          
+"topscan_psdemptytips" = "رمز ورود نمی تواند خالی باشد";
+      
+"topscan_codeemptytips" = "کد تأیید نمی تواند خالی باشد";
+      
+"topscan_tips" = "نکات";
+      
+"topscan_subscriptsuccessfully" = "از اینکه در پرمیوم مشترک شدید متشکریم! ";
+      
+"topscan_autorenewable" = "قابل تمدید خودکار ، هر زمان که بخواهید لغو کنید.";
+      
+"topscan_nofreetrial" = "بدون آزمایش رایگان";
+      
+"topscan_details" = "جزئیات";
+      
+"topscan_restorepurchase" = "بازگرداندن بندهای خریداری شده";
+      
+"topscan_freetrial" = "امتحان رایگان";
+      
+"topscan_unlimitedfolders" = "پوشه های نامحدود";
+      
+"topscan_unlimitedfoldersintroduce" = "ایجاد نامحدود پوشه ها و زیر پوشه ها.";
+      
+"topscan_noads" = "بدون تبلیغات";
+      
+"topscan_noadsintroduce" = "تبلیغات را از Simple Scanner حذف کنید.";
+      
+"topscan_pdffileencryption" = "رمزگذاری فایل PDF";
+      
+"topscan_pdffileencryptionintroduce" = "برای محافظت از حریم خصوصی خود می توانید از رمزگذاری  فایل های اسکن شده خود (رسیدها یا فایل ‏های محرمانه) استفاده کنید.";
+      
+"topscan_ocrtypecloudintroduce" = "برای شناسایی و استخراج متن ، بیش از 1000 صفحه در هر ماه ، از فناوری AI cloud استفاده کنید.";
+      
+"topscan_cloudservice" = "سرویس ابری";
+      
+"topscan_cloudserviceintroduce" = "برای جلوگیری از گم شدن اسناد ، اسناد ، PDF ، jpg ، انواع فایل های خود را به صورت خودکار در Cloud Drive یا iCloud بارگذاری کنید.";
+      
+"topscan_functionofcollage" = "عملکرد کلاژ";
+      
+"topscan_functionofcollageintroduce" = "برای ترکیب چندین صفحه در یک صفحه از عملکرد کلاژ استفاده کنید.";
+      
+"topscan_unlimitedscans" = "اسکن نامحدود";
+      
+"topscan_unlimitedscansintroduce" = "محدودیتی در تعداد اسناد اسکن شده وجود ندارد.";
+      
+"topscan_clearwaternark" = "واترمارک را پاک کنید";
+      
+"topscan_clearwaternarkintroduce" = "علامت چاپ PDF را بردارید و PDF را تمیز و مرتب نگه دارید.";
+      
+"topscan_writesignature" = "امضا";
+      
+"topscan_writesignatureintroduce" = "امضای خود را که روی کاغذ نوشته شده اسکن کنید تا امضای الکترونیکی درست شبیه به اصل تولید کنید.";
+      
+"topscan_highqualitydoc" = "سندی با کیفیت بالا";
+      
+"topscan_highqualitydocintroduce" = "چندین گزینه انتخاب کیفیت تصویر ، گزینه های با کیفیت بالاتر را انتخاب کنید ، PDF سند را واضح تر کنید.";
+      
+"topscan_emailmyself" = "به خودم ایمیل بزنم";
+      
+"topscan_emailmyselfintroduce" = "سریعتر و راحت تر اسناد را از طریق ایمیل برای خود ارسال کنید.";
+      
+"topscan_exportpdfdoc" = "صادر کردن سند PDF";
+      
+"topscan_exportpdfdocintroduce" = "به سرعت PDF را به برنامه های دیگر صادر کنید یا به صورت محلی در تلفن خود ذخیره کنید.";
+      
+"topscan_backupintroduce" = "پشتیبان گیری و بازیابی چند دستگاه برای همگام سازی اسناد.";
+      
+"topscan_graffiti" = "گرافیتی\n";
+      
+"topscan_graffitiintroduce" = "تغییر اسناد ، گرافیتی ، افزودن متن ، امضاها و غیره";
+      
+"topscan_applock" = "قفل برنامه";
+      
+"topscan_applockintroduce" = "برای باز کردن قفل SimpleScanner در یک مرحله Face ID یا Touch ID را فعال کنید.";
+      
+"topscan_imagetotext" = "تصویر به متن";
+      
+"topscan_imagetotextintroduce" = "از ویژگی OCR برای شناسایی متون موجود در تصویر برای جستجوی بعدی یا به اشتراک گذاری استفاده کنید.";
+      
+"topscan_propdfeditor" = "ویرایشگر PDF";
+      
+"topscan_propdfeditorintroduce" = "صفحات PDF را ویرایش کنید ، امضاها و گرافیتی ها ، گذرواژه های PDF را اضافه کنید ، واترمارک ها را حذف کنید و غیره.";
+      
+"topscan_gotosetting" = "به تنظیمات بروید";
+      
+"topscan_ocrnummorethan" = "از Cloud OCR برای شناسایی 1000 صفحه در ماه در چرخه محاسبه فعلی استفاده شده است. اگر به شناسایی ادامه دادید ، باید صفحات OCR را خریداری کنید ، یا لطفاً منتظر چرخه محاسبه بعدی باشید تا 1000 صفحه OCR به طور خودکار اضافه شود.";
+      
+"topscan_upgradeaccount" = "20+ ویژگی پیشرفته تر";
+      
+"topscan_upgradepremium" = "ارتقا دادن به سطح حرفه ای";
+      
+"topscan_premium" = "پرمیوم";
+      
+"topscan_nopurrestore" = "خریدی برای بازیابی وجود ندارد!";
+      
+"topscan_restorefailed" = "خرید انجام نشد.";
+      
+"topscan_restoresuccessfully" = "خرید را با موفقیت بازیابی کنید.";
+      
+"topscan_bindcontent" = "حساب ایمیل خود را تنظیم نکرده اید ، لطفاً به \"Setting-Email\"  تلفن خود بروید ، برای ایجاد حساب ایمیل خود روی \"Add Account\" ضربه بزنید";
+      
+"topscan_cameratypeidcardintroduce" = "با حفظ اندازه اصلی کارت ، هر دو طرف کارت شناسایی را در یک دقیقه اسکن و کپی کنید. 100 % p آماده پرینت است. ";
+      
+    
+"topscan_paymenttext1" = "در هنگام خرید ، هزینه پرداخت به حساب iTunes شارژ می شود.";
+
+"topscan_forgotpsd" = "رمز عبور خود را فراموش کرده اید؟";
+      
+"topscan_signup" = "ثبت نام";
+      
+"topscan_noaccount" = "هیچ حسابی ندارید؟";
+      
+"topscan_login" = "وارد شدن";
+      
+"topscan_quicklogin" = "ورود سریع";
+      
+"topscan_paynow" = "الان پرداخت کن";
+      
+"topscan_send" = "ارسال";
+      
+"topscan_signinsuccess" = "با موفقیت وارد شدید!";
+      
+"topscan_resend" = "ارسال مجدد";
+      
+"topscan_sendcodesuccess" = "ارسال موفقیت آمیز";
+      
+"topscan_entervercode" = "کد تایید را وارد کنید";
+      
+"topscan_addorginalfile" = "فایل پشتیبان اصلی را اضافه کنید";
+      
+"topscan_turnonpassword" = "رمزعبور را روشن کنید";
+"topscan_rotate" = "بچرخانید";
+"topscan_tipask" = "هرگز نپرسید";
+    
+"topscan_croptipmsg" = "این عمل ممکن است همه نتایج OCR ، یادداشت ، واترمارک، امضا ، گرافیتی ، متن را پاک کند. ادامه دهید؟";
+    
+"topscan_scoretitle" = "اگر از اسکنر ساده خوشتان می آید ، لطفاً برای حمایت از ما در App Store به ما امتیاز دهید؟";
+    
+"topscan_resetpsd" = "ما فقط به شناسه ایمیل ثبت شده شما نیاز داریم که دستورالعمل های بازنشانی گذرواژه را برای شما ارسال کرده است.";
+    
+"topscan_compressionration" = "نسبت فشرده سازی";
+    
+"topscan_size" = "اندازه";
+    
+"topscan_compression" = "فشرده سازی";
+    
+"topscan_pdfpagenumber" = "شماره صفحه";
+    
+"topscan_pdfpagedirection" = "جهت صفحه";
+    
+"topscan_image" = "تصویر";
+    
+  
+  
+"topscan_subscriptfailedtips" = "تأیید اشتراک انجام نشد ، لطفاً به صفحه اصلی-> تنظیمات-> بازیابی خرید بروید!";
+    
+"topscan_cropautomaticcameraaip" = "برش خودکار";
+    
+"topscan_nextstep" = "گام بعدی";
+    
+"topscan_addsignature" = "امضا را اضافه کنید";
+   
+
+  
+"topscan_subsctiptplan" = "طرح اشتراک شما";
+    
+"topscan_renewedday" = "روز تجدید شده";
+    
+"topscan_automaticrenewal" = "تمدید خودکار";
+    
+"topscan_moredetails" = "جزئیات بیشتر";
+    
+"topscan_drivedownloadfiles" = "واردات از طریق فضای ابری";
+    
+"topscan_download" = "دانلود";
+    
+"topscan_downloadsuccessfilly" = "با موفقیت دانلود شد";
+    
+"topscan_downloadfailed" = "دانلود نشد";
+    
+"topscan_uselimitedversion" = "از نسخه محدود استفاده کنید";
+    
+"topscan_termsofserice" = "شرایط استفاده از خدمات";
+    
+"topscan_unlimitedfeatures" = "ویژگی های نامحدود";
+    
+"topscan_subscriptiongives" = "این اشتراک به شما امکان دسترسی نامحدود به امتیازات ما را می دهد. اگر قبل از پایان دوره آزمایشی لغو نکنید ، تا زمانی که لغو نکنید به طور خودکار از حساب شما کسر می شود.";
+    
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+   
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

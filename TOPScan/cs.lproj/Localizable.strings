@@ -1,0 +1,1213 @@
+
+
+"topscan_collage" = "Koláž";
+   
+"topscan_doctag" = "Nastavit značku";
+   
+"topscan_picquality" = "Kvalita obrázku";
+   
+"topscan_addto" = "Přidat";
+   
+"topscan_share" = "Sdílet";
+   
+"topscan_email" = "E-mailem";
+   
+"topscan_merge" = "Spojit";
+   
+"topscan_copy" = "Kopírovat/Přesunout";
+   
+"topscan_sortby" = "Seřadit podle";
+   
+"topscan_more" = "Další";
+   
+"topscan_savetogallery" = "Uložit do galerie";
+   
+"topscan_upload" = "Nahrát";
+   
+"topscan_uploadsucceeded" = "UpLoad byl úspěšný";
+   
+"topscan_uploadfailed" = "Nahrávání selhalo";
+   
+"topscan_delete" = "Vymazat";
+   
+"topscan_cancel" = "Zrušení";
+   
+"topscan_ok" = "OK";
+   
+"topscan_about" = "o";
+   
+"topscan_error" = "Chyba!";
+   
+"topscan_skip" = "Přeskočit";
+   
+"topscan_decryption" = "Dešifrování";
+   
+"topscan_allselect" = "Vybrat vše";
+   
+"topscan_cancelallselect" = "Zrušit výběr všeho";
+   
+"topscan_items" = "Vybrané";
+   
+"topscan_printing" = "Tisk";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Poznámka";
+   
+"topscan_retake" = "Znovu pořídit";
+   
+"topscan_ocr" = "Rozpoznat text";
+   
+"topscan_watermarktitle" = "Vodoznak";
+   
+"topscan_addwatermark" = "Přidat vodoznak";
+   
+"topscan_editwatermark" = "Upravit vodoznak";
+   
+"topscan_clearwatermark" = "Vymazat obsah";
+   
+"topscan_removewatermark" = "Odstranit vodoznak";
+   
+"topscan_remind" = "Varování";
+   
+"topscan_loading" = "načítání...";
+   
+"topscan_deleteoption" = "Opravdu chcete vymazat všechny vybrané dokumenty?";
+   
+"topscan_deletecurrentpage" = "Opravdu chcete tuto stránku vymazat?";
+   
+"topscan_deletecurrentdoc" = "Opravdu chcete vymazat aktuální jazyk?";
+   
+"topscan_bind" = "Nastavení e-mailového účtu";
+   
+"topscan_savefail" = "Chyba dat!";
+   
+"topscan_phonememoryalert" = "Kvůli problémům s pamětí telefonu mohou koláže větší než 30 obrázků způsobit selhání. Chceš pokračovat?";
+   
+"topscan_continueshare" = "Pokračujte ve sdílení";
+   
+"topscan_savealert" = "Opravdu odejdete bez uložení změn?";
+   
+"topscan_deletesignatureimagealert" = "Opravdu chcete odstranit podpisový obrázek?";
+   
+"topscan_discard" = "Zrušit změny";
+ 
+ 
+"topscan_movesuccess" = "Přesun dokumentů úspěšné!";
+   
+"topscan_copysuccess" = "Zkopírujte dokumenty úspěšně!";
+   
+"topscan_mergesuccess" = "Sloučit dokumenty úspěšně!";
+   
+"topscan_clearphotos" = "Právě pořízené fotografie nebudou uloženy. Opravdu fotku(fotografie) zahodíte?";
+   
+"topscan_noalert" = "Nepřipomínat to znovu";
+   
+"topscan_editpdf" = "Upravit PDF";
+   
+"topscan_addpage" = "Přidat stránku";
+   
+"topscan_collageimage" = "Koláž obrázek...";
+   
+"topscan_collageproof" = "Doklad o vlastnictví";
+   
+"topscan_collagedriverlicense" = "Řidičský průkaz";
+   
+"topscan_collageidcard" = "Průkaz totožnosti";
+   
+ 
+ 
+"topscan_collagepassport" = "Cestovní pas";
+   
+"topscan_collageaccountbook" = "Účetní kniha";
+   
+"topscan_idcardanti" = "Proti padělání";
+   
+"topscan_importpic" = "Galerie";
+   
+"topscan_userdefinedsize" = "Vlastní definovaná velikost sdíleného souboru";
+   
+"topscan_filecompressiontitle" = " Zadejte kompresní poměr 0-99";
+   
+"topscan_manualsorting" = "Ruční seřazení";
+   
+"topscan_firstontop" = "První nahoře";
+   
+"topscan_lastontop" = "Poslední nahoře";
+   
+"topscan_siderename" = "Přejmenovat";
+   
+"topscan_creatdatadescend" = "Datum vytvoření (vzestupně)";
+   
+"topscan_creatdataascend" = "Datum vytvoření (sestupně)";
+   
+"topscan_filenameatoz" = "Název souboru(od A do Z)";
+   
+"topscan_filenameztoa" = "Název souboru(Z až A)";
+   
+"topscan_girdview2" = "Zobrazení v mřížce";
+   
+"topscan_girdview3" = "(3 sloupce)";
+   
+"topscan_girdviewlist" = "Zobrazení seznamu";
+   
+"topscan_folderlocationtop" = "Složka nahoře";
+   
+"topscan_folderlocationbottom" = "Složka vespodu";
+   
+"topscan_fax" = "Fax";
+   
+"topscan_hidepagedetails" = "Skrýt podrobnosti stránky";
+   
+"topscan_displaypagedetails" = "Zobrazit podrobnosti stránky";
+   
+"topscan_batchedit" = "Dávková úprava";
+   
+"topscan_pdffile" = "Soubor PDF";
+   
+"topscan_image_jpg" = "Obrázek(JPG)";
+   
+"topscan_longimage_jpg" = "Sdílet jako dlouhý obrázek";
+   
+"topscan_txt" = "Sdílet txt";
+   
+"topscan_originalsize" = "Původní velikost";
+   
+"topscan_medium" = "Střední";
+   
+"topscan_small" = "Malý";
+   
+"topscan_superhigh" = "Super vysoká";
+   
+"topscan_shareapp" = "Sdílení této aplikace";
+   
+"topscan_backup" = "Zálohování a obnovení";
+   
+"topscan_icouldbackup" = "Zálohování";
+   
+"topscan_importimage" = "Importovat obrázek";
+   
+"topscan_mergepdf" = "Sloučit PDF";
+   
+"topscan_importfile" = "Importovat soubor";
+   
+"topscan_longpresstip" = "Mám to";
+   
+"topscan_search" = "Vyhledávání";
+   
+"topscan_homemoredocremind" = "Připomenutí dokumentu";
+   
+"topscan_settingtemplate" = "Šablona";
+   
+"topscan_settingfamily" = "Rodina";
+   
+"topscan_shareappcontent" = "Nalezli jsme skvělý software pro skener, odkaz ke stažení";
+   
+"topscan_mergefilemethodtitle" = "Vyberte metodu sloučení";
+   
+"topscan_mergefilemethodkeepold" = "Sloučit a uchovat starý dokument";
+   
+"topscan_mergefilemethoddeleteold" = "Sloučit a odstranit starý dokument";
+   
+"topscan_cameradiscardtitle" = "Zahodit stránky";
+   
+"topscan_cameradiscardmssage" = "Zahodit všechny stránky?";
+   
+"topscan_cameraaccidenttitle" = "Informace";
+   
+"topscan_cameraaccidentmssage" = "některé obrázky, které jste pořídili naposledy, nebyly zpracovány, chcete je načíst?";
+   
+"topscan_cameralighton" = "ZAPNUTO";
+   
+"topscan_cameralightoff" = "VYPNUTO";
+   
+"topscan_cameralightauto" = "Automaticky";
+   
+"topscan_cameralighttorch" = "Svítilna";
+   
+"topscan_cameratypetotext" = "Napsat";
+   
+"topscan_cameratypesingle" = "Singl";
+   
+"topscan_cameratypebatch" = "Šarže";
+   
+"topscan_cameratypeqrbarcode" = "QR a čárový kód";
+   
+"topscan_camerapermissiontitle" = "Otevřete oprávnění kamery";
+   
+"topscan_camerapermissionguide" = "Nastavení-Soukromá kamera";
+   
+"topscan_albumpermissiontitle" = "Otevřete prosím oprávnění alba";
+   
+"topscan_albumpermissionguide" = "Nastavení - Ochrana osobních údajů - Fotografie - Všechny fotografie";
+   
+"topscan_safeentertips" = "Zadejte čtyřciferné heslo!";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Opravdu se chcete odhlásit?";
+       
+"topscan_psderror" = "Nesprávné heslo ,zkuste to prosím znovu!";
+       
+"topscan_pdferror" = "Heslo se neshoduje, zkuste to znovu!";
+       
+"topscan_touchidnotenrolled" = "Zařízení není detekováno, aby povolilo dotykové ID, přejděte do centra nastavení telefonu a povolte funkci dotykového ID.";
+       
+"topscan_faceidnotenrolled" = "Zařízení není detekováno, aby povolilo ID obličeje. Chcete-li povolit funkci ID obličeje, přejděte do centra nastavení telefonu.";
+       
+"topscan_opensysset" = "Oprávnění k nastavení středu";
+       
+"topscan_againvafaceid" = "Kliknutím ověříte ID obličeje";
+       
+"topscan_againvatouchid" = "Klepnutím ověříte Touch ID";
+       
+"topscan_pdfpagenumberno" = "Žádné číslo stránky";
+       
+"topscan_pdfpagenumberlowerl" = "vlevo dole";
+       
+"topscan_pdfpagenumberbottomc" = "dole uprostřed";
+       
+"topscan_pdfpagenumberlowerr" = "vpravo dole";
+       
+"topscan_pdfpagenumberupperl" = "vlevo nahoře";
+       
+"topscan_pdfpagenumberheadc" = "střed hlavy";
+       
+"topscan_pdfpagenumberupperr" = "vpravo nahoře";
+       
+"topscan_colletionfunctiontitle" = "Vyberte dokument";
+       
+"topscan_pdfdirectionauto" = "Automatické nastavení podle velikosti obrázku";
+       
+"topscan_pdfdirectionlandscape" = "Krajina";
+       
+"topscan_pdfaddsignature" = "Portrét";
+       
+"topscan_changepdfsizealert" = "Aktuální změny resetují podpis PDF. Chceš pokračovat?";
+       
+"topscan_emptypdfnamealert" = "Název PDF nesmí být prázdný!";
+       
+"topscan_createdsuccessfully" = "Vytvořeno úspěšně";
+       
+"topscan_hasfolder" = "Dokument / složka již existuje. Vyberte prosím jiný název.";
+       
+"topscan_creationfailed" = "Vytvoření se nezdařilo";
+       
+"topscan_duplicationname" = "Tento název už existoval. Změňte prosím na jiný.";
+       
+"topscan_folderexists" = "Složka již existuje.";
+       
+"topscan_emailinvalidtips" = "Zadejte správnou e-mailovou adresu";
+       
+"topscan_defaultprocess" = "Implicitní proces";
+       
+"topscan_original" = "Originál";
+       
+"topscan_blackwhite" = "ČB";
+       
+"topscan_blackwhite2" = "ČB2";
+       
+"topscan_blackwhite3" = "ČB3";
+       
+"topscan_nostalgic" = "Nostalgický";
+       
+"topscan_magiccolor" = "Kouzelná barva";
+       
+"topscan_magiccolor2" = "Kouzelná barva 2";
+       
+"topscan_grayscale" = "Stupně šedé";
+       
+"topscan_lastfilter" = "Poslední filtr";
+       
+"topscan_clear" = "Průhledná";
+       
+"topscan_clearmarks" = "Jasné značky";
+       
+"topscan_markstip" = "Pokud budete pokračovat, značky(podpis, graffiti atd.) Budou vymazány. Určitě odstranit značky?";
+       
+"topscan_setting" = "Do Nastavení";
+       
+"topscan_deletedrive" = "Opravdu chcete vymazat soubor aktuální zálohy?";
+       
+"topscan_thereisnotstoragespaceon" = "Ve Vašem telefonu není dostatek úložného prostoru. Zkuste to prosím znovu!";
+       
+"topscan_dropboxsussess" = "Záloha byla přenesena na Dropbox.";
+       
+"topscan_boxsussess" = "Záloha byla přenesena do schránky.";
+       
+"topscan_googledrivesussess" = "Záloha byla přenesena na Disk Google.";
+       
+"topscan_onedrivesussess" = "Záloha byla přenesena na OneDrive.";
+       
+"topscan_startbackupinbackground" = "Začněte nahrávat soubory záloh na pozadí";
+       
+"topscan_backupinbackgroundaleat" = "Nahrání záložního souboru bude provedeno na pozadí, zavření aplikace může způsobit selhání zálohy.";
+       
+"topscan_myselfemailshow" = "Poslat e-mailem sobě";
+       
+"topscan_toemailtitle" = "Na";
+       
+"topscan_subjectplaceholder" = "Předmět";
+       
+"topscan_bodyplaceholder" = "Tělo zprávy";
+       
+"topscan_emailsettingguide" = "E-mail můžete změnit pod Nastavení -> Obecné -> E-mail.";
+       
+"topscan_picturequalityheight" = "Vysoký";
+       
+"topscan_picturequalitylow" = "Nízký";
+       
+"topscan_defaultpagesize" = "Implicitní velikost stránky";
+       
+"topscan_privacypolicy" = "Zásady ochrany osobních údajů";
+       
+"topscan_faq" = "FAQ";
+       
+"topscan_sendfeedback" = "Poslat zpětnou vazbu";
+       
+"topscan_version" = "Verze";
+       
+"topscan_rateapp" = "Ohodnoťte jednoduchý skener";
+       
+"topscan_settinggeneral" = "VŠEOBECNÉ";
+       
+"topscan_settingdocmanagement" = "Správa dokumentů";
+       
+"topscan_settingourapp" = "Naše aplikace";
+       
+"topscan_settingfaxname" = "Jednoduchý fax";
+       
+"topscan_settingfaxreceivename" = "Příjem faxu";
+       
+"topscan_settinguseragreement" = "Smlouva s uživatelem";
+       
+"topscan_settingusersuggestion" = "Návrh a zpětná vazba";
+       
+"topscan_settingdocname" = "Název dokumentu";
+       
+"topscan_settingdoctime" = "Čas dokumentu";
+       
+"topscan_changepagesize" = "Změnit velikost stránky";
+       
+"topscan_documentname" = "Vlastní název dokumentu";
+       
+"topscan_documentdate" = "Vlastní čas dokumentu";
+       
+"topscan_autosavetogallery" = "Automatické ukládání do alba";
+       
+"topscan_saveoriginalimage" = "Uložit původní obrázek";
+       
+"topscan_saveoriginalimagetip" = "Tato funkce hlavně resetuje funkci oříznutí, což zvyšuje úložný prostor.";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Automaticky ukládejte naskenované obrázky do Galerie";
+   
+"topscan_textblankprompt" = "Rozpoznat obrázek a převést na text";
+   
+"topscan_noteplaceholder" = "Začněte přidávat poznámky!";
+   
+"topscan_ocrtexttdit" = "Upravit";
+   
+"topscan_ocrtextcopy" = "Kopírovat";
+   
+"topscan_ocrtextexport" = "Export";
+   
+"topscan_ocrtexttranslation" = "Překlad";
+   
+"topscan_ocrdefaultlanguage" = "Angličtina";
+   
+"topscan_ocrautomatic" = "Automatický";
+   
+"topscan_ocrtextagain" = "Znovu OCR";
+   
+"topscan_ocrtypecloud" = "Cloudové OCR";
+   
+"topscan_ocrtypelocal" = "Místní rychlé rozpoznávání";
+   
+"topscan_ocrtypelocaltip" = "Podporuje pouze latinské znaky";
+   
+"topscan_ocrdownfail" = "stažení se nezdařilo";
+   
+"topscan_ocrrecentanguages" = "Nedávné jazyky";
+   
+"topscan_ocralllanguages" = "Všechny jazyky";
+   
+"topscan_ocrexportcopy" = "Zkopírovat do schránky";
+   
+"topscan_ocrchooseendpoint" = "Vyberte nejbližší koncový bod";
+   
+"topscan_ocrgoogleendpointprompt" = "Automaticky vyberte nejlepší globální uzel, není třeba si vybírat!";
+   
+"topscan_ocrthirdocrfailprompt" = "Chyba zpracování nebo není k dispozici žádný text, zkuste to znovu!";
+   
+"topscan_networkstate" = "WLAN je vypnutá";
+   
+"topscan_networkstatecontent" = "WLAN pro aplikaci \'simpleScan\' můžete zapnout v Nastavení";
+   
+"topscan_ocragainallpage" = "Všechny stránky";
+   
+"topscan_ocragaincurrentpage" = "Aktuální stránka";
+   
+"topscan_ocrtextagainvctip" = "Pokud klepnete na Zpět, úpravy provedené během korektury by byly ztraceny";
+   
+"topscan_ocrocrvctip" = "Opravdu chcete ukončit aktuální rozpoznávání textu?";
+   
+"topscan_ocrocrgooglepoint" = "Globální";
+   
+"topscan_ocrocragaintitle" = "Klepněte na text, který chcete upravit";
+   
+"topscan_ocrocrlanguagetitle" = "Jazyk";
+   
+"topscan_ocrocragainendpoint" = "Koncový bod";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Rozpoznat aktuální stránku";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Rozpoznat všechny stránky";
+ 
+"topscan_translatesourcelanguage" = "Zdrojový jazyk";
+ 
+"topscan_translatetargetlanguage" = "Cílový jazyk";
+ 
+"topscan_deletelanguagepack" = "Odstranit jazykový model";
+ 
+"topscan_stoploadlanguagepack" = "Zastavit stahování jazykového modelu";
+ 
+"topscan_scorecancel" = "Teď ne";
+ 
+"topscan_scorefivestar" = "5 hvězdiček";
+ 
+"topscan_tagsungrouped" = "Neseskupené";
+ 
+"topscan_tagsalldocs" = "Všechny dokumenty";
+ 
+"topscan_tagssearchplaceholder" = "Vstupní značka";
+ 
+"topscan_tagsalltagstitle" = "Všechny značky";
+ 
+"topscan_tagsalreadyexists" = "Značka již existuje!";
+ 
+"topscan_tagstagdelete" = "Odstraněné štítky nelze obnovit. Potvrdit smazání?";
+ 
+"topscan_tagsdone" = "Hotovo";
+ 
+"topscan_tagssettag" = "Nastavit značky";
+ 
+"topscan_tagstagmanager" = "Štítek";
+ 
+"topscan_tagsentermanager" = "Značky";
+ 
+"topscan_tagstagnotecontent" = "Chcete uložit úpravy?";
+ 
+"topscan_tagstagmanageradd" = "Přidat novou značku";
+ 
+"topscan_tagstagmanageraddplac" = "Zadejte prosím název značky";
+ 
+"topscan_tagscreatelabs" = "Vytvoření štítků ~";
+   
+"topscan_drivestartupdate" = "Začíná nahrávání souboru zálohy...";
+     
+"topscan_driveuploading" = "nahrávání...";
+     
+"topscan_buildingpdf" = "Vytváření PDF";
+     
+"topscan_processingjpg" = "Zpracování JPG";
+     
+"topscan_processing" = "Zpracovává se...";
+     
+"topscan_processingdoc" = "Zpracování Doc";
+     
+"topscan_processingzip" = "Probíhá zpracování ZIP";
+     
+"topscan_sortprocessing" = "Zpracování řazení";
+     
+"topscan_removeing" = "Odstranění";
+     
+"topscan_copyprocessing" = "Kopírování";
+     
+"topscan_moveprocessing" = "Stěhování";
+     
+"topscan_mergeing" = "Sloučení";
+     
+"topscan_initdata" = "Inicializace dat";
+     
+"topscan_docpasswordicon" = "Zámek";
+     
+"topscan_docpasswordunlockicon" = "Odemknout";
+     
+"topscan_pdfpassword" = "Heslo pro export do PDF";
+     
+"topscan_pdfpasswordclear" = "Vymazat heslo k PDF";
+     
+"topscan_touchtitle" = "Zkontrolujte prosím Touch ID";
+     
+"topscan_clearapppsd" = "Chcete vymazat možnosti hesla aplikace?";
+     
+"topscan_cleardocpsd" = "Chcete vymazat možnosti hesla pro přístup k dokumentu?";
+     
+"topscan_passwordhelptip" = "Potřebovat pomoc ?";
+     
+"topscan_passwordhelpsubject" = "Zpětná vazba k heslu k dokumentu";
+     
+"topscan_passwordapphelpsubject" = "Zpětná vazba k heslu aplikace";
+     
+"topscan_enterpwd" = "Prosím vložte heslo";
+     
+"topscan_appsecurity" = "Zabezpečení aplikací";
+     
+"topscan_apppwd" = "Heslo aplikace";
+     
+"topscan_setpasswordlaceholder" = "Prosím zadejte své heslo";
+     
+"topscan_resetpasswordlaceholder" = "Zadejte prosím znovu svoje heslo";
+     
+"topscan_setpasswordtitle" = "Nastavit heslo";
+     
+"topscan_setpdfpasswordtitle" = "Heslo k PDF";
+     
+"topscan_resetpasswordtitle" = "Zadejte heslo";
+     
+"topscan_writepasswordfail" = "Hesla se neshodují, zkuste to prosím znovu!";
+     
+"topscan_writetwopasswordfail" = " Dvě hesla se neshodují, zkuste to prosím znovu!";
+     
+"topscan_backupbottomtitle" = "Obnovit z dřívější zálohy nebo přenést skeny z jiného zařízení";
+     
+"topscan_docaccesspassword" = "Heslo přístupu k dokumentu";
+     
+"topscan_turnoffpassword" = "Vypněte heslo";
+     
+"topscan_changepassword" = "Změnit heslo";
+     
+"topscan_storagespacenotenough" = "Telefon nemá dostatek úložného prostoru";
+     
+"topscan_storagespacetitle" = "Úložný prostor telefonu je menší než 200 M, aby se zabránilo zápisu souborů, uvolněte místo";
+     
+"topscan_appheadingtitle" = "Nastavte heslo aplikace k ochraně zabezpečení dokumentů";
+     
+"topscan_docheadingtitle" = "Nastavit heslo pro prohlížení dokumentů chráněných heslem";
+     
+"topscan_pdfheadingtitle" = "Nastavte heslo pro sdílení a export souborů PDF, abyste chránili soukromí souborů";
+     
+"topscan_batchall" = "Úplný";
+     
+"topscan_batchauto" = "Automaticky";
+     
+"topscan_batchfit" = "Vejít se";
+     
+"topscan_left" = "Vlevo";
+     
+"topscan_right" = "Vpravo";
+     
+"topscan_crop" = "Oříznutí";
+     
+"topscan_filter" = "Filtr";
+     
+"topscan_prompt" = "Výzva";
+     
+"topscan_promptcontent" = "Změny ještě nebyly uloženy. Uložit hned?";
+     
+"topscan_no" = "Ne";
+     
+"topscan_yes" = "Ano";
+     
+"topscan_batchsave" = "Uložit";
+     
+"topscan_scansignature" = "Naskenujte svůj podpis";
+     
+"topscan_importsignature" = "Import z alba";
+     
+"topscan_waittip" = "Zpracování souboru, čekejte prosím...";
+     
+"topscan_nooriginalimgdefault" = "Některé soubory nelze resetovat a oříznout a původní soubor nelze najít";
+     
+"topscan_nooriginalimgfilter" = "Některé soubory nelze přefiltrovat, protože původní soubor nelze najít";
+     
+"topscan_nooriginalimgmore" = "a více";
+     
+"topscan_nooriginalimgsetting" = "můžete otevřít možnost nastavení a uložit původní možnost obrázku";
+     
+"topscan_alldatanooriginalimg" = "Oříznutí nelze obnovit, původní soubor neexistuje!";
+     
+"topscan_alldatanooriginalimgfilter" = "Zpracování filtru nelze resetovat, původní soubor neexistuje!";
+     
+"topscan_cropautomatic" = "Automatické oříznutí obrázku";
+     
+"topscan_cropautomatictip" = "Automatické oříznutí obrázků v režimu Dávkové skenování";
+     
+"topscan_cropautomaticcameraaip" = "Automatické oříznutí";
+     
+"topscan_camerafilterremind" = "Můžete změnit výchozí filtr dávkového režimu";
+     
+"topscan_cameracropremindfirst" = "Můžete změnit, zda";
+     
+"topscan_cameracropremindsecond" = "dávkový režim je oříznut";
+     
+"topscan_flitertypeapplylocation" = "Použít na všechny stránky";
+     
+"topscan_colletionpdftolongpictitle" = "Export PDF do dlouhého obrázku";
+     
+"topscan_colletionpdftopictitle" = "PDF do obrázku";
+     
+"topscan_colletionpdfpasswordtitle" = "Heslo k PDF";
+     
+"topscan_colletionpdfextracttitle" = "Výpis PDF";
+     
+"topscan_colletiondocpasswordtitle" = "Heslo dokumentu";
+     
+"topscan_colletionscanidcardtitle" = "Naskenujte průkaz totožnosti";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF Přidat vodoznak";
+     
+"topscan_colletionpdfsignaturetitle" = "Podpis PDF";
+     
+"topscan_colletionpdfpageadjustment" = "Úprava stránky PDF";
+     
+"topscan_colletionimagetopdf" = "Obrázek do PDF";
+     
+"topscan_colletionbottomtitle" = "Extrahovat stránku";
+     
+"topscan_colletionmydevice" = "Moje zařízení";
+     
+"topscan_colletionpdfextractbottomtitle" = "Extrahovat generovat nový dokument";
+     
+"topscan_docreminedtitle" = "Povolte oprávnění oznámení";
+     
+"topscan_docreminedcontent" = "Nepovolujete oprávnění oznámení, takže nemůžete používat upozornění na dokumenty, dokud nebudou povolena.";
+     
+"topscan_docreminetime" = "Čas připomenutí dokumentu musí být větší než aktuální systémový čas!";
+     
+"topscan_questiontype" = "Vyberte typ";
+     
+"topscan_questiondescrible" = "Zadejte svůj dotaz nebo návrh";
+     
+"topscan_suggestionremind" = "Chcete-li vytvořit snímek obrazovky na iPhonu 8 a dřívějším, stiskněte současně tlačítka Spánek/Probuzení a Domů";
+     
+"topscan_suggestionremindx" = "Chcete-li vytvořit snímek obrazovky na zařízení iPhone X a novějším, stiskněte současně tlačítko Zvýšení hlasitosti a Zamknout.";
+     
+"topscan_questiontypecrash" = "Chyba/zdržení";
+   
+"topscan_questiontypetaking" = "Pořizování snímků/import z alba";
+   
+"topscan_questiontypephoto" = "Úprava fotografie";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Fax";
+   
+"topscan_questiontypepoint" = "C-body";
+   
+"topscan_questiontypeshare" = "Sdílet/Email/Tisk";
+   
+"topscan_questiontypeinterface" = "Rozhraní";
+   
+"topscan_questiontypefeatures" = "Další funkce";
+   
+"topscan_questiontypeother" = "Další otázky";
+   
+"topscan_questiontypetoast" = "Vyskytly se nějaké problémy s používáním? Nebo nám můžete poskytnout zpětnou vazbu ohledně návrhů a požadavků na funkce aplikace a rádi si vyslechneme vaše názory.";
+   
+"topscan_questionsetting" = "Nastavení";
+   
+"topscan_questioncontinue" = "Pokračovat";
+   
+"topscan_questioninvalidemail" = "Neplatná e-mailová adresa";
+   
+"topscan_questiontoasttitle" = "Přidat snímky obrazovky (volitelné)";
+   
+"topscan_submittedsuccessfully" = "Úspěšně odesláno!";
+   
+"topscan_suggestioncontenttitle" = "Detail";
+   
+"topscan_suggestionsubmit" = "Předložit";
+   
+"topscan_remindtitle" = "Název";
+   
+"topscan_remindreturn" = "Vrátit se";
+   
+"topscan_guidetitleprofessional" = "Profesionální";
+   
+"topscan_guidetitlecollage" = "Režim koláže ID";
+   
+"topscan_guidetitlebackup" = "Zálohování a obnovení";
+   
+"topscan_guideprofessionaldes" = "Automatická detekce dokumentů, rychlé zpracování oříznutí, zostření a vylepšení dokumentů.";
+   
+"topscan_guidecollagedes" = "Koláž obrázků identifikačních karet do dokumentu, více možností šablon a vlastní velikost.";
+   
+"topscan_guideimagedes" = "Automaticky rozpoznávejte text pomocí cloudové technologie AI, upravujte, kopírujte, sdílejte a exportujte svůj text.";
+   
+"topscan_guidebackupdes" = "Zálohujte své dokumenty do cloudového úložiště nebo místního úložiště a zálohované dokumenty můžete kdykoli obnovit.";
+   
+"topscan_showstatustitle" = "Načítání dat";
+   
+"topscan_placeholderpassword" = "Heslo";
+   
+"topscan_manualsorttitle" = "Dlouhým stisknutím můžete manuálně seřadit";
+   
+"topscan_docgraffiti" = "Graffiti";
+   
+"topscan_docaddtext" = "Přidej text";
+   
+"topscan_copypage" = "Zkopírujte aktuální stránku";
+   
+"topscan_copyallpages" = "Zkopírujte všechny stránky";
+   
+"topscan_showprocess" = "Zpracovává se...";
+   
+"topscan_importimgerror" = "Soubor neexistuje nebo došlo k chybě dat!";
+   
+"topscan_somefileloss" = "Chyba čtení souboru!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "Funkce, kterou musíte mít! Oboustrannou elektronickou kopii průkazu totožnosti můžete vytvořit za 1 minutu. 100 % r připravených k tisku.";
+    
+"topscan_paperexample" = "Příklad papíru A4";
+    
+"topscan_restorebackup" = "Zálohovat teď";
+    
+"topscan_restorelastbackup" = "Datum posledního zálohování";
+    
+"topscan_restoremerge" = "Obnovit a sloučit všechny aktuální dokumenty";
+    
+"topscan_restoredelete" = "Obnovte a odstraňte všechny aktuální dokumenty";
+    
+"topscan_restoretitle" = "Obnovit";
+    
+"topscan_restorenotlogin" = "Nebyl detekován žádný stav přihlášení k účtu cloud.";
+    
+"topscan_restorenotrepeat" = "Nahrávání záložního souboru, čekejte prosím...";
+    
+"topscan_restorebackwifi" = "Zálohovat jen na Wi-Fi";
+    
+"topscan_restorenodocument" = "Momentálně není k dispozici žádný dokument. Nejprve přidejte dokument.";
+    
+"topscan_restorequery" = "dotazování...";
+    
+"topscan_restorequeryfailed" = "Dotaz se nezdařil nebo nebyl nalezen soubor zálohy.";
+    
+"topscan_restoreprocessfiles" = "Zpracování souborů";
+    
+"topscan_restorebackupfailed" = "Zálohování se nezdařilo!";
+    
+"topscan_restoreuploadingfile" = "Nahrávám soubor. Čekejte, prosím...";
+    
+"topscan_saferepasscode" = "Znovu zadejte přístupový kód";
+    
+"topscan_saferepassword" = "Zadejte znovu heslo";
+    
+"topscan_applicationsecrulty" = "Zabezpečení aplikace";
+    
+"topscan_verifypasscode" = "Ověřte přístupový kód";
+    
+"topscan_setpasscode" = "Nastavte heslo";
+    
+"topscan_enternewpassword" = "Zadejte nové heslo";
+    
+"topscan_filetype" = "Typ souboru";
+    
+"topscan_fileformat" = "Formát souboru";
+    
+"topscan_sharepdfformat" = "Sdílejte soubory ve formátu .PDF";
+    
+"topscan_sharezipformat" = "Sdílejte soubory ve formátu .ZIP";
+    
+"topscan_sharejpgformat" = "Sdílejte soubory ve formátu .JPG";
+    
+"topscan_newfolderprompt" = "Nová složka";
+    
+"topscan_currentdocument" = "Aktuální dokument";
+    
+"topscan_recognizetitle" = "Rozpoznat";
+    
+"topscan_filedeleteprompt" = "Soubor zálohy byl úspěšně vymazán!";
+    
+"topscan_filedownbackup" = "Stáhnout soubor zálohy";
+    
+"topscan_filestartbackup" = "Záložní soubor se začne stahovat";
+    
+"topscan_filerestoresuccessed" = "Obnovení souboru zálohy proběhlo úspěšně.";
+    
+"topscan_uploadsingin" = "Přihlásit se";
+    
+"topscan_singoutlowercase" = "Odhlásit se";
+    
+"topscan_processingerror" = "Chyba zpracování souboru!";
+    
+"topscan_barcodeopenurl" = "Otevřít URL";
+    
+"topscan_barcoderesult" = "Výsledek uznání";
+    
+"topscan_downloadlanguage" = "Stahování jazyků...";
+    
+"topscan_graffitibrush" = "Štětec";
+    
+"topscan_graffitiopacity" = "Průhlednost";
+    
+"topscan_graffitieraser" = "Guma";
+    
+"topscan_graffiticolor" = "Barva";
+    
+"topscan_graffitiundo" = "vrátit";
+    
+"topscan_graffitiredo" = "Předělat";
+    
+"topscan_nosignture" = "Žádný podpis!";
+    
+"topscan_graffititext" = "Text";
+        
+"topscan_graffitireplacefile" = "Nahradit aktuální soubor";
+        
+"topscan_graffiticreatefile" = "Vytvořit nový soubor";
+        
+"topscan_graffiticopyto" = "Zkopírovat do";
+        
+"topscan_graffitimoveto" = "Přesunout do";
+        
+"topscan_graffititextrecognition" = "Rozpoznání textu";
+        
+"topscan_ocraccount" = "Správa účtů OCR";
+        
+"topscan_loginsuccessful" = "přihlaste se úspěšně!";
+        
+"topscan_appleloginsuccessful" = "Přihlášení k účtu Apple bylo úspěšné!";
+        
+"topscan_googleloginsuccessful" = "Přihlášení k účtu Google bylo úspěšné!";
+        
+"topscan_loginregister" = "Přihlaste se nebo se zaregistrujte";
+        
+"topscan_resetpassword" = "Obnovit heslo";
+        
+"topscan_copysuccessful" = "Kopírovat úspěšně";
+        
+"topscan_copyfailed" = "Kopírování se nezdařilo";
+        
+"topscan_loginicloudtips" = "Abychom zabránili ztrátě vašeho zůstatku, používáme účet k vázání vašeho zůstatku. Zároveň můžete také použít rovnováhu mezi více zařízeními. Přihlaste se prosím nebo zaregistrujte svůj účet.";
+        
+"topscan_loginnow" = "Přihlas se nyní";
+        
+"topscan_emailemptytips" = "E-mail nemohl být prázdný";
+        
+"topscan_psdemptytips" = "Heslo nemohlo být prázdné";
+    
+"topscan_codeemptytips" = "Ověřovací kód nesmí být prázdný";
+    
+"topscan_tips" = "Tipy";
+    
+"topscan_subscriptsuccessfully" = "Děkujeme, že jste se přihlásili k prémiové verzi! ";
+    
+"topscan_autorenewable" = "Automaticky obnovitelné, kdykoli zrušit.";
+    
+"topscan_nofreetrial" = "ŽÁDNÁ bezplatná zkušební verze";
+    
+"topscan_details" = "Detaily";
+    
+"topscan_restorepurchase" = "Obnovit zakoupené položky";
+    
+"topscan_freetrial" = "Zkušební verze zdarma";
+    
+"topscan_unlimitedfolders" = "Neomezené složky";
+    
+"topscan_unlimitedfoldersintroduce" = "Neomezené vytváření složek a podsložek.";
+    
+"topscan_noads" = "Žádné reklamy";
+    
+"topscan_noadsintroduce" = "Odeberte reklamy ze Simple Scanneru.";
+    
+"topscan_pdffileencryption" = "Šifrování souborů PDF";
+    
+"topscan_pdffileencryptionintroduce" = "Pro ochranu svého soukromí můžete nastavit heslo (naskenované dokumenty nebo důvěrné soubory).";
+    
+"topscan_ocrtypecloudintroduce" = "Pomocí cloudové technologie AI rozpoznávejte a extrahujte text, více než 1 000 stránek dostupných za měsíc.";
+    
+"topscan_cloudservice" = "Cloudová služba";
+    
+"topscan_cloudserviceintroduce" = "Automaticky nahrávejte své dokumenty, PDF, jpg, typy souborů na Cloud Drive nebo iCloud, abyste předešli ztrátě dokumentů.";
+    
+"topscan_functionofcollage" = "Funkce koláže";
+    
+"topscan_functionofcollageintroduce" = "Pomocí funkce koláže zkombinujte více stránek do jedné stránky.";
+    
+"topscan_unlimitedscans" = "Neomezené skenování";
+    
+"topscan_unlimitedscansintroduce" = "Žádné omezení počtu naskenovaných dokumentů.";
+    
+"topscan_clearwaternark" = "Vymazat vodoznak";
+    
+"topscan_clearwaternarkintroduce" = "Odstraňte vodoznak PDF a udržujte PDF čistý a uklizený.";
+    
+"topscan_writesignature" = "Podpis";
+    
+"topscan_writesignatureintroduce" = "Naskenujte svůj podpis napsaný na papíře a vytvořte elektronický podpis, který vypadá úplně stejně jako originál.";
+    
+"topscan_highqualitydoc" = "Vysoce kvalitní dokument";
+    
+"topscan_highqualitydocintroduce" = "Několik možností výběru kvality obrazu, vyberte možnosti vyšší kvality, aby byl dokument PDF jasnější.";
+    
+"topscan_emailmyself" = "Pošlete mi e-mail";
+    
+"topscan_emailmyselfintroduce" = "Rychleji a pohodlněji si posílejte dokumenty e-mailem.";
+    
+"topscan_exportpdfdoc" = "Exportovat dokument PDF";
+    
+"topscan_exportpdfdocintroduce" = "Rychle exportujte soubory PDF do jiných aplikací nebo je ukládejte lokálně do telefonu.";
+    
+"topscan_backupintroduce" = "Zálohování a obnova více zařízení pro zachování synchronizace dokumentů.";
+    
+"topscan_graffiti" = "Graffiti";
+    
+"topscan_graffitiintroduce" = "Upravit dokumenty, graffiti, přidat text, podpisy atd.";
+    
+"topscan_applock" = "Zámek Aplikace";
+    
+"topscan_applockintroduce" = "Povolte Face ID nebo Touch ID a odemkněte SimpleScanner v jednom kroku.";
+    
+"topscan_imagetotext" = "Obrázek na text";
+    
+"topscan_imagetotextintroduce" = "Použijte funkci OCR k rozpoznání textů v obrázku pro pozdější vyhledávání nebo sdílení.";
+    
+"topscan_propdfeditor" = "Editor PDF";
+    
+"topscan_propdfeditorintroduce" = "Upravujte stránky PDF, přidávejte podpisy a graffiti, hesla PDF, odstraňujte vodoznaky atd.";
+    
+"topscan_gotosetting" = "Přejít na Nastavení";
+    
+"topscan_ocrnummorethan" = "Cloud OCR bylo použito k identifikaci 1 000 stránek za měsíc v aktuálním výpočetním cyklu. Pokud budete pokračovat v identifikaci, musíte si zakoupit stránky OCR, nebo počkejte, až další výpočetní cyklus automaticky přidá stránky OCR 1000.";
+    
+"topscan_upgradeaccount" = "20+ pokročilejších funkcí";
+    
+"topscan_upgradepremium" = "Upgradujte na prémiovou verzi";
+    
+"topscan_premium" = "Prémium";
+    
+"topscan_nopurrestore" = "Žádné nákupy pro obnovení!";
+    
+"topscan_restorefailed" = "Obnovení nákupu se nezdařilo.";
+    
+"topscan_restoresuccessfully" = "Obnovte nákup úspěšně.";
+    
+  
+  
+  
+  
+  
+  
+  
+"topscan_bindcontent" = "Nenastavili jste svůj e-mailový účet, přejděte do svého telefonu „Nastavení e-mailu“, klepnutím na „Přidat účet“ vytvořte svůj e-mailový účet";
+    
+"topscan_cameratypeidcardintroduce" = "Naskenujte a zkopírujte obě strany průkazu totožnosti na jednu stránku za 1 minutu při zachování původní velikosti karty. 100% p připraveno na tisk. ";
+    
+"topscan_paymenttext1" = "Platba bude účtována na účet iTunes při potvrzení nákupu.";
+    
+"topscan_forgotpsd" = "Zapomněli jste heslo?";
+    
+"topscan_signup" = "Přihlásit se";
+    
+"topscan_noaccount" = "Žádný účet ?";
+    
+"topscan_login" = "Přihlásit se";
+    
+"topscan_quicklogin" = "Rychlé přihlášení";
+    
+"topscan_paynow" = "Zaplať teď";
+    
+"topscan_send" = "Poslat";
+    
+"topscan_signinsuccess" = "Přihlášení úspěšné!";
+    
+"topscan_resend" = "Přeposlat";
+    
+"topscan_sendcodesuccess" = "Odeslat úspěšně";
+    
+"topscan_entervercode" = "Vložte ověřovací kód";
+    
+"topscan_addorginalfile" = "Přidat původní soubor zálohy";
+    
+"topscan_turnonpassword" = "Zapněte heslo";
+"topscan_rotate" = "Točit se";
+"topscan_tipask" = "Nikdy se neptej";
+    
+"topscan_croptipmsg" = "Tato akce může vymazat všechny výsledky OCR,poznámky, vodoznak ,podpisy, grafitti ,text. Pokračovat?";
+    
+"topscan_scoretitle" = "Pokud se vám líbí Simple Scanner, ohodnotili byste nás laskavě v App Store a podpořili nás?";
+    
+"topscan_resetpsd" = "Potřebujeme, aby vám vaše registrované e -mailové ID zaslalo pokyny k resetování hesla.";
+    
+"topscan_compressionration" = "Kompresní dávka";
+    
+"topscan_size" = "Velikost";
+    
+"topscan_compression" = "Komprese";
+    
+"topscan_pdfpagenumber" = "Číslo stránky";
+    
+"topscan_pdfpagedirection" = "Směr stránky";
+    
+"topscan_image" = "OBRAZ";
+"topscan_subscriptfailedtips" = "Ověření předplatného se nezdařilo, přejděte na Domů-&gt; Nastavení-&gt; Obnovit nákup!";
+    
+"topscan_cropautomaticcameraaip" = "Automatické oříznutí";
+    
+"topscan_nextstep" = "Další krok";
+    
+"topscan_addsignature" = "Přidat podpis";
+   
+"topscan_subsctiptplan" = "Váš tarif předplatného";
+    
+"topscan_renewedday" = "Obnovený den";
+    
+"topscan_automaticrenewal" = "Automatické obnovení";
+    
+"topscan_moredetails" = "Více informací";
+    
+"topscan_drivedownloadfiles" = "Cloudový import";
+    
+"topscan_download" = "Stáhnout";
+    
+"topscan_downloadsuccessfilly" = "Stáhnout úspěšně";
+    
+"topscan_downloadfailed" = "stahování se nezdařilo";
+    
+"topscan_uselimitedversion" = "Použijte omezenou verzi";
+    
+"topscan_termsofserice" = "Podmínky služby";
+    
+"topscan_unlimitedfeatures" = "Neomezené funkce";
+    
+"topscan_subscriptiongives" = "Toto předplatné vám poskytuje neomezený přístup k našim oprávněním. Pokud rezervaci nezrušíte před koncem zkušební doby, bude vám automaticky účtována částka, dokud ji nezrušíte.";
+    
+
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+
+"topscan_datarefresh" = "Refresh data";
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

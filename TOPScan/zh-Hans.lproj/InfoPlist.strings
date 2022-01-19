@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/26.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+
+//权限提示
+NSCameraUsageDescription = "运行应用程序扫描文档需要访问相机";
+NSPhotoLibraryUsageDescription = "运行应用程序获取文档需要访问图库";
+NSFaceIDUsageDescription = "运行应用程序解锁APP需要访问面部ID";
+NSUserTrackingUsageDescription = "这些数据将用于为您提供个性化的广告";

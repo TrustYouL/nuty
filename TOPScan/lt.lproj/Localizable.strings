@@ -1,0 +1,1222 @@
+"topscan_collage" = "Koliažas";
+   
+"topscan_doctag" = "Nustatyti žymą";
+   
+"topscan_picquality" = "Paveikslėlio kokybė";
+   
+"topscan_addto" = "Pridėti";
+   
+"topscan_share" = "Dalintis";
+   
+"topscan_email" = "El. paštas";
+   
+"topscan_merge" = "Sujungti";
+   
+"topscan_copy" = "Kopijuoti/perkelti";
+   
+"topscan_sortby" = "Rūšiuoti pagal";
+   
+"topscan_more" = "Daugiau";
+   
+"topscan_savetogallery" = "Išsaugoti galerijoje";
+   
+"topscan_upload" = "Įkelti";
+   
+"topscan_uploadsucceeded" = "Įkelti pavyko";
+   
+"topscan_uploadfailed" = "Įkelti nepavyko";
+   
+"topscan_delete" = "Ištrinti";
+   
+"topscan_cancel" = "Atšaukti";
+   
+"topscan_ok" = "Gerai";
+   
+"topscan_about" = "apie";
+   
+"topscan_error" = "KLAIDA";
+   
+"topscan_skip" = "Praleisti";
+   
+"topscan_decryption" = "Iššifravimas";
+   
+"topscan_allselect" = "Pasirinkti viską";
+   
+"topscan_cancelallselect" = "Atžymėti visus";
+   
+"topscan_items" = "Pasirinkta";
+   
+"topscan_printing" = "Spausdinti";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Pastaba";
+   
+"topscan_retake" = "Pakartotinai";
+   
+"topscan_ocr" = "Atpažinti tekstą";
+   
+"topscan_watermarktitle" = "Vandenženklis";
+   
+"topscan_addwatermark" = "Pridėti vandenženklį";
+   
+"topscan_editwatermark" = "Redaguoti vandenženklį";
+   
+"topscan_clearwatermark" = "Išvalyti turinį";
+   
+"topscan_removewatermark" = "Pašalinti vandenženklį";
+   
+"topscan_remind" = "Įspėjimas";
+   
+"topscan_loading" = "įkeliama...";
+   
+"topscan_deleteoption" = "Ar tikrai norite ištrinti visus pasirinktus dokumentus?";
+   
+"topscan_deletecurrentpage" = "Ar tikrai norite ištrinti šį puslapį?";
+   
+"topscan_deletecurrentdoc" = "Ar tikrai norite ištrinti dabartinį dokumentą?";
+   
+"topscan_bind" = "El. pašto paskyros sąranka";
+   
+"topscan_savefail" = "Duomenų klaida!";
+   
+"topscan_phonememoryalert" = "Dėl telefono atminties problemų koliažai, didesni nei 30 nuotraukų, gali sukelti gedimą. Ar norite tęsti?";
+   
+"topscan_continueshare" = "Tęsti dalinimąsi";
+   
+"topscan_savealert" = "Ar tikrai norite išeiti neišsaugoję pakeitimų?";
+   
+"topscan_deletesignatureimagealert" = "Ar tikrai norite ištrinti parašo vaizdą?";
+   
+"topscan_discard" = "Atmesti pakeitimus";
+ 
+ 
+"topscan_movesuccess" = "Dokumento (-ų) perkėlimas sėkmingas!";
+   
+"topscan_copysuccess" = "Dokumento (-ų) kopijavimas sėkmingas!";
+   
+"topscan_mergesuccess" = "Dokumento (-ų) sujungimas sėkmingas!";
+   
+"topscan_clearphotos" = "Ką tik padaryta nuotrauka nebus išsaugota. Ar tikrai norite išmesti nuotrauką (-as)?";
+   
+"topscan_noalert" = "Daugiau nepriminti";
+   
+"topscan_editpdf" = "Redaguoti PDF";
+   
+"topscan_addpage" = "Pridėti puslapį";
+   
+"topscan_collageimage" = "Koliažo vaizdas...";
+   
+"topscan_collageproof" = "Nuosavybės įrodymas";
+   
+"topscan_collagedriverlicense" = "Vairuotojo pažymėjimas";
+   
+"topscan_collageidcard" = "ID kortelė";
+   
+ 
+ 
+"topscan_collagepassport" = "Pasas";
+   
+"topscan_collageaccountbook" = "Paskyros žurnalas";
+   
+"topscan_idcardanti" = "Kova su klastotėmis";
+   
+"topscan_importpic" = "Galerija";
+   
+"topscan_userdefinedsize" = "Pačių nustatytas bendrinamo failo dydis";
+   
+"topscan_filecompressiontitle" = "Įveskite 0–99 suspaudimo laipsnį";
+   
+"topscan_manualsorting" = "Rankinis rūšiavimas";
+   
+"topscan_firstontop" = "Pirmas viršuje";
+   
+"topscan_lastontop" = "Paskutinis viršuje";
+   
+"topscan_siderename" = "Pervardyti";
+   
+"topscan_creatdatadescend" = "Sukūrimo data (didėjimo tvarka)";
+   
+"topscan_creatdataascend" = "Sukūrimo data (mažėjimo tvarka)";
+   
+"topscan_filenameatoz" = "Failo pavadinimas(nuo A iki Z)";
+   
+"topscan_filenameztoa" = "Failo pavadinimas(nuo Z iki A)";
+   
+"topscan_girdview2" = "Tinklelio rodinys";
+   
+"topscan_girdview3" = "(3 stulpeliai)";
+   
+"topscan_girdviewlist" = "Sąrašo rodinys";
+   
+"topscan_folderlocationtop" = "Aplankas viršuje";
+   
+"topscan_folderlocationbottom" = "Aplankas apačioje";
+   
+"topscan_fax" = "Faksas";
+   
+"topscan_hidepagedetails" = "Slėpti išsamią puslapio informaciją";
+   
+"topscan_displaypagedetails" = "Rodyti išsamią puslapio informaciją";
+   
+"topscan_batchedit" = "Paketo redagavimas";
+   
+"topscan_pdffile" = "PDF failas";
+   
+"topscan_image_jpg" = "Vaizdas(JPG)";
+   
+"topscan_longimage_jpg" = "Bendrinti kaip ilgą vaizdą";
+   
+"topscan_txt" = "Bendrinti txt";
+   
+"topscan_originalsize" = "Originalus dydis";
+   
+"topscan_medium" = "Vidutinis";
+   
+"topscan_small" = "Mažas";
+   
+"topscan_superhigh" = "Itin aukštas";
+   
+"topscan_shareapp" = "Bendrinti šią programą";
+   
+"topscan_backup" = "Atsarginė kopija ir atkūrimas";
+   
+"topscan_icouldbackup" = "Atsarginė kopija";
+   
+"topscan_importimage" = "Importuoti vaizdą";
+   
+"topscan_mergepdf" = "Sujungti PDF";
+   
+"topscan_importfile" = "Importuoti failą";
+   
+"topscan_longpresstip" = "Supratau!";
+   
+"topscan_search" = "Paieška";
+   
+"topscan_homemoredocremind" = "Dokumento priminimas";
+   
+"topscan_settingtemplate" = "Šablonas";
+   
+"topscan_settingfamily" = "Šeima";
+   
+"topscan_shareappcontent" = "Rasta puiki skaitytuvo programa, atsisiuntimo nuoroda";
+   
+"topscan_mergefilemethodtitle" = "Pasirinkite sujungimo metodą";
+   
+"topscan_mergefilemethodkeepold" = "Sujungti ir išsaugoti seną dokumentą";
+   
+"topscan_mergefilemethoddeleteold" = "Sujungti ir ištrinti seną dokumentą";
+   
+"topscan_cameradiscardtitle" = "Išmesti puslapius";
+   
+"topscan_cameradiscardmssage" = "Išmesti visus puslapius?";
+   
+"topscan_cameraaccidenttitle" = "Informacija";
+   
+"topscan_cameraaccidentmssage" = "kai kurie paskutinį kartą nufotografuoti vaizdai nebuvo apdoroti, ar norėtumėte juos įkelti?";
+   
+"topscan_cameralighton" = "Įjungti";
+   
+"topscan_cameralightoff" = "Išjungti";
+   
+"topscan_cameralightauto" = "Automatinis";
+   
+"topscan_cameralighttorch" = "Deglas";
+   
+"topscan_cameratypetotext" = "Tekstas";
+   
+"topscan_cameratypesingle" = "Vienas";
+   
+"topscan_cameratypebatch" = "Partija";
+   
+"topscan_cameratypeqrbarcode" = "QR & brūkšninis kodas";
+   
+"topscan_camerapermissiontitle" = "Atidarykite kameros leidimus";
+   
+"topscan_camerapermissionguide" = "Nustatymas-Privatumas-Kamera";
+   
+"topscan_albumpermissiontitle" = "Atidarykite albumo leidimus";
+   
+"topscan_albumpermissionguide" = "Nustatymai-Privatumas-Nuotraukos-Visos nuotraukos";
+   
+"topscan_safeentertips" = "Įveskite 4 skaitmenų slaptažodį!";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Ar tikrai norite atsijungti?";
+       
+"topscan_psderror" = "Neteisingas slaptažodis, bandykite dar kartą!";
+       
+"topscan_pdferror" = "Slaptažodis neatitiko, bandykite dar kartą!";
+       
+"topscan_touchidnotenrolled" = "Prietaisas neaptiktas, kad būtų galima įjungti „Touch ID“. Norėdami įjungti „Touch ID“ funkciją, eikite į telefono nustatymų centrą.";
+       
+"topscan_faceidnotenrolled" = "Prietaisas neaptiktas, kad būtų galima įjungti „Face ID“, eikite į telefono nustatymų centrą, kad įjungtumėte „Face ID“ funkciją.";
+       
+"topscan_opensysset" = "Įgaliojimas nustatyti centrą";
+       
+"topscan_againvafaceid" = "Spustelėkite, kad patvirtintumėte „Face ID“";
+       
+"topscan_againvatouchid" = "Spustelėkite, kad patvirtintumėte „Touch ID“";
+       
+"topscan_pdfpagenumberno" = "Nėra puslapio numerio";
+       
+"topscan_pdfpagenumberlowerl" = "apačioje kairėje";
+       
+"topscan_pdfpagenumberbottomc" = "apačioje centre";
+       
+"topscan_pdfpagenumberlowerr" = "apačioje dešinėje";
+       
+"topscan_pdfpagenumberupperl" = "viršuje kairėje";
+       
+"topscan_pdfpagenumberheadc" = "galvos centras";
+       
+"topscan_pdfpagenumberupperr" = "viršuje dešinėje";
+       
+"topscan_colletionfunctiontitle" = "Pasirinkti dokumentą";
+       
+"topscan_pdfdirectionauto" = "Automatiškai sureguliuoti pagal vaizdo dydį";
+       
+"topscan_pdfdirectionlandscape" = "Gulsčias";
+       
+"topscan_pdfaddsignature" = "Stačias";
+       
+"topscan_changepdfsizealert" = "Dabartiniai pakeitimai nustatys PDF parašą iš naujo. Ar norite tęsti?";
+       
+"topscan_emptypdfnamealert" = "PDF pavadinimas negali būti tuščias!";
+       
+"topscan_createdsuccessfully" = "Sukurta sėkmingai";
+       
+"topscan_hasfolder" = "Toks dokumentas/aplankas jau yra. Pasirinkite kitą pavadinimą";
+       
+"topscan_creationfailed" = "Nepavyko sukurti";
+       
+"topscan_duplicationname" = "Pavadinimas jau egzistavo. Pakeiskite į kitą.";
+       
+"topscan_folderexists" = "Toks aplankas jau yra.";
+       
+"topscan_emailinvalidtips" = "Įveskite teisingą el. pašto adresą";
+       
+"topscan_defaultprocess" = "Numatytasis procesas";
+       
+"topscan_original" = "Originalas";
+       
+"topscan_blackwhite" = "B&W";
+       
+"topscan_blackwhite2" = "B&W2";
+       
+"topscan_blackwhite3" = "B&W3";
+       
+"topscan_nostalgic" = "Nostalgiška";
+       
+"topscan_magiccolor" = "Stebuklinga spalva";
+       
+"topscan_magiccolor2" = "Stebuklinga spalva2";
+       
+"topscan_grayscale" = "Pilkoji skalė";
+       
+"topscan_lastfilter" = "Paskutinis filtras";
+       
+"topscan_clear" = "Išvalyti";
+       
+"topscan_clearmarks" = "Išvalyti ženklus";
+       
+"topscan_markstip" = "Jei tęsite, ženklai (parašas, grafitis ir kt.) bus išvalyti. Ar tikrai norite išvalyti ženklus?";
+       
+"topscan_setting" = "Į nustatymus";
+       
+"topscan_deletedrive" = "Ar tikrai norite ištrinti dabartinį atsarginės kopijos failą?";
+       
+"topscan_thereisnotstoragespaceon" = "Jūsų telefone nėra pakankamai vietos. Bandykite dar kartą!";
+       
+"topscan_dropboxsussess" = "Atsarginė kopija buvo perkelta į „Dropbox“.";
+       
+"topscan_boxsussess" = "Atsarginė kopija buvo perkelta į „Box“.";
+       
+"topscan_googledrivesussess" = "Atsarginė kopija buvo perkelta į „Google“ diską.";
+       
+"topscan_onedrivesussess" = "Atsarginė kopija buvo perkelta į „Onedrive“.";
+       
+"topscan_startbackupinbackground" = "Pradėti atsarginių kopijų failų įkėlimą fone";
+       
+"topscan_backupinbackgroundaleat" = "Atsarginės kopijos failas bus įkeltas fone, uždarius programą atsarginė kopija gali nepavykti.";
+       
+"topscan_myselfemailshow" = "El. paštu sau";
+       
+"topscan_toemailtitle" = "Į";
+       
+"topscan_subjectplaceholder" = "Tema";
+       
+"topscan_bodyplaceholder" = "Turinys";
+       
+"topscan_emailsettingguide" = "El. paštą galite pakeisti Nustatymai->Bendra->El. paštas";
+       
+"topscan_picturequalityheight" = "Aukštas";
+       
+"topscan_picturequalitylow" = "Žemas";
+       
+"topscan_defaultpagesize" = "Numatytasis puslapio dydis";
+       
+"topscan_privacypolicy" = "Privatumo politika";
+       
+"topscan_faq" = "DUK";
+       
+"topscan_sendfeedback" = "Siųsti atsiliepimą";
+       
+"topscan_version" = "Versija";
+       
+"topscan_rateapp" = "Įvertinti paprastą skaitytuvą";
+       
+"topscan_settinggeneral" = "Bendrai";
+       
+"topscan_settingdocmanagement" = "Dokumentų valdymas";
+       
+"topscan_settingourapp" = "Mūsų programa";
+       
+"topscan_settingfaxname" = "Paprastas faksas";
+       
+"topscan_settingfaxreceivename" = "Faksogramos priėmimas";
+       
+"topscan_settinguseragreement" = "Naudotojo sutartis";
+       
+"topscan_settingusersuggestion" = "Pasiūlymai ir atsiliepimai";
+       
+"topscan_settingdocname" = "Dokumento pavadinimas";
+       
+"topscan_settingdoctime" = "Dokumento laikas";
+       
+"topscan_changepagesize" = "Keisti puslapio dydį";
+       
+"topscan_documentname" = "Paties apibrėžtas dokumento pavadinimas";
+       
+"topscan_documentdate" = "Paties apibrėžtas dokumento laikas";
+       
+"topscan_autosavetogallery" = "Automatiškai išsaugoti albume";
+       
+"topscan_saveoriginalimage" = "Išsaugoti originalų vaizdą";
+       
+"topscan_saveoriginalimagetip" = "Ši funkcija daugiausia atstato apkarpymo funkciją,o tai padidina saugojimo vietą";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Automatiškai išsaugoti nuskaitymus galerijoje";
+   
+"topscan_textblankprompt" = "Atpažinti vaizdą ir konvertuoti į tekstą";
+   
+"topscan_noteplaceholder" = "Pradėkite pridėti pastabų!";
+   
+"topscan_ocrtexttdit" = "Redaguoti";
+   
+"topscan_ocrtextcopy" = "Kopijuoti";
+   
+"topscan_ocrtextexport" = "Eksportuoti";
+   
+"topscan_ocrtexttranslation" = "Vertimas";
+   
+"topscan_ocrdefaultlanguage" = "Anglų";
+   
+"topscan_ocrautomatic" = "Automatinis";
+   
+"topscan_ocrtextagain" = "OCR dar kartą";
+   
+"topscan_ocrtypecloud" = "Debesies OCR";
+   
+"topscan_ocrtypelocal" = "Greitas vietinis atpažinimas";
+   
+"topscan_ocrtypelocaltip" = "Palaiko tik lotyniškus rašmenis";
+   
+"topscan_ocrdownfail" = "atsisiųsti nepavyko";
+   
+"topscan_ocrrecentanguages" = "Naujausios kalbos";
+   
+"topscan_ocralllanguages" = "Visos kalbos";
+   
+"topscan_ocrexportcopy" = "Nukopijuoti į iškarpinę";
+   
+"topscan_ocrchooseendpoint" = "Pasirinkti artimiausią galinį tašką";
+   
+"topscan_ocrgoogleendpointprompt" = "Automatiškai parinkti geriausią pasaulinį mazgą, nereikia rinktis!";
+   
+"topscan_ocrthirdocrfailprompt" = "Apdorojimo klaida arba nėra teksto, bandykite dar kartą!";
+   
+"topscan_networkstate" = "WLAN yra išjungtas";
+   
+"topscan_networkstatecontent" = "Nustatymuose galite įjungti WLAN „simpleScan“ programai";
+   
+"topscan_ocragainallpage" = "Visi puslapiai";
+   
+"topscan_ocragaincurrentpage" = "Dabartinis puslapis";
+   
+"topscan_ocrtextagainvctip" = "Redagavimo metu atlikti pakeitimai bus prarasti, jei bakstelėsite \"Atgal\"";
+   
+"topscan_ocrocrvctip" = "Ar tikrai norite išeiti iš dabartinio teksto atpažinimo?";
+   
+"topscan_ocrocrgooglepoint" = "Visuotinis";
+   
+"topscan_ocrocragaintitle" = "Palieskite tekstą, kurį norite redaguoti";
+   
+"topscan_ocrocrlanguagetitle" = "Kalba";
+   
+"topscan_ocrocragainendpoint" = "Galutinis taškas";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Atpažinti dabartinį puslapį";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Atpažinti visus puslapius";
+ 
+"topscan_translatesourcelanguage" = "Šaltinio kalba";
+ 
+"topscan_translatetargetlanguage" = "Tikslinė kalba";
+ 
+"topscan_deletelanguagepack" = "Ištrinti kalbos modelį";
+ 
+"topscan_stoploadlanguagepack" = "Sustabdyti kalbos modelio atsisiuntimą";
+ 
+"topscan_scorecancel" = "Ne dabar";
+ 
+"topscan_scorefivestar" = "5 žvaigždutės";
+ 
+"topscan_tagsungrouped" = "Negrupuoti";
+ 
+"topscan_tagsalldocs" = "Visi dokumentai";
+ 
+"topscan_tagssearchplaceholder" = "Įvesties žyma";
+ 
+"topscan_tagsalltagstitle" = "Visos žymos";
+ 
+"topscan_tagsalreadyexists" = "Žyma jau egzistuoja!";
+ 
+"topscan_tagstagdelete" = "Ištrintų etikečių atkurti negalima. Patvirtinti, kad ištrintumėte?";
+ 
+"topscan_tagsdone" = "atlikta";
+ 
+"topscan_tagssettag" = "Nustatyti žymas";
+ 
+"topscan_tagstagmanager" = "Žyma";
+ 
+"topscan_tagsentermanager" = "Žymos";
+ 
+"topscan_tagstagnotecontent" = "Ar norite išsaugoti redakcijas?";
+ 
+"topscan_tagstagmanageradd" = "Pridėti naują žymą";
+ 
+"topscan_tagstagmanageraddplac" = "Įveskite žymos pavadinimą";
+ 
+"topscan_tagscreatelabs" = "Norėdami sukurti etiketes ~";
+   
+"topscan_drivestartupdate" = "Pradedamas įkelti atsarginis failas";
+     
+"topscan_driveuploading" = "įkeliama...";
+     
+"topscan_buildingpdf" = "Kuriamas PDF";
+     
+"topscan_processingjpg" = "Apdorojamas JPG";
+     
+"topscan_processing" = "Apdorojimas";
+     
+"topscan_processingdoc" = "Apdorojamas Doc";
+     
+"topscan_processingzip" = "Apdorojamas ZIP";
+     
+"topscan_sortprocessing" = "Rūšiuoti apdorojimą";
+     
+"topscan_removeing" = "Pašalinama";
+     
+"topscan_copyprocessing" = "Kopijuojama";
+     
+"topscan_moveprocessing" = "Perkeliama";
+     
+"topscan_mergeing" = "Sujungiama";
+     
+"topscan_initdata" = "Inicializuojami duomenys";
+     
+"topscan_docpasswordicon" = "Užrakinti";
+     
+"topscan_docpasswordunlockicon" = "Atrakinti";
+     
+"topscan_pdfpassword" = "PDF eksportavimo slaptažodis";
+     
+"topscan_pdfpasswordclear" = "Išvalyti PDF slaptažodį";
+     
+"topscan_touchtitle" = "Patvirtinkite „Touch ID“";
+     
+"topscan_clearapppsd" = "Ar norite išvalyti programos slaptažodžio parinktis?";
+     
+"topscan_cleardocpsd" = "Ar norite išvalyti „Document Access“ slaptažodžio parinktis?";
+     
+"topscan_passwordhelptip" = "Reikia pagalbos?";
+     
+"topscan_passwordhelpsubject" = "Dokumento slaptažodžio atsiliepimai";
+     
+"topscan_passwordapphelpsubject" = "Programos slaptažodžio atsiliepimai";
+     
+"topscan_enterpwd" = "Įveskite slaptažodį";
+     
+"topscan_appsecurity" = "Programos saugumas";
+     
+"topscan_apppwd" = "Programos slaptažodis";
+     
+"topscan_setpasswordlaceholder" = "Prašome įvesti savo slaptažodį";
+     
+"topscan_resetpasswordlaceholder" = "Įveskite slaptažodį iš naujo";
+     
+"topscan_setpasswordtitle" = "Nustatyti slaptažodį";
+     
+"topscan_setpdfpasswordtitle" = "PDF slaptažodis";
+     
+"topscan_resetpasswordtitle" = "Įvesti slaptažodį";
+     
+"topscan_writepasswordfail" = "Slaptažodžiai nesutampa, bandykite dar kartą!";
+     
+"topscan_writetwopasswordfail" = " Du įvesti slaptažodžiai nesutampa, bandykite dar kartą!";
+     
+"topscan_backupbottomtitle" = "Atkurkite iš ankstesnės atsarginės kopijos arba perkelkite nuskaitymus iš kito prietaiso";
+     
+"topscan_docaccesspassword" = "„Doc Access“ slaptažodis";
+     
+"topscan_turnoffpassword" = "Išjungti slaptažodį";
+     
+"topscan_changepassword" = "Pakeisti slaptažodį";
+     
+"topscan_storagespacenotenough" = "Telefone nėra pakankamai saugyklos vietos";
+     
+"topscan_storagespacetitle" = "Telefono saugyklos vieta yra mažesnė nei 200M, kad failų nebūtų galima įrašyti, atlaisvinkite vietos";
+     
+"topscan_appheadingtitle" = "Nustatykite programos slaptažodį, kad apsaugotumėte dokumentų saugumą";
+     
+"topscan_docheadingtitle" = "Nustatykite slaptažodį, kad galėtumėte peržiūrėti slaptažodžiu apsaugotus dokumentus";
+     
+"topscan_pdfheadingtitle" = "Nustatykite PDF failų bendrinimo ir eksportavimo slaptažodį, kad apsaugotumėte failų privatumą";
+     
+"topscan_batchall" = "Pilnas";
+     
+"topscan_batchauto" = "Automatinis";
+     
+"topscan_batchfit" = "Talpinti";
+     
+"topscan_left" = "Kairėje";
+     
+"topscan_right" = "Dešinėje";
+     
+"topscan_crop" = "Apkarpyti";
+     
+"topscan_filter" = "Filtras";
+     
+"topscan_prompt" = "Raginimas";
+     
+"topscan_promptcontent" = "Pakeitimai dar neišsaugoti. Išsaugoti dabar?";
+     
+"topscan_no" = "Ne";
+     
+"topscan_yes" = "Taip";
+     
+"topscan_batchsave" = "Išsaugoti";
+     
+"topscan_scansignature" = "Nuskaitykite savo parašą";
+     
+"topscan_importsignature" = "Importuoti iš albumo";
+     
+"topscan_waittip" = "Failas apdorojamas, palaukite...";
+     
+"topscan_nooriginalimgdefault" = "Kai kurių failų negalima atstatyti ir apkarpyti, o originalaus failo nepavyksta rasti";
+     
+"topscan_nooriginalimgfilter" = "Kai kurių failų iš naujo filtruoti negalima, nes nepavyksta rasti pradinio failo";
+     
+"topscan_nooriginalimgmore" = "ir daugiau";
+     
+"topscan_nooriginalimgsetting" = "galite atidaryti nustatymų parinktį, kad išsaugotumėte originalaus paveikslėlio parinktį";
+     
+"topscan_alldatanooriginalimg" = "Nepavyko atstatyti apkarpymo, originalaus failo nėra!";
+     
+"topscan_alldatanooriginalimgfilter" = "Nepavyko atstatyti filtro apdorojimo, originalaus failo nėra!";
+     
+"topscan_cropautomatic" = "Automatiškai apkarpyti vaizdą";
+     
+"topscan_cropautomatictip" = "Automatiškai apkarpyti vaizdus paketinio nuskaitymo režimu";
+     
+"topscan_cropautomaticcameraaip" = "Automatiškai apkarpyti";
+     
+"topscan_camerafilterremind" = "Galite pakeisti numatytąjį paketinio režimo filtrą";
+     
+"topscan_cameracropremindfirst" = "Galite pakeisti, ar";
+     
+"topscan_cameracropremindsecond" = "paketinis režimas yra apkarpytas";
+     
+"topscan_flitertypeapplylocation" = "Taikyti visiems puslapiams";
+     
+"topscan_colletionpdftolongpictitle" = "PDF eksportavimas į ilgą paveikslėlį";
+     
+"topscan_colletionpdftopictitle" = "PDF į vaizdą";
+     
+"topscan_colletionpdfpasswordtitle" = "PDF slaptažodis";
+     
+"topscan_colletionpdfextracttitle" = "PDF ištrauka";
+     
+"topscan_colletiondocpasswordtitle" = "„Doc“ slaptažodis";
+     
+"topscan_colletionscanidcardtitle" = "Nuskaityti asmens tapatybės kortelę";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF pridėti vandenženklį";
+     
+"topscan_colletionpdfsignaturetitle" = "PDF parašas";
+     
+"topscan_colletionpdfpageadjustment" = "PDF puslapio koregavimas";
+     
+"topscan_colletionimagetopdf" = "Vaizdas į PDF";
+     
+"topscan_colletionbottomtitle" = "Ištraukti puslapį";
+     
+"topscan_colletionmydevice" = "Mano prietaisas";
+     
+"topscan_colletionpdfextractbottomtitle" = "Ištraukti sugeneruoti naują dokumentą";
+     
+"topscan_docreminedtitle" = "Įgalinti pranešimų leidimus";
+     
+"topscan_docreminedcontent" = "Neįgalinate pranešimų leidimų, todėl negalite naudoti dokumentų įspėjimų, kol jie neįgalinti.";
+     
+"topscan_docreminetime" = "Dokumento priminimo laikas turi būti ilgesnis nei dabartinis sistemos laikas!";
+     
+"topscan_questiontype" = "Pasirinkite tipą";
+     
+"topscan_questiondescrible" = "Įveskite savo klausimą ar pasiūlymą";
+     
+"topscan_suggestionremind" = "Norėdami sukurti ekrano kopiją „iPhone 8“ ir ankstesniuose modeliuose, vienu metu paspauskite mygtuką „Užmigdyti/pabudinti“ ir mygtuką „Pagrindinis“.";
+     
+"topscan_suggestionremindx" = "Norėdami sukurti ekrano kopiją „iPhone X“ ir naujesniuose modeliuose, vienu metu paspauskite garsumo didinimo ir užrakinimo mygtukus.";
+     
+"topscan_questiontypecrash" = "Gedimas/delsa";
+   
+"topscan_questiontypetaking" = "Fotografavimas/importavimas iš albumo";
+   
+"topscan_questiontypephoto" = "Nuotraukų redagavimas";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Faksas";
+   
+"topscan_questiontypepoint" = "C taškai";
+   
+"topscan_questiontypeshare" = "Bendrinti/El.p./Spausdinti";
+   
+"topscan_questiontypeinterface" = "Sąsaja";
+   
+"topscan_questiontypefeatures" = "Daugiau funkcijų";
+   
+"topscan_questiontypeother" = "Kiti klausimai";
+   
+"topscan_questiontypetoast" = "Ar yra kokių nors naudojimo problemų? Arba galite pateikti mums pasiūlymus bei reikalavimus dėl programos funkcijų ir mes mielai išklausysime jūsų nuomonę.";
+   
+"topscan_questionsetting" = "Nustatymai";
+   
+"topscan_questioncontinue" = "Tęsti";
+   
+"topscan_questioninvalidemail" = "Neteisingas el. pašto adresas";
+   
+"topscan_questiontoasttitle" = "Pridėti ekrano kopijas (nebūtina)";
+   
+"topscan_submittedsuccessfully" = "Pateikta sėkmingai!";
+   
+"topscan_suggestioncontenttitle" = "Detalės";
+   
+"topscan_suggestionsubmit" = "Pateikti";
+   
+"topscan_remindtitle" = "Pavadinimas";
+   
+"topscan_remindreturn" = "Grįžti";
+   
+"topscan_guidetitleprofessional" = "Profesionalas";
+   
+"topscan_guidetitlecollage" = "ID koliažo režimas";
+   
+"topscan_guidetitlebackup" = "Atsarginė kopija ir atkūrimas";
+   
+"topscan_guideprofessionaldes" = "Automatiškai aptikti dokumentus, greitai apkarpyti, paryškinti ir patobulinti dokumentus.";
+   
+"topscan_guidecollagedes" = "Surinkti asmens tapatybės kortelės vaizdų koliažą į dokumentą, pateikti kelias šablonų parinktis ir pasirinktinį dydį.";
+   
+"topscan_guideimagedes" = "Automatiškai atpažinti tekstą per debesies dirbtinio intelekto technologiją, redaguoti, kopijuoti, bendrinti, eksportuoti savo tekstą.";
+   
+"topscan_guidebackupdes" = "Kurti atsarginę jūsų dokumentų kopiją debesies arba vietinėje saugykloje ir bet kada atkurti atsargines dokumentų kopijas.";
+   
+"topscan_showstatustitle" = "Įkeliami duomenys";
+   
+"topscan_placeholderpassword" = "Slaptažodis";
+   
+"topscan_manualsorttitle" = "Ilgas paspaudimas, jei norite rūšiuoti rankiniu būdu";
+   
+"topscan_docgraffiti" = "Grafitis";
+   
+"topscan_docaddtext" = "Pridėti tekstą";
+   
+"topscan_copypage" = "Kopijuoti dabartinį puslapį";
+   
+"topscan_copyallpages" = "Kopijuoti visus puslapius";
+   
+"topscan_showprocess" = "apdorojama...";
+   
+"topscan_importimgerror" = "Failo nėra arba yra duomenų klaida!";
+   
+"topscan_somefileloss" = "Kažkokia failo nuskaitymo klaida!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "Funkcija, kurią privaloma turėti! Per 1 min galite pasidaryti dvipusę asmens tapatybės kortelės elektroninę kopiją. 100 % r paruoštas spausdinti.";
+    
+"topscan_paperexample" = "A4 formato popieriaus pavyzdys";
+    
+"topscan_restorebackup" = "ATSARGINKITE DABAR";
+    
+"topscan_restorelastbackup" = "Paskutinės atsarginės kopijos data";
+    
+"topscan_restoremerge" = "Atkurkite ir sujunkite visus esamus dokumentus";
+    
+"topscan_restoredelete" = "Atkurkite ir ištrinkite visus esamus dokumentus";
+    
+"topscan_restoretitle" = "ATKURTI";
+    
+"topscan_restorenotlogin" = "Aptikta debesies paskyros prisijungimo būsena.";
+    
+"topscan_restorenotrepeat" = "Įkeliamas atsarginės kopijos failas, palaukite...";
+    
+"topscan_restorebackwifi" = "Kurti atsarginę kopiją tik naudojant „Wi-Fi“";
+    
+"topscan_restorenodocument" = "Šiuo metu nėra jokio dokumento, pirmiausia pridėkite dokumentą.";
+    
+"topscan_restorequery" = "pateikiama užklausa...";
+    
+"topscan_restorequeryfailed" = "Užklausa nepavyko arba atsarginės kopijos failas nerastas.";
+    
+"topscan_restoreprocessfiles" = "Apdorojami failai";
+    
+"topscan_restorebackupfailed" = "Nepavyko sukurti atsarginės kopijos!";
+    
+"topscan_restoreuploadingfile" = "Įkeliamas failas, palaukite...";
+    
+"topscan_saferepasscode" = "Dar kartą įveskite kodą";
+    
+"topscan_saferepassword" = "Įveskite slaptažodį iš naujo";
+    
+"topscan_applicationsecrulty" = "Programos paslaptis";
+    
+"topscan_verifypasscode" = "Patikrinti kodą";
+    
+"topscan_setpasscode" = "Nustatyti kodą";
+    
+"topscan_enternewpassword" = "Įvesti naują slaptažodį";
+    
+"topscan_filetype" = "Failo tipas";
+    
+"topscan_fileformat" = "Failo formatas";
+    
+"topscan_sharepdfformat" = "Bendrinti failus .PDF formatu";
+    
+"topscan_sharezipformat" = "Bendrinti failus .ZIP formatu";
+    
+"topscan_sharejpgformat" = "Bendrinti failus .JPG formatu";
+    
+"topscan_newfolderprompt" = "Naujas aplankas";
+    
+"topscan_currentdocument" = "Dabartinis dokumentas";
+    
+"topscan_recognizetitle" = "Atpažinti";
+    
+"topscan_filedeleteprompt" = "Atsarginis failas sėkmingai ištrintas!";
+    
+"topscan_filedownbackup" = "Atsisiųsti atsarginį failą...";
+    
+"topscan_filestartbackup" = "Pradedamas atsisiųsti atsarginis failas";
+    
+"topscan_filerestoresuccessed" = "Atsarginį failą atkurti pavyko.";
+    
+"topscan_uploadsingin" = "PRISIJUNGTI";
+    
+"topscan_singoutlowercase" = "Atsijungti";
+    
+"topscan_processingerror" = "Failo apdorojimo klaida!";
+    
+"topscan_barcodeopenurl" = "Atidaryti URL";
+    
+"topscan_barcoderesult" = "Atpažinimo rezultatas";
+    
+"topscan_downloadlanguage" = "Kalba atsisiunčiama...";
+    
+"topscan_graffitibrush" = "Teptukas";
+    
+"topscan_graffitiopacity" = "Nepermatomumas";
+    
+"topscan_graffitieraser" = "Trintukas";
+    
+"topscan_graffiticolor" = "Spalva";
+    
+"topscan_graffitiundo" = "Atšaukti";
+    
+"topscan_graffitiredo" = "Perdaryti";
+    
+"topscan_nosignture" = "Nėra parašo!";
+    
+"topscan_graffititext" = "Tekstas";
+        
+"topscan_graffitireplacefile" = "Pakeiskite dabartinį failą";
+        
+"topscan_graffiticreatefile" = "Sukurti naują failą";
+        
+"topscan_graffiticopyto" = "Nukopijuoti į";
+        
+"topscan_graffitimoveto" = "Perkelti į";
+        
+"topscan_graffititextrecognition" = "Atpažinimo tekstas";
+        
+"topscan_ocraccount" = "OCR paskyros valdymas";
+        
+"topscan_loginsuccessful" = "prisijungta sėkmingai!";
+        
+"topscan_appleloginsuccessful" = "„Apple“ paskyros prisijungimas sėkmingas!";
+        
+"topscan_googleloginsuccessful" = "„Google“ paskyros prisijungimas sėkmingas!";
+        
+"topscan_loginregister" = "Prisijunkite arba užsiregistruokite";
+        
+"topscan_resetpassword" = "Atstatyti slaptažodį";
+        
+"topscan_copysuccessful" = "Nukopijuota sėkmingai";
+        
+"topscan_copyfailed" = "Nepavyko nukopijuoti";
+        
+"topscan_loginicloudtips" = "Siekdami išvengti balanso praradimo, mes naudojame paskyrą jūsų balansui susieti. Tuo pačiu metu galite naudoti kelių prietaisų balansą. Prisijunkite arba užregistruokite savo paskyrą.";
+        
+"topscan_loginnow" = "Prisijungti dabar";
+        
+"topscan_emailemptytips" = "El. paštas negali būti tuščias";
+        
+"topscan_psdemptytips" = "Slaptažodis negali būti tuščias";
+    
+"topscan_codeemptytips" = "Patvirtinimo kodas negali būti tuščias";
+    
+"topscan_tips" = "Patarimai";
+    
+"topscan_subscriptsuccessfully" = "Dėkojame, kad užsiprenumeravote „premium“! ";
+    
+"topscan_autorenewable" = "Automatiškai atnaujinama, atšaukti bet kada.";
+    
+"topscan_nofreetrial" = "NĖRA nemokamo bandymo";
+    
+"topscan_details" = "Išsami informacija";
+    
+"topscan_restorepurchase" = "Atkurti įsigytus pirkinius";
+    
+"topscan_freetrial" = "Nemokamas bandymas";
+    
+"topscan_unlimitedfolders" = "Neribotas aplankų skaičius";
+    
+"topscan_unlimitedfoldersintroduce" = "Neribotas aplankų ir poaplankių kūrimas.";
+    
+"topscan_noads" = "Jokių skelbimų";
+    
+"topscan_noadsintroduce" = "Pašalinti skelbimus iš paprasto skaitytuvo.";
+    
+"topscan_pdffileencryption" = "PDF failų šifravimas";
+    
+"topscan_pdffileencryptionintroduce" = "Norėdami apsaugoti savo privatumą, galite nustatyti nuskaitymų (kvitų ar konfidencialių failų) slaptažodį.";
+    
+"topscan_ocrtypecloudintroduce" = "Naudokite debesies dirbtinio intelekto technologiją, kad atpažintumėte ir išgautumėte daugiau kaip 1000 puslapių per mėnesį tekstą.";
+    
+"topscan_cloudservice" = "Debesų paslauga";
+    
+"topscan_cloudserviceintroduce" = "Automatiškai įkelkite dokumentus, PDF, JPG, failų tipus į „Cloud Drive“ arba „iCloud“, kad išvengtumėte dokumentų praradimo.";
+    
+"topscan_functionofcollage" = "Koliažo funkcija";
+    
+"topscan_functionofcollageintroduce" = "Norėdami sujungti kelis puslapius į vieną puslapį, naudokite koliažo funkciją.";
+    
+"topscan_unlimitedscans" = "Neriboti nuskaitymai";
+    
+"topscan_unlimitedscansintroduce" = "Neribojamas nuskaitytų dokumentų skaičius.";
+    
+"topscan_clearwaternark" = "Išvalyti vandenženklį";
+    
+"topscan_clearwaternarkintroduce" = "Pašalinkite PDF vandenženklį ir laikykite PDF švarų bei tvarkingą.";
+    
+"topscan_writesignature" = "Parašas";
+    
+"topscan_writesignatureintroduce" = "Nuskaitykite savo parašą ant popieriaus, kad gautumėte el. parašą, kuris atrodo toks pat, kaip originalas.";
+    
+"topscan_highqualitydoc" = "Aukštos kokybės dokumentas";
+    
+"topscan_highqualitydocintroduce" = "Kelios vaizdo kokybės pasirinkimo parinktys, pasirinkite aukštesnės kokybės parinktį, kad dokumentas būtų aiškesnis.";
+    
+"topscan_emailmyself" = "El. paštu sau";
+    
+"topscan_emailmyselfintroduce" = "Siųskite dokumentus sau el. paštu greičiau ir patogiau.";
+    
+"topscan_exportpdfdoc" = "Eksportuoti PDF dokumentą";
+    
+"topscan_exportpdfdocintroduce" = "Greitai eksportuokite PDF į kitas programas arba išsaugokite savo telefone.";
+    
+"topscan_backupintroduce" = "Dokumentų atsarginės kopijos ir atkūrimas juos sinchronizuojant keliuose prietaisuose.";
+    
+"topscan_graffiti" = "Grafitis";
+    
+"topscan_graffitiintroduce" = "Keiskite dokumentus, grafičius, pridėkite tekstą, parašus ir kt.";
+    
+"topscan_applock" = "APP užraktas";
+    
+"topscan_applockintroduce" = "Įjunkite „Face ID“ arba „Touch ID“, kad vienu žingsniu atrakintumėte „SimpleScanner“.";
+    
+"topscan_imagetotext" = "Vaizdas į tekstą";
+    
+"topscan_imagetotextintroduce" = "Naudokite OCR funkciją tekstui paveikslėlyje atpažinti, kad vėliau galėtumėte jį ieškoti ar bendrinti.";
+    
+"topscan_propdfeditor" = "PDF redaktorius";
+    
+"topscan_propdfeditorintroduce" = "Redaguokite PDF puslapius, pridėkite parašus ir grafičius, PDF slaptažodžius, pašalinkite vandens ženklus ir kt.";
+    
+"topscan_gotosetting" = "Eikite į nustatymą";
+    
+"topscan_ocrnummorethan" = "Debesų OCR buvo naudojamas atpažinti 1000 puslapių per mėnesį dabartiniame skaičiavimo cikle. Jei ir toliau atpažinsite, turite įsigyti OCR puslapius arba palaukite, kol kitas skaičiavimo ciklas automatiškai pridės OCR 1000 puslapių.";
+    
+"topscan_upgradeaccount" = "Daugiau nei 20 pažangių funkcijų";
+    
+"topscan_upgradepremium" = "Atnaujinkite į „premium“";
+    
+"topscan_premium" = "Premium";
+    
+"topscan_nopurrestore" = "Nėra pirkinių atkurti!";
+    
+"topscan_restorefailed" = "Nepavyko atkurti pirkinio.";
+    
+"topscan_restoresuccessfully" = "Pirkinio atkūrimas sėkmingas.";
+    
+  
+  
+  
+  
+  
+  
+  
+"topscan_bindcontent" = "Nenustatėte savo el. pašto paskyros. Eikite į savo telefono „Nustatyti el. pašto adresą“, bakstelėkit „Pridėti paskyrą“, kad sukurtumėte savo el. pašto paskyrą.";
+    
+"topscan_cameratypeidcardintroduce" = "Nuskaitykite ir nukopijuokite abi asmens tapatybės kortelės puses į vieną puslapį per 1 min., išlaikydami originalų kortelės dydį. 100% pparuoštas spausdinti. ";
+    
+  
+"topscan_paymenttext1" = "Mokėjimas bus apmokestintas iš „iTunes“ paskyros patvirtinus pirkimą.";
+    
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+       
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+    
+  
+  
+  
+  
+  
+  
+"topscan_forgotpsd" = "Pamiršote slaptažodį?";
+    
+"topscan_signup" = "Registruotis";
+    
+"topscan_noaccount" = "Neturite paskyros?";
+    
+"topscan_login" = "Prisijungti";
+    
+"topscan_quicklogin" = "Greitas prisijungimas";
+    
+"topscan_paynow" = "Sumokėti dabar";
+    
+"topscan_send" = "Siųsti";
+    
+"topscan_signinsuccess" = "Prisijungėte sėkmingai!";
+    
+"topscan_resend" = "Siųsti dar kartą";
+    
+"topscan_sendcodesuccess" = "Išsiuntimas sėkmingas";
+    
+"topscan_entervercode" = "Įveskite patvirtinimo kodą";
+    
+"topscan_addorginalfile" = "Pridėti original.failo atsarginę kopiją";
+    
+"topscan_turnonpassword" = "Įjungti slaptažodį";
+
+"topscan_rotate" = "Pasukti";
+"topscan_tipask" = "Niekada neklauskite";
+    
+"topscan_croptipmsg" = "Veiksmas gali išvalyti visus OCR rezultatus,užrašą, vandens ženklą ,parašus, grafiti ,tekstą. Tęsti?";
+    
+"topscan_scoretitle" = "Jei jums patinka paprastas skaitytuvas, ar galėtumėte maloniai įvertinti mus „App Store“, kad mus palaikytų?";
+    
+"topscan_resetpsd" = "Mums tiesiog reikia, kad jūsų registruotas el. Pašto adresas jums atsiųstų slaptažodžio nustatymo instrukcijas.";
+    
+"topscan_compressionration" = "Suspaudimo racionas";
+    
+"topscan_size" = "Dydis";
+    
+"topscan_compression" = "Suspaudimas";
+    
+"topscan_pdfpagenumber" = "Puslapio numeris";
+    
+"topscan_pdfpagedirection" = "Puslapio kryptis";
+    
+"topscan_image" = "Vaizdas";
+    
+"topscan_subscriptfailedtips" = "Nepavyko patvirtinti prenumeratos, eikite į Pagrindinis-> Nustatymai-> Atkurti pirkinį!";
+    
+"topscan_cropautomaticcameraaip" = "Automatinis apkarpymas";
+    
+"topscan_nextstep" = "Kitas žingsnis";
+    
+"topscan_addsignature" = "Pridėti parašą";
+
+"topscan_subsctiptplan" = "Jūsų prenumeratos planas";
+    
+"topscan_renewedday" = "Atnaujinta diena";
+    
+"topscan_automaticrenewal" = "Automatinis atnaujinimas";
+    
+"topscan_moredetails" = "Daugiau informacijos";
+    
+"topscan_drivedownloadfiles" = "Debesies importas";
+    
+"topscan_download" = "parsisiųsti";
+    
+"topscan_downloadsuccessfilly" = "Atsisiųsti sėkmingai";
+    
+"topscan_downloadfailed" = "Atsisiuntimas nepavyko";
+    
+"topscan_uselimitedversion" = "Naudokite ribotą versiją";
+    
+"topscan_termsofserice" = "Paslaugų teikimo sąlygos";
+    
+"topscan_unlimitedfeatures" = "Neribotos funkcijos";
+    
+"topscan_subscriptiongives" = "Ši prenumerata suteikia neribotą prieigą prie mūsų privilegijų. Jei neatšauksite bandomojo laikotarpio pabaigos, būsite automatiškai apmokestinti, kol atšauksite.";
+    
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+   
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

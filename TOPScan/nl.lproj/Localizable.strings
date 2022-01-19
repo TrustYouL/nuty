@@ -1,0 +1,1208 @@
+"topscan_collage" = "Collage";
+   
+"topscan_doctag" = "Tag instellen";
+   
+"topscan_picquality" = "Fotokwaliteit";
+   
+"topscan_addto" = "Toevoegen";
+   
+"topscan_share" = "Delen";
+   
+"topscan_email" = "E-mail";
+   
+"topscan_merge" = "Samenvoegen";
+   
+"topscan_copy" = "Kopiëren/Verplaatsen";
+   
+"topscan_sortby" = "Sorteren op";
+   
+"topscan_more" = "Meer";
+   
+"topscan_savetogallery" = "Opslaan in galerie";
+   
+"topscan_upload" = "Uploaden";
+   
+"topscan_uploadsucceeded" = "Opladen Geslaagd";
+   
+"topscan_uploadfailed" = "Upload Mislukt";
+   
+"topscan_delete" = "Verwijderen";
+   
+"topscan_cancel" = "Annuleren";
+   
+"topscan_ok" = "OK";
+   
+"topscan_about" = "over";
+   
+"topscan_error" = "Fout!";
+   
+"topscan_skip" = "Overslaan";
+   
+"topscan_decryption" = "decodering";
+   
+"topscan_allselect" = "Alles selecteren";
+   
+"topscan_cancelallselect" = "Alles deselecteren";
+   
+"topscan_items" = "Geselecteerd";
+   
+"topscan_printing" = "Afdrukken";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Notitie";
+   
+"topscan_retake" = "Opnieuw";
+   
+"topscan_ocr" = "Tekst herkennen";
+   
+"topscan_watermarktitle" = "Watermerk";
+   
+"topscan_addwatermark" = "Een watermerk toevoegen";
+   
+"topscan_editwatermark" = "Watermerk Bewerken";
+   
+"topscan_clearwatermark" = "Inhoud wissen";
+   
+"topscan_removewatermark" = "Watermerk Verwijderen";
+   
+"topscan_remind" = "Waarschuwing";
+   
+"topscan_loading" = "bezig met laden...";
+   
+"topscan_deleteoption" = "Weet u zeker dat u alle geselecteerde documenten wilt verwijderen?";
+   
+"topscan_deletecurrentpage" = "Weet u zeker dat u deze pagina wilt verwijderen?";
+   
+"topscan_deletecurrentdoc" = "Weet u zeker dat u de huidige taal wilt verwijderen?";
+   
+"topscan_bind" = "E-mailaccount instellen";
+   
+"topscan_savefail" = "Datafout!";
+   
+"topscan_phonememoryalert" = "Vanwege problemen met het telefoongeheugen kunnen collages die groter zijn dan 30 foto\'s een crash veroorzaken. Wilt u doorgaan?";
+   
+"topscan_continueshare" = "Doorgaan met delen";
+   
+"topscan_savealert" = "Weet u zeker dat u vertrekt zonder de wijzigingen op te slaan?";
+   
+"topscan_deletesignatureimagealert" = "Weet u zeker dat u de handtekeningafbeelding wilt verwijderen?";
+   
+"topscan_discard" = "Veranderingen ongedaan maken";
+ 
+ 
+"topscan_movesuccess" = "Verplaats document(en) succesvol!";
+   
+"topscan_copysuccess" = "Kopieer document(en) succesvol!";
+   
+"topscan_mergesuccess" = "Document(en) succesvol samenvoegen!";
+   
+"topscan_clearphotos" = "De zojuist gemaakte foto(\'s) worden niet opgeslagen. Weet u zeker dat u de foto(\'s) weggooit?";
+   
+"topscan_noalert" = "Geen herinneringen meer sturen";
+   
+"topscan_editpdf" = "PDF bewerken";
+   
+"topscan_addpage" = "Pagina toevoegen";
+   
+"topscan_collageimage" = "Collagebeeld...";
+   
+"topscan_collageproof" = "Bewijs van eigendom";
+   
+"topscan_collagedriverlicense" = "Rijbewijs";
+   
+"topscan_collageidcard" = "ID-kaart";
+   
+ 
+ 
+"topscan_collagepassport" = "Paspoort";
+   
+"topscan_collageaccountbook" = "Rekeningboek";
+   
+"topscan_idcardanti" = "Anti-namaak";
+   
+"topscan_importpic" = "Galerij";
+   
+"topscan_userdefinedsize" = "Zelfgedefinieerde bestandsgrootte voor het delen";
+   
+"topscan_filecompressiontitle" = "Voer de een compressieverhouding van 1 tot 99 in";
+   
+"topscan_manualsorting" = "Handmatig sorteren";
+   
+"topscan_firstontop" = "Eerste bovenaan";
+   
+"topscan_lastontop" = "Laatste bovenaan";
+   
+"topscan_siderename" = "Hernoemen";
+   
+"topscan_creatdatadescend" = "Datum Aanmaken (oplopend)";
+   
+"topscan_creatdataascend" = "Datum Aanmaken (aflopend)";
+   
+"topscan_filenameatoz" = "Bestandsnaam(A tot Z)";
+   
+"topscan_filenameztoa" = "Bestandsnaam(Z tot A)";
+   
+"topscan_girdview2" = "Gird uitzicht";
+   
+"topscan_girdview3" = "(3 kolommen)";
+   
+"topscan_girdviewlist" = "Lijstweergave";
+   
+"topscan_folderlocationtop" = "Map bovenaan";
+   
+"topscan_folderlocationbottom" = "Map onderaan";
+   
+"topscan_fax" = "Fax";
+   
+"topscan_hidepagedetails" = "Informatie van pagina verbergen";
+   
+"topscan_displaypagedetails" = "Informatie van pagina weergeven";
+   
+"topscan_batchedit" = "Batchbewerking";
+   
+"topscan_pdffile" = "PDF-bestand";
+   
+"topscan_image_jpg" = "Afbeelding(JPG)";
+   
+"topscan_longimage_jpg" = "Als lange afbeelding delen";
+   
+"topscan_txt" = "Txt delen";
+   
+"topscan_originalsize" = "Originele grootte";
+   
+"topscan_medium" = "Middelgroot";
+   
+"topscan_small" = "Klein";
+   
+"topscan_superhigh" = "Groot";
+   
+"topscan_shareapp" = "Deze app delen";
+   
+"topscan_backup" = "Back-up maken en Herstellen";
+   
+"topscan_icouldbackup" = "Back-up maken";
+   
+"topscan_importimage" = "Afbeelding importeren";
+   
+"topscan_mergepdf" = "PDF Samenvoegen";
+   
+"topscan_importfile" = "Bestand Importeren";
+   
+"topscan_longpresstip" = "Ik begrijp het";
+   
+"topscan_search" = "Zoeken";
+   
+"topscan_homemoredocremind" = "Documentherinnering";
+   
+"topscan_settingtemplate" = "Sjabloon";
+   
+"topscan_settingfamily" = "Familie";
+   
+"topscan_shareappcontent" = "Geweldige scannersoftware gevonden, downloadlink";
+   
+"topscan_mergefilemethodtitle" = "Kies een samenvoegmethode";
+   
+"topscan_mergefilemethodkeepold" = "Oud document samenvoegen en behouden";
+   
+"topscan_mergefilemethoddeleteold" = "Oud document samenvoegen en verwijderen";
+   
+"topscan_cameradiscardtitle" = "Pagina\'s verwijderen";
+   
+"topscan_cameradiscardmssage" = "Alle pagina\'s verwijderen?";
+   
+"topscan_cameraaccidenttitle" = "Informatie";
+   
+"topscan_cameraaccidentmssage" = "sommige foto\'s die u de vorige keer hebt gemaakt, zijn niet verwerkt, wilt u ze laden?";
+   
+"topscan_cameralighton" = "AAN";
+   
+"topscan_cameralightoff" = "UIT";
+   
+"topscan_cameralightauto" = "Automatisch";
+   
+"topscan_cameralighttorch" = "Fakkel";
+   
+"topscan_cameratypetotext" = "Sms\'en";
+   
+"topscan_cameratypesingle" = "Enkel";
+   
+"topscan_cameratypebatch" = "Partij";
+   
+"topscan_cameratypeqrbarcode" = "QR& streepjescode";
+   
+"topscan_camerapermissiontitle" = "Open a.u.b. camerarechten";
+   
+"topscan_camerapermissionguide" = "Instelling-Privacy-Camera";
+   
+"topscan_albumpermissiontitle" = "Open a.u.b. albumrechten";
+   
+"topscan_albumpermissionguide" = "Instellingen-Privacy-Foto\'s-Alle foto\'s";
+   
+"topscan_safeentertips" = "Voer een wachtwoord van 4 cijfers in!";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Weet u zeker dat u zich wilt afmelden?";
+       
+"topscan_psderror" = "Verkeerd wachtwoord ,probeer het opnieuw!";
+       
+"topscan_pdferror" = "Wachtwoord komt niet overeen, probeer het opnieuw!";
+       
+"topscan_touchidnotenrolled" = "Het apparaat is niet gedetecteerd om de touch ID in te schakelen. Ga naar het telefooninstellingencentrum om de touch ID-functie in te schakelen.";
+       
+"topscan_faceidnotenrolled" = "Het apparaat is niet gedetecteerd om de gezichts-ID in te schakelen. Ga naar het telefooninstellingencentrum om de gezichts-ID-functie in te schakelen.";
+       
+"topscan_opensysset" = "Autorisatie om het centrum in te stellen";
+       
+"topscan_againvafaceid" = "Klik om Face ID te verifiëren";
+       
+"topscan_againvatouchid" = "Klik om Touch ID te verifiëren";
+       
+"topscan_pdfpagenumberno" = "Geen paginanummer";
+       
+"topscan_pdfpagenumberlowerl" = "de linkerbenedenhoek";
+       
+"topscan_pdfpagenumberbottomc" = "het middelste gebied onderaan";
+       
+"topscan_pdfpagenumberlowerr" = "rechtsonder";
+       
+"topscan_pdfpagenumberupperl" = "de linkerbovenhoek";
+       
+"topscan_pdfpagenumberheadc" = "het bovenste gebied bovenaan";
+       
+"topscan_pdfpagenumberupperr" = "de rechterbovenhoek";
+       
+"topscan_colletionfunctiontitle" = "Document Selecteren";
+       
+"topscan_pdfdirectionauto" = "Automatisch aanpassen op afbeeldingsgrootte";
+       
+"topscan_pdfdirectionlandscape" = "Landschap";
+       
+"topscan_pdfaddsignature" = "Portret";
+       
+"topscan_changepdfsizealert" = "Met de huidige wijzigingen wordt de PDF-handtekening opnieuw ingesteld. Wilt u doorgaan?";
+       
+"topscan_emptypdfnamealert" = "De PDF-naam mag niet leeg zijn!";
+       
+"topscan_createdsuccessfully" = "Met succes gemaakt";
+       
+"topscan_hasfolder" = "Het document/map bestaat reeds. Kies een andere naam.";
+       
+"topscan_creationfailed" = "Maken mislukt";
+       
+"topscan_duplicationname" = "Deze naam is reeds in gebruik. Voer een andere naam in.";
+       
+"topscan_folderexists" = "Map bestaat al.";
+       
+"topscan_emailinvalidtips" = "Voer het juiste e-mailadres in";
+       
+"topscan_defaultprocess" = "Standaardproces";
+       
+"topscan_original" = "Origineel";
+       
+"topscan_blackwhite" = "Z / W";
+       
+"topscan_blackwhite2" = "Z / W2";
+       
+"topscan_blackwhite3" = "Z / W3";
+       
+"topscan_nostalgic" = "Nostalgisch";
+       
+"topscan_magiccolor" = "Magische kleur";
+       
+"topscan_magiccolor2" = "Magische kleur2";
+       
+"topscan_grayscale" = "Grijstinten";
+       
+"topscan_lastfilter" = "Vorige filter";
+       
+"topscan_clear" = "Doorzichtig";
+       
+"topscan_clearmarks" = "Markeringen wissen";
+       
+"topscan_markstip" = "De markeringen(handtekening, graffiti enz.) worden gewist als u doorgaat. Weet u zeker dat u de markeringen wilt wissen?";
+       
+"topscan_setting" = "Naar Instellingen";
+       
+"topscan_deletedrive" = "Weet u zeker dat u het huidige back-upbestand wilt verwijderen?";
+       
+"topscan_thereisnotstoragespaceon" = "Er is te weinig opslagruimte op uw telefoon. Probeer het opnieuw.";
+       
+"topscan_dropboxsussess" = "De back-up werd overgebracht naar Dropbox.";
+       
+"topscan_boxsussess" = "De back-up werd naar de Box overgebracht.";
+       
+"topscan_googledrivesussess" = "De back-up werd overgebracht naar Google Drive.";
+       
+"topscan_onedrivesussess" = "De back-up werd overgebracht naar Onedrive.";
+       
+"topscan_startbackupinbackground" = "Begin met het uploaden van back-upbestanden op de achtergrond";
+       
+"topscan_backupinbackgroundaleat" = "Het uploaden van het back-upbestand gebeurt op de achtergrond, het sluiten van de applicatie kan ertoe leiden dat de back-up mislukt.";
+       
+"topscan_myselfemailshow" = "Naar mijzelf e-mailen";
+       
+"topscan_toemailtitle" = "Naar";
+       
+"topscan_subjectplaceholder" = "Onderwerp";
+       
+"topscan_bodyplaceholder" = "Tekst";
+       
+"topscan_emailsettingguide" = "U kunt uw e-mail wijzigen in Instellingen -> Algemeen -> E-mail.";
+       
+"topscan_picturequalityheight" = "Hoog";
+       
+"topscan_picturequalitylow" = "Laag";
+       
+"topscan_defaultpagesize" = "Standaard paginagrootte";
+       
+"topscan_privacypolicy" = "Privacybeleid";
+       
+"topscan_faq" = "FAQ";
+       
+"topscan_sendfeedback" = "Feedback verzenden";
+       
+"topscan_version" = "Versie";
+       
+"topscan_rateapp" = "Beoordeel eenvoudige scanner";
+       
+"topscan_settinggeneral" = "ALGEMEEN";
+       
+"topscan_settingdocmanagement" = "Documentenbeheer";
+       
+"topscan_settingourapp" = "Onze app";
+       
+"topscan_settingfaxname" = "Eenvoudig faxen";
+       
+"topscan_settingfaxreceivename" = "Fax Ontvangen";
+       
+"topscan_settinguseragreement" = "Gebruikersovereenkomst";
+       
+"topscan_settingusersuggestion" = "Suggestie en feedback";
+       
+"topscan_settingdocname" = "Naam Document";
+       
+"topscan_settingdoctime" = "Documenttijd";
+       
+"topscan_changepagesize" = "Paginagrootte wijzigen";
+       
+"topscan_documentname" = "Zelf-gedefinieerde documentnaam";
+       
+"topscan_documentdate" = "Zelf gedefinieerde documenttijd Document";
+       
+"topscan_autosavetogallery" = "Automatisch opslaan in album";
+       
+"topscan_saveoriginalimage" = "Originele afbeelding opslaan";
+       
+"topscan_saveoriginalimagetip" = "Deze functie reset voornamelijk de bijsnijdfunctie, waardoor er meer opslagruimte vrijkomt.";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Sla de scans automatisch op in Galerij";
+   
+"topscan_textblankprompt" = "Herken afbeelding en converteer naar tekst";
+   
+"topscan_noteplaceholder" = "Begin met het toevoegen van notities.";
+   
+"topscan_ocrtexttdit" = "Bewerken";
+   
+"topscan_ocrtextcopy" = "Kopiëren";
+   
+"topscan_ocrtextexport" = "Exporteren";
+   
+"topscan_ocrtexttranslation" = "Vertaling";
+   
+"topscan_ocrdefaultlanguage" = "Engels";
+   
+"topscan_ocrautomatic" = "Automatisch";
+   
+"topscan_ocrtextagain" = "OCR opnieuw";
+   
+"topscan_ocrtypecloud" = "Cloud-OCR";
+   
+"topscan_ocrtypelocal" = "Lokale snelle herkenning";
+   
+"topscan_ocrtypelocaltip" = "Ondersteunt alleen Latijnse karakters";
+   
+"topscan_ocrdownfail" = "download mislukt";
+   
+"topscan_ocrrecentanguages" = "Recente talen";
+   
+"topscan_ocralllanguages" = "Alle talen";
+   
+"topscan_ocrexportcopy" = "Kopieer naar klembord";
+   
+"topscan_ocrchooseendpoint" = "Kies het dichtstbijzijnde eindpunt";
+   
+"topscan_ocrgoogleendpointprompt" = "Selecteer automatisch het beste globale knooppunt, u hoeft niet te kiezen!";
+   
+"topscan_ocrthirdocrfailprompt" = "Verwerkingsfout of geen tekst beschikbaar, probeer het opnieuw!";
+   
+"topscan_networkstate" = "WLAN is uitgeschakeld";
+   
+"topscan_networkstatecontent" = "U kunt WLAN inschakelen voor de \'simpleScan\'-app in Instellingen";
+   
+"topscan_ocragainallpage" = "Alle pagina\'s";
+   
+"topscan_ocragaincurrentpage" = "Huidige pagina";
+   
+"topscan_ocrtextagainvctip" = "Bewerkingen die tijdens het proeflezen zijn gemaakt, gaan verloren als u op Terug tikt";
+   
+"topscan_ocrocrvctip" = "Weet u zeker dat u de huidige tekstherkenning wilt verlaten?";
+   
+"topscan_ocrocrgooglepoint" = "Globaal";
+   
+"topscan_ocrocragaintitle" = "Tik op de tekst om te bewerken";
+   
+"topscan_ocrocrlanguagetitle" = "Taal";
+   
+"topscan_ocrocragainendpoint" = "Eindpunt";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Herken huidige pagina";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Herken alle pagina\'s";
+ 
+"topscan_translatesourcelanguage" = "Brontaal";
+ 
+"topscan_translatetargetlanguage" = "Doel taal";
+ 
+"topscan_deletelanguagepack" = "Taalmodel verwijderen";
+ 
+"topscan_stoploadlanguagepack" = "Download taalmodel stoppen";
+ 
+"topscan_scorecancel" = "Niet nu";
+ 
+"topscan_scorefivestar" = "5 sterren";
+ 
+"topscan_tagsungrouped" = "Niet-gegroepeerd.";
+ 
+"topscan_tagsalldocs" = "Alle documenten";
+ 
+"topscan_tagssearchplaceholder" = "Tag invoeren";
+ 
+"topscan_tagsalltagstitle" = "Alel tags";
+ 
+"topscan_tagsalreadyexists" = "Deze tag bestaat reeds.";
+ 
+"topscan_tagstagdelete" = "Verwijderde labels kunnen niet worden hersteld. Bevestigen om te verwijderen?";
+ 
+"topscan_tagsdone" = "Voltooid";
+ 
+"topscan_tagssettag" = "Tags instellen";
+ 
+"topscan_tagstagmanager" = "Label";
+ 
+"topscan_tagsentermanager" = "Tags";
+ 
+"topscan_tagstagnotecontent" = "Wilt u de bewerkingen opslaan?";
+ 
+"topscan_tagstagmanageradd" = "Nieuwe tag toevoegen";
+ 
+"topscan_tagstagmanageraddplac" = "Voer de naam van de tag in.";
+ 
+"topscan_tagscreatelabs" = "Labels maken ~";
+   
+"topscan_drivestartupdate" = "Het back-upbestand begint met uploaden...";
+     
+"topscan_driveuploading" = "uploaden...";
+     
+"topscan_buildingpdf" = "PDF bouwen";
+     
+"topscan_processingjpg" = "JPG verwerken";
+     
+"topscan_processing" = "Bezig met verwerken...";
+     
+"topscan_processingdoc" = "Bezig document te verwerken";
+     
+"topscan_processingzip" = "ZIP verwerken";
+     
+"topscan_sortprocessing" = "Sorteerverwerking";
+     
+"topscan_removeing" = "Bezig te Verwijderen";
+     
+"topscan_copyprocessing" = "Kopiëren";
+     
+"topscan_moveprocessing" = "Bezig te verplaatsen";
+     
+"topscan_mergeing" = "Samenvoegen";
+     
+"topscan_initdata" = "Gegevens initialiseren";
+     
+"topscan_docpasswordicon" = "Slot";
+     
+"topscan_docpasswordunlockicon" = "Ontgrendelen";
+     
+"topscan_pdfpassword" = "Wachtwoord voor exporteren PDF";
+     
+"topscan_pdfpasswordclear" = "Wachtwoord PDF wissen";
+     
+"topscan_touchtitle" = "Controleer de Touch ID";
+     
+"topscan_clearapppsd" = "Wilt u de app-wachtwoordopties wissen?";
+     
+"topscan_cleardocpsd" = "Wilt u de wachtwoordopties voor Documenttoegang wissen?";
+     
+"topscan_passwordhelptip" = "Hulp nodig ?";
+     
+"topscan_passwordhelpsubject" = "Document wachtwoord Feedback";
+     
+"topscan_passwordapphelpsubject" = "App-wachtwoord Feedback";
+     
+"topscan_enterpwd" = "Voer wachtwoord in alstublieft";
+     
+"topscan_appsecurity" = "Toepassingsbeveiliging";
+     
+"topscan_apppwd" = "App-wachtwoord";
+     
+"topscan_setpasswordlaceholder" = "Voer uw wachtwoord in";
+     
+"topscan_resetpasswordlaceholder" = "Vul alstublieft uw wachtwoord opnieuw in";
+     
+"topscan_setpasswordtitle" = "Stel een wachtwoord in";
+     
+"topscan_setpdfpasswordtitle" = "PDF-wachtwoord";
+     
+"topscan_resetpasswordtitle" = "Wachtwoord invoeren";
+     
+"topscan_writepasswordfail" = "Wachtwoorden komen niet overeen, probeer het opnieuw!";
+     
+"topscan_writetwopasswordfail" = " Twee wachtwoordinvoeren komen niet overeen, probeer het opnieuw!";
+     
+"topscan_backupbottomtitle" = "Herstellen van een eerdere back-up of draag de scans over vanaf een ander apparaat";
+     
+"topscan_docaccesspassword" = "Doc Access-wachtwoord";
+     
+"topscan_turnoffpassword" = "Wachtwoord uitschakelen";
+     
+"topscan_changepassword" = "Wachtwoord wijzigen";
+     
+"topscan_storagespacenotenough" = "Telefoon heeft niet genoeg opslagruimte";
+     
+"topscan_storagespacetitle" = "De opslagruimte van de telefoon is minder dan 200M, om te voorkomen dat bestanden niet kunnen worden geschreven, moet u wat ruimte vrijmaken";
+     
+"topscan_appheadingtitle" = "Stel een applicatiewachtwoord in om de documentbeveiliging te beschermen";
+     
+"topscan_docheadingtitle" = "Wachtwoord instellen voor het bekijken van met een wachtwoord beveiligde documenten";
+     
+"topscan_pdfheadingtitle" = "Stel een wachtwoord in voor het delen en exporteren van PDF-bestanden om de privacy van bestanden te beschermen";
+     
+"topscan_batchall" = "Vol";
+     
+"topscan_batchauto" = "Automatisch";
+     
+"topscan_batchfit" = "Pasvorm";
+     
+"topscan_left" = "Resterend";
+     
+"topscan_right" = "Rechtsaf";
+     
+"topscan_crop" = "Bijsnijden";
+     
+"topscan_filter" = "Filter";
+     
+"topscan_prompt" = "Prompt";
+     
+"topscan_promptcontent" = "Wijzigingen nog niet opgeslagen. Nu opslaan?";
+     
+"topscan_no" = "Nee";
+     
+"topscan_yes" = "Ja";
+     
+"topscan_batchsave" = "Opslaan";
+     
+"topscan_scansignature" = "Scan uw handtekening";
+     
+"topscan_importsignature" = "Importeren uit album";
+     
+"topscan_waittip" = "Bestandsverwerking, even geduld aub...";
+     
+"topscan_nooriginalimgdefault" = "Sommige bestanden kunnen niet opnieuw worden ingesteld en bijgesneden, en het originele bestand kan niet worden gevonden";
+     
+"topscan_nooriginalimgfilter" = "Sommige bestanden kunnen niet opnieuw worden gefilterd, omdat het originele bestand niet kan worden gevonden";
+     
+"topscan_nooriginalimgmore" = "en meer";
+     
+"topscan_nooriginalimgsetting" = "u kunt de instellingenoptie openen om de originele afbeeldingsoptie op te slaan";
+     
+"topscan_alldatanooriginalimg" = "Kan bijsnijden niet resetten, origineel bestand bestaat niet!";
+     
+"topscan_alldatanooriginalimgfilter" = "Kan filterverwerking niet resetten, het originele bestand bestaat niet!";
+     
+"topscan_cropautomatic" = "Afbeelding automatisch bijsnijden";
+     
+"topscan_cropautomatictip" = "Afbeeldingen automatisch bijsnijden in Batch Scan-modus";
+     
+"topscan_cropautomaticcameraaip" = "Automatisch bijsnijden";
+     
+"topscan_camerafilterremind" = "U kunt het standaardfilter van de batchmodus wijzigen";
+     
+"topscan_cameracropremindfirst" = "U kunt wijzigen of";
+     
+"topscan_cameracropremindsecond" = "de batchmodus is bijgesneden";
+     
+"topscan_flitertypeapplylocation" = "Toepassen op alle pagina\'s";
+     
+"topscan_colletionpdftolongpictitle" = "PDF-export naar lange afbeelding";
+     
+"topscan_colletionpdftopictitle" = "PDF naar afbeelding";
+     
+"topscan_colletionpdfpasswordtitle" = "PDF-wachtwoord";
+     
+"topscan_colletionpdfextracttitle" = "PDF-extract";
+     
+"topscan_colletiondocpasswordtitle" = "Doc-wachtwoord";
+     
+"topscan_colletionscanidcardtitle" = "ID-kaart scannen";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF Watermerk toevoegen";
+     
+"topscan_colletionpdfsignaturetitle" = "PDF-handtekening";
+     
+"topscan_colletionpdfpageadjustment" = "Aanpassing PDF-pagina";
+     
+"topscan_colletionimagetopdf" = "Afbeelding naar PDF";
+     
+"topscan_colletionbottomtitle" = "Pagina uitpakken";
+     
+"topscan_colletionmydevice" = "Mijn apparaat";
+     
+"topscan_colletionpdfextractbottomtitle" = "Uitpakken nieuw document genereren";
+     
+"topscan_docreminedtitle" = "Meldingsmachtigingen inschakelen";
+     
+"topscan_docreminedcontent" = "U schakelt geen meldingsmachtigingen in, dus u kunt Documentwaarschuwingen pas gebruiken als ze zijn ingeschakeld.";
+     
+"topscan_docreminetime" = "De documentherinneringstijd moet groter zijn dan de huidige systeemtijd!";
+     
+"topscan_questiontype" = "Selecteer een type a.u.b.";
+     
+"topscan_questiondescrible" = "Voer uw vraag of suggestie in";
+     
+"topscan_suggestionremind" = "Om een screenshot te maken op iPhone 8 en eerder, drukt u tegelijkertijd op de Sleep/Wake-knop en de Home-knop";
+     
+"topscan_suggestionremindx" = "Om een screenshot te maken op iPhone X en nieuwer, drukt u tegelijkertijd op de knop Volume omhoog en Vergrendelen.";
+     
+"topscan_questiontypecrash" = "Crash/vertraging";
+   
+"topscan_questiontypetaking" = "Foto\'s maken/importeren uit album";
+   
+"topscan_questiontypephoto" = "fotobewerking";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Fax";
+   
+"topscan_questiontypepoint" = "C-punten";
+   
+"topscan_questiontypeshare" = "Delen/Email/Print";
+   
+"topscan_questiontypeinterface" = "Koppel";
+   
+"topscan_questiontypefeatures" = "Meer eigenschappen";
+   
+"topscan_questiontypeother" = "Overige vragen";
+   
+"topscan_questiontypetoast" = "Zijn er gebruiksproblemen? Of u kunt ons feedback geven over suggesties en vereisten voor toepassingsfuncties,en we luisteren graag naar uw mening.";
+   
+"topscan_questionsetting" = "Instellingen";
+   
+"topscan_questioncontinue" = "Doorgaan met";
+   
+"topscan_questioninvalidemail" = "Ongeldig e-mailadres";
+   
+"topscan_questiontoasttitle" = "Schermafbeeldingen toevoegen (optioneel)";
+   
+"topscan_submittedsuccessfully" = "Succesvol ingediend!";
+   
+"topscan_suggestioncontenttitle" = "Detail";
+   
+"topscan_suggestionsubmit" = "Indienen";
+   
+"topscan_remindtitle" = "Titel";
+   
+"topscan_remindreturn" = "Terugkeer";
+   
+"topscan_guidetitleprofessional" = "Professioneel";
+   
+"topscan_guidetitlecollage" = "ID-collagemodus";
+   
+"topscan_guidetitlebackup" = "Backup en herstellen";
+   
+"topscan_guideprofessionaldes" = "Documenten automatisch detecteren, bijsnijden snel verwerken, documenten verscherpen en verbeteren.";
+   
+"topscan_guidecollagedes" = "Collage ID-kaartafbeeldingen in een document, bieden meerdere sjabloonopties en aangepast formaat.";
+   
+"topscan_guideimagedes" = "Herken automatisch tekst via cloud AI-technologie, bewerk, kopieer, deel en exporteer uw tekst.";
+   
+"topscan_guidebackupdes" = "Maak een back-up van uw documenten naar cloudopslag of lokale opslag en herstel de geback-upte documenten op elk gewenst moment.";
+   
+"topscan_showstatustitle" = "Data laden";
+   
+"topscan_placeholderpassword" = "Wachtwoord";
+   
+"topscan_manualsorttitle" = "Lang indrukken om handmatig te sorteren.";
+   
+"topscan_docgraffiti" = "Graffiti";
+   
+"topscan_docaddtext" = "Tekst Toevoegen";
+   
+"topscan_copypage" = "Kopieer huidige pagina";
+   
+"topscan_copyallpages" = "Alle pagina\'s kopiëren";
+   
+"topscan_showprocess" = "Bezig met verwerken...";
+   
+"topscan_importimgerror" = "Bestand bestaat niet, of datafout !";
+   
+"topscan_somefileloss" = "Een bestand leesfout!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "Een must-have functie! In 1 minuut maak je een 2-zijdige e-kopie van een ID-kaart. 100% rklaar om af te drukken.";
+    
+"topscan_paperexample" = "A4 papier voorbeeld";
+    
+"topscan_restorebackup" = "Nu back-uppen";
+    
+"topscan_restorelastbackup" = "Datum vorige back-up";
+    
+"topscan_restoremerge" = "Alle huidige documenten herstellen en samenvoegen";
+    
+"topscan_restoredelete" = "Alle huidige documenten herstellen en verwijderen";
+    
+"topscan_restoretitle" = "HERSTELLEN";
+    
+"topscan_restorenotlogin" = "Geen inlogstatus bij het cloudaccount gedetecteerd.";
+    
+"topscan_restorenotrepeat" = "Back-upbestand uploaden, een ogenblik geduld...";
+    
+"topscan_restorebackwifi" = "Alleen via Wi-Fi back-up maken";
+    
+"topscan_restorenodocument" = "Er is momenteel geen document beschikbaar, voeg eerst een document toe.";
+    
+"topscan_restorequery" = "bezig met opvragen...";
+    
+"topscan_restorequeryfailed" = "De zoekopdracht is mislukt of het back-upbestand werd niet aangetroffen.";
+    
+"topscan_restoreprocessfiles" = "Bestanden verwerken";
+    
+"topscan_restorebackupfailed" = "Het maken van de backup is mislukt.";
+    
+"topscan_restoreuploadingfile" = "Bezig met uploaden, een ogenblik geduld...";
+    
+"topscan_saferepasscode" = "Voer de toegangscode opnieuw in";
+    
+"topscan_saferepassword" = "Voer het wachtwoord opnieuw in";
+    
+"topscan_applicationsecrulty" = "Applicatiebeveiliging";
+    
+"topscan_verifypasscode" = "Verifieer toegangscode";
+    
+"topscan_setpasscode" = "Wachtwoord instellen";
+    
+"topscan_enternewpassword" = "Voer een nieuw wachtwoord in";
+    
+"topscan_filetype" = "Bestandstype";
+    
+"topscan_fileformat" = "Bestandsformaat";
+    
+"topscan_sharepdfformat" = "Bestanden delen in .PDF-indeling";
+    
+"topscan_sharezipformat" = "Bestanden delen in .ZIP-indeling";
+    
+"topscan_sharejpgformat" = "Bestanden delen in .JPG-indeling";
+    
+"topscan_newfolderprompt" = "Nieuwe map";
+    
+"topscan_currentdocument" = "Huidig document";
+    
+"topscan_recognizetitle" = "Herkennen";
+    
+"topscan_filedeleteprompt" = "Het is gelukt het back-upbestand te verwijderen.";
+    
+"topscan_filedownbackup" = "Back-upbestand downloaden";
+    
+"topscan_filestartbackup" = "Back-upbestand begint te downloaden";
+    
+"topscan_filerestoresuccessed" = "Het is gelukt het back-upbestand te herstellen.";
+    
+"topscan_uploadsingin" = "AANMELDEN";
+    
+"topscan_singoutlowercase" = "Afmelden";
+    
+"topscan_processingerror" = "Fout bij bestandsverwerking!";
+    
+"topscan_barcodeopenurl" = "Open url";
+    
+"topscan_barcoderesult" = "Erkenningsresultaat";
+    
+"topscan_downloadlanguage" = "Taal downloaden...";
+    
+"topscan_graffitibrush" = "Borstel";
+    
+"topscan_graffitiopacity" = "Dekking";
+    
+"topscan_graffitieraser" = "Gom";
+    
+"topscan_graffiticolor" = "Kleur";
+    
+"topscan_graffitiundo" = "Ongedaan maken";
+    
+"topscan_graffitiredo" = "Opnieuw doen";
+    
+"topscan_nosignture" = "Geen handtekening!";
+    
+"topscan_graffititext" = "Tekst";
+        
+"topscan_graffitireplacefile" = "Huidig bestand vervangen";
+        
+"topscan_graffiticreatefile" = "Nieuw bestand maken";
+        
+"topscan_graffiticopyto" = "Kopiëren naar";
+        
+"topscan_graffitimoveto" = "Verplaatsen naar";
+        
+"topscan_graffititextrecognition" = "Herkenningstekst";
+        
+"topscan_ocraccount" = "OCR-accountbeheer";
+        
+"topscan_loginsuccessful" = "succesvol inloggen!";
+        
+"topscan_appleloginsuccessful" = "Inloggen op Apple-account gelukt!";
+        
+"topscan_googleloginsuccessful" = "Het is gelukt in te loggen op het Google Account.";
+        
+"topscan_loginregister" = "Inloggen of registreren";
+        
+"topscan_resetpassword" = "Wachtwoord resetten";
+        
+"topscan_copysuccessful" = "Succesvol Kopiëren";
+        
+"topscan_copyfailed" = "Kopiëren mislukt";
+        
+"topscan_loginicloudtips" = "Om verlies van uw saldo te voorkomen, gebruiken wij de rekening om uw saldo te binden. Tegelijkertijd kun je ook de balans tussen meerdere apparaten gebruiken. Gelieve in te loggen of uw account te registreren.";
+        
+"topscan_loginnow" = "Log nu in";
+        
+"topscan_emailemptytips" = "E-mail Mag niet leeg zijn";
+        
+"topscan_psdemptytips" = "Wachtwoord Mag niet leeg zijn";
+    
+"topscan_codeemptytips" = "Verificatiecode Mag niet leeg zijn";
+    
+"topscan_tips" = "Tips";
+    
+"topscan_subscriptsuccessfully" = "Thank you for subscribing to premium! ";
+    
+"topscan_autorenewable" = "Automatisch verlengbaar, op elk moment annuleren.";
+    
+"topscan_nofreetrial" = "GEEN gratis proefperiode";
+    
+"topscan_details" = "Details";
+    
+"topscan_restorepurchase" = "Gekochte items herstellen";
+    
+"topscan_freetrial" = "Gratis proefversie";
+    
+"topscan_unlimitedfolders" = "Onbeperkt aantal mappen";
+    
+"topscan_unlimitedfoldersintroduce" = "Onbeperkt aanmaken van mappen en submappen.";
+    
+"topscan_noads" = "Geen advertenties";
+    
+"topscan_noadsintroduce" = "Verwijder advertenties van Simple Scanner.";
+    
+"topscan_pdffileencryption" = "Versleuteling van PDF-bestanden";
+    
+"topscan_pdffileencryptionintroduce" = "U kunt een wachtwoord instellen voor uw scans (bonnen of vertrouwelijke bestanden) om uw privacy te beschermen.";
+    
+"topscan_ocrtypecloudintroduce" = "Gebruik cloud AI-technologie om tekst te herkennen en te extraheren, 1000+ pagina\'s beschikbaar per maand.";
+    
+"topscan_cloudservice" = "Cloud service";
+    
+"topscan_cloudserviceintroduce" = "Upload uw documenten, PDF, jpg, bestandstypen automatisch naar Cloud Drive of iCloud om verlies van documenten te voorkomen.";
+    
+"topscan_functionofcollage" = "Functie van collage";
+    
+"topscan_functionofcollageintroduce" = "Gebruik de collagefunctie om meerdere pagina\'s op één pagina te combineren.";
+    
+"topscan_unlimitedscans" = "Onbeperkt scannen";
+    
+"topscan_unlimitedscansintroduce" = "Geen limiet op het aantal gescande documenten.";
+    
+"topscan_clearwaternark" = "Watermerk wissen";
+    
+"topscan_clearwaternarkintroduce" = "Verwijder het PDF-watermerk en houd de PDF schoon en netjes.";
+    
+"topscan_writesignature" = "Handtekening";
+    
+"topscan_writesignatureintroduce" = "Scan uw handtekening op papier om een e-handtekening te maken die er precies hetzelfde uitziet als het origineel.";
+    
+"topscan_highqualitydoc" = "Document van hoge kwaliteit";
+    
+"topscan_highqualitydocintroduce" = "Meerdere opties voor het selecteren van afbeeldingskwaliteit, selecteer opties van hogere kwaliteit, maak de document-PDF duidelijker.";
+    
+"topscan_emailmyself" = "E-mail mezelf";
+    
+"topscan_emailmyselfintroduce" = "Verstuur documenten naar uzelf via e-mail, sneller en handiger.";
+    
+"topscan_exportpdfdoc" = "PDF-document exporteren";
+    
+"topscan_exportpdfdocintroduce" = "Exporteer snel PDF naar andere toepassingen of sla lokaal op uw telefoon op.";
+    
+"topscan_backupintroduce" = "Maak een back-up en herstel op meerdere apparaten om documenten gesynchroniseerd te houden.";
+    
+"topscan_graffiti" = "Graffiti";
+    
+"topscan_graffitiintroduce" = "Wijzig documenten, graffiti, voeg tekst toe, handtekeningen, etc.";
+    
+"topscan_applock" = "Applicatie vergrendeling";
+    
+"topscan_applockintroduce" = "Schakel Face ID of Touch ID in om SimpleScanner in één stap te ontgrendelen.";
+    
+"topscan_imagetotext" = "Afbeelding naar tekst";
+    
+"topscan_imagetotextintroduce" = "Gebruik de OCR-functie om teksten in de afbeelding te herkennen voor later zoeken of delen.";
+    
+"topscan_propdfeditor" = "PDF-editor";
+    
+"topscan_propdfeditorintroduce" = "Bewerk PDF-pagina\'s, voeg handtekeningen en graffiti toe, PDF-wachtwoorden, verwijder watermerken, enz.";
+    
+"topscan_gotosetting" = "Ga naar Instellingen";
+    
+"topscan_ocrnummorethan" = "Cloud OCR is gebruikt om 1000 pagina\'s/maand te identificeren in de huidige berekeningscyclus. Als u doorgaat met identificeren, moet u OCR-pagina\'s aanschaffen of wacht u tot de volgende berekeningscyclus om automatisch OCR 1000-pagina\'s toe te voegen.";
+    
+"topscan_upgradeaccount" = "20+ meer geavanceerde functies";
+    
+"topscan_upgradepremium" = "Upgrade naar premium";
+    
+"topscan_premium" = "Premium";
+    
+"topscan_nopurrestore" = "Geen aankopen om te herstellen!";
+    
+"topscan_restorefailed" = "Kan aankoop niet herstellen.";
+    
+"topscan_restoresuccessfully" = "Herstel de aankoop succesvol.";
+
+"topscan_bindcontent" = "U heeft uw e-mailaccount niet ingesteld. Ga naar uw telefoon \"E-mail instellen\", tik op \"Account toevoegen\" om uw e-mailaccount aan te maken";
+    
+"topscan_cameratypeidcardintroduce" = "Scan en kopieer beide zijden van een ID-kaart op één pagina in 1 minuut,waarbij het originele formaat van de kaart behouden blijft. 100% pklaar voor afdrukken. ";
+    
+"topscan_paymenttext1" = "De betaling wordt bij de bevestiging van de aankoop in rekening gebracht op het iTunes-account.";
+
+"topscan_forgotpsd" = "Bent u uw wachtwoord vergeten?";
+    
+"topscan_signup" = "Aanmelden";
+    
+"topscan_noaccount" = "Geen account ?";
+    
+"topscan_login" = "Inloggen";
+    
+"topscan_quicklogin" = "Snel inloggen";
+    
+"topscan_paynow" = "Nu betalen";
+    
+"topscan_send" = "Sturen";
+    
+"topscan_signinsuccess" = "Log succesvol in!";
+    
+"topscan_resend" = "Opnieuw verzenden";
+    
+"topscan_sendcodesuccess" = "Succesvol verzenden";
+    
+"topscan_entervercode" = "Voer verificatiecode in";
+    
+"topscan_addorginalfile" = "Origineel back-upbestand toevoegen";
+    
+"topscan_turnonpassword" = "Wachtwoord inschakelen";
+"topscan_rotate" = "Draaien";
+"topscan_tipask" = "Vraag nooit";
+    
+"topscan_croptipmsg" = "De actie kan alle OCR-resultaten,notitie, watermerk ,handtekeningen, graffiti ,tekst wissen. Wilt u doorgaan?";
+    
+"topscan_scoretitle" = "Als u van Simple Scanner houdt, zou u ons dan positief in de App Store willen beoordelen om ons te ondersteunen?";
+    
+"topscan_resetpsd" = "Wij hebben alleen uw geregisseerde e-mail-ID nodig want dat is nodig voor het opnieuw instellen van het wachtwoord.";
+    
+"topscan_compressionration" = "Compressieverhouding:";
+    
+"topscan_size" = "Grootte";
+    
+"topscan_compression" = "Compressie";
+    
+"topscan_pdfpagenumber" = "Paginanummer";
+    
+"topscan_pdfpagedirection" = "Paginarichting";
+    
+"topscan_image" = "AFBEELDING";
+    
+  
+"topscan_subscriptfailedtips" = "Abonnementverificatie mislukt, ga naar Home->Instellingen->Aankoop herstellen!";
+    
+"topscan_cropautomaticcameraaip" = "Automatisch bijsnijden";
+    
+"topscan_nextstep" = "Volgende stap";
+    
+"topscan_addsignature" = "Handtekening toevoegen";
+
+"topscan_subsctiptplan" = "Uw abonnement";
+    
+"topscan_renewedday" = "Vernieuwde dag";
+    
+"topscan_automaticrenewal" = "Automatische Vernieuwing";
+    
+"topscan_moredetails" = "Meer details";
+    
+"topscan_drivedownloadfiles" = "Cloud importeren";
+    
+"topscan_download" = "Downloaden";
+    
+"topscan_downloadsuccessfilly" = "Download succesvol";
+    
+"topscan_downloadfailed" = "Het downloaden is mislukt.";
+    
+"topscan_uselimitedversion" = "Gebruik beperkte versie";
+    
+"topscan_termsofserice" = "Servicevoorwaarden";
+    
+"topscan_unlimitedfeatures" = "Onbeperkte functies";
+    
+"topscan_subscriptiongives" = "Dit abonnement geeft u onbeperkt toegang tot onze privileges. Als u niet annuleert voordat de proefperiode afloopt, worden er automatisch kosten in rekening gebracht totdat u annuleert.";
+    
+
+    
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+   
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

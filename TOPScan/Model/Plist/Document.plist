@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<string>0</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>0</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>1</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>1</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>1</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>1</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>type</key>
+		<string>1</string>
+		<key>name</key>
+		<string>Document1</string>
+		<key>createDate</key>
+		<string>2019.06.02 12:00</string>
+		<key>folderList</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>北京市</string>
+				<key>imagePath</key>
+				<string>123456</string>
+				<key>createDate</key>
+				<string>2019.06.03 11:11</string>
+				<key>fileMemory</key>
+				<string>1.2M</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

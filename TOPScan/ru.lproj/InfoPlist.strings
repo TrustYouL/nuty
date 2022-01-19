@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/26.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+//权限授权提示
+
+
+NSCameraUsageDescription = "Запустите приложение, чтобы получить доступ к камере для сканирования документов.";
+    
+NSPhotoLibraryUsageDescription = "Запустите приложение, чтобы получить доступ к галерее для получения документов.";
+    
+NSFaceIDUsageDescription = "Запустите приложение, чтобы получить доступ к приложению разблокировки FaceID.";
+    

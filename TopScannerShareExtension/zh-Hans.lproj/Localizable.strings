@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "保存";
+"topscan_cancel" = "取消";
+"topscan_pleasenote" = "请注意";
+"topscan_importdatatype" = "目前，仅支持导入JPG、PNG、PDF格式.";
+"topscan_fileothersuccessfully" = "其他格式的文件可能无法成功导入.";
+"topscan_fileintotal" = "文件总数";
+
+

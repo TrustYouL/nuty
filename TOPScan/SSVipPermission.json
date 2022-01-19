@@ -1,0 +1,58 @@
+{
+  "ImageGraffiti" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "OcrOnline" : {
+    "vip" : 1,
+    "old" : 0
+  },
+  "PDFWaterMark" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "CollageSave" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "PDFSignature" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "Advertising" : {
+    "vip" : 1,
+    "old" : 0
+  },
+  "PDFPassword" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "EmailMySelf" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "ImageHigh" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "ImageSign" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "ImageSuperHigh" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "PDFPageNO" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "CreateFolder" : {
+    "vip" : 1,
+    "old" : 1
+  },
+  "UploadFile" : {
+    "vip" : 1,
+    "old" : 1
+  }
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TOPSelectEraserAlertView">
+            <rect key="frame" x="0.0" y="0.0" width="511" height="705"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PL1-3x-jGe">
+                    <rect key="frame" x="210" y="44" width="246" height="160"/>
+                    <subviews>
+                        <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="topviewslices" translatesAutoresizingMaskIntoConstraints="NO" id="beE-NO-pxs">
+                            <rect key="frame" x="133" y="1" width="49" height="22"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="49" id="inL-1V-PDv"/>
+                                <constraint firstAttribute="height" constant="22" id="pPw-oW-gCx"/>
+                            </constraints>
+                        </imageView>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fIY-PF-7nX">
+                            <rect key="frame" x="0.0" y="22" width="246" height="138"/>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="160" id="0lf-WC-q3k"/>
+                        <constraint firstAttribute="width" constant="246" id="5uL-0U-ca0"/>
+                        <constraint firstItem="fIY-PF-7nX" firstAttribute="top" secondItem="PL1-3x-jGe" secondAttribute="top" constant="22" id="DIz-mH-G47"/>
+                        <constraint firstAttribute="bottom" secondItem="fIY-PF-7nX" secondAttribute="bottom" id="Nhk-jz-nAJ"/>
+                        <constraint firstAttribute="trailing" secondItem="fIY-PF-7nX" secondAttribute="trailing" id="ndK-02-g9s"/>
+                        <constraint firstAttribute="trailing" secondItem="beE-NO-pxs" secondAttribute="trailing" constant="64" id="np9-92-4vb"/>
+                        <constraint firstItem="fIY-PF-7nX" firstAttribute="top" secondItem="beE-NO-pxs" secondAttribute="bottom" constant="-1" id="sMC-Xt-BOd"/>
+                        <constraint firstItem="fIY-PF-7nX" firstAttribute="leading" secondItem="PL1-3x-jGe" secondAttribute="leading" id="uKP-Y8-fdi"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="PL1-3x-jGe" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="44" id="glP-Ms-9rH"/>
+                <constraint firstAttribute="trailing" secondItem="PL1-3x-jGe" secondAttribute="trailing" constant="55" id="oWD-9x-g8r"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="alertView" destination="PL1-3x-jGe" id="dQ4-6j-j4Z"/>
+                <outlet property="backgroundTableView" destination="fIY-PF-7nX" id="xSp-tE-ARv"/>
+            </connections>
+            <point key="canvasLocation" x="413.768115942029" y="-1.2228260869565217"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="topviewslices" width="49" height="22"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

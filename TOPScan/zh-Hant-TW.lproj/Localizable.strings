@@ -1,0 +1,1047 @@
+
+"simplescan_collage" = "拼貼";
+
+"simplescan_doctag" = "設定標籤";
+
+"simplescan_picquality" = "圖片品質";
+
+"simplescan_addto" = "添加";
+
+"simplescan_share" = "分享";
+
+"simplescan_email" = "電子郵件";
+
+"simplescan_merge" = "合併";
+
+"simplescan_copy" = "複製/移動";
+
+"simplescan_sortby" = "排序方式";
+
+"simplescan_more" = "更多";
+
+"simplescan_savetogallery" = "儲存到圖庫";
+
+"simplescan_upload" = "上傳";
+
+"simplescan_uploadsucceeded" = "上傳成功";
+
+"simplescan_uploadfailed" = "上傳失敗";
+
+"simplescan_delete" = "刪除";
+
+"simplescan_cancel" = "取消";
+
+"simplescan_ok" = "確定";
+
+"simplescan_about" = "關於";
+
+"simplescan_error" = "錯誤！";
+
+"simplescan_skip" = "跳過";
+
+"simplescan_decryption" = "解密";
+
+"simplescan_allselect" = "全選";
+
+"simplescan_cancelallselect" = "全部取消選擇";
+
+"simplescan_items" = "選擇";
+
+"simplescan_printing" = "列印";
+
+"simplescan_pdf" = "PDF";
+
+"simplescan_note" = "注釋";
+
+"simplescan_retake" = "重取";
+
+"simplescan_ocr" = "辨識文本";
+
+"simplescan_watermarktitle" = "水印";
+
+"simplescan_addwatermark" = "加水印";
+
+"simplescan_editwatermark" = "編輯水印";
+
+"simplescan_clearwatermark" = "清除內容";
+
+"simplescan_removewatermark" = "移除水印";
+
+"simplescan_remind" = "警告";
+
+"simplescan_loading" = "加載中...";
+
+"simplescan_deleteoption" = "確定要刪除所有選定的文件嗎？";
+
+"simplescan_deletecurrentpage" = "確定要刪除此頁面嗎？";
+
+"simplescan_deletecurrentdoc" = "確定要刪除當前語言嗎？";
+
+"simplescan_bind" = "電子郵件帳戶設置";
+
+"simplescan_savefail" = "資料錯誤！";
+
+"simplescan_phonememoryalert" = "由於手機內存問題，超過 30 張圖片的拼貼可能會導致崩潰。你要繼續嗎？";
+
+"simplescan_continueshare" = "繼續分享";
+
+"simplescan_savealert" = "您確定不保存更改就離開嗎？";
+
+"simplescan_deletesignatureimagealert" = "您確定要刪除簽名圖像嗎？";
+
+"simplescan_discard" = "放棄更改";
+
+
+"simplescan_movesuccess" = "成功移動文檔！";
+
+"simplescan_copysuccess" = "複製文件成功！";
+
+"simplescan_mergesuccess" = "成功合併文檔！";
+
+"simplescan_clearphotos" = "剛剛拍攝的照片將不會被保存。您確定要捨棄照片嗎？";
+
+"simplescan_noalert" = "不再提醒";
+
+"simplescan_editpdf" = "編輯 PDF";
+
+"simplescan_addpage" = "添加頁面";
+
+"simplescan_collageimage" = "拼貼圖片...";
+
+"simplescan_collageproof" = "財產證明";
+
+"simplescan_collagedriverlicense" = "駕駛執照";
+
+"simplescan_collageidcard" = "身份證";
+
+
+
+"simplescan_collagepassport" = "護照";
+
+"simplescan_collageaccountbook" = "會計冊，記賬簿";
+
+"simplescan_idcardanti" = "防偽";
+
+"simplescan_importpic" = "畫廊";
+
+"simplescan_userdefinedsize" = "自訂共享檔案大小";
+
+"simplescan_filecompressiontitle" = "輸入0-99壓縮率";
+
+"simplescan_manualsorting" = "手動排序";
+
+"simplescan_firstontop" = "頂部第一個";
+
+"simplescan_lastontop" = "頂部最後一個";
+
+"simplescan_siderename" = "重命名";
+
+"simplescan_creatdatadescend" = "日期創建（升序）";
+
+"simplescan_creatdataascend" = "創建日期（降序）";
+
+"simplescan_filenameatoz" = "文件名（A 到 Z）";
+
+"simplescan_filenameztoa" = "文件名（Z 到 A）";
+
+"simplescan_girdview2" = "網格視圖";
+
+"simplescan_girdview3" = "網格視圖（3 列）";
+
+"simplescan_girdviewlist" = "列表視圖";
+
+"simplescan_folderlocationtop" = "頂部檔案夾";
+
+"simplescan_folderlocationbottom" = "底部檔案夾";
+
+"simplescan_fax" = "傳真";
+
+"simplescan_hidepagedetails" = "隱藏頁面詳情";
+
+"simplescan_displaypagedetails" = "顯示頁面詳情";
+
+"simplescan_batchedit" = "批量編輯";
+
+"simplescan_pdffile" = "PDF檔案";
+
+"simplescan_image_jpg" = "圖片(JPG)";
+
+"simplescan_longimage_jpg" = "分享長圖";
+
+"simplescan_txt" = "分享 txt";
+
+"simplescan_originalsize" = "原始大小";
+
+"simplescan_medium" = "中";
+
+"simplescan_small" = "小";
+
+"simplescan_superhigh" = "超高";
+
+"simplescan_shareapp" = "分享這個應用程式";
+
+"simplescan_backup" = "備份和復原";
+
+"simplescan_icouldbackup" = "備份";
+
+"simplescan_importimage" = "導入圖片";
+
+"simplescan_mergepdf" = "合併 PDF";
+
+"simplescan_importfile" = "導入文件";
+
+"simplescan_longpresstip" = "明白";
+
+"simplescan_search" = "搜尋";
+
+"simplescan_homemoredocremind" = "文件提醒";
+
+"simplescan_settingtemplate" = "模板";
+
+"simplescan_settingfamily" = "家庭";
+
+"simplescan_shareappcontent" = "找到一個很棒的掃描軟件，下載鏈接";
+
+"simplescan_mergefilemethodtitle" = "選擇合併方式";
+
+"simplescan_mergefilemethodkeepold" = "合併並保留舊文檔";
+
+"simplescan_mergefilemethoddeleteold" = "合併和刪除舊文檔";
+
+"simplescan_cameradiscardtitle" = "捨棄頁面";
+
+"simplescan_cameradiscardmssage" = "捨棄所有頁面？";
+
+"simplescan_cameraaccidenttitle" = "信息";
+
+"simplescan_cameraaccidentmssage" = "您上次拍攝的一些圖像尚未處理，您要加載它們嗎？";
+
+"simplescan_cameralighton" = "開";
+
+"simplescan_cameralightoff" = "關";
+
+"simplescan_cameralightauto" = "自動";
+
+"simplescan_cameralighttorch" = "火炬";
+
+"simplescan_cameratypetotext" = "到文本";
+
+"simplescan_cameratypesingle" = "單身的";
+
+"simplescan_cameratypebatch" = "批";
+
+"simplescan_cameratypeqrbarcode" = "二維碼&條碼";
+
+"simplescan_camerapermissiontitle" = "請打開相機權限";
+
+"simplescan_camerapermissionguide" = "設置-隱私-相機";
+
+"simplescan_albumpermissiontitle" = "請打開相冊權限";
+
+"simplescan_albumpermissionguide" = "設置-隱私-照片-所有照片";
+
+"simplescan_safeentertips" = "請輸入 4 位數密碼！";
+
+
+
+"simplescan_loginouttipsmessage" = "您確定要退出嗎？";
+    
+"simplescan_psderror" = "密碼錯誤，請重試！";
+    
+"simplescan_pdferror" = "密碼不匹配，請重試！";
+    
+"simplescan_touchidnotenrolled" = "未檢測到設備開啟 Touch ID，請到手機設置中心開啟 Touch ID 功能。";
+    
+"simplescan_faceidnotenrolled" = "未檢測到設備開啟人臉識別，請到手機設置中心開啟人臉識別功能。";
+    
+"simplescan_opensysset" = "授權設置中心";
+    
+"simplescan_againvafaceid" = "單擊以驗證面容 ID";
+    
+"simplescan_againvatouchid" = "單擊以驗證 Touch ID";
+    
+"simplescan_pdfpagenumberno" = "沒有頁碼";
+    
+"simplescan_pdfpagenumberlowerl" = "左下角";
+    
+"simplescan_pdfpagenumberbottomc" = "底部中心";
+    
+"simplescan_pdfpagenumberlowerr" = "右下角";
+    
+"simplescan_pdfpagenumberupperl" = "左上角";
+    
+"simplescan_pdfpagenumberheadc" = "頭部中心";
+    
+"simplescan_pdfpagenumberupperr" = "右上角";
+    
+"simplescan_colletionfunctiontitle" = "選擇文件";
+    
+"simplescan_pdfdirectionauto" = "按圖像大小自動調整";
+    
+"simplescan_pdfdirectionlandscape" = "風景";
+    
+"simplescan_pdfaddsignature" = "肖像";
+    
+"simplescan_changepdfsizealert" = "當前更改將重置 PDF 簽名。你要繼續嗎？";
+    
+"simplescan_emptypdfnamealert" = "PDF 名稱不能為空！";
+    
+"simplescan_createdsuccessfully" = "創建成功";
+    
+"simplescan_hasfolder" = "文件/檔案夾已存在。請選擇其他名稱。";
+    
+"simplescan_creationfailed" = "創建失敗";
+    
+"simplescan_duplicationName" = "名稱已存在。請更換一個。";
+    
+"simplescan_folderexists" = "文件夾已存在。";
+    
+"simplescan_emailinvalidtips" = "請輸入正確的電子郵件地址";
+    
+"simplescan_defaultprocess" = "預設處理";
+    
+"simplescan_original" = "原來的";
+    
+"simplescan_blackwhite" = "B&W";
+    
+"simplescan_blackwhite2" = "B&W2";
+    
+"simplescan_blackwhite3" = "B&W3";
+    
+"simplescan_nostalgic" = "懷舊";
+    
+"simplescan_magiccolor" = "魔幻色彩";
+    
+"simplescan_magiccolor2" = "幻彩 2";
+    
+"simplescan_grayscale" = "灰度";
+    
+"simplescan_lastfilter" = "最後過濾器";
+    
+"simplescan_clear" = "清除";
+    
+"simplescan_clearmarks" = "清晰的標記";
+    
+"simplescan_markstip" = "如果您繼續，標記（簽名、塗鴉等）將被清除。確定要清除標記嗎？";
+    
+"simplescan_setting" = "到設置";
+    
+"simplescan_deletedrive" = "確定要刪除當前備份檔案嗎？";
+    
+"simplescan_thereisnotstoragespaceon" = "手機存儲空間不足。請重試！";
+    
+"simplescan_dropboxsussess" = "備份已傳輸到Dropbox。";
+    
+"simplescan_boxsussess" = "備份已傳輸到Box。";
+    
+"simplescan_googledrivesussess" = "備份已傳輸到Google Drive。";
+    
+"simplescan_onedrivesussess" = "備份已傳輸到Onedrive。";
+    
+"simplescan_startbackupinbackground" = "開始在後台上傳備份檔案";
+    
+"simplescan_backupinbackgroundaleat" = "上傳備份文件將在後台完成，關閉應用程序可能會導致備份失敗。";
+    
+"simplescan_myselfemailshow" = "給自己發送電子郵件";
+    
+"simplescan_toemailtitle" = "至";
+    
+"simplescan_subjectplaceholder" = "主題";
+    
+"simplescan_bodyplaceholder" = "正文";
+    
+"simplescan_emailsettingguide" = "您可以在設定 ->常規 ->電子郵箱中更改電子郵箱。";
+    
+"simplescan_picturequalityheight" = "高度";
+    
+"simplescan_picturequalitylow" = "低";
+    
+"simplescan_defaultpagesize" = "預設頁面大小";
+    
+"simplescan_privacypolicy" = "隱私權政策";
+    
+"simplescan_faq" = "常問問題";
+    
+"simplescan_sendfeedback" = "發送回饋";
+    
+"simplescan_version" = "版本";
+    
+"simplescan_rateapp" = "評價簡單掃描儀";
+    
+"simplescan_settinggeneral" = "常規";
+    
+"simplescan_settingdocmanagement" = "文件管理";
+    
+"simplescan_settingourapp" = "我們的應用程序";
+    
+"simplescan_settingfaxname" = "簡單傳真";
+    
+"simplescan_settingfaxreceivename" = "傳真接收";
+    
+"simplescan_settinguseragreement" = "用戶協議";
+    
+"simplescan_settingusersuggestion" = "建議與反饋";
+    
+"simplescan_settingdocname" = "文件名";
+    
+"simplescan_settingdoctime" = "文件時間";
+    
+"simplescan_changepagesize" = "更改頁面大小";
+    
+"simplescan_documentname" = "自訂文件名稱";
+    
+"simplescan_documentdate" = "自定義文檔時間";
+    
+"simplescan_autosavetogallery" = "自動保存到相冊";
+    
+"simplescan_saveoriginalimage" = "儲存原始圖像";
+    
+"simplescan_saveoriginalimagetip" = "此功能主要是重設裁剪功能，這會增加存儲空間。";
+
+
+
+
+"simplescan_savetogallerytip" = "自動將掃描保存到圖庫";
+
+"simplescan_textblankprompt" = "識別圖像並轉換為文本";
+
+"simplescan_noteplaceholder" = "開始添加注釋！";
+
+"simplescan_ocrtexttdit" = "編輯";
+
+"simplescan_ocrtextcopy" = "複製";
+
+"simplescan_ocrtextexport" = "匯出";
+
+"simplescan_ocrtexttranslation" = "翻譯";
+
+"simplescan_ocrdefaultlanguage" = "英語";
+
+"simplescan_ocrautomatic" = "自動的";
+
+"simplescan_ocrtextagain" = "再次 OCR";
+
+"simplescan_ocrtypecloud" = "雲 OCR";
+
+"simplescan_ocrtypelocal" = "本地快速識別";
+
+"simplescan_ocrtypelocaltip" = "僅支持拉丁字符";
+
+"simplescan_ocrdownfail" = "下載失敗";
+
+"simplescan_ocrrecentanguages" = "最近的語言";
+
+"simplescan_ocralllanguages" = "所有語言";
+
+"simplescan_ocrexportcopy" = "複製到剪貼板";
+
+"simplescan_ocrchooseendpoint" = "選擇最近的端點";
+
+"simplescan_ocrgoogleendpointprompt" = "自動選擇最佳全局節點，無需選擇！";
+
+"simplescan_ocrthirdocrfailprompt" = "處理錯誤或無可用文本，請重試！";
+
+"simplescan_networkstate" = "WLAN 已關閉";
+
+"simplescan_networkstatecontent" = "您可以在“設置”中為“simpleScan”應用打開 WLAN";
+
+"simplescan_ocragainallpage" = "所有頁面";
+
+"simplescan_ocragaincurrentpage" = "當前頁面";
+
+"simplescan_ocrtextagainvctip" = "如果您點擊返回，校對期間所做的編輯將會丟失";
+
+"simplescan_ocrocrvctip" = "您確定要退出當前的文本識別嗎？";
+
+"simplescan_ocrocrgooglepoint" = "全球的";
+
+"simplescan_ocrocragaintitle" = "點按文本進行編輯";
+
+"simplescan_ocrocrlanguagetitle" = "語言";
+
+"simplescan_ocrocragainendpoint" = "端點";
+
+
+
+
+
+
+"simplescan_ocrocragainrecognizecurrentpage" = "識別當前頁面";
+
+"simplescan_ocrocragainrecognizeallpages" = "識別所有頁面";
+
+"simplescan_translatesourcelanguage" = "源語言";
+
+"simplescan_translatetargetlanguage" = "目標語言";
+
+"simplescan_deletelanguagepack" = "刪除語言模型";
+
+"simplescan_stoploadlanguagepack" = "停止下載語言模型";
+
+"simplescan_scorecancel" = "現在不要";
+
+"simplescan_scorefivestar" = "5 星";
+
+"simplescan_tagsungrouped" = "未分組";
+
+"simplescan_tagsalldocs" = "所有文件";
+
+"simplescan_tagssearchplaceholder" = "輸入標籤";
+
+"simplescan_tagsalltagstitle" = "所有標籤";
+
+"simplescan_tagsalreadyexists" = "標籤已存在！";
+
+"simplescan_tagstagdelete" = "刪除的標籤無法恢復。確認刪除？";
+
+"simplescan_tagsdone" = "完成";
+
+"simplescan_tagssettag" = "設置標籤";
+
+"simplescan_tagstagmanager" = "標籤";
+
+"simplescan_tagsentermanager" = "標籤";
+
+"simplescan_tagstagnotecontent" = "要儲存編輯嗎？";
+
+"simplescan_tagstagmanageradd" = "添加新標籤";
+
+"simplescan_tagstagmanageraddplac" = "請輸入標籤名稱";
+
+"simplescan_tagscreatelabs" = "創建標籤~";
+
+"simplescan_drivestartupdate" = "備份檔案開始上傳……";
+  
+"simplescan_driveuploading" = "正在上傳......";
+  
+"simplescan_buildingpdf" = "構建 PDF";
+  
+"simplescan_processingjpg" = "處理 JPG";
+  
+"simplescan_processing" = "處理……";
+  
+"simplescan_processingdoc" = "處理文件";
+  
+"simplescan_processingzip" = "處理 ZIP";
+  
+"simplescan_sortprocessing" = "排序處理";
+  
+"simplescan_removeing" = "移除";
+  
+"simplescan_copyprocessing" = "複印";
+  
+"simplescan_moveprocessing" = "移動";
+  
+"simplescan_mergeing" = "合併";
+  
+"simplescan_initdata" = "初始化數據";
+  
+"simplescan_docpasswordicon" = "鎖";
+  
+"simplescan_docpasswordunlockicon" = "開鎖";
+  
+"simplescan_pdfpassword" = "PDF匯出密碼";
+  
+"simplescan_pdfpasswordclear" = "清除PDF密碼";
+  
+"simplescan_touchtitle" = "請驗證觸控 ID";
+  
+"simplescan_clearapppsd" = "您要清除應用密碼選項嗎？";
+  
+"simplescan_cleardocpsd" = "是否要清除文檔訪問密碼選項？";
+  
+"simplescan_passwordhelptip" = "需要幫忙？";
+  
+"simplescan_passwordhelpsubject" = "文檔密碼反饋";
+  
+"simplescan_passwordapphelpsubject" = "應用密碼反饋";
+  
+"simplescan_enterpwd" = "請輸入密碼";
+  
+"simplescan_appsecurity" = "應用安全";
+  
+"simplescan_apppwd" = "應用密碼";
+  
+"simplescan_setpasswordlaceholder" = "請輸入您的密碼";
+  
+"simplescan_resetpasswordlaceholder" = "請重新輸入您的密碼";
+  
+"simplescan_setpasswordtitle" = "設置密碼";
+  
+"simplescan_setpdfpasswordtitle" = "PDF密碼";
+  
+"simplescan_resetpasswordtitle" = "輸入密碼";
+  
+"simplescan_writepasswordfail" = "密碼不匹配，請重試！";
+  
+"simplescan_writetwopasswordfail" = " 兩次密碼輸入不匹配，請重試！";
+  
+"simplescan_backupbottomtitle" = "從較早的備份復原或從另一台設備傳輸掃描";
+  
+"simplescan_docaccesspassword" = "文檔訪問密碼";
+  
+"simplescan_turnoffpassword" = "關閉密碼";
+  
+"simplescan_changepassword" = "更改密碼";
+  
+"simplescan_storagespacenotenough" = "手機沒有足夠的存儲空間";
+  
+"simplescan_storagespacetitle" = "手機存儲空間小於 50M，為防止文件無法寫入，請清理一些空間";
+  
+"simplescan_appheadingtitle" = "設置應用密碼保護文檔安全";
+  
+"simplescan_docheadingtitle" = "設置密碼以查看受密碼保護的文檔";
+  
+"simplescan_pdfheadingtitle" = "設置共享和導出 PDF 文件的密碼以保護文件隱私";
+  
+"simplescan_batchall" = "滿的";
+  
+"simplescan_batchauto" = "自動";
+  
+"simplescan_batchfit" = "合身";
+  
+"simplescan_left" = "左邊";
+  
+"simplescan_right" = "右邊";
+  
+"simplescan_crop" = "裁剪";
+  
+"simplescan_filter" = "篩選";
+  
+"simplescan_prompt" = "提示";
+  
+"simplescan_promptcontent" = "尚未保存更改。現在保存？";
+  
+"simplescan_no" = "不";
+  
+"simplescan_yes" = "是的";
+  
+"simplescan_batchsave" = "儲存";
+  
+"simplescan_scansignature" = "掃描您的簽名";
+  
+"simplescan_importsignature" = "從相冊導入";
+  
+"simplescan_waittip" = "文件處理中，請稍候......";
+  
+"simplescan_nooriginalimgdefault" = "部分文件無法重置裁剪，無法找到原文件";
+  
+"simplescan_nooriginalimgfilter" = "有些文件無法重新過濾，因為找不到原始文件";
+  
+"simplescan_nooriginalimgmore" = "和更多";
+  
+"simplescan_nooriginalimgsetting" = "您可以打開設置選項保存原始圖片選項";
+  
+"simplescan_alldatanooriginalimg" = "無法重置裁剪，原始文件不存在！";
+  
+"simplescan_alldatanooriginalimgfilter" = "無法重置過濾處理，原始文件不存在！";
+  
+"simplescan_cropautomatic" = "自動裁剪圖像";
+  
+"simplescan_cropautomatictip" = "在批量掃描模式下自動裁剪圖像";
+  
+"simplescan_cropautomaticcameraaip" = "自動裁剪";
+  
+"simplescan_camerafilterremind" = "您可以更改批處理模式默認過濾器";
+  
+"simplescan_cameracropremindfirst" = "您可以更改是否";
+  
+"simplescan_cameracropremindsecond" = "批處理模式被裁剪";
+  
+"simplescan_flitertypeapplylocation" = "適用於所有頁面";
+  
+"simplescan_colletionpdftolongpictitle" = "PDF 導出為長圖";
+  
+"simplescan_colletionpdftopictitle" = "PDF 轉圖片";
+  
+"simplescan_colletionpdfpasswordtitle" = "PDF密碼";
+  
+"simplescan_colletionpdfextracttitle" = "PDF 提取";
+  
+"simplescan_colletiondocpasswordtitle" = "文件密碼";
+  
+"simplescan_colletionscanidcardtitle" = "掃描身份證";
+  
+"simplescan_colletionpdfaddwatermarktitle" = "PDF 添加水印";
+  
+"simplescan_colletionpdfsignaturetitle" = "PDF 簽名";
+  
+"simplescan_colletionpdfpageadjustment" = "PDF 頁面調整";
+  
+"simplescan_colletionimagetopdf" = "圖像轉 PDF";
+  
+"simplescan_colletionbottomtitle" = "提取頁面";
+  
+"simplescan_colletionmydevice" = "我的設備";
+  
+"simplescan_colletionpdfextractbottomtitle" = "提取生成新文檔";
+  
+"simplescan_docreminedtitle" = "啟用通知權限";
+  
+"simplescan_docreminedcontent" = "您不啟用通知權限，因此在啟用之前您無法使用文檔警報。";
+  
+"simplescan_docreminetime" = "文檔提醒時間需要大於當前系統時間！";
+  
+"simplescan_questiontype" = "請選擇類型";
+  
+"simplescan_questiondescrible" = "請輸入您的問題或建議";
+  
+"simplescan_suggestionremind" = "要在 iPhone 8 及更早機型上截屏，請同時按下睡眠/喚醒按鈕和主屏幕按鈕";
+  
+"simplescan_suggestionremindx" = "要在 iPhone X 及更新機型上截屏，請同時按下提高音量和鎖定按鈕。";
+  
+"simplescan_questiontypecrash" = "崩潰/滯後";
+
+"simplescan_questiontypetaking" = "拍照/從相冊導入";
+
+"simplescan_questiontypephoto" = "圖片修改";
+
+"simplescan_questiontypeocr" = "光學字元辨識";
+
+"simplescan_questiontypefax" = "傳真";
+
+"simplescan_questiontypepoint" = "C 點";
+
+"simplescan_questiontypeshare" = "分享/電子郵件/打印";
+
+"simplescan_questiontypeinterface" = "界面";
+
+"simplescan_questiontypefeatures" = "更多功能";
+
+"simplescan_questiontypeother" = "其他問題";
+
+"simplescan_questiontypetoast" = "有什麼使用問題嗎？或者您可以向我們反饋應用功能的建議和要求，我們很樂意聽取您的意見。";
+
+"simplescan_questionsetting" = "設定";
+
+"simplescan_questioncontinue" = "繼續";
+
+"simplescan_questioninvalidemail" = "無效的電子郵箱地址";
+
+"simplescan_questiontoasttitle" = "添加屏幕截圖（可選）";
+
+"simplescan_submittedsuccessfully" = "提交成功！";
+
+"simplescan_suggestioncontentTitle" = "細節";
+
+"simplescan_suggestionsubmit" = "提交";
+
+"simplescan_remindtitle" = "標題";
+
+"simplescan_remindreturn" = "返回";
+
+"simplescan_guidetitleprofessional" = "專業的";
+
+"simplescan_guidetitlecollage" = "身份證拼貼模式";
+
+"simplescan_guidetitlebackup" = "備份還原";
+
+"simplescan_guideprofessionaldes" = "自動檢測文檔，快速裁剪處理，銳化和增強文檔。";
+
+"simplescan_guidecollagedes" = "將身份證圖像拼貼成文檔，提供多種模板選項，並自定義大小。";
+
+"simplescan_guideimagedes" = "通過雲端 AI 技術自動識別文字，編輯、複製、分享、導出您的文字。";
+
+"simplescan_guidebackupdes" = "將您的文檔備份到雲存儲或本地存儲，隨時恢復備份的文檔。";
+
+"simplescan_showstatustitle" = "加載數據中";
+
+"simplescan_placeholderpassword" = "密碼";
+
+"simplescan_manualsorttitle" = "長按以手動排序";
+
+"simplescan_docgraffiti" = "塗鴉";
+
+"simplescan_docaddtext" = "添加文字";
+
+"simplescan_copypage" = "複製當前頁面";
+
+"simplescan_copyallpages" = "複製所有頁面";
+
+"simplescan_showprocess" = "處理……";
+
+"simplescan_importimgerror" = "文件不存在，或數據錯誤！";
+
+"simplescan_somefileloss" = "一些文件讀取錯誤！";
+ 
+
+
+
+
+
+"simplescan_cardprompt" = "必備功能！您可以在1分鐘內製作身份證的2面電子副本。 100% r可以打印了。";
+ 
+"simplescan_paperexample" = "A4 紙示例";
+ 
+"simplescan_restorebackup" = "立即備份";
+ 
+"simplescan_restorelastbackup" = "上次備份日期";
+ 
+"simplescan_restoremerge" = "恢復和合併所有當前文檔";
+ 
+"simplescan_restoredelete" = "恢復和刪除所有當前文檔";
+ 
+"simplescan_restoretitle" = "復原";
+ 
+"simplescan_restorenotlogin" = "未檢測到雲帳戶登錄狀態。";
+ 
+"simplescan_restorenotrepeat" = "正在上傳備份文件，請稍候......";
+ 
+"simplescan_restorebackwifi" = "僅在Wi-Fi條件備份";
+ 
+"simplescan_restorenodocument" = "當前沒有可用的文檔，請先添加文檔。";
+ 
+"simplescan_restorequery" = "查詢......";
+ 
+"simplescan_restorequeryfailed" = "查詢失敗或未找到備份檔案。";
+ 
+"simplescan_restoreprocessfiles" = "處理文件";
+ 
+"simplescan_restorebackupfailed" = "備份失敗！";
+ 
+"simplescan_restoreuploadingfile" = "正在上傳文檔，請稍候……";
+ 
+"simplescan_saferepasscode" = "重新輸入密碼";
+ 
+"simplescan_saferepassword" = "請重新輸入密碼";
+ 
+"simplescan_applicationsecrulty" = "應用安全";
+ 
+"simplescan_verifypasscode" = "驗證密碼";
+ 
+"simplescan_setpasscode" = "設置密碼";
+ 
+"simplescan_enternewpassword" = "輸入新密碼";
+ 
+"simplescan_filetype" = "文件類型";
+ 
+"simplescan_fileformat" = "文件格式";
+ 
+"simplescan_sharepdfformat" = "以 .PDF 格式共享文件";
+ 
+"simplescan_sharezipformat" = "以 .ZIP 格式共享文件";
+ 
+"simplescan_sharejpgformat" = "以 .JPG 格式共享文件";
+ 
+"simplescan_newFolderprompt" = "新建檔案夾";
+ 
+"simplescan_currentdocument" = "當前文檔";
+ 
+"simplescan_recognizetitle" = "辨識";
+ 
+"simplescan_filedeleteprompt" = "備份文件刪除成功！";
+ 
+"simplescan_filedownbackup" = "下載備份文件";
+ 
+"simplescan_filestartbackup" = "備份文件開始下載";
+ 
+"simplescan_filerestoresuccessed" = "備份文件復原成功。";
+ 
+"simplescan_uploadsingin" = "登入";
+ 
+"simplescan_singoutlowercase" = "登出";
+ 
+"simplescan_processingerror" = "文件處理錯誤！";
+ 
+"simplescan_barcodeopenurl" = "打開網址";
+ 
+"simplescan_barcoderesult" = "識別結果";
+ 
+"simplescan_downloadlanguage" = "語言下載......";
+ 
+"simplescan_graffitibrush" = "刷子";
+ 
+"simplescan_graffitiopacity" = "不透明度";
+ 
+"simplescan_graffitieraser" = "橡皮";
+ 
+"simplescan_graffiticolor" = "顏色";
+ 
+"simplescan_graffitiundo" = "撤消";
+ 
+"simplescan_graffitiredo" = "重做";
+ 
+"simplescan_nosignture" = "沒有簽名！";
+ 
+"simplescan_graffititext" = "文本";
+     
+"simplescan_graffitireplacefile" = "替換當前文件";
+     
+"simplescan_graffiticreatefile" = "創建新文件";
+     
+"simplescan_graffiticopyto" = "複製到";
+     
+"simplescan_graffitimoveto" = "移動到";
+     
+"simplescan_graffititextrecognition" = "識別文本";
+     
+"simplescan_ocraccount" = "OCR 賬戶管理";
+     
+"simplescan_loginsuccessful" = "登錄成功！";
+     
+"simplescan_appleloginsuccessful" = "蘋果賬號登錄成功！";
+     
+"simplescan_googleloginsuccessful" = "谷歌賬號登錄成功！";
+     
+"simplescan_loginregister" = "登錄或註冊";
+     
+"simplescan_resetpassword" = "重設密碼";
+     
+"simplescan_copysuccessful" = "複製成功";
+     
+"simplescan_copyfailed" = "複製失敗";
+     
+"simplescan_loginicloudtips" = "為了防止您的餘額丟失，我們使用賬戶綁定您的餘額。同時，您還可以使用多個設備之間的平衡。請登錄或註冊您的帳戶。";
+     
+"simplescan_loginnow" = "現在登錄";
+     
+"simplescan_emailemptytips" = "電子郵件不能為空";
+     
+"simplescan_psdemptytips" = "密碼不能為空";
+ 
+"simplescan_codeemptytips" = "驗證碼不能為空";
+ 
+"simplescan_tips" = "提示";
+ 
+"simplescan_subscriptsuccessfully" = "感謝您訂閱高級版！";
+ 
+"simplescan_autorenewable" = "自動續訂，隨時取消。";
+ 
+"simplescan_nofreetrial" = "沒有免費試用";
+ 
+"simplescan_details" = "細節";
+ 
+"simplescan_restorepurchase" = "恢復購買的物品";
+ 
+"simplescan_freetrial" = "免費試用";
+ 
+"simplescan_unlimitedfolders" = "無限文件夾";
+ 
+"simplescan_unlimitedfoldersintroduce" = "無限創建文件夾和子文件夾。";
+ 
+"simplescan_noads" = "無廣告";
+ 
+"simplescan_noadsintroduce" = "從 Simple Scanner 中刪除廣告。";
+ 
+"simplescan_pdffileencryption" = "PDF 文件加密";
+ 
+"simplescan_pdffileencryptionintroduce" = "您可以為您的掃描（收據或機密文件）設置密碼以保護您的隱私。";
+ 
+"simplescan_ocrtypecloudintroduce" = "使用雲 AI 技術識別和提取文本，每月 1000+頁可用。";
+ 
+"simplescan_cloudservice" = "雲服務";
+ 
+"simplescan_cloudserviceintroduce" = "自動將您的文檔、PDF、jpg、文件類型上傳到雲端硬盤或 iCloud 以避免文檔丟失。";
+ 
+"simplescan_functionofcollage" = "拼貼功能";
+ 
+"simplescan_functionofcollageintroduce" = "使用拼貼功能將多頁合併為一頁。";
+ 
+"simplescan_unlimitedscans" = "無限掃描";
+ 
+"simplescan_unlimitedscansintroduce" = "對掃描的文件數量沒有限制。";
+ 
+"simplescan_clearwaternark" = "清除水印";
+ 
+"simplescan_clearwaternarkintroduce" = "去除 PDF 水印，保持 PDF 乾淨整潔。";
+ 
+"simplescan_writesignature" = "簽名";
+ 
+"simplescan_writesignatureintroduce" = "掃描您寫在紙上的簽名，以生成與原件完全相同的電子簽名。";
+ 
+"simplescan_highqualitydoc" = "高質量文檔";
+ 
+"simplescan_highqualitydocintroduce" = "多個圖像質量選擇選項，選擇更高質量的選項，使文檔 PDF 更清晰。";
+ 
+"simplescan_emailmyself" = "給自己發電子郵件";
+ 
+"simplescan_emailmyselfintroduce" = "通過電子郵件將文件發送給自己，更快捷、更方便。";
+ 
+"simplescan_exportpdfdoc" = "導出 PDF 文檔";
+ 
+"simplescan_exportpdfdocintroduce" = "快速將 PDF 導出到其他應用程序，或存儲在手機本地。";
+ 
+"simplescan_backupintroduce" = "多設備備份和恢復以保持文檔同步。";
+ 
+"simplescan_graffiti" = "塗鴉";
+ 
+"simplescan_graffitiintroduce" = "修改文檔、塗鴉、添加文字、簽名等。";
+ 
+"simplescan_applock" = "應用鎖";
+ 
+"simplescan_applockintroduce" = "啟用 Face ID 或 Touch ID 以一步解鎖 SimpleScanner。";
+ 
+"simplescan_imagetotext" = "圖片轉文字";
+ 
+"simplescan_imagetotextintroduce" = "使用 OCR 功能識別圖像中的文本以供以後搜索或共享。";
+ 
+"simplescan_propdfeditor" = "PDF 編輯器";
+ 
+"simplescan_propdfeditorintroduce" = "編輯 PDF 頁面、添加簽名和塗鴉、PDF 密碼、去除水印等。";
+ 
+"simplescan_gotosetting" = "進入設置";
+ 
+"simplescan_ocrnumMorethan" = "Cloud OCR 在當前計算週期中已用於識別 1000 頁/月。如果繼續識別，則需要購買 OCR 頁面，或者請等待下一個計算週期自動添加 OCR 1000 頁面。";
+ 
+"simplescan_upgradeaccount" = "20 多個高級功能";
+ 
+"simplescan_upgradepremium" = "升級到高級";
+ 
+"simplescan_premium" = "優質的";
+ 
+"simplescan_nopurrestore" = "沒有購買恢復！";
+ 
+"simplescan_restorefailed" = "無法恢復購買。";
+ 
+"simplescan_restoresuccessfully" = "成功恢復購買。";
+ 
+
+
+
+
+
+
+
+"simplescan_bindcontent" = "您還沒有設置郵箱，請到手機“設置-郵箱”，點擊“添加賬戶”創建郵箱";
+ 
+"simplescan_cameratypeidcardintroduce" = "1分鐘內將身份證的兩面掃描並複印到一頁上，保持卡片的原始尺寸。100%可打印。";
+ 
+
+"simplescan_paymenttext1" = "付款將在確認購買時記入 iTunes 帳戶。";
+ 
+"simplescan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+    
+"simplescan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+ 
+
+
+
+
+
+
+"simplescan_forgotpsd" = "忘記密碼了嗎？";
+ 
+"simplescan_signup" = "註冊";
+ 
+"simplescan_noaccount" = "沒有賬號？";
+ 
+"simplescan_login" = "登錄";
+ 
+"simplescan_quicklogin" = "快速登錄";
+ 
+"simplescan_paynow" = "現在付款";
+ 
+"simplescan_send" = "發送";
+ 
+"simplescan_signinsuccess" = "登錄成功！";
+ 
+"simplescan_resend" = "重發";
+ 
+"simplescan_sendcodesuccess" = "發送成功";
+ 
+"simplescan_entervercode" = "輸入驗證碼";
+ 
+"simplescan_addorginalfile" = "添加原始檔案備份";
+ 
+"simplescan_turnonpassword" = "開啟密碼";
+

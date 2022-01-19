@@ -1,0 +1,1209 @@
+
+
+"topscan_collage" = "Colaj";
+   
+"topscan_doctag" = "Setați eticheta";
+   
+"topscan_picquality" = "Calitatea imaginii";
+   
+"topscan_addto" = "Adaugă";
+   
+"topscan_share" = "Distribuie";
+   
+"topscan_email" = "E-mail";
+   
+"topscan_merge" = "Combinați";
+   
+"topscan_copy" = "Copiați/Mutați";
+   
+"topscan_sortby" = "Sortează după";
+   
+"topscan_more" = "Mai mult";
+   
+"topscan_savetogallery" = "Salvați în galerie";
+   
+"topscan_upload" = "Încărcare";
+   
+"topscan_uploadsucceeded" = "Încărcare reușită";
+   
+"topscan_uploadfailed" = "Încărcare eșuată";
+   
+"topscan_delete" = "Șterge";
+   
+"topscan_cancel" = "Anulare";
+   
+"topscan_ok" = "O.K";
+   
+"topscan_about" = "despre";
+   
+"topscan_error" = "EROARE";
+   
+"topscan_skip" = "Omite";
+   
+"topscan_decryption" = "Decriptare";
+   
+"topscan_allselect" = "Selectează tot";
+   
+"topscan_cancelallselect" = "Deselectează tot";
+   
+"topscan_items" = "Selectat";
+   
+"topscan_printing" = "Imprimare";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Notă";
+   
+"topscan_retake" = "Reluați";
+   
+"topscan_ocr" = "Recunoașteți textul";
+   
+"topscan_watermarktitle" = "WaterMark";
+   
+"topscan_addwatermark" = "Adăugați filigran";
+   
+"topscan_editwatermark" = "Editați waterMark";
+   
+"topscan_clearwatermark" = "Ștergeți conținutul";
+   
+"topscan_removewatermark" = "Scoateți filigranul";
+   
+"topscan_remind" = "Avertizare";
+   
+"topscan_loading" = "se încarcă...";
+   
+"topscan_deleteoption" = "Sigur doriți să ștergeți toate documentele selectate?";
+   
+"topscan_deletecurrentpage" = "Sigur ștergeți această pagină?";
+   
+"topscan_deletecurrentdoc" = "Sigur doriți să ștergeți documentul curent?";
+   
+"topscan_bind" = "Configurarea contului de e-mail";
+   
+"topscan_savefail" = "Eroare de date!";
+   
+"topscan_phonememoryalert" = "Din cauza problemelor de memorie a telefonului, colajele mai mari de 30 de imagini pot cauza un accident. Doriți să continuați?";
+   
+"topscan_continueshare" = "Continuați să distribuiți";
+   
+"topscan_savealert" = "Sigur plecați fără a salva modificările?";
+   
+"topscan_deletesignatureimagealert" = "Sigur doriți să ștergeți imaginea semnăturii?";
+   
+"topscan_discard" = "Renunțați la modificări";
+ 
+ 
+"topscan_movesuccess" = "Mutați documentele cu succes!";
+   
+"topscan_copysuccess" = "Copiați documentele cu succes!";
+   
+"topscan_mergesuccess" = "Mergeți documentele cu succes!";
+   
+"topscan_clearphotos" = "Fotografia(fotografiile) tocmai făcute nu vor fi salvate. Sigur eliminați fotografia(fotografiile)?";
+   
+"topscan_noalert" = "Nu-mi aduce aminte din nou";
+   
+"topscan_editpdf" = "Editați PDF";
+   
+"topscan_addpage" = "Adăugare pagină";
+   
+"topscan_collageimage" = "Imagine colaj...";
+   
+"topscan_collageproof" = "Dovada proprietății";
+   
+"topscan_collagedriverlicense" = "Permis de conducere";
+   
+"topscan_collageidcard" = "Carte de identitate";
+   
+ 
+ 
+"topscan_collagepassport" = "Pașaport";
+   
+"topscan_collageaccountbook" = "Carte de cont";
+   
+"topscan_idcardanti" = "Antifals";
+   
+"topscan_importpic" = "Galerie";
+   
+"topscan_userdefinedsize" = "Dimensiune fișier partajare auto-definită";
+   
+"topscan_filecompressiontitle" = "Introduceți raportul de compresie 0-99";
+   
+"topscan_manualsorting" = "Sortare manuală";
+   
+"topscan_firstontop" = "În primul rând pe partea de sus";
+   
+"topscan_lastontop" = "Ultimul pe partea de sus";
+   
+"topscan_siderename" = "Redenumiți";
+   
+"topscan_creatdatadescend" = "Data creării (crescătoare)";
+   
+"topscan_creatdataascend" = "Data creării (descrescătoare)";
+   
+"topscan_filenameatoz" = "Numele fișierului(de la A la Z)";
+   
+"topscan_filenameztoa" = "Nume fișier(de la Z la A)";
+   
+"topscan_girdview2" = "Vedere panoramică";
+   
+"topscan_girdview3" = "(3 coloane)";
+   
+"topscan_girdviewlist" = "Vizualizare listă";
+   
+"topscan_folderlocationtop" = "Dosar pe partea de sus";
+   
+"topscan_folderlocationbottom" = "Dosar pe partea de jos";
+   
+"topscan_fax" = "Fax";
+   
+"topscan_hidepagedetails" = "Ascundeți detaliile paginii";
+   
+"topscan_displaypagedetails" = "Afișați detaliile paginii";
+   
+"topscan_batchedit" = "Editare lot";
+   
+"topscan_pdffile" = "Fișier PDF";
+   
+"topscan_image_jpg" = "Imagine(JPG)";
+   
+"topscan_longimage_jpg" = "Distribuiți o imagine cât mai lungă";
+   
+"topscan_txt" = "Distribuiți txt";
+   
+"topscan_originalsize" = "Mărimea originală";
+   
+"topscan_medium" = "Mediu";
+   
+"topscan_small" = "Mic";
+   
+"topscan_superhigh" = "Super mare";
+   
+"topscan_shareapp" = "Distribuie aceasta aplicatie";
+   
+"topscan_backup" = "Backup și restaurare";
+   
+"topscan_icouldbackup" = "Backup";
+   
+"topscan_importimage" = "Importați imaginea";
+   
+"topscan_mergepdf" = "Îmbinați PDF-ul";
+   
+"topscan_importfile" = "Fișier de import";
+   
+"topscan_longpresstip" = "Am înțeles!";
+   
+"topscan_search" = "Căutare";
+   
+"topscan_homemoredocremind" = "Memento document";
+   
+"topscan_settingtemplate" = "Șablon";
+   
+"topscan_settingfamily" = "Familie";
+   
+"topscan_shareappcontent" = "Am găsit un software de scanare excelent, link de descărcare";
+   
+"topscan_mergefilemethodtitle" = "Selectați o metodă de fuziune";
+   
+"topscan_mergefilemethodkeepold" = "Merge and Keep Old Document";
+   
+"topscan_mergefilemethoddeleteold" = "Îmbinați și ștergeți documentul vechi";
+   
+"topscan_cameradiscardtitle" = "Renunțați la pagini";
+   
+"topscan_cameradiscardmssage" = "Renunțați la toate paginile?";
+   
+"topscan_cameraaccidenttitle" = "informație";
+   
+"topscan_cameraaccidentmssage" = "unele imagini pe care le-ați făcut ultima dată nu au fost procesate, doriți să le încărcați?";
+   
+"topscan_cameralighton" = "Pe";
+   
+"topscan_cameralightoff" = "Dezactivat";
+   
+"topscan_cameralightauto" = "Auto";
+   
+"topscan_cameralighttorch" = "Torta";
+   
+"topscan_cameratypetotext" = "La text";
+   
+"topscan_cameratypesingle" = "Singur";
+   
+"topscan_cameratypebatch" = "Lot";
+   
+"topscan_cameratypeqrbarcode" = "QR și cod de bare";
+   
+"topscan_camerapermissiontitle" = "Vă rugăm să deschideți permisiunile camerei";
+   
+"topscan_camerapermissionguide" = "Setare-Confidențialitate-Cameră";
+   
+"topscan_albumpermissiontitle" = "Vă rugăm să deschideți permisiunile pentru album";
+   
+"topscan_albumpermissionguide" = "Setări-Confidențialitate-Fotografii-Toate fotografiile";
+   
+"topscan_safeentertips" = "Vă rugăm să introduceți parola de 4 cifre!";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Sigur doriți să vă deconectați?";
+       
+"topscan_psderror" = "Parolă incorectă. Vă rugăm să încercați din nou!";
+       
+"topscan_pdferror" = "Parola nu s-a potrivit, încercați din nou!";
+       
+"topscan_touchidnotenrolled" = "Dispozitivul nu este detectat pentru a activa touch ID-ul, vă rugăm să mergeți la centrul de setări ale telefonului pentru a activa funcția Touch ID.";
+       
+"topscan_faceidnotenrolled" = "Dispozitivul nu este detectat pentru a activa ID-ul feței, vă rugăm să mergeți la centrul de setări ale telefonului pentru a activa funcția ID-ul feței.";
+       
+"topscan_opensysset" = "Autorizație de setare a centrului";
+       
+"topscan_againvafaceid" = "Faceți clic pentru a verifica Face ID";
+       
+"topscan_againvatouchid" = "Faceți clic pentru a verifica Touch ID";
+       
+"topscan_pdfpagenumberno" = "Fără număr de pagină";
+       
+"topscan_pdfpagenumberlowerl" = "stânga jos";
+       
+"topscan_pdfpagenumberbottomc" = "centrul de jos";
+       
+"topscan_pdfpagenumberlowerr" = "dreapta jos";
+       
+"topscan_pdfpagenumberupperl" = "stânga sus";
+       
+"topscan_pdfpagenumberheadc" = "centrul capului";
+       
+"topscan_pdfpagenumberupperr" = "dreapta sus";
+       
+"topscan_colletionfunctiontitle" = "Selectați Document";
+       
+"topscan_pdfdirectionauto" = "Reglați automat după dimensiunea imaginii";
+       
+"topscan_pdfdirectionlandscape" = "Peisaj";
+       
+"topscan_pdfaddsignature" = "Portret";
+       
+"topscan_changepdfsizealert" = "Modificările actuale vor reseta semnătura PDF. Doriți să continuați?";
+       
+"topscan_emptypdfnamealert" = "Numele PDF nu poate fi gol!";
+       
+"topscan_createdsuccessfully" = "Creat cu succes";
+       
+"topscan_hasfolder" = "Documentul/folderul există deja.Vă rugăm să alegeți un alt nume";
+       
+"topscan_creationfailed" = "Creația nu a reușit";
+       
+"topscan_duplicationname" = "Numele a existat deja.Vă rugăm să schimbați altul.";
+       
+"topscan_folderexists" = "Dosarul există deja.";
+       
+"topscan_emailinvalidtips" = "Vă rugăm să introduceți adresa de e-mail corectă";
+       
+"topscan_defaultprocess" = "Proces implicit";
+       
+"topscan_original" = "Original";
+       
+"topscan_blackwhite" = "B&W";
+       
+"topscan_blackwhite2" = "B&W2";
+       
+"topscan_blackwhite3" = "B&W3";
+       
+"topscan_nostalgic" = "Nostalgic";
+       
+"topscan_magiccolor" = "Culoare magică";
+       
+"topscan_magiccolor2" = "Magic Color2";
+       
+"topscan_grayscale" = "Scara tonurilor de gri";
+       
+"topscan_lastfilter" = "Ultimul filtru";
+       
+"topscan_clear" = "clar";
+       
+"topscan_clearmarks" = "Semne clare";
+       
+"topscan_markstip" = "Marcajele(semnătură, graffiti etc.) vor fi șterse dacă continuați. Sigur că ștergeți semnele?";
+       
+"topscan_setting" = "La Setări";
+       
+"topscan_deletedrive" = "Sigur doriți să ștergeți fișierul curent de rezervă?";
+       
+"topscan_thereisnotstoragespaceon" = "Nu există suficient spațiu de stocare pe telefon. Vă rugăm să încercați din nou!";
+       
+"topscan_dropboxsussess" = "Copia de rezervă a fost transferată în Dropbox.";
+       
+"topscan_boxsussess" = "Copia de rezervă a fost transferată în Box.";
+       
+"topscan_googledrivesussess" = "Copia de rezervă a fost transferată pe Google Drive.";
+       
+"topscan_onedrivesussess" = "Copia de rezervă a fost transferată la Onedrive.";
+       
+"topscan_startbackupinbackground" = "Începeți să încărcați fișiere de rezervă în fundal";
+       
+"topscan_backupinbackgroundaleat" = "Încărcarea fișierului de rezervă se va face în fundal, închiderea aplicației poate provoca eșecul backup-ului.";
+       
+"topscan_myselfemailshow" = "Trimiteți-mi un e-mail";
+       
+"topscan_toemailtitle" = "Către";
+       
+"topscan_subjectplaceholder" = "Subiect";
+       
+"topscan_bodyplaceholder" = "Corp";
+       
+"topscan_emailsettingguide" = "Puteți schimba adresa de e-mail în Setări-> General-> E-mail";
+       
+"topscan_picturequalityheight" = "Înalt";
+       
+"topscan_picturequalitylow" = "Scăzut";
+       
+"topscan_defaultpagesize" = "Dimensiune pagină implicită";
+       
+"topscan_privacypolicy" = "Politica de confidențialitate";
+       
+"topscan_faq" = "FAQ";
+       
+"topscan_sendfeedback" = "Trimite feedback";
+       
+"topscan_version" = "Versiune";
+       
+"topscan_rateapp" = "Evaluați scanerul simplu";
+       
+"topscan_settinggeneral" = "General";
+       
+"topscan_settingdocmanagement" = "Managementul documentelor";
+       
+"topscan_settingourapp" = "Aplicația noastră";
+       
+"topscan_settingfaxname" = "Fax simplu";
+       
+"topscan_settingfaxreceivename" = "Primire fax";
+       
+"topscan_settinguseragreement" = "Acordul Utilizatorului";
+       
+"topscan_settingusersuggestion" = "Sugestie și feedback";
+       
+"topscan_settingdocname" = "numele documentului";
+       
+"topscan_settingdoctime" = "Ora documentului";
+       
+"topscan_changepagesize" = "Schimbați dimensiunea paginii";
+       
+"topscan_documentname" = "Numele documentului auto-definit";
+       
+"topscan_documentdate" = "Timpul documentului auto-definit";
+       
+"topscan_autosavetogallery" = "Salvare automată în album";
+       
+"topscan_saveoriginalimage" = "Salvați imaginea originală";
+       
+"topscan_saveoriginalimagetip" = "Această caracteristică resetează în principal funcția de decupare,ceea ce crește spațiul de stocare";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Salvați scanările în Galerie automat";
+   
+"topscan_textblankprompt" = "Recunoașteți imaginea și convertiți în text";
+   
+"topscan_noteplaceholder" = "Începeți să adăugați note!";
+   
+"topscan_ocrtexttdit" = "Editați | ×";
+   
+"topscan_ocrtextcopy" = "Copie";
+   
+"topscan_ocrtextexport" = "Export";
+   
+"topscan_ocrtexttranslation" = "Traducere";
+   
+"topscan_ocrdefaultlanguage" = "Engleză";
+   
+"topscan_ocrautomatic" = "Automat";
+   
+"topscan_ocrtextagain" = "OCR din nou";
+   
+"topscan_ocrtypecloud" = "Cloud OCR";
+   
+"topscan_ocrtypelocal" = "Recunoaștere locală rapidă";
+   
+"topscan_ocrtypelocaltip" = "Acceptă numai caractere latine";
+   
+"topscan_ocrdownfail" = "descărcare eșuează";
+   
+"topscan_ocrrecentanguages" = "Limbi recente";
+   
+"topscan_ocralllanguages" = "Toate limbile";
+   
+"topscan_ocrexportcopy" = "Copiați în clipboard";
+   
+"topscan_ocrchooseendpoint" = "Alegeți punctul final cel mai apropiat";
+   
+"topscan_ocrgoogleendpointprompt" = "Selectați automat cel mai bun nod global, nu este nevoie să alegeți!";
+   
+"topscan_ocrthirdocrfailprompt" = "Eroare de procesare sau nu există text disponibil, încercați din nou!";
+   
+"topscan_networkstate" = "WLAN este dezactivat";
+   
+"topscan_networkstatecontent" = "Puteți activa WLAN pentru aplicația „simpleScan” din Setări";
+   
+"topscan_ocragainallpage" = "Toate paginile";
+   
+"topscan_ocragaincurrentpage" = "Pagina curenta";
+   
+"topscan_ocrtextagainvctip" = "Modificările făcute în timpul corecturii s-ar pierde dacă atingeți Înapoi";
+   
+"topscan_ocrocrvctip" = "Sigur doriți să ieșiți din recunoașterea textului curent?";
+   
+"topscan_ocrocrgooglepoint" = "Global";
+   
+"topscan_ocrocragaintitle" = "Atingeți textul pentru editare";
+   
+"topscan_ocrocrlanguagetitle" = "Limba";
+   
+"topscan_ocrocragainendpoint" = "Punct final";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Recunoașteți pagina curentă";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Recunoașteți toate paginile";
+ 
+"topscan_translatesourcelanguage" = "Limba-sursă";
+ 
+"topscan_translatetargetlanguage" = "Limbă țintă";
+ 
+"topscan_deletelanguagepack" = "Ștergeți modelul de limbă";
+ 
+"topscan_stoploadlanguagepack" = "Opriți descărcarea modelului de limbă";
+ 
+"topscan_scorecancel" = "Nu acum";
+ 
+"topscan_scorefivestar" = "5 stele";
+ 
+"topscan_tagsungrouped" = "Negrupat";
+ 
+"topscan_tagsalldocs" = "Toate documentele";
+ 
+"topscan_tagssearchplaceholder" = "Etichetă de intrare";
+ 
+"topscan_tagsalltagstitle" = "Toate etichetele";
+ 
+"topscan_tagsalreadyexists" = "Eticheta există deja!";
+ 
+"topscan_tagstagdelete" = "Etichetele șterse nu pot fi recuperate. Confirmați să ștergeți?";
+ 
+"topscan_tagsdone" = "Terminat";
+ 
+"topscan_tagssettag" = "Setează etichete";
+ 
+"topscan_tagstagmanager" = "Etichetă";
+ 
+"topscan_tagsentermanager" = "Etichete";
+ 
+"topscan_tagstagnotecontent" = "Doriți să salvați modificările?";
+ 
+"topscan_tagstagmanageradd" = "Adăugați o etichetă nouă";
+ 
+"topscan_tagstagmanageraddplac" = "Vă rugăm să introduceți numele etichetei";
+ 
+"topscan_tagscreatelabs" = "Pentru a crea etichete ~";
+   
+"topscan_drivestartupdate" = "Fișierul de rezervă începe să se încarce";
+     
+"topscan_driveuploading" = "se încarcă...";
+     
+"topscan_buildingpdf" = "Construirea PDF";
+     
+"topscan_processingjpg" = "Se procesează JPG";
+     
+"topscan_processing" = "Prelucrare";
+     
+"topscan_processingdoc" = "Se procesează doc";
+     
+"topscan_processingzip" = "Se procesează ZIP";
+     
+"topscan_sortprocessing" = "Sortați procesarea";
+     
+"topscan_removeing" = "Se elimină";
+     
+"topscan_copyprocessing" = "Copiere";
+     
+"topscan_moveprocessing" = "În mișcare";
+     
+"topscan_mergeing" = "Îmbinarea";
+     
+"topscan_initdata" = "Inițializarea datelor";
+     
+"topscan_docpasswordicon" = "Lacăt";
+     
+"topscan_docpasswordunlockicon" = "Deblocați";
+     
+"topscan_pdfpassword" = "Parola de export PDF";
+     
+"topscan_pdfpasswordclear" = "Ștergeți parola PDF";
+     
+"topscan_touchtitle" = "Vă rugăm să verificați ID-ul tactil";
+     
+"topscan_clearapppsd" = "Doriți să ștergeți opțiunile pentru parola aplicației?";
+     
+"topscan_cleardocpsd" = "Doriți să ștergeți opțiunile parolei de acces la document?";
+     
+"topscan_passwordhelptip" = "Nevoie de ajutor ?";
+     
+"topscan_passwordhelpsubject" = "Parola documentului Feedback";
+     
+"topscan_passwordapphelpsubject" = "Feedback pentru parola aplicației";
+     
+"topscan_enterpwd" = "Te rog introdu parola";
+     
+"topscan_appsecurity" = "Securitatea aplicației";
+     
+"topscan_apppwd" = "Parola aplicației";
+     
+"topscan_setpasswordlaceholder" = "Va rugăm să introduceți parola";
+     
+"topscan_resetpasswordlaceholder" = "Vă rugăm să reintroduceți parola";
+     
+"topscan_setpasswordtitle" = "Seteaza parola";
+     
+"topscan_setpdfpasswordtitle" = "Parolă PDF";
+     
+"topscan_resetpasswordtitle" = "Introdu parola";
+     
+"topscan_writepasswordfail" = "Parolele nu se potrivesc, încercați din nou!";
+     
+"topscan_writetwopasswordfail" = " Două intrări de parole nu se potrivesc, încercați din nou!";
+     
+"topscan_backupbottomtitle" = "Restabiliți dintr-o copie de rezervă anterioară sau transferați scanări de pe alt dispozitiv";
+     
+"topscan_docaccesspassword" = "Parola de acces doc";
+     
+"topscan_turnoffpassword" = "Dezactivați parola";
+     
+"topscan_changepassword" = "Schimbați parola";
+     
+"topscan_storagespacenotenough" = "Telefonul nu are suficient spațiu de stocare";
+     
+"topscan_storagespacetitle" = "Spațiul de stocare al telefonului este mai mic de 200M, pentru a preveni ca fișierele să nu poată fi scrise, vă rugăm să goliți un spațiu";
+     
+"topscan_appheadingtitle" = "Setați parola aplicației pentru a proteja securitatea documentelor";
+     
+"topscan_docheadingtitle" = "Setați parola pentru vizualizarea documentelor protejate prin parolă";
+     
+"topscan_pdfheadingtitle" = "Setați parola pentru partajarea și exportarea fișierelor PDF pentru a proteja confidențialitatea fișierului";
+     
+"topscan_batchall" = "Deplin";
+     
+"topscan_batchauto" = "Auto";
+     
+"topscan_batchfit" = "Potrivi";
+     
+"topscan_left" = "Stânga";
+     
+"topscan_right" = "Dreapta";
+     
+"topscan_crop" = "A decupa";
+     
+"topscan_filter" = "Filtru";
+     
+"topscan_prompt" = "Prompt";
+     
+"topscan_promptcontent" = "Modificările nu au fost încă salvate. Salvează acum?";
+     
+"topscan_no" = "Nu";
+     
+"topscan_yes" = "da";
+     
+"topscan_batchsave" = "Salvați";
+     
+"topscan_scansignature" = "Scanați-vă semnătura";
+     
+"topscan_importsignature" = "Importă din album";
+     
+"topscan_waittip" = "Procesarea fișierului, vă rugăm să așteptați...";
+     
+"topscan_nooriginalimgdefault" = "Unele fișiere nu pot fi resetate și decupate, iar fișierul original nu poate fi găsit";
+     
+"topscan_nooriginalimgfilter" = "Unele fișiere nu pot fi re-filtrate, deoarece fișierul original nu poate fi găsit";
+     
+"topscan_nooriginalimgmore" = "și altele";
+     
+"topscan_nooriginalimgsetting" = "puteți deschide opțiunea de setări pentru a salva opțiunea de imagine originală";
+     
+"topscan_alldatanooriginalimg" = "Imposibil de resetat decuparea, fișierul original nu există!";
+     
+"topscan_alldatanooriginalimgfilter" = "Imposibil de resetat procesarea filtrului, fișierul original nu există!";
+     
+"topscan_cropautomatic" = "Decupare automată a imaginii";
+     
+"topscan_cropautomatictip" = "Decupați automat imaginile în modul Scanare lot";
+     
+"topscan_cropautomaticcameraaip" = "Decupare automată";
+     
+"topscan_camerafilterremind" = "Puteți schimba filtrul implicit al modului lot";
+     
+"topscan_cameracropremindfirst" = "Puteți schimba dacă";
+     
+"topscan_cameracropremindsecond" = "modul batch este decupat";
+     
+"topscan_flitertypeapplylocation" = "Aplicați la toate paginile";
+     
+"topscan_colletionpdftolongpictitle" = "Export PDF în imagine lungă";
+     
+"topscan_colletionpdftopictitle" = "PDF către imagine";
+     
+"topscan_colletionpdfpasswordtitle" = "Parolă PDF";
+     
+"topscan_colletionpdfextracttitle" = "Extras PDF";
+     
+"topscan_colletiondocpasswordtitle" = "Parola doc";
+     
+"topscan_colletionscanidcardtitle" = "Scanați cardul de identitate";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF Adaugă filigran";
+     
+"topscan_colletionpdfsignaturetitle" = "Semnătura PDF";
+     
+"topscan_colletionpdfpageadjustment" = "Ajustare pagină PDF";
+     
+"topscan_colletionimagetopdf" = "Imagine în PDF";
+     
+"topscan_colletionbottomtitle" = "Extrageți pagina";
+     
+"topscan_colletionmydevice" = "Aparatul meu";
+     
+"topscan_colletionpdfextractbottomtitle" = "Extract generează un document nou";
+     
+"topscan_docreminedtitle" = "Activați permisiunile de notificare";
+     
+"topscan_docreminedcontent" = "Nu activați permisiunile de notificare, deci nu puteți utiliza Alerte document până când acestea nu sunt activate.";
+     
+"topscan_docreminetime" = "Timpul de reamintire a documentului trebuie să fie mai mare decât timpul curent al sistemului!";
+     
+"topscan_questiontype" = "Vă rugăm să selectați un tip";
+     
+"topscan_questiondescrible" = "Vă rugăm să introduceți întrebarea sau sugestia";
+     
+"topscan_suggestionremind" = "Pentru a face o captură de ecran pe iPhone 8 și versiunile anterioare, apăsați simultan butonul Sleep/Wake și butonul Home";
+     
+"topscan_suggestionremindx" = "Pentru a face o captură de ecran pe iPhone X și mai târziu, apăsați butonul de creștere a volumului și de blocare în același timp.";
+     
+"topscan_questiontypecrash" = "Crash/lag";
+   
+"topscan_questiontypetaking" = "Fotografierea/importarea din album";
+   
+"topscan_questiontypephoto" = "editare foto";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Fax";
+   
+"topscan_questiontypepoint" = "Puncte C";
+   
+"topscan_questiontypeshare" = "Share/Email/Print";
+   
+"topscan_questiontypeinterface" = "Interfață";
+   
+"topscan_questiontypefeatures" = "Mai multe trăsături";
+   
+"topscan_questiontypeother" = "Alte întrebări";
+   
+"topscan_questiontypetoast" = "Există probleme de utilizare? Sau ne puteți oferi feedback despre sugestiile și cerințele privind funcțiile aplicației și suntem bucuroși să vă ascultăm opiniile.";
+   
+"topscan_questionsetting" = "Setări";
+   
+"topscan_questioncontinue" = "Continuă";
+   
+"topscan_questioninvalidemail" = "Adresa email invalida";
+   
+"topscan_questiontoasttitle" = "Adăugați capturi de ecran (opțional)";
+   
+"topscan_submittedsuccessfully" = "Trimis cu succes !";
+   
+"topscan_suggestioncontenttitle" = "Detaliu";
+   
+"topscan_suggestionsubmit" = "Trimite";
+   
+"topscan_remindtitle" = "Titlu";
+   
+"topscan_remindreturn" = "Întoarcere";
+   
+"topscan_guidetitleprofessional" = "Profesional";
+   
+"topscan_guidetitlecollage" = "Modul colaj ID";
+   
+"topscan_guidetitlebackup" = "Backup și restaurare";
+   
+"topscan_guideprofessionaldes" = "Detectați automat documente, prelucrați rapid culturile, ascuțiți și îmbunătățiți documentele.";
+   
+"topscan_guidecollagedes" = "Colajați imaginile cărții de identitate într-un document, furnizați mai multe opțiuni de șablon și dimensiunea personalizată.";
+   
+"topscan_guideimagedes" = "Recunoașteți automat textul prin tehnologia AI cloud, editați, copiați, partajați, exportați textul.";
+   
+"topscan_guidebackupdes" = "Faceți o copie de rezervă a documentelor în spațiul de stocare în cloud sau în spațiul de stocare local și restaurați documentele de rezervă în orice moment.";
+   
+"topscan_showstatustitle" = "Încărcare date";
+   
+"topscan_placeholderpassword" = "parola";
+   
+"topscan_manualsorttitle" = "Apăsați lung pentru a sorta manual";
+   
+"topscan_docgraffiti" = "Graffiti";
+   
+"topscan_docaddtext" = "Adaugă text";
+   
+"topscan_copypage" = "Copiați pagina curentă";
+   
+"topscan_copyallpages" = "Copiați toate paginile";
+   
+"topscan_showprocess" = "prelucrare...";
+   
+"topscan_importimgerror" = "Fișierul nu există sau eroare de date!";
+   
+"topscan_somefileloss" = "Unele erori de citire a fișierului!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "O caracteristică obligatorie! Puteți face o copie electronică față-verso a unui card de identitate în 1 minut. 100 % r gata pentru imprimare.";
+    
+"topscan_paperexample" = "Exemplu de hârtie A4";
+    
+"topscan_restorebackup" = "BACK UP ACUM";
+    
+"topscan_restorelastbackup" = "Data ultimului backup";
+    
+"topscan_restoremerge" = "Restaurează și îmbină toate documentele actuale";
+    
+"topscan_restoredelete" = "Restaurează și șterge toate documentele actuale";
+    
+"topscan_restoretitle" = "RESTAURARE";
+    
+"topscan_restorenotlogin" = "Nu a fost detectată nicio stare de conectare la contul cloud.";
+    
+"topscan_restorenotrepeat" = "Se încarcă fișierul de rezervă, așteptați...";
+    
+"topscan_restorebackwifi" = "Backup numai pe Wi-Fi";
+    
+"topscan_restorenodocument" = "Momentan nu există niciun document disponibil, vă rugăm să adăugați mai întâi un document.";
+    
+"topscan_restorequery" = "se interoghează..";
+    
+"topscan_restorequeryfailed" = "Interogarea a eșuat sau fișierul de rezervă nu a fost găsit.";
+    
+"topscan_restoreprocessfiles" = "Procesarea fișierelor";
+    
+"topscan_restorebackupfailed" = "Backupul a eșuat!";
+    
+"topscan_restoreuploadingfile" = "Se încarcă fișierul, vă rugăm să așteptați...";
+    
+"topscan_saferepasscode" = "Reintroduceți codul de acces";
+    
+"topscan_saferepassword" = "Vă rugăm să reintroduceți parola";
+    
+"topscan_applicationsecrulty" = "Cerere secretă";
+    
+"topscan_verifypasscode" = "Verificați codul de acces";
+    
+"topscan_setpasscode" = "Setați codul de acces";
+    
+"topscan_enternewpassword" = "Introduceți o parolă nouă";
+    
+"topscan_filetype" = "Tip fișier";
+    
+"topscan_fileformat" = "Tipul fișierului";
+    
+"topscan_sharepdfformat" = "Partajați fișiere în format .PDF";
+    
+"topscan_sharezipformat" = "Partajați fișiere în format .ZIP";
+    
+"topscan_sharejpgformat" = "Partajați fișiere în format .JPG";
+    
+"topscan_newfolderprompt" = "Dosar nou";
+    
+"topscan_currentdocument" = "Document curent";
+    
+"topscan_recognizetitle" = "Recunoaşte";
+    
+"topscan_filedeleteprompt" = "Fișierul de rezervă a fost șters cu succes!";
+    
+"topscan_filedownbackup" = "Descărcați fișierul de rezervă...";
+    
+"topscan_filestartbackup" = "Fișierul de rezervă începe să se descarce";
+    
+"topscan_filerestoresuccessed" = "Restaurarea fișierului de rezervă a reușit.";
+    
+"topscan_uploadsingin" = "CONECTARE";
+    
+"topscan_singoutlowercase" = "Deconectare";
+    
+"topscan_processingerror" = "Eroare procesare fișiere!";
+    
+"topscan_barcodeopenurl" = "Deschideți adresa URL";
+    
+"topscan_barcoderesult" = "Rezultatul recunoașterii";
+    
+"topscan_downloadlanguage" = "Descărcarea limbii...";
+    
+"topscan_graffitibrush" = "Perie";
+    
+"topscan_graffitiopacity" = "Opacitate";
+    
+"topscan_graffitieraser" = "Radieră";
+    
+"topscan_graffiticolor" = "Culoare";
+    
+"topscan_graffitiundo" = "Anula";
+    
+"topscan_graffitiredo" = "A reface";
+    
+"topscan_nosignture" = "Fără semnătură!";
+    
+"topscan_graffititext" = "Text";
+        
+"topscan_graffitireplacefile" = "Înlocuiți fișierul curent";
+        
+"topscan_graffiticreatefile" = "Creați un fișier nou";
+        
+"topscan_graffiticopyto" = "Copiază în";
+        
+"topscan_graffitimoveto" = "Mută în";
+        
+"topscan_graffititextrecognition" = "Text de recunoaștere";
+        
+"topscan_ocraccount" = "Gestionarea contului OCR";
+        
+"topscan_loginsuccessful" = "conectare reușită!";
+        
+"topscan_appleloginsuccessful" = "Conectarea contului Apple a reușit!";
+        
+"topscan_googleloginsuccessful" = "Conectarea contului Google a reușit!";
+        
+"topscan_loginregister" = "Autentifică-te sau înregistrează-te";
+        
+"topscan_resetpassword" = "Reseteaza parola";
+        
+"topscan_copysuccessful" = "Copiați cu succes";
+        
+"topscan_copyfailed" = "Copierea nu a reușit";
+        
+"topscan_loginicloudtips" = "Pentru a preveni pierderea soldului dvs., folosim contul pentru a vă lega soldul. În același timp, puteți utiliza și echilibrul între mai multe dispozitive. Vă rugăm să vă conectați sau să vă înregistrați contul.";
+        
+"topscan_loginnow" = "Conectați-vă acum";
+        
+"topscan_emailemptytips" = "E-mailul nu a putut fi gol";
+        
+"topscan_psdemptytips" = "Parola nu a putut fi goală";
+    
+"topscan_codeemptytips" = "Codul de verificare nu a putut fi gol";
+    
+"topscan_tips" = "sfaturi";
+    
+"topscan_subscriptsuccessfully" = "Vă mulțumim că v-ați abonat la premium! ";
+    
+"topscan_autorenewable" = "Auto-reînnoibil, anulați oricând.";
+    
+"topscan_nofreetrial" = "FĂRĂ încercare gratuită";
+    
+"topscan_details" = "Detalii";
+    
+"topscan_restorepurchase" = "Restabiliți elementele achiziționate";
+    
+"topscan_freetrial" = "Încercare gratuită";
+    
+"topscan_unlimitedfolders" = "Dosare nelimitate";
+    
+"topscan_unlimitedfoldersintroduce" = "Crearea nelimitată de foldere și subfoldere.";
+    
+"topscan_noads" = "Fără reclame";
+    
+"topscan_noadsintroduce" = "Eliminați anunțurile din Simple Scanner.";
+    
+"topscan_pdffileencryption" = "Criptare fișier PDF";
+    
+"topscan_pdffileencryptionintroduce" = "Puteți seta parola pentru scanările dvs. (chitanțe sau fișiere confidențiale) pentru a vă proteja confidențialitatea.";
+    
+"topscan_ocrtypecloudintroduce" = "Utilizați tehnologia AI cloud pentru a recunoaște și extrage text, peste 1000 de pagini disponibile pe lună.";
+    
+"topscan_cloudservice" = "Serviciu cloud";
+    
+"topscan_cloudserviceintroduce" = "Încărcați automat documentele, PDF, jpg, tipurile de fișiere pe Cloud Drive sau iCloud pentru a evita pierderea documentelor.";
+    
+"topscan_functionofcollage" = "Funcția colajului";
+    
+"topscan_functionofcollageintroduce" = "Utilizați funcția de colaj pentru a combina mai multe pagini într-o singură pagină.";
+    
+"topscan_unlimitedscans" = "Scanări nelimitate";
+    
+"topscan_unlimitedscansintroduce" = "Nici o limită a numărului de documente scanate.";
+    
+"topscan_clearwaternark" = "Ștergeți filigranul";
+    
+"topscan_clearwaternarkintroduce" = "Scoateți filigranul PDF și păstrați-l PDF curat și ordonat.";
+    
+"topscan_writesignature" = "Semnătură";
+    
+"topscan_writesignatureintroduce" = "Scanați-vă semnătura scrisă pe hârtie pentru a produce o semnătură electronică care arată exact la fel ca originalul.";
+    
+"topscan_highqualitydoc" = "Document de înaltă calitate";
+    
+"topscan_highqualitydocintroduce" = "Opțiuni multiple de selectare a calității imaginii, selectați opțiuni de calitate superioară, faceți documentul PDF mai clar.";
+    
+"topscan_emailmyself" = "Trimiteți-mi un e-mail";
+    
+"topscan_emailmyselfintroduce" = "Trimiteți-vă documente prin e-mail, mai rapid și mai convenabil.";
+    
+"topscan_exportpdfdoc" = "Exportați documentul PDF";
+    
+"topscan_exportpdfdocintroduce" = "Exportați rapid PDF în alte aplicații sau stocați-l local pe telefon.";
+    
+"topscan_backupintroduce" = "Backup și restaurare pe mai multe dispozitive pentru a menține documentele sincronizate.";
+    
+"topscan_graffiti" = "Graffiti";
+    
+"topscan_graffitiintroduce" = "Modificați documente, graffiti, adăugați text, semnături etc.";
+    
+"topscan_applock" = "Blocare APP";
+    
+"topscan_applockintroduce" = "Activați Face ID sau Touch ID pentru a debloca SimpleScanner într-un singur pas.";
+    
+"topscan_imagetotext" = "Imagine către text";
+    
+"topscan_imagetotextintroduce" = "Utilizați funcția OCR pentru a recunoaște textele din imagine pentru căutare sau partajare ulterioară.";
+    
+"topscan_propdfeditor" = "Editor PDF";
+    
+"topscan_propdfeditorintroduce" = "Editați pagini PDF, adăugați semnături și graffiti, parole PDF, eliminați filigranele etc.";
+    
+"topscan_gotosetting" = "Accesați Setare";
+    
+"topscan_ocrnummorethan" = "Cloud OCR a fost utilizat pentru a identifica 1000 de pagini/lună în ciclul curent de calcul. Dacă continuați să vă identificați, trebuie să cumpărați pagini OCR sau vă rugăm să așteptați următorul ciclu de calcul pentru a adăuga automat OCR 1000 de pagini.";
+    
+"topscan_upgradeaccount" = "20+ funcții mai avansate";
+    
+"topscan_upgradepremium" = "Treceți la premium";
+    
+"topscan_premium" = "Premium";
+    
+"topscan_nopurrestore" = "Fără achiziții pentru restaurare!";
+    
+"topscan_restorefailed" = "Nu s-a putut restabili achiziția.";
+    
+"topscan_restoresuccessfully" = "Restabiliți achiziția cu succes.";
+
+"topscan_bindcontent" = "Nu v-ați setat contul de e-mail, vă rugăm să accesați telefonul „Setare-e-mail”,atingeți „Adăugați un cont” pentru a vă crea contul de e-mail";
+    
+"topscan_cameratypeidcardintroduce" = "Scanați și copiați ambele fețe ale unui card de identitate pe o singură pagină în 1 minut,păstrând dimensiunea originală a cardului. 100 % p gata de tipărire. ";
+    
+"topscan_paymenttext1" = "Plata va fi încasată în contul iTunes la confirmarea achiziției.";
+    
+"topscan_forgotpsd" = "Ti-ai uitat parola?";
+    
+"topscan_signup" = "Înscrie-te";
+    
+"topscan_noaccount" = "Fără cont ?";
+    
+"topscan_login" = "Autentificare";
+    
+"topscan_quicklogin" = "Conectare rapidă";
+    
+"topscan_paynow" = "Plătește acum";
+    
+"topscan_send" = "Trimite";
+    
+"topscan_signinsuccess" = "Conectați-vă cu succes!";
+    
+"topscan_resend" = "Retrimiteți";
+    
+"topscan_sendcodesuccess" = "Trimiteți cu succes";
+    
+"topscan_entervercode" = "Introduceți codul de verificare";
+    
+"topscan_addorginalfile" = "Adăugați o copie de rezervă a fișierului original";
+    
+"topscan_turnonpassword" = "Activați parola";
+"topscan_rotate" = "Roti";
+"topscan_tipask" = "Nu întreba niciodată";
+    
+"topscan_croptipmsg" = "Acțiunea poate elimina toate rezultatele OCR, note, filigran ,semnături, graffiti ,text. Continuați?";
+    
+"topscan_scoretitle" = "Dacă vă place Scannerul simplu, vă rugăm să ne evaluați pe App Store pentru a ne susține?";
+    
+"topscan_resetpsd" = "Avem nevoie doar ca ID-ul dvs. de e-mail înregistrat să vă trimită instrucțiuni de resetare a parolei.";
+    
+"topscan_compressionration" = "Rata de compresie";
+    
+"topscan_size" = "Dimensiunea";
+    
+"topscan_compression" = "Comprimare";
+    
+"topscan_pdfpagenumber" = "Numărul paginii";
+    
+"topscan_pdfpagedirection" = "Direcția paginii";
+    
+"topscan_image" = "Imagine";
+    
+"topscan_subscriptfailedtips" = "Verificarea abonamentului a eșuat, accesați pagina Acasă-> Setări-> Restabiliți achiziția!";
+    
+"topscan_cropautomaticcameraaip" = "Decupare automată";
+    
+"topscan_nextstep" = "Următorul pas";
+    
+"topscan_addsignature" = "Adaugă semnătură";
+
+"topscan_subsctiptplan" = "Planul dvs. de abonament";
+    
+"topscan_renewedday" = "Ziua reînnoită";
+    
+"topscan_automaticrenewal" = "Reînnoire automată";
+    
+"topscan_moredetails" = "Mai multe detalii";
+    
+"topscan_drivedownloadfiles" = "Import în cloud";
+    
+"topscan_download" = "Descarcă";
+    
+"topscan_downloadsuccessfilly" = "Descărcați cu succes";
+    
+"topscan_downloadfailed" = "Descărcare esuata";
+    
+"topscan_uselimitedversion" = "Folosiți versiunea limitată";
+    
+"topscan_termsofserice" = "Termenii serviciului";
+    
+"topscan_unlimitedfeatures" = "Caracteristici nelimitate";
+    
+"topscan_subscriptiongives" = "Acest abonament vă oferă acces nelimitat la privilegiile noastre. Dacă nu anulați înainte ca procesul să se încheie, veți fi taxat automat .până la anulare.";
+    
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+       
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+    
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

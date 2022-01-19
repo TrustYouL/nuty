@@ -1,0 +1,1205 @@
+
+"topscan_collage" = "Kollázs";
+
+"topscan_doctag" = "Címke beállítása";
+
+"topscan_picquality" = "Képminőség";
+
+"topscan_addto" = "Hozzáadás";
+
+"topscan_share" = "Megosztás";
+
+"topscan_email" = "E-mail";
+
+"topscan_merge" = "Egyesítés";
+
+"topscan_copy" = "Másolás/Áthelyezés";
+
+"topscan_sortby" = "Rendezés";
+
+"topscan_more" = "Több";
+
+"topscan_savetogallery" = "Mentés a galériába";
+
+"topscan_upload" = "Feltöltés";
+
+"topscan_uploadsucceeded" = "Sikeres feltöltés";
+
+"topscan_uploadfailed" = "Sikertelen feltöltés";
+
+"topscan_delete" = "Törlés";
+
+"topscan_cancel" = "Mégsem";
+
+"topscan_ok" = "OK";
+
+"topscan_about" = "rólunk";
+
+"topscan_error" = "HIBA";
+
+"topscan_skip" = "KIhagyás";
+
+"topscan_decryption" = "Dekódolás";
+
+"topscan_allselect" = "Mindent kijelöl";
+
+"topscan_cancelallselect" = "Minden kijelölés megszüntetése";
+
+"topscan_items" = "Kijelölve";
+
+"topscan_printing" = "Nyomtatás";
+
+"topscan_pdf" = "PDF";
+
+"topscan_note" = "Jegyzet";
+
+"topscan_retake" = "Megismétel";
+
+"topscan_ocr" = "Szöveg felismerése";
+
+"topscan_watermarktitle" = "Vízjel";
+
+"topscan_addwatermark" = "Vízjel hozzáadása";
+
+"topscan_editwatermark" = "Vízjel szerkesztése";
+
+"topscan_clearwatermark" = "Tartalom törlése";
+
+"topscan_removewatermark" = "Vízjel eltávolítása";
+
+"topscan_remind" = "Figyelmeztetés";
+
+"topscan_loading" = "Betöltés...";
+
+"topscan_deleteoption" = "Biztosan törli az összes kiválasztott dokumentumot?";
+
+"topscan_deletecurrentpage" = "Biztosan törli ezt az oldalt?";
+
+"topscan_deletecurrentdoc" = "Biztosan törli az aktuális dokumentumot?";
+
+"topscan_bind" = "E-mail fiók beállítása";
+
+"topscan_savefail" = "Adathiba!";
+
+"topscan_phonememoryalert" = "A telefon memóriájával kapcsolatos problémák miatt a 30 képnél nagyobb kollázsok összeomlást okozhatnak. Szeretné folytatni?";
+
+"topscan_continueshare" = "Folytassa a megosztást";
+
+"topscan_savealert" = "Biztosan kilép a módosítások mentése nélkül?";
+
+"topscan_deletesignatureimagealert" = "Biztosan törli az aláírási képet?";
+
+"topscan_discard" = "Módosítások elvetése";
+
+
+"topscan_movesuccess" = "A dokumentum(ok) áthelyezése sikeres!";
+
+"topscan_copysuccess" = "A dokumentum(ok) másolása sikeres!";
+
+"topscan_mergesuccess" = "A dokumentum(ok) egyesítése sikeres!";
+
+"topscan_clearphotos" = "Az imént készített fotó(ka)t nem menti el. Biztosan elveti a fotó(ka)t?";
+
+"topscan_noalert" = "Ne emlékeztess újra";
+
+"topscan_editpdf" = "PDF szerkesztése";
+
+"topscan_addpage" = "Oldal hozzáadása";
+
+"topscan_collageimage" = "Kollázskép...";
+
+"topscan_collageproof" = "Tulajdonigazolás";
+
+"topscan_collagedriverlicense" = "Jogosítvány";
+
+"topscan_collageidcard" = "Személyi igazolvány";
+
+
+
+"topscan_collagepassport" = "Útlevél";
+
+"topscan_collageaccountbook" = "Számlakönyv";
+
+"topscan_idcardanti" = "Nem hamisítható";
+
+"topscan_importpic" = "Galéria";
+
+"topscan_userdefinedsize" = "Saját fájlmegosztás mérete";
+
+"topscan_filecompressiontitle" = "0-99 tömörítési arány megadása";
+
+"topscan_manualsorting" = "Manuális válogatás";
+
+"topscan_firstontop" = "Első felül";
+
+"topscan_lastontop" = "Utolsó felül";
+
+"topscan_siderename" = "Átnevezés";
+
+"topscan_creatdatadescend" = "Dátum létrehozása (növekvő)";
+
+"topscan_creatdataascend" = "Dátum létrehozása (csökkenő)";
+
+"topscan_filenameatoz" = "Fájlnév (A-tól Z-ig)";
+
+"topscan_filenameztoa" = "Fájlnév (Z-től A-ig)";
+
+"topscan_girdview2" = "Rácsnézet";
+
+"topscan_girdview3" = "(3 oszlop)";
+
+"topscan_girdviewlist" = "Listanézet";
+
+"topscan_folderlocationtop" = "Mappa felül";
+
+"topscan_folderlocationbottom" = "Mappa alul";
+
+"topscan_fax" = "Fax";
+
+"topscan_hidepagedetails" = "Az oldal részleteinek elrejtése";
+
+"topscan_displaypagedetails" = "Az oldal részleteinek megjelenítése";
+
+"topscan_batchedit" = "Kötegelt szerkesztés";
+
+"topscan_pdffile" = "PDF fájl";
+
+"topscan_image_jpg" = "Kép (JPG)";
+
+"topscan_longimage_jpg" = "Megosztás hosszú képként";
+
+"topscan_txt" = "Txt megosztása";
+
+"topscan_originalsize" = "Eredeti méret";
+
+"topscan_medium" = "Közepes";
+
+"topscan_small" = "Kicsi";
+
+"topscan_superhigh" = "Szuper nagy";
+
+"topscan_shareapp" = "Ossza meg ezt az alkalmazást";
+
+"topscan_backup" = "Biztonsági mentés és visszaállítás";
+
+"topscan_icouldbackup" = "Biztonsági mentés";
+
+"topscan_importimage" = "Kép importálása";
+
+"topscan_mergepdf" = "PDF egyesítése";
+
+"topscan_importfile" = "Fájl importálása";
+
+"topscan_longpresstip" = "Megvan!";
+
+"topscan_search" = "Keresés";
+
+"topscan_homemoredocremind" = "Dokumentum emlékeztető";
+
+"topscan_settingtemplate" = "Sablon";
+
+"topscan_settingfamily" = "Család";
+
+"topscan_shareappcontent" = "Talált egy nagyszerű szkenner szoftvert, letöltési link";
+
+"topscan_mergefilemethodtitle" = "Egyesítési módszer kiválasztása";
+
+"topscan_mergefilemethodkeepold" = "Egyesítse és őrizze meg a régi dokumentumot";
+
+"topscan_mergefilemethoddeleteold" = "Egyesítse és törölje a régi dokumentumot";
+
+"topscan_cameradiscardtitle" = "Oldalak elvetése";
+
+"topscan_cameradiscardmssage" = "Az összes oldalt elveti?";
+
+"topscan_cameraaccidenttitle" = "Információ";
+
+"topscan_cameraaccidentmssage" = "A legutóbb készített képek közül néhány nem került feldolgozásra. Szeretné betölteni őket?";
+
+"topscan_cameralighton" = "Be";
+
+"topscan_cameralightoff" = "Ki";
+
+"topscan_cameralightauto" = "Automatikus";
+
+"topscan_cameralighttorch" = "Lámpa";
+
+"topscan_cameratypetotext" = "Üzenni";
+
+"topscan_cameratypesingle" = "Egyetlen";
+
+"topscan_cameratypebatch" = "Köteg";
+
+"topscan_cameratypeqrbarcode" = "QR- és vonalkód";
+
+"topscan_camerapermissiontitle" = "Kérjük, nyissa meg a kamera engedélyeit";
+
+"topscan_camerapermissionguide" = "Beállítás-Adatvédelem-Kamera";
+
+"topscan_albumpermissiontitle" = "Kérjük, nyissa meg az album engedélyeit";
+
+"topscan_albumpermissionguide" = "Beállítások-Adatvédelem-Fotók-Minden fénykép";
+
+"topscan_safeentertips" = "Kérjük, írja be a 4 jegyű jelszót!";
+
+
+
+"topscan_loginouttipsmessage" = "Biztosan ki akar jelentkezni?";
+    
+"topscan_psderror" = "Hibás jelszó. Kérjük, próbálja újra!";
+    
+"topscan_pdferror" = "A jelszó nem egyezik, próbálja újra!";
+    
+"topscan_touchidnotenrolled" = "A készülék nem ismeri fel az érintésazonosítás engedélyezését. Kérjük, lépjen be a telefonbeállítási központba az érintésazonosító funkció engedélyezéséhez.";
+    
+"topscan_faceidnotenrolled" = "A készülék nem ismeri fel az arcfelismerés engedélyezését. Az arcfelismerő funkció engedélyezéséhez lépjen be a telefonbeállítási központba.";
+    
+"topscan_opensysset" = "Felhatalmazás a központ beállítására";
+    
+"topscan_againvafaceid" = "Kattintson az arcfelismerő igazolásához";
+    
+"topscan_againvatouchid" = "Kattintson az érintésazonosítás igazolásához";
+    
+"topscan_pdfpagenumberno" = "Nincs oldalszám";
+    
+"topscan_pdfpagenumberlowerl" = "a bal alsó";
+    
+"topscan_pdfpagenumberbottomc" = "az alsó középső";
+    
+"topscan_pdfpagenumberlowerr" = "a jobb alsó";
+    
+"topscan_pdfpagenumberupperl" = "a bal felső";
+    
+"topscan_pdfpagenumberheadc" = "a felső középső";
+    
+"topscan_pdfpagenumberupperr" = "a jobb felső";
+    
+"topscan_colletionfunctiontitle" = "Dokumentum kiválasztása";
+    
+"topscan_pdfdirectionauto" = "Automatikus igazítás képméret szerint";
+    
+"topscan_pdfdirectionlandscape" = "Tájkép";
+    
+"topscan_pdfaddsignature" = "Portré";
+    
+"topscan_changepdfsizealert" = "A jelenlegi változtatások visszaállítják a PDF aláírást. Szeretné folytatni?";
+    
+"topscan_emptypdfnamealert" = "A PDF neve nem lehet üres!";
+    
+"topscan_createdsuccessfully" = "Sikeresen létrehozva";
+    
+"topscan_hasfolder" = "A dokumentum / mappa már létezik. Válasszon másik nevet.";
+    
+"topscan_creationfailed" = "A létrehozás nem sikerült";
+    
+"topscan_duplicationname" = "A név már létezik. Válasszon másikat.";
+    
+"topscan_folderexists" = "A mappa már létezik.";
+    
+"topscan_emailinvalidtips" = "Kérjük, adja meg a helyes e-mail címet";
+    
+"topscan_defaultprocess" = "Alapértelmezett folyamat";
+    
+"topscan_original" = "Eredeti";
+    
+"topscan_blackwhite" = "Fekete-fehér";
+    
+"topscan_blackwhite2" = "Fekete-fehér 2";
+    
+"topscan_blackwhite3" = "Fekete-fehér 3";
+    
+"topscan_nostalgic" = "Nosztalgikus";
+    
+"topscan_magiccolor" = "Varázsszín";
+    
+"topscan_magiccolor2" = "Varázsszín 2";
+    
+"topscan_grayscale" = "Szürkeárnyalatos";
+    
+"topscan_lastfilter" = "Utolsó szűrő";
+    
+"topscan_clear" = "Törlés";
+    
+"topscan_clearmarks" = "Jelek törlése";
+    
+"topscan_markstip" = "Ha folytatja, a jelek (aláírás, graffiti stb.) törlődnek. Biztos, hogy törli a jeleket?";
+    
+"topscan_setting" = "A Beállításokhoz";
+    
+"topscan_deletedrive" = "Biztosan törli a jelenlegi biztonsági másolat fájlt?";
+    
+"topscan_thereisnotstoragespaceon" = "Nincs elegendő tárhely a telefonon. Próbálja újra!";
+    
+"topscan_dropboxsussess" = "Biztonsági másolat átküldve a Dropboxba.";
+    
+"topscan_boxsussess" = "Biztonsági másolat átküldve a Boxba.";
+    
+"topscan_googledrivesussess" = "Biztonsági másolat átküldve a Google Drive-ra.";
+    
+"topscan_onedrivesussess" = "Biztonsági másolat átküldve a Onedrive-re.";
+    
+"topscan_startbackupinbackground" = "Biztonságimásolat-fájlok feltöltésének elindítása a háttérben";
+    
+"topscan_backupinbackgroundaleat" = "A biztonságimásolat-fájl feltöltése a háttérben történik, az alkalmazás bezárása a biztonsági másolat meghiúsulását okozhatja.";
+    
+"topscan_myselfemailshow" = "E-mail önmagamnak";
+    
+"topscan_toemailtitle" = "Címzett";
+    
+"topscan_subjectplaceholder" = "Tárgy";
+    
+"topscan_bodyplaceholder" = "Törzsszöveg";
+    
+"topscan_emailsettingguide" = "Módosíthatja az e-mailt a Beállítások -> Általános -> E-mail menüben.";
+    
+"topscan_picturequalityheight" = "Magasság";
+    
+"topscan_picturequalitylow" = "Alacsony";
+    
+"topscan_defaultpagesize" = "Alapértelmezett oldalméret";
+    
+"topscan_privacypolicy" = "Adatvédelmi irányelvek";
+    
+"topscan_faq" = "GYIK";
+    
+"topscan_sendfeedback" = "Visszajelzés küldése";
+    
+"topscan_version" = "Verzió";
+    
+"topscan_rateapp" = "Értékelje a Simple Scannert";
+    
+"topscan_settinggeneral" = "Általános";
+    
+"topscan_settingdocmanagement" = "Dokumentumkezelés";
+    
+"topscan_settingourapp" = "A mi appunk";
+    
+"topscan_settingfaxname" = "Egyszerű fax";
+    
+"topscan_settingfaxreceivename" = "Fax fogadása";
+    
+"topscan_settinguseragreement" = "Felhasználói Szerződés";
+    
+"topscan_settingusersuggestion" = "Javaslat és visszajelzés";
+    
+"topscan_settingdocname" = "Dokumentum neve";
+    
+"topscan_settingdoctime" = "Dokumentum ideje";
+    
+"topscan_changepagesize" = "Oldalméret módosítása";
+    
+"topscan_documentname" = "Önállóan meghatározott dokumentumnév";
+    
+"topscan_documentdate" = "Önállóan meghatározott dokumentumidő";
+    
+"topscan_autosavetogallery" = "Automatikus mentés albumba";
+    
+"topscan_saveoriginalimage" = "Eredeti kép elmentése";
+    
+"topscan_saveoriginalimagetip" = "Ez a szolgáltatás elsősorban visszaállítja a vágási funkciót, ami növeli a tárhelyet.";
+
+
+
+
+"topscan_savetogallerytip" = "Automatikusan mentse a beolvasott képeket a Galériába";
+
+"topscan_textblankprompt" = "Képfelismerés és konvertálás szöveggé";
+
+"topscan_noteplaceholder" = "Írjon hozzá megjegyzést!";
+
+"topscan_ocrtexttdit" = "Szerkesztés";
+
+"topscan_ocrtextcopy" = "Másolás";
+
+"topscan_ocrtextexport" = "Exportálás";
+
+"topscan_ocrtexttranslation" = "Fordítás";
+
+"topscan_ocrdefaultlanguage" = "angol";
+
+"topscan_ocrautomatic" = "Automatikus";
+
+"topscan_ocrtextagain" = "OCR ismét";
+
+"topscan_ocrtypecloud" = "Felhő OCR";
+
+"topscan_ocrtypelocal" = "Helyi gyors felismerés";
+
+"topscan_ocrtypelocaltip" = "Csak a latin betűket támogatja";
+
+"topscan_ocrdownfail" = "letöltés sikertelen";
+
+"topscan_ocrrecentanguages" = "Legutóbbi nyelvek";
+
+"topscan_ocralllanguages" = "Minden nyelv";
+
+"topscan_ocrexportcopy" = "Másolja a vágólapra";
+
+"topscan_ocrchooseendpoint" = "Válassza ki a legközelebbi végpontot";
+
+"topscan_ocrgoogleendpointprompt" = "Automatikusan kiválasztja a legjobb globális csomópontot, nem önnek kell választania!";
+
+"topscan_ocrthirdocrfailprompt" = "Feldolgozási hiba vagy nem érhető el szöveg. Próbálkozzon újra!";
+
+"topscan_networkstate" = "A WLAN ki van kapcsolva";
+
+"topscan_networkstatecontent" = "A Beállításokban bekapcsolhatja a WLAN-t a „SimpleScan” alkalmazáshoz";
+
+"topscan_ocragainallpage" = "Minden oldal";
+
+"topscan_ocragaincurrentpage" = "Aktuális oldal";
+
+"topscan_ocrtextagainvctip" = "A lektorálás során végrehajtott szerkesztések elvesznek, ha a Vissza gombra koppint";
+
+"topscan_ocrocrvctip" = "Biztosan kilép az aktuális szövegfelismerésből?";
+
+"topscan_ocrocrgooglepoint" = "Globális";
+
+"topscan_ocrocragaintitle" = "Koppintson a szerkeszteni kívánt szövegre";
+
+"topscan_ocrocrlanguagetitle" = "Nyelv";
+
+"topscan_ocrocragainendpoint" = "Végpont";
+
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Aktuális oldal felismerése";
+
+"topscan_ocrocragainrecognizeallpages" = "Minden oldal felismerése";
+
+"topscan_translatesourcelanguage" = "Forrásnyelv";
+
+"topscan_translatetargetlanguage" = "Célnyelv";
+
+"topscan_deletelanguagepack" = "Nyelvi modell törlése";
+
+"topscan_stoploadlanguagepack" = "A nyelvi modell letöltésének leállítása";
+
+"topscan_scorecancel" = "Ne most";
+
+"topscan_scorefivestar" = "5 csillag";
+
+"topscan_tagsungrouped" = "Csoportosítás megszüntetése";
+
+"topscan_tagsalldocs" = "Minden dokumentum";
+
+"topscan_tagssearchplaceholder" = "Bemeneti címke";
+
+"topscan_tagsalltagstitle" = "Minden címke";
+
+"topscan_tagsalreadyexists" = "A címke már létezik!";
+
+"topscan_tagstagdelete" = "A törölt címkéket nem lehet helyreállítani. Megerősíti a törlést?";
+
+"topscan_tagsdone" = "Kész";
+
+"topscan_tagssettag" = "Címkék beállítása";
+
+"topscan_tagstagmanager" = "Címke";
+
+"topscan_tagsentermanager" = "Címkék";
+
+"topscan_tagstagnotecontent" = "Szeretné elmenteni a szerkesztéseket?";
+
+"topscan_tagstagmanageradd" = "Új címke hozzáadása";
+
+"topscan_tagstagmanageraddplac" = "Írja be a címke nevét";
+
+"topscan_tagscreatelabs" = "Címkék létrehozása ~";
+
+"topscan_drivestartupdate" = "Kezdődik a biztonságimásolat-fájl feltöltése";
+  
+"topscan_driveuploading" = "Feltöltés...";
+  
+"topscan_buildingpdf" = "PDF felépítése";
+  
+"topscan_processingjpg" = "JPG feldolgozása";
+  
+"topscan_processing" = "Feldolgozás...";
+  
+"topscan_processingdoc" = "Doc Feldolgozása";
+  
+"topscan_processingzip" = "ZIP feldolgozása";
+  
+"topscan_sortprocessing" = "Feldolgozás rendezése";
+  
+"topscan_removeing" = "Eltávolítás";
+  
+"topscan_copyprocessing" = "Másolás";
+  
+"topscan_moveprocessing" = "Áthelyezés";
+  
+"topscan_mergeing" = "Egyesítés";
+  
+"topscan_initdata" = "Az adatok inicializálása";
+  
+"topscan_docpasswordicon" = "Zár";
+  
+"topscan_docpasswordunlockicon" = "Kinyit";
+  
+"topscan_pdfpassword" = "PDF exportálás jelszava";
+  
+"topscan_pdfpasswordclear" = "PDF jelszó törlése";
+  
+"topscan_touchtitle" = "Kérjük, ellenőrizze az érintésazonosítót";
+  
+"topscan_clearapppsd" = "Törli az alkalmazásjelszó beállításait?";
+  
+"topscan_cleardocpsd" = "Törli a dokumentumelérés jelszóbeállításait?";
+  
+"topscan_passwordhelptip" = "Szüksége van segítségre?";
+  
+"topscan_passwordhelpsubject" = "Dokumentumjelszó visszajelzés";
+  
+"topscan_passwordapphelpsubject" = "Alkalmazásjelszó visszajelzés";
+  
+"topscan_enterpwd" = "Kérjük, írja be a jelszót";
+  
+"topscan_appsecurity" = "Alkalmazásbiztonság";
+  
+"topscan_apppwd" = "Alkalmazásjelszó";
+  
+"topscan_setpasswordlaceholder" = "Adja meg a jelszavát";
+  
+"topscan_resetpasswordlaceholder" = "Kérjük, adja meg újra a jelszavát";
+  
+"topscan_setpasswordtitle" = "Állítsa be a jelszót";
+  
+"topscan_setpdfpasswordtitle" = "PDF jelszó";
+  
+"topscan_resetpasswordtitle" = "Írja be a jelszót";
+  
+"topscan_writepasswordfail" = "A jelszavak nem egyeznek. Próbálkozzon újra!";
+  
+"topscan_writetwopasswordfail" = " Két megadott jelszó nem egyezik. Próbálkozzon újra!";
+  
+"topscan_backupbottomtitle" = "Visszaállítás egy korábbi biztonsági mentésről vagy szkennelések átvitele egy másik eszközről";
+  
+"topscan_docaccesspassword" = "Doc hozzáférési jelszó";
+  
+"topscan_turnoffpassword" = "Kapcsolja ki a jelszót";
+  
+"topscan_changepassword" = "Jelszó módosítása";
+  
+"topscan_storagespacenotenough" = "A telefonon nincs elég tárhely";
+  
+"topscan_storagespacetitle" = "A telefon tárhelye kevesebb, mint 200 Mega. Hogy lehetővé tegye a fájlok írását, kérjük, szabadítson fel egy kis helyet";
+  
+"topscan_appheadingtitle" = "Állítsa be az alkalmazás jelszavát a dokumentum biztonságának védelme érdekében";
+  
+"topscan_docheadingtitle" = "Jelszó beállítása a jelszóval védett dokumentumok megtekintéséhez";
+  
+"topscan_pdfheadingtitle" = "Állítson be jelszót a PDF fájlok megosztásához és exportálásához az adatvédelem érdekében";
+  
+"topscan_batchall" = "Teljes";
+  
+"topscan_batchauto" = "Automatikus";
+  
+"topscan_batchfit" = "Illeszkedik";
+  
+"topscan_left" = "Bal";
+  
+"topscan_right" = "Jobb";
+  
+"topscan_crop" = "Vágás";
+  
+"topscan_filter" = "Szűrő";
+  
+"topscan_prompt" = "Elindítás";
+  
+"topscan_promptcontent" = "A módosítások még nem lettek elmentve. Mentés most?";
+  
+"topscan_no" = "Nem";
+  
+"topscan_yes" = "Igen";
+  
+"topscan_batchsave" = "Mentés";
+  
+"topscan_scansignature" = "Olvassa be az aláírását";
+  
+"topscan_importsignature" = "Importálás albumból";
+  
+"topscan_waittip" = "Fájl feldolgozása, kérem várjon...";
+  
+"topscan_nooriginalimgdefault" = "Egyes fájlokat nem lehet visszaállítani és vágni, és az eredeti fájl nem található";
+  
+"topscan_nooriginalimgfilter" = "Egyes fájlokat nem lehet újra szűrni, mert az eredeti fájl nem található";
+  
+"topscan_nooriginalimgmore" = "és több";
+  
+"topscan_nooriginalimgsetting" = "megnyithatja a beállításokat az eredeti képopció mentéséhez";
+  
+"topscan_alldatanooriginalimg" = "A vágás nem állítható vissza, az eredeti fájl nem létezik!";
+  
+"topscan_alldatanooriginalimgfilter" = "Nem lehet visszaállítani a szűrőfeldolgozást, az eredeti fájl nem létezik!";
+  
+"topscan_cropautomatic" = "Kép automatikus vágása";
+  
+"topscan_cropautomatictip" = "Képek vágása köteges szkennelés módban";
+  
+"topscan_cropautomaticcameraaip" = "Automatikus vágás";
+  
+"topscan_camerafilterremind" = "Megváltoztathatja a kötegelt mód alapértelmezett szűrőjét";
+  
+"topscan_cameracropremindfirst" = "Megváltoztathatja, hogy";
+  
+"topscan_cameracropremindsecond" = "a kötegelt mód vágásra került";
+  
+"topscan_flitertypeapplylocation" = "Alkalmazza minden oldalra";
+  
+"topscan_colletionpdftolongpictitle" = "PDF exportálás hosszú képbe";
+  
+"topscan_colletionpdftopictitle" = "PDF képpé";
+  
+"topscan_colletionpdfpasswordtitle" = "PDF jelszó";
+  
+"topscan_colletionpdfextracttitle" = "PDF kivonat";
+  
+"topscan_colletiondocpasswordtitle" = "Doc jelszó";
+  
+"topscan_colletionscanidcardtitle" = "Személyi igazolvány szkennelése";
+  
+"topscan_colletionpdfaddwatermarktitle" = "PDF vízjel hozzáadása";
+  
+"topscan_colletionpdfsignaturetitle" = "PDF aláírás";
+  
+"topscan_colletionpdfpageadjustment" = "PDF oldalbeállítás";
+  
+"topscan_colletionimagetopdf" = "Kép PDF be";
+  
+"topscan_colletionbottomtitle" = "Oldal kivonása";
+  
+"topscan_colletionmydevice" = "Az én eszközöm";
+  
+"topscan_colletionpdfextractbottomtitle" = "Új dokumentum létrehozásának kivonása";
+  
+"topscan_docreminedtitle" = "Értesítési engedélyek engedélyezése";
+  
+"topscan_docreminedcontent" = "Nem engedélyezi az értesítési engedélyeket, ezért nem használhatja a dokumentum figyelmeztetéseket, amíg azok nincsenek engedélyezve.";
+  
+"topscan_docreminetime" = "A dokumentum emlékeztető idejének többnek kell lennie a jelenlegi rendszeridőnél!";
+  
+"topscan_questiontype" = "Válasszon típust";
+  
+"topscan_questiondescrible" = "Kérjük, írja be kérdését vagy javaslatát";
+  
+"topscan_suggestionremind" = "Képernyőkép készítéséhez iPhone 8 és újabb rendszereken nyomja meg egyszerre az Alvás/Ébresztés és a Kezdőlap gombot";
+  
+"topscan_suggestionremindx" = "Képernyőkép készítéséhez iPhone X vagy újabb rendszeren nyomja meg egyszerre a Hangerő növelése és a Zárolás gombot.";
+  
+"topscan_questiontypecrash" = "Összeomlás/késés";
+
+"topscan_questiontypetaking" = "Képek készítése/importálás albumból";
+
+"topscan_questiontypephoto" = "Fényképszerkesztés";
+
+"topscan_questiontypeocr" = "OCR";
+
+"topscan_questiontypefax" = "Fax";
+
+"topscan_questiontypepoint" = "C-points";
+
+"topscan_questiontypeshare" = "Megosztás/E-mail/Nyomtatás";
+
+"topscan_questiontypeinterface" = "Kezelőfelület";
+
+"topscan_questiontypefeatures" = "További funkciók";
+
+"topscan_questiontypeother" = "Egyéb kérdések";
+
+"topscan_questiontypetoast" = "Van használati probléma? Vagy visszajelzést adhat az alkalmazás funkcióival kapcsolatos javaslatokról és igényekről, és örömmel meghallgatjuk a véleményét.";
+
+"topscan_questionsetting" = "Beállítások";
+
+"topscan_questioncontinue" = "Folytatás";
+
+"topscan_questioninvalidemail" = "Érvénytelen e-mail cím";
+
+"topscan_questiontoasttitle" = "Képernyőképek hozzáadása (opcionális)";
+
+"topscan_submittedsuccessfully" = "Sikeresen beküldve!";
+
+"topscan_suggestioncontenttitle" = "Részlet";
+
+"topscan_suggestionsubmit" = "Elküldés";
+
+"topscan_remindtitle" = "Cím";
+
+"topscan_remindreturn" = "Visszaküldés";
+
+"topscan_guidetitleprofessional" = "Profi";
+
+"topscan_guidetitlecollage" = "Igazolványkép kollázs mód";
+
+"topscan_guidetitlebackup" = "Mentés és visszaállítás";
+
+"topscan_guideprofessionaldes" = "Automatikusan észleli a dokumentumokat, gyors vágási folyamat, élesebbé és jobbá teszi a dokumentumokat.";
+
+"topscan_guidecollagedes" = "Kollázst készít az igazolványképekről egy dokumentumba több sablonlehetőséggel és egyedi méretekkel.";
+
+"topscan_guideimagedes" = "Automatikusan felismeri a szöveget a felhő-MI technológián keresztül, szerkesztheti, másolhatja, megoszthatja és exportálhatja a szöveget.";
+
+"topscan_guidebackupdes" = "Készítsen biztonsági másolatot a dokumentumokról felhőalapú vagy helyi tárhelyre, és bármikor állítsa vissza a biztonsági mentésű dokumentumokat.";
+
+"topscan_showstatustitle" = "Adatok betöltése";
+
+"topscan_placeholderpassword" = "Jelszó";
+
+"topscan_manualsorttitle" = "A manuális rendezéshez nyomja meg hosszan";
+
+"topscan_docgraffiti" = "Graffiti";
+
+"topscan_docaddtext" = "Szöveg hozzáadása";
+
+"topscan_copypage" = "Az aktuális oldal másolása";
+
+"topscan_copyallpages" = "Minden oldal másolása";
+
+"topscan_showprocess" = "Feldolgozás...";
+
+"topscan_importimgerror" = "Fájl nem létezik, vagy adathiba!";
+
+"topscan_somefileloss" = "Valami fájlolvasási hiba!";
+ 
+
+
+
+
+
+"topscan_cardprompt" = "Ez a funkció mindenkinek kell! 1 perc alatt kétoldalas e-másolatot készíthet egy személyi igazolványról. 100 % r-ban nyomtatásra készen.";
+ 
+"topscan_paperexample" = "A4-es papír példa";
+ 
+"topscan_restorebackup" = "BIZTONSÁGI MENTÉS MOST";
+ 
+"topscan_restorelastbackup" = "Utolsó biztonsági mentése dátuma";
+ 
+"topscan_restoremerge" = "Állítson vissza és egyesítsen minden aktuális dokumentumot";
+ 
+"topscan_restoredelete" = "Állítson vissza és töröljön minden aktuális dokumentumot";
+ 
+"topscan_restoretitle" = "VISSZAÁLLÍTÁS";
+ 
+"topscan_restorenotlogin" = "Nincs felhőalapú bejelentkezési állapot.";
+ 
+"topscan_restorenotrepeat" = "Biztonsági másolat fájl feltöltése, várjon...";
+ 
+"topscan_restorebackwifi" = "Biztonsági mentés csak WIFI-n";
+ 
+"topscan_restorenodocument" = "Jelenleg nem áll rendelkezésre dokumentum. Kérjük, először adjon hozzá dokumentumot!";
+ 
+"topscan_restorequery" = "lekérdezés...";
+ 
+"topscan_restorequeryfailed" = "Lekérdezés sikertelen, vagy a fájl biztonsági másolata nem található.";
+ 
+"topscan_restoreprocessfiles" = "Fájlok feldolgozása";
+ 
+"topscan_restorebackupfailed" = "Sikertelen biztonsági mentés!";
+ 
+"topscan_restoreuploadingfile" = "Fájl feltöltése. Kérjük, várjon...";
+ 
+"topscan_saferepasscode" = "Írja be újra a kódot";
+ 
+"topscan_saferepassword" = "Írja be újra a jelszavát";
+ 
+"topscan_applicationsecrulty" = "Alkalmazásbiztonság";
+ 
+"topscan_verifypasscode" = "Jelszó ellenőrzése";
+ 
+"topscan_setpasscode" = "Jelszó beállítása";
+ 
+"topscan_enternewpassword" = "Adjon meg új jelszót";
+ 
+"topscan_filetype" = "Fájltípus";
+ 
+"topscan_fileformat" = "Fájlformátum";
+ 
+"topscan_sharepdfformat" = "Fájlok megosztása .PDF formátumban";
+ 
+"topscan_sharezipformat" = "Fájlok megosztása .ZIP formátumban";
+ 
+"topscan_sharejpgformat" = "Fájlok megosztása .JPG formátumban";
+ 
+"topscan_newfolderprompt" = "Új mappa";
+ 
+"topscan_currentdocument" = "Aktuális dokumentum";
+ 
+"topscan_recognizetitle" = "Felismerés";
+ 
+"topscan_filedeleteprompt" = "A biztonságimásolat-fájl sikeresen törölve!";
+ 
+"topscan_filedownbackup" = "Biztonságimásolat-fájl letöltése";
+ 
+"topscan_filestartbackup" = "Kezdődik a biztonságimásolat-fájl letöltése";
+ 
+"topscan_filerestoresuccessed" = "A biztonságimásolat-fájl visszaállítása sikeres.";
+ 
+"topscan_uploadsingin" = "BEJELENTKEZÉS";
+ 
+"topscan_singoutlowercase" = "Kijelentkezés";
+ 
+"topscan_processingerror" = "Fájlfeldolgozási hiba!";
+ 
+"topscan_barcodeopenurl" = "Nyissa meg az URL-t";
+ 
+"topscan_barcoderesult" = "Felismerés eredménye";
+ 
+"topscan_downloadlanguage" = "Nyelv letöltése...";
+ 
+"topscan_graffitibrush" = "Ecset";
+ 
+"topscan_graffitiopacity" = "Átlátszatlanság";
+ 
+"topscan_graffitieraser" = "Radír";
+ 
+"topscan_graffiticolor" = "Szín";
+ 
+"topscan_graffitiundo" = "Visszavonás";
+ 
+"topscan_graffitiredo" = "Újra";
+ 
+"topscan_nosignture" = "Nincs aláírás!";
+ 
+"topscan_graffititext" = "Szöveg";
+     
+"topscan_graffitireplacefile" = "Az aktuális fájl cseréje";
+     
+"topscan_graffiticreatefile" = "Új fájl létrehozása";
+     
+"topscan_graffiticopyto" = "Másolás ide";
+     
+"topscan_graffitimoveto" = "Áthelyezés";
+     
+"topscan_graffititextrecognition" = "Felismerési szöveg";
+     
+"topscan_ocraccount" = "OCR fiókkezelés";
+     
+"topscan_loginsuccessful" = "Sikeres bejelentkezés!";
+     
+"topscan_appleloginsuccessful" = "Sikeres bejelentkezés az Apple fiókba!";
+     
+"topscan_googleloginsuccessful" = "Sikeres bejelentkezés a Google-fiókba!";
+     
+"topscan_loginregister" = "Bejelentkezés vagy regisztráció";
+     
+"topscan_resetpassword" = "Jelszó visszaállítása";
+     
+"topscan_copysuccessful" = "Sikeres másolás";
+     
+"topscan_copyfailed" = "Sikertelen másolás";
+     
+"topscan_loginicloudtips" = "Az egyenleg elvesztésének megakadályozása érdekében a számlát az egyenleg lekötésére használjuk. Ugyanakkor felhasználhatja a több eszköz közötti mérleget is. Kérjük, jelentkezzen be, vagy regisztrálja fiókját!";
+     
+"topscan_loginnow" = "Bejelentkezés most";
+     
+"topscan_emailemptytips" = "Az e-mail nem lehet üres";
+     
+"topscan_psdemptytips" = "A jelszó nem lehet üres";
+ 
+"topscan_codeemptytips" = "Az ellenőrző kód nem lehet üres";
+ 
+"topscan_tips" = "Tippek";
+ 
+"topscan_subscriptsuccessfully" = "Köszönjük, hogy feliratkozott a prémiumra! ";
+ 
+"topscan_autorenewable" = "Automatikusan megújítható, bármikor lemondható.";
+ 
+"topscan_nofreetrial" = "NINCS ingyenes próba";
+ 
+"topscan_details" = "Részletek";
+ 
+"topscan_restorepurchase" = "A megvásárolt elemek visszaállítása";
+ 
+"topscan_freetrial" = "Ingyenes próba";
+ 
+"topscan_unlimitedfolders" = "Korlátlan mappák";
+ 
+"topscan_unlimitedfoldersintroduce" = "Korlátlan mappa és almappa létrehozás.";
+ 
+"topscan_noads" = "Nincsenek hirdetések";
+ 
+"topscan_noadsintroduce" = "Távolítsa el a hirdetéseket a Simple Scanner alkalmazásból.";
+ 
+"topscan_pdffileencryption" = "PDF fájl titkosítása";
+ 
+"topscan_pdffileencryptionintroduce" = "Beállíthat jelszót a beolvasásokhoz (pl.: bizonylatok vagy bizalmas fájlok) az adatvédelem érdekében.";
+ 
+"topscan_ocrtypecloudintroduce" = "Használja a felhő-MI technológiát a szöveg felismeréséhez és kibontásához, havonta több mint 1000 elérhető oldal.";
+ 
+"topscan_cloudservice" = "Felhőszolgáltatás";
+ 
+"topscan_cloudserviceintroduce" = "A dokumentumok, PDF, JPG fájltípusok automatikus feltöltése a Cloud Drive-ba vagy az iCloud-ba a dokumentumok elvesztésének elkerülése érdekében.";
+ 
+"topscan_functionofcollage" = "A kollázs funkciója";
+ 
+"topscan_functionofcollageintroduce" = "A kollázs funkcióval több oldalt egyetlen oldalba egyesíthet.";
+ 
+"topscan_unlimitedscans" = "Korlátlan beolvasás";
+ 
+"topscan_unlimitedscansintroduce" = "Nincs korlátozás a beolvasott dokumentumok számában.";
+ 
+"topscan_clearwaternark" = "Vízjel törlése";
+ 
+"topscan_clearwaternarkintroduce" = "Távolítsa el a PDF vízjelet, és tartsa tisztán és rendben a PDF fájlt.";
+ 
+"topscan_writesignature" = "Aláírás";
+ 
+"topscan_writesignatureintroduce" = "Olvassa be a papírra írt aláírását, hogy e-aláírást készítsen, amely pontosan megegyezik az eredetivel.";
+ 
+"topscan_highqualitydoc" = "Kiváló minőségű dokumentum";
+ 
+"topscan_highqualitydocintroduce" = "Több képminőség-választási lehetőség, válasszon jobb minőségi opciókat, tegye olvashatóbbá a PDF dokumentumot.";
+ 
+"topscan_emailmyself" = "E-mail magamnak";
+ 
+"topscan_emailmyselfintroduce" = "Küldjön dokumentumokat magának e-mailben gyorsabban és kényelmesebben.";
+ 
+"topscan_exportpdfdoc" = "PDF dokumentum exportálása";
+ 
+"topscan_exportpdfdocintroduce" = "Gyorsan exportálja a PDF fájlt más alkalmazásokba, vagy tárolja helyben a telefonján.";
+ 
+"topscan_backupintroduce" = "Biztonsági mentés több eszközre és visszaállítás a dokumentumok szinkronizálása érdekében.";
+ 
+"topscan_graffiti" = "Graffiti";
+ 
+"topscan_graffitiintroduce" = "Dokumentumok, graffiti, szöveg, aláírások stb. módosítása";
+ 
+"topscan_applock" = "APP Zár";
+ 
+"topscan_applockintroduce" = "Engedélyezze az arcfelismerést vagy érintésazonosítást a SimpleScanner feloldásához egy lépésben.";
+ 
+"topscan_imagetotext" = "Kép szöveggé";
+ 
+"topscan_imagetotextintroduce" = "Az OCR funkcióval felismertetheti a képen lévő szövegeket későbbi kereséshez vagy megosztáshoz.";
+ 
+"topscan_propdfeditor" = "PDF szerkesztő";
+ 
+"topscan_propdfeditorintroduce" = "Szerkessze a PDF oldalakat, adjon hozzá aláírásokat és graffitiket, PDF jelszavakat, távolítsa el a vízjeleket stb.";
+ 
+"topscan_gotosetting" = "Menjen a Beállításokhoz";
+ 
+"topscan_ocrnummorethan" = "A felhő OCR-t 1000 oldal/hó azonosítására használták a jelenlegi számítási ciklusban. A további azonosításhoz OCR-oldalakat kell vásárolnia, vagy várjon a következő számítási ciklusra, hogy automatikusan hozzáadjon 1000 OCR oldalt.";
+ 
+"topscan_upgradeaccount" = "20+ fejlettebb funkció";
+ 
+"topscan_upgradepremium" = "Frissítés prémiumra";
+ 
+"topscan_premium" = "Prémium";
+ 
+"topscan_nopurrestore" = "Nincs helyreállítható vásárlás!";
+ 
+"topscan_restorefailed" = "Nem sikerült visszaállítani a vásárlást.";
+ 
+"topscan_restoresuccessfully" = "Állítsa vissza a vásárlást sikeresen.";
+ 
+"topscan_bindcontent" = "Még nem állította be az e-mail fiókját. Kérjük, lépjen a telefonján az „E-mail beállítás”-ba, érintse meg a „Fiók hozzáadása” lehetőséget az e-mail fiók létrehozásához";
+ 
+"topscan_cameratypeidcardintroduce" = "Szkennelje és másolja egy oldalra egy személyi igazolvány mindkét oldalát 1 perc alatt, megtartva a kártya eredeti méretét. 100 % p-ban nyomtatásra kész ";
+ 
+
+"topscan_paymenttext1" = "A kifizetés az iTunes-számlát terheli a vásárlás megerősítésekor.";
+ 
+"topscan_forgotpsd" = "Elfelejtette a jelszavát?";
+ 
+"topscan_signup" = "Bejelentkezés";
+ 
+"topscan_noaccount" = "Nincs fiókja?";
+ 
+"topscan_login" = "Bejelentkezés";
+ 
+"topscan_quicklogin" = "Gyors bejelentkezés";
+ 
+"topscan_paynow" = "Fizessen most";
+ 
+"topscan_send" = "Küldés";
+ 
+"topscan_signinsuccess" = "Sikeres bejelentkezés!";
+ 
+"topscan_resend" = "Újraküldés";
+ 
+"topscan_sendcodesuccess" = "Sikeres küldés";
+ 
+"topscan_entervercode" = "Adja meg az igazolókódot";
+ 
+"topscan_addorginalfile" = "Eredeti biztonságimásolat-fájl hozzáadása";
+ 
+"topscan_turnonpassword" = "Kapcsolja be a jelszót";
+"topscan_rotate" = "Forog";
+"topscan_tipask" = "Soha ne kérdezzen";
+    
+"topscan_croptipmsg" = "A művelet törölheti az összes OCR eredményt, megjegyzést, vízjelet, aláírást, graffitit, szöveget. Folytatja?";
+    
+"topscan_scoretitle" = "Megtenné, hogy ha tetszik a Simple Scanner, akkor jó értékelést ad az App Store-ban, és ezzel támogat minket?";
+    
+"topscan_resetpsd" = "Szükségünk van a regisztrált e-mail azonosítójára, hogy elküldjük a jelszó visszaállítására vonatkozó utasításokat.";
+    
+"topscan_compressionration" = "Tömörítési arány";
+    
+"topscan_size" = "Méret";
+    
+"topscan_compression" = "Tömörítés";
+    
+"topscan_pdfpagenumber" = "Oldalszám";
+    
+"topscan_pdfpagedirection" = "Oldalirány";
+    
+"topscan_image" = "Kép";
+    
+"topscan_subscriptfailedtips" = "Az előfizetés ellenőrzése sikertelen, lépjen a Főoldal-> Beállítások-> Vásárlás visszaállítása menüpontra!";
+    
+"topscan_cropautomaticcameraaip" = "Automatikus vágás";
+    
+"topscan_nextstep" = "Következő lépés";
+    
+"topscan_addsignature" = "Aláírás hozzáadása";
+   
+
+"topscan_subsctiptplan" = "Az ön előfizetési csomagja";
+    
+"topscan_renewedday" = "Megújítás napja";
+    
+"topscan_automaticrenewal" = "Automatikus megújítás";
+    
+"topscan_moredetails" = "További részletek";
+    
+"topscan_drivedownloadfiles" = "Felhőimportálás";
+    
+"topscan_download" = "Letöltés";
+    
+"topscan_downloadsuccessfilly" = "Sikeres letöltés";
+    
+"topscan_downloadfailed" = "Sikertelen letöltés";
+    
+"topscan_uselimitedversion" = "Korlátozott verzió használata";
+    
+"topscan_termsofserice" = "Szolgáltatási feltételek";
+    
+"topscan_unlimitedfeatures" = "Korlátlan funkciók";
+    
+"topscan_subscriptiongives" = "Ez az előfizetés korlátlan hozzáférést biztosít. Ha nem mondja le a próbaidőszak lejárta előtt, akkor a lemondásig automatikusan megterheljük számláját.";
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+   
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "Lưu";
+"topscan_cancel" = "Huỷ";
+"topscan_pleasenote" = "Xin lưu ý";
+    
+"topscan_importdatatype" = "Hiện tại, chỉ hỗ trợ nhập các định dạng JPG, PNG, PDF.";
+    
+"topscan_fileothersuccessfully" = "Các tệp ở các định dạng khác có thể không được nhập thành công.";
+    
+"topscan_fileintotal" = "tổng số tệp";
+
+

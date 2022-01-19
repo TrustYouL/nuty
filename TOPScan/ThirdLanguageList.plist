@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Arabic - ara</key>
+		<string>ara</string>
+	</dict>
+	<dict>
+		<key>Bulgarian - bul</key>
+		<string>bul</string>
+	</dict>
+	<dict>
+		<key>Chinese(Simplified) - chs</key>
+		<string>chs</string>
+	</dict>
+	<dict>
+		<key>Chinese(Traditional) - cht</key>
+		<string>cht</string>
+	</dict>
+	<dict>
+		<key>Croatian - hrv</key>
+		<string>hrv</string>
+	</dict>
+	<dict>
+		<key>Czech - cze</key>
+		<string>cze</string>
+	</dict>
+	<dict>
+		<key>Danish - dan</key>
+		<string>dan</string>
+	</dict>
+	<dict>
+		<key>Dutch - dut</key>
+		<string>dut</string>
+	</dict>
+	<dict>
+		<key>English - eng</key>
+		<string>eng</string>
+	</dict>
+	<dict>
+		<key>Finnish - fin</key>
+		<string>fin</string>
+	</dict>
+	<dict>
+		<key>French - fre</key>
+		<string>fre</string>
+	</dict>
+	<dict>
+		<key>German - ger</key>
+		<string>ger</string>
+	</dict>
+	<dict>
+		<key>Greek - gre</key>
+		<string>gre</string>
+	</dict>
+	<dict>
+		<key>Hungarian - hun</key>
+		<string>hun</string>
+	</dict>
+	<dict>
+		<key>Korean - kor</key>
+		<string>kor</string>
+	</dict>
+	<dict>
+		<key>Italian - ita</key>
+		<string>ita</string>
+	</dict>
+	<dict>
+		<key>Japanese - jpn</key>
+		<string>jpn</string>
+	</dict>
+	<dict>
+		<key>Polish - pol</key>
+		<string>pol</string>
+	</dict>
+	<dict>
+		<key>Portuguese - por</key>
+		<string>por</string>
+	</dict>
+	<dict>
+		<key>Russian - rus</key>
+		<string>rus</string>
+	</dict>
+	<dict>
+		<key>Slovenian - slv</key>
+		<string>slv</string>
+	</dict>
+	<dict>
+		<key>Spanish - spa</key>
+		<string>spa</string>
+	</dict>
+	<dict>
+		<key>Swedish - swe</key>
+		<string>swe</string>
+	</dict>
+	<dict>
+		<key>Turkish - tur</key>
+		<string>tur</string>
+	</dict>
+</array>
+</plist>

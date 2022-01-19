@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "저장";
+"topscan_cancel" = "취소";
+
+"topscan_pleasenote" = "참고하세요";
+
+"topscan_importdatatype" = "현재 JPG, PNG, PDF 형식 가져오기만 지원합니다.";
+
+"topscan_fileothersuccessfully" = "다른 형식의 파일은 성공적으로 가져오지 못할 수 있습니다.";
+
+"topscan_fileintotal" = "총 파일 수";
+
+
+

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "Opslaan";
+"topscan_cancel" = "Annuleren";
+"topscan_pleasenote" = "Houd er rekening mee dat";
+    
+"topscan_importdatatype" = "Ondersteun momenteel alleen JPG-, PNG- en PDF-formaten.";
+    
+"topscan_fileothersuccessfully" = "Bestanden in andere indelingen kunnen mogelijk niet goed worden geïmporteerd.";
+    
+"topscan_fileintotal" = "bestanden in totaal";
+
+
+

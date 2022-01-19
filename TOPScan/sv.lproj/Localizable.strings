@@ -1,0 +1,1211 @@
+
+
+"topscan_collage" = "Kollage";
+   
+"topscan_doctag" = "Ange tagg";
+   
+"topscan_picquality" = "Bildkvalitet";
+   
+"topscan_addto" = "Lägg till";
+   
+"topscan_share" = "Dela";
+   
+"topscan_email" = "E-post";
+   
+"topscan_merge" = "Sammanfoga";
+   
+"topscan_copy" = "Kopiera/flytta";
+   
+"topscan_sortby" = "Sortera efter";
+   
+"topscan_more" = "Mer";
+   
+"topscan_savetogallery" = "Spara i galleri";
+   
+"topscan_upload" = "Ladda upp";
+   
+"topscan_uploadsucceeded" = "Uppladdningen lyckades";
+   
+"topscan_uploadfailed" = "Uppladdningen misslyckades";
+   
+"topscan_delete" = "Radera";
+   
+"topscan_cancel" = "Avbryt";
+   
+"topscan_ok" = "OK";
+   
+"topscan_about" = "handla om";
+   
+"topscan_error" = "FEL";
+   
+"topscan_skip" = "Hoppa över";
+   
+"topscan_decryption" = "Dekryptering";
+   
+"topscan_allselect" = "Välj alla";
+   
+"topscan_cancelallselect" = "Avmarkera alla";
+   
+"topscan_items" = "Valda";
+   
+"topscan_printing" = "Skriv ut";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Anteckning";
+   
+"topscan_retake" = "Ta om";
+   
+"topscan_ocr" = "Läs in text";
+   
+"topscan_watermarktitle" = "Vattenmärke";
+   
+"topscan_addwatermark" = "Lägg till vattenmärke";
+   
+"topscan_editwatermark" = "Redigera vattenmärke";
+   
+"topscan_clearwatermark" = "Rensa innehåll";
+   
+"topscan_removewatermark" = "Ta bort vattenmärke";
+   
+"topscan_remind" = "Varning";
+   
+"topscan_loading" = "läser in...";
+   
+"topscan_deleteoption" = "Är du säker på att du vill ta bort alla valda dokument?";
+   
+"topscan_deletecurrentpage" = "Är du säker på att radera den här sidan?";
+   
+"topscan_deletecurrentdoc" = "Är du säker på att du vill ta bort det aktuella dokumentet?";
+   
+"topscan_bind" = "Inställning av e-postkonto";
+   
+"topscan_savefail" = "Datafel!";
+   
+"topscan_phonememoryalert" = "På grund av problem med telefonminnet kan kollage större än 30 bilder orsaka en krasch. Vill du fortsätta?";
+   
+"topscan_continueshare" = "Fortsätt att dela";
+   
+"topscan_savealert" = "Är du säker på att lämna utan att spara ändringarna?";
+   
+"topscan_deletesignatureimagealert" = "Är du säker på att du vill ta bort signaturbilden?";
+   
+"topscan_discard" = "Ignorera ändringar";
+ 
+ 
+"topscan_movesuccess" = "Flytta dokument med framgång!";
+   
+"topscan_copysuccess" = "Kopiera dokument med framgång!";
+   
+"topscan_mergesuccess" = "Sammanfoga dokument framgångsrikt!";
+   
+"topscan_clearphotos" = "De bilder som just tagits sparas inte. Är du säker på att kassera fotot/fotona?";
+   
+"topscan_noalert" = "Påminn inte igen";
+   
+"topscan_editpdf" = "Redigera PDF";
+   
+"topscan_addpage" = "Lägg till sida";
+   
+"topscan_collageimage" = "Kollagebild...";
+   
+"topscan_collageproof" = "Bevis på egendom";
+   
+"topscan_collagedriverlicense" = "Körkort";
+   
+"topscan_collageidcard" = "ID-kort";
+   
+ 
+ 
+"topscan_collagepassport" = "Pass";
+   
+"topscan_collageaccountbook" = "Kontobok";
+   
+"topscan_idcardanti" = "Mot förfalskning";
+   
+"topscan_importpic" = "Galleri";
+   
+"topscan_userdefinedsize" = "Självdefinierad filstorlek för delning";
+   
+"topscan_filecompressiontitle" = "Ange 0-99 komprimeringsförhållande";
+   
+"topscan_manualsorting" = "Manuell sortering";
+   
+"topscan_firstontop" = "Första högst upp";
+   
+"topscan_lastontop" = "Sista högst upp";
+   
+"topscan_siderename" = "Byt namn";
+   
+"topscan_creatdatadescend" = "Datum skapa (stigande)";
+   
+"topscan_creatdataascend" = "Datum skapa (fallande)";
+   
+"topscan_filenameatoz" = "Filnamn(A till Z)";
+   
+"topscan_filenameztoa" = "Filnamn(Z till A)";
+   
+"topscan_girdview2" = "Rutnätsvy";
+   
+"topscan_girdview3" = "(3 kolumner)";
+   
+"topscan_girdviewlist" = "Listvy";
+   
+"topscan_folderlocationtop" = "Mapp högst upp";
+   
+"topscan_folderlocationbottom" = "Mapp längst ner";
+   
+"topscan_fax" = "Fax";
+   
+"topscan_hidepagedetails" = "Dölj info om sidor";
+   
+"topscan_displaypagedetails" = "Visa info om sidor";
+   
+"topscan_batchedit" = "Batchredigering";
+   
+"topscan_pdffile" = "PDF-fil";
+   
+"topscan_image_jpg" = "Bild(JPG)";
+   
+"topscan_longimage_jpg" = "Dela som lång bild";
+   
+"topscan_txt" = "Dela txt";
+   
+"topscan_originalsize" = "Originalstorlek";
+   
+"topscan_medium" = "Medium";
+   
+"topscan_small" = "Liten";
+   
+"topscan_superhigh" = "Super hög";
+   
+"topscan_shareapp" = "Dela denna app";
+   
+"topscan_backup" = "Säkerhetskopiering och återställning";
+   
+"topscan_icouldbackup" = "Säkerhetskopia";
+   
+"topscan_importimage" = "Importera bild";
+   
+"topscan_mergepdf" = "Sammanfoga PDF";
+   
+"topscan_importfile" = "Importera fil";
+   
+"topscan_longpresstip" = "Jag förstår!";
+   
+"topscan_search" = "Sök";
+   
+"topscan_homemoredocremind" = "Dokumentpåminnelse";
+   
+"topscan_settingtemplate" = "Mall";
+   
+"topscan_settingfamily" = "Familj";
+   
+"topscan_shareappcontent" = "Hittade en bra skannerprogramvara, nedladdningslänk";
+   
+"topscan_mergefilemethodtitle" = "Välj en metod för sammanslagning";
+   
+"topscan_mergefilemethodkeepold" = "Sammanfoga och behålla gamla dokument";
+   
+"topscan_mergefilemethoddeleteold" = "Slå ihop och ta bort gamla dokument";
+   
+"topscan_cameradiscardtitle" = "Kasta sidor";
+   
+"topscan_cameradiscardmssage" = "Kasta alla sidor?";
+   
+"topscan_cameraaccidenttitle" = "Information";
+   
+"topscan_cameraaccidentmssage" = "vissa bilder du tog förra gången har inte bearbetats, vill du ladda dem?";
+   
+"topscan_cameralighton" = "På";
+   
+"topscan_cameralightoff" = "Av";
+   
+"topscan_cameralightauto" = "Auto";
+   
+"topscan_cameralighttorch" = "Ficklampa";
+   
+"topscan_cameratypetotext" = "Att sms: a";
+   
+"topscan_cameratypesingle" = "Enda";
+   
+"topscan_cameratypebatch" = "Batch";
+   
+"topscan_cameratypeqrbarcode" = "QR och streckkod";
+   
+"topscan_camerapermissiontitle" = "Vänligen öppna kameratillstånd";
+   
+"topscan_camerapermissionguide" = "Inställning-sekretess-kamera";
+   
+"topscan_albumpermissiontitle" = "Vänligen öppna albumbehörigheter";
+   
+"topscan_albumpermissionguide" = "Inställningar-sekretess-foton-alla foton";
+   
+"topscan_safeentertips" = "Ange lösenord med fyra siffror !";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Är du säker på att du vill logga ut?";
+       
+"topscan_psderror" = "Felaktigt lösenord. Var god försök igen!";
+       
+"topscan_pdferror" = "Lösenordet matchade inte, försök igen !";
+       
+"topscan_touchidnotenrolled" = "Enheten detekteras inte för att aktivera touch ID, gå till telefoninställning centret för att aktivera touch ID-funktionen.";
+       
+"topscan_faceidnotenrolled" = "Enheten detekteras inte för att aktivera face ID. Gå till telefoninställning centret för att aktivera face ID-funktionen.";
+       
+"topscan_opensysset" = "Behörighet för att ställa in centrum";
+       
+"topscan_againvafaceid" = "Klicka för att verifiera Face ID";
+       
+"topscan_againvatouchid" = "Klicka för att verifiera Touch ID";
+       
+"topscan_pdfpagenumberno" = "Inget sidnummer";
+       
+"topscan_pdfpagenumberlowerl" = "nere till vänster";
+       
+"topscan_pdfpagenumberbottomc" = "den nedre mitten";
+       
+"topscan_pdfpagenumberlowerr" = "nere till höger";
+       
+"topscan_pdfpagenumberupperl" = "uppe till vänster";
+       
+"topscan_pdfpagenumberheadc" = "huvudets center";
+       
+"topscan_pdfpagenumberupperr" = "uppe till höger";
+       
+"topscan_colletionfunctiontitle" = "Välj Dokument";
+       
+"topscan_pdfdirectionauto" = "Justera automatiskt efter bildstorlek";
+       
+"topscan_pdfdirectionlandscape" = "Landskap";
+       
+"topscan_pdfaddsignature" = "Porträtt";
+       
+"topscan_changepdfsizealert" = "De aktuella ändringarna återställer PDF-signaturen. Vill du fortsätta?";
+       
+"topscan_emptypdfnamealert" = "PDF-namnet får inte vara tomt!";
+       
+"topscan_createdsuccessfully" = "Skapades framgångsrikt";
+       
+"topscan_hasfolder" = "Dokumentet/mappen finns redan. Välj ett annat namn.";
+       
+"topscan_creationfailed" = "Skapandet misslyckades";
+       
+"topscan_duplicationname" = "Namnet finns redan. Ändra till ett annat.";
+       
+"topscan_folderexists" = "Mappen finns redan.";
+       
+"topscan_emailinvalidtips" = "Ange rätt e-postadress";
+       
+"topscan_defaultprocess" = "Standardprocess";
+       
+"topscan_original" = "Original";
+       
+"topscan_blackwhite" = "Svartvitt";
+       
+"topscan_blackwhite2" = "Svartvitt2";
+       
+"topscan_blackwhite3" = "Svartvitt3";
+       
+"topscan_nostalgic" = "Nostalgisk";
+       
+"topscan_magiccolor" = "Magisk färg";
+       
+"topscan_magiccolor2" = "Magisk färg2";
+       
+"topscan_grayscale" = "Gråskala";
+       
+"topscan_lastfilter" = "Föregående filter";
+       
+"topscan_clear" = "Rensa";
+       
+"topscan_clearmarks" = "Rensa märken";
+       
+"topscan_markstip" = "Märkena(signatur, graffiti osv.)rensas om du fortsätter. Är du säker att rensa märkena?";
+       
+"topscan_setting" = "Till inställningar";
+       
+"topscan_deletedrive" = "Är du säker på att du vill ta bort den nuvarande säkerhetskopian?";
+       
+"topscan_thereisnotstoragespaceon" = "Det finns inte tillräckligt med lagringsutrymme på din telefon. Var god försök igen!";
+       
+"topscan_dropboxsussess" = "Säkerhetskopian överfördes till Dropbox.";
+       
+"topscan_boxsussess" = "Säkerhetskopian överfördes till Box.";
+       
+"topscan_googledrivesussess" = "Säkerhetskopian överfördes till Google Drive.";
+       
+"topscan_onedrivesussess" = "Säkerhetskopian överfördes till Onedrive.";
+       
+"topscan_startbackupinbackground" = "Börja ladda upp säkerhetskopior i bakgrunden";
+       
+"topscan_backupinbackgroundaleat" = "Uppladdningen av säkerhetskopian görs i bakgrunden. Om du stänger programmet kan säkerhetskopian misslyckas.";
+       
+"topscan_myselfemailshow" = "E-post till mig själv";
+       
+"topscan_toemailtitle" = "Till";
+       
+"topscan_subjectplaceholder" = "Ämne";
+       
+"topscan_bodyplaceholder" = "Text";
+       
+"topscan_emailsettingguide" = "Du kan ändra e-post i Inställningar-->Allmänt-->E-post.";
+       
+"topscan_picturequalityheight" = "Höjd";
+       
+"topscan_picturequalitylow" = "Låg";
+       
+"topscan_defaultpagesize" = "Standard sidostorlek";
+       
+"topscan_privacypolicy" = "Integritetspolicy";
+       
+"topscan_faq" = "Vanliga frågor";
+       
+"topscan_sendfeedback" = "Skicka feedback";
+       
+"topscan_version" = "Version";
+       
+"topscan_rateapp" = "Betygsätt enkel skanner";
+       
+"topscan_settinggeneral" = "Allmänt";
+       
+"topscan_settingdocmanagement" = "Dokumenthantering";
+       
+"topscan_settingourapp" = "Vår app";
+       
+"topscan_settingfaxname" = "Enkelt fax";
+       
+"topscan_settingfaxreceivename" = "Faxmottagning";
+       
+"topscan_settinguseragreement" = "Användaravtal";
+       
+"topscan_settingusersuggestion" = "Förslag och feedback";
+       
+"topscan_settingdocname" = "Dokument namn";
+       
+"topscan_settingdoctime" = "Dokument tid";
+       
+"topscan_changepagesize" = "Ändra sidstorlek";
+       
+"topscan_documentname" = "Självdefinierade dokumentnamn";
+       
+"topscan_documentdate" = "Självdefinierad dokument tid";
+       
+"topscan_autosavetogallery" = "Spara automatiskt i albumet";
+       
+"topscan_saveoriginalimage" = "Spara originalbilden";
+       
+"topscan_saveoriginalimagetip" = "Denna funktion återställer huvudsakligen beskärningsfunktionen, vilket ökar lagringsutrymmet.";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Spara skanningar automatiskt i galleriet";
+   
+"topscan_textblankprompt" = "Känn igen bilden och konvertera till text";
+   
+"topscan_noteplaceholder" = "Börja lägga till anteckningar!";
+   
+"topscan_ocrtexttdit" = "Redigera";
+   
+"topscan_ocrtextcopy" = "Kopiera";
+   
+"topscan_ocrtextexport" = "Exportera";
+   
+"topscan_ocrtexttranslation" = "Översättning";
+   
+"topscan_ocrdefaultlanguage" = "Engelska";
+   
+"topscan_ocrautomatic" = "Automatisk";
+   
+"topscan_ocrtextagain" = "OCR igen";
+   
+"topscan_ocrtypecloud" = "Moln OCR";
+   
+"topscan_ocrtypelocal" = "Lokalt snabbt erkännande";
+   
+"topscan_ocrtypelocaltip" = "Stöder endast latinska tecken";
+   
+"topscan_ocrdownfail" = "nedladdning misslyckades";
+   
+"topscan_ocrrecentanguages" = "Senaste språk";
+   
+"topscan_ocralllanguages" = "Alla språk";
+   
+"topscan_ocrexportcopy" = "Kopiera till urklipp";
+   
+"topscan_ocrchooseendpoint" = "Välj närmaste slutpunkt";
+   
+"topscan_ocrgoogleendpointprompt" = "Välj automatiskt den bästa globala noden, inget behov av att välja!";
+   
+"topscan_ocrthirdocrfailprompt" = "Bearbetningsfel eller ingen text tillgänglig, försök igen!";
+   
+"topscan_networkstate" = "WLAN är avstängt";
+   
+"topscan_networkstatecontent" = "Du kan aktivera WLAN för appen \'simpleScan\' i inställningar";
+   
+"topscan_ocragainallpage" = "Alla sidor";
+   
+"topscan_ocragaincurrentpage" = "Nuvarande sida";
+   
+"topscan_ocrtextagainvctip" = "Ändringar som gjorts under korrekturläsningen går förlorade om du trycker på tillbaka";
+   
+"topscan_ocrocrvctip" = "Är du säker på att du vill avsluta det nuvarande textigenkänningen?";
+   
+"topscan_ocrocrgooglepoint" = "Global";
+   
+"topscan_ocrocragaintitle" = "Tryck på texten för att redigera";
+   
+"topscan_ocrocrlanguagetitle" = "Språk";
+   
+"topscan_ocrocragainendpoint" = "Slutpunkt";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Känn igen aktuell sida";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Känn igen alla sidor";
+ 
+"topscan_translatesourcelanguage" = "Källspråk";
+ 
+"topscan_translatetargetlanguage" = "Målspråk";
+ 
+"topscan_deletelanguagepack" = "Ta bort språkmodell";
+ 
+"topscan_stoploadlanguagepack" = "Stoppa nedladdningen av språkmodellen";
+ 
+"topscan_scorecancel" = "Inte nu";
+ 
+"topscan_scorefivestar" = "5 stjärnor";
+ 
+"topscan_tagsungrouped" = "Ogrupperade";
+ 
+"topscan_tagsalldocs" = "Alla dokument";
+ 
+"topscan_tagssearchplaceholder" = "Lägg in tagg";
+ 
+"topscan_tagsalltagstitle" = "Alla taggar";
+ 
+"topscan_tagsalreadyexists" = "Taggen finns redan!";
+ 
+"topscan_tagstagdelete" = "Borttagna etiketter kan inte återställas. Bekräfta att radera?";
+ 
+"topscan_tagsdone" = "Klart";
+ 
+"topscan_tagssettag" = "Ställ in taggar";
+ 
+"topscan_tagstagmanager" = "Tagg";
+ 
+"topscan_tagsentermanager" = "Taggar";
+ 
+"topscan_tagstagnotecontent" = "Vill du spara redigeringar?";
+ 
+"topscan_tagstagmanageradd" = "Lägg till ny tagg";
+ 
+"topscan_tagstagmanageraddplac" = "Ange taggens namn";
+ 
+"topscan_tagscreatelabs" = "Att skapa etiketter ~";
+   
+"topscan_drivestartupdate" = "Säkerhetskopian börjar laddas upp";
+     
+"topscan_driveuploading" = "laddar upp...";
+     
+"topscan_buildingpdf" = "Skapa PDF";
+     
+"topscan_processingjpg" = "Bearbetar JPG";
+     
+"topscan_processing" = "Bearbetar";
+     
+"topscan_processingdoc" = "Bearbetar dokument";
+     
+"topscan_processingzip" = "Bearbetar ZIP";
+     
+"topscan_sortprocessing" = "Sort bearbetning";
+     
+"topscan_removeing" = "Tar bort";
+     
+"topscan_copyprocessing" = "Kopiering";
+     
+"topscan_moveprocessing" = "Rörande";
+     
+"topscan_mergeing" = "Sammanfogande";
+     
+"topscan_initdata" = "Initierar data";
+     
+"topscan_docpasswordicon" = "Låsa";
+     
+"topscan_docpasswordunlockicon" = "Låsa upp";
+     
+"topscan_pdfpassword" = "PDF-exportlösenord";
+     
+"topscan_pdfpasswordclear" = "Rensa PDF-lösenord";
+     
+"topscan_touchtitle" = "Kontrollera Touch ID";
+     
+"topscan_clearapppsd" = "Vill du rensa alternativ för applösenord?";
+     
+"topscan_cleardocpsd" = "Vill du rensa lösenord alternativen för dokument åtkomst?";
+     
+"topscan_passwordhelptip" = "Behövs hjälp ?";
+     
+"topscan_passwordhelpsubject" = "Feedback om dokumentlösenord";
+     
+"topscan_passwordapphelpsubject" = "Feedback om applösenord";
+     
+"topscan_enterpwd" = "Var snäll och ange lösenordet";
+     
+"topscan_appsecurity" = "Applikationssäkerhet";
+     
+"topscan_apppwd" = "Applösenord";
+     
+"topscan_setpasswordlaceholder" = "Vänligen ange ditt lösenord";
+     
+"topscan_resetpasswordlaceholder" = "Ange lösenordet igen";
+     
+"topscan_setpasswordtitle" = "Ställ in lösenord";
+     
+"topscan_setpdfpasswordtitle" = "PDF-lösenord";
+     
+"topscan_resetpasswordtitle" = "Ange lösenord";
+     
+"topscan_writepasswordfail" = "Lösenorden matchar inte, försök igen !";
+     
+"topscan_writetwopasswordfail" = " Två lösenordsposter matchar inte, försök igen !";
+     
+"topscan_backupbottomtitle" = "Återställ från en tidigare säkerhetskopia eller överför skanningar från en annan enhet";
+     
+"topscan_docaccesspassword" = "Dok åtkomst lösenord";
+     
+"topscan_turnoffpassword" = "Stäng av lösenordet";
+     
+"topscan_changepassword" = "Ändra lösenord";
+     
+"topscan_storagespacenotenough" = "Telefonen har inte tillräckligt lagringsutrymme";
+     
+"topscan_storagespacetitle" = "Telefonens lagringsutrymme är mindre än 200M. För att förhindra att filer inte kan skrivas, rensa lite utrymme";
+     
+"topscan_appheadingtitle" = "Ställ in applikationslösenord för att skydda dokumentsäkerheten";
+     
+"topscan_docheadingtitle" = "Ställ in lösenord för att visa lösenordsskyddade dokument";
+     
+"topscan_pdfheadingtitle" = "Ställ in lösenord för att dela och exportera PDF-filer för att skydda filens integritet";
+     
+"topscan_batchall" = "Full";
+     
+"topscan_batchauto" = "Auto";
+     
+"topscan_batchfit" = "Passa";
+     
+"topscan_left" = "Vänster";
+     
+"topscan_right" = "Rätt";
+     
+"topscan_crop" = "Beskära";
+     
+"topscan_filter" = "Filtrera";
+     
+"topscan_prompt" = "Uppmaning";
+     
+"topscan_promptcontent" = "Ändringar har inte sparats ännu. Spara nu?";
+     
+"topscan_no" = "Nej";
+     
+"topscan_yes" = "Ja";
+     
+"topscan_batchsave" = "Spara";
+     
+"topscan_scansignature" = "Skanna din signatur";
+     
+"topscan_importsignature" = "Importera från album";
+     
+"topscan_waittip" = "Filhantering, vänta...";
+     
+"topscan_nooriginalimgdefault" = "Vissa filer kan inte återställas och beskäras, och originalfilen kan inte hittas";
+     
+"topscan_nooriginalimgfilter" = "Vissa filer kan inte filtreras om eftersom originalfilen inte kan hittas";
+     
+"topscan_nooriginalimgmore" = "och mer";
+     
+"topscan_nooriginalimgsetting" = "du kan öppna inställningsalternativet för att spara originalbildalternativet";
+     
+"topscan_alldatanooriginalimg" = "Det gick inte att återställa beskärningen, originalfilen finns inte !";
+     
+"topscan_alldatanooriginalimgfilter" = "Det går inte att återställa filterbearbetning, originalfilen finns inte !";
+     
+"topscan_cropautomatic" = "Bild för automatisk beskärning";
+     
+"topscan_cropautomatictip" = "Beskär bilder automatiskt i batch-skanningsläge";
+     
+"topscan_cropautomaticcameraaip" = "Auto-beskära";
+     
+"topscan_camerafilterremind" = "Du kan ändra standardfilter för batch-läge";
+     
+"topscan_cameracropremindfirst" = "Du kan ändra om";
+     
+"topscan_cameracropremindsecond" = "batch-läget är beskuret";
+     
+"topscan_flitertypeapplylocation" = "Tillämpa på alla sidor";
+     
+"topscan_colletionpdftolongpictitle" = "PDF Exportera till lång bild";
+     
+"topscan_colletionpdftopictitle" = "PDF till bild";
+     
+"topscan_colletionpdfpasswordtitle" = "PDF-lösenord";
+     
+"topscan_colletionpdfextracttitle" = "PDF-utdrag";
+     
+"topscan_colletiondocpasswordtitle" = "Dok-lösenord";
+     
+"topscan_colletionscanidcardtitle" = "Skanna ID-kort";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF Lägg till vattenmärke";
+     
+"topscan_colletionpdfsignaturetitle" = "PDF-signatur";
+     
+"topscan_colletionpdfpageadjustment" = "PDF-sidojustering";
+     
+"topscan_colletionimagetopdf" = "Bild till PDF";
+     
+"topscan_colletionbottomtitle" = "Extrahera sidan";
+     
+"topscan_colletionmydevice" = "Min enhet";
+     
+"topscan_colletionpdfextractbottomtitle" = "Extrahera generera nytt dokument";
+     
+"topscan_docreminedtitle" = "Aktivera aviseringstillstånd";
+     
+"topscan_docreminedcontent" = "Du aktiverar inte meddelande behörigheter så du kan inte använda dokumentvarningar förrän de är aktiverade.";
+     
+"topscan_docreminetime" = "Dokumentets påminnelsetid måste vara längre än den aktuella systemtiden!";
+     
+"topscan_questiontype" = "Välj en typ";
+     
+"topscan_questiondescrible" = "Ange din fråga eller ditt förslag";
+     
+"topscan_suggestionremind" = "För att göra en skärmdump på iPhone 8 och tidigare, tryck på sömn/väckningsknappen och hemknappen samtidigt";
+     
+"topscan_suggestionremindx" = "För att göra en skärmdump på iPhone X och senare, tryck samtidigt på volym upp och lås-knappen.";
+     
+"topscan_questiontypecrash" = "Krasch/fördröjning";
+   
+"topscan_questiontypetaking" = "Ta bilder/importera från album";
+   
+"topscan_questiontypephoto" = "Fotoredigering";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Fax";
+   
+"topscan_questiontypepoint" = "C-poäng";
+   
+"topscan_questiontypeshare" = "Dela/E-post/Skriv ut";
+   
+"topscan_questiontypeinterface" = "Gränssnitt";
+   
+"topscan_questiontypefeatures" = "Flera funktioner";
+   
+"topscan_questiontypeother" = "Andra frågor";
+   
+"topscan_questiontypetoast" = "Finns det några användningsproblem? Eller så kan du ge oss feedback om förslag och krav på applikationsfunktioner och vi lyssnar gärna på dina åsikter.";
+   
+"topscan_questionsetting" = "Inställningar";
+   
+"topscan_questioncontinue" = "Fortsätta";
+   
+"topscan_questioninvalidemail" = "Ogiltig e-postadress";
+   
+"topscan_questiontoasttitle" = "Lägg till skärmdumpar (valfritt)";
+   
+"topscan_submittedsuccessfully" = "Framgångsrikt inskickat !";
+   
+"topscan_suggestioncontenttitle" = "Detalj";
+   
+"topscan_suggestionsubmit" = "Skicka";
+   
+"topscan_remindtitle" = "Titel";
+   
+"topscan_remindreturn" = "Lämna tillbaka";
+   
+"topscan_guidetitleprofessional" = "Professionell";
+   
+"topscan_guidetitlecollage" = "ID-kollageläge";
+   
+"topscan_guidetitlebackup" = "Säkerhetskopiering och återställning";
+   
+"topscan_guideprofessionaldes" = "Identifiera dokument automatiskt, snabb beskärning, skärpa och förbättra dokument.";
+   
+"topscan_guidecollagedes" = "Kollage ID-kortbilder i ett dokument, ge flera mallalternativ och anpassad storlek.";
+   
+"topscan_guideimagedes" = "Identifiera text automatiskt genom moln AI-teknik, redigera, kopiera, dela, exportera din text.";
+   
+"topscan_guidebackupdes" = "Säkerhetskopiera dina dokument till molnlagring eller lokal lagring och återställ de säkerhetskopierade dokumenten när som helst.";
+   
+"topscan_showstatustitle" = "Laddar data";
+   
+"topscan_placeholderpassword" = "lösenord";
+   
+"topscan_manualsorttitle" = "Långt tryck för att sortera manuellt";
+   
+"topscan_docgraffiti" = "Graffiti";
+   
+"topscan_docaddtext" = "Lägg till text";
+   
+"topscan_copypage" = "Kopiera aktuell sida";
+   
+"topscan_copyallpages" = "Kopiera alla sidor";
+   
+"topscan_showprocess" = "bearbetar...";
+   
+"topscan_importimgerror" = "Filen finns inte, eller datafel !";
+   
+"topscan_somefileloss" = "Något filläsningsfel!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "En måste-ha-funktion! Du kan göra en dubbelsidig e-kopia av ett ID-kort på 1 minut. 100% redo för utskrivning.";
+    
+"topscan_paperexample" = "A4-pappersexempel";
+    
+"topscan_restorebackup" = "SÄKERHETSKOPIERA NU";
+    
+"topscan_restorelastbackup" = "Senaste säkerhetskopieringsdatum";
+    
+"topscan_restoremerge" = "Återställ och slå samman alla aktuella dokument";
+    
+"topscan_restoredelete" = "Återställ och ta bort alla aktuella dokument";
+    
+"topscan_restoretitle" = "ÅTERSTÄLL";
+    
+"topscan_restorenotlogin" = "Ingen inloggningsstatus för molnkonto upptäcktes.";
+    
+"topscan_restorenotrepeat" = "Uppladdning av säkerhetskopian, vänta...";
+    
+"topscan_restorebackwifi" = "Säkerhetskopiering endast på Wi-Fi";
+    
+"topscan_restorenodocument" = "Det finns för närvarande inget dokument tillgängligt, lägg först till ett dokument.";
+    
+"topscan_restorequery" = "frågar...";
+    
+"topscan_restorequeryfailed" = "Sökningen misslyckades eller så hittades inte säkerhetskopian.";
+    
+"topscan_restoreprocessfiles" = "Bearbetar filer";
+    
+"topscan_restorebackupfailed" = "Säkerhetskopiering misslyckades!";
+    
+"topscan_restoreuploadingfile" = "Laddar upp fil, vänta...";
+    
+"topscan_saferepasscode" = "Ange lösenord igen";
+    
+"topscan_saferepassword" = "Vänligen ange lösenordet igen";
+    
+"topscan_applicationsecrulty" = "Applikationssäkerhet";
+    
+"topscan_verifypasscode" = "Verifiera lösenord";
+    
+"topscan_setpasscode" = "Ställ in lösenord";
+    
+"topscan_enternewpassword" = "Skriv in nytt lösenord";
+    
+"topscan_filetype" = "Filtyp";
+    
+"topscan_fileformat" = "Filformat";
+    
+"topscan_sharepdfformat" = "Dela filer i .PDF-format";
+    
+"topscan_sharezipformat" = "Dela filer i .ZIP-format";
+    
+"topscan_sharejpgformat" = "Dela filer i .JPG-format";
+    
+"topscan_newfolderprompt" = "Ny mapp";
+    
+"topscan_currentdocument" = "Aktuellt dokument";
+    
+"topscan_recognizetitle" = "Läs av";
+    
+"topscan_filedeleteprompt" = "Säkerhetskopieringsfilen har tagits bort framgångsrikt!";
+    
+"topscan_filedownbackup" = "Ladda ner säkerhetskopia...";
+    
+"topscan_filestartbackup" = "Säkerhetskopieringsfilen börjar ladda ner";
+    
+"topscan_filerestoresuccessed" = "Återställning av säkerhetskopian lyckades.";
+    
+"topscan_uploadsingin" = "LOGGA IN";
+    
+"topscan_singoutlowercase" = "Logga ut";
+    
+"topscan_processingerror" = "Fel vid bearbetning av filer !";
+    
+"topscan_barcodeopenurl" = "Öppna URL";
+    
+"topscan_barcoderesult" = "Inläsningsresultat";
+    
+"topscan_downloadlanguage" = "Nedladdning av språk...";
+    
+"topscan_graffitibrush" = "Borsta";
+    
+"topscan_graffitiopacity" = "Opacitet";
+    
+"topscan_graffitieraser" = "Suddgummi";
+    
+"topscan_graffiticolor" = "Färg";
+    
+"topscan_graffitiundo" = "Ångra";
+    
+"topscan_graffitiredo" = "Göra om";
+    
+"topscan_nosignture" = "Ingen signature!";
+    
+"topscan_graffititext" = "Text";
+        
+"topscan_graffitireplacefile" = "Byt ut aktuell fil";
+        
+"topscan_graffiticreatefile" = "Skapa ny fil";
+        
+"topscan_graffiticopyto" = "Kopiera till";
+        
+"topscan_graffitimoveto" = "Flytta till";
+        
+"topscan_graffititextrecognition" = "Inläsningstext";
+        
+"topscan_ocraccount" = "OCR-kontohantering";
+        
+"topscan_loginsuccessful" = "inloggning framgångsrikt !";
+        
+"topscan_appleloginsuccessful" = "Apple-konto inloggning lyckades!";
+        
+"topscan_googleloginsuccessful" = "Google-konto inloggning lyckades!";
+        
+"topscan_loginregister" = "Logga in eller registrera dig";
+        
+"topscan_resetpassword" = "Återställ lösenord";
+        
+"topscan_copysuccessful" = "Kopiera framgångsrikt";
+        
+"topscan_copyfailed" = "Kopiering misslyckades";
+        
+"topscan_loginicloudtips" = "För att förhindra förlust av ditt saldo använder vi kontot för att binda ditt saldo. Samtidigt kan du också använda saldot mellan flera enheter. Logga in eller registrera ditt konto.";
+        
+"topscan_loginnow" = "Logga in nu";
+        
+"topscan_emailemptytips" = "E-posten kunde inte vara tomt";
+        
+"topscan_psdemptytips" = "Lösenord kunde inte vara tomt";
+    
+"topscan_codeemptytips" = "Verifieringskoden kunde inte vara tom";
+    
+"topscan_tips" = "Tips";
+    
+"topscan_subscriptsuccessfully" = "Tack för att du prenumererar på premium! ";
+    
+"topscan_autorenewable" = "Automatisk förnyelse, avbryt när som helst.";
+    
+"topscan_nofreetrial" = "INGEN gratis provperiod";
+    
+"topscan_details" = "Detaljer";
+    
+"topscan_restorepurchase" = "Återställ köpta varor";
+    
+"topscan_freetrial" = "Gratis provperiod";
+    
+"topscan_unlimitedfolders" = "Obegränsade mappar";
+    
+"topscan_unlimitedfoldersintroduce" = "Obegränsat skapande av mappar och undermappar.";
+    
+"topscan_noads" = "Inga annonser";
+    
+"topscan_noadsintroduce" = "Ta bort annonser från Simple Scanner.";
+    
+"topscan_pdffileencryption" = "PDF-filkryptering";
+    
+"topscan_pdffileencryptionintroduce" = "Du kan ställa in lösenord för dina skanningar (kvitton eller konfidentiella filer) för att skydda din integritet.";
+    
+"topscan_ocrtypecloudintroduce" = "Använd moln AI-teknik för att känna igen och extrahera text, mer än 1 000+ sidor tillgängliga per månad.";
+    
+"topscan_cloudservice" = "Molntjänst";
+    
+"topscan_cloudserviceintroduce" = "Ladda automatiskt upp dina dokument, PDF, jpg, filtyper till Cloud Drive eller iCloud för att undvika dokumentförlust.";
+    
+"topscan_functionofcollage" = "Funktion av kollage";
+    
+"topscan_functionofcollageintroduce" = "Använd kollagefunktionen för att kombinera flera sidor till en sida.";
+    
+"topscan_unlimitedscans" = "Obegränsade skanningar";
+    
+"topscan_unlimitedscansintroduce" = "Ingen gräns för antalet skannade dokument.";
+    
+"topscan_clearwaternark" = "Tydlig vattenmärke";
+    
+"topscan_clearwaternarkintroduce" = "Ta bort PDF-vattenmärket och håll PDF ren och städad.";
+    
+"topscan_writesignature" = "Signatur";
+    
+"topscan_writesignatureintroduce" = "Skanna din signatur skriven på papper för att producera en e-signatur som ser exakt ut som originalet.";
+    
+"topscan_highqualitydoc" = "Dokument av hög kvalitet";
+    
+"topscan_highqualitydocintroduce" = "Flera alternativ för bildkvalitet, välj alternativ av högre kvalitet, gör PDF-dokumentet tydligare.";
+    
+"topscan_emailmyself" = "E-posta mig själv";
+    
+"topscan_emailmyselfintroduce" = "Skicka dokument till dig själv via e-post, snabbare och bekvämare.";
+    
+"topscan_exportpdfdoc" = "Exportera PDF-dokument";
+    
+"topscan_exportpdfdocintroduce" = "Exportera snabbt PDF till andra applikationer eller lagra lokalt på din telefon.";
+    
+"topscan_backupintroduce" = "Säkerhetskopiering och återställning av flera enheter för att hålla dokument synkroniserade.";
+    
+"topscan_graffiti" = "Graffiti";
+    
+"topscan_graffitiintroduce" = "Ändra dokument, graffiti, lägg till text, signaturer osv.";
+    
+"topscan_applock" = "APP-lås";
+    
+"topscan_applockintroduce" = "Aktivera Face ID eller Touch ID för att låsa upp SimpleScanner i ett steg.";
+    
+"topscan_imagetotext" = "Bild till text";
+    
+"topscan_imagetotextintroduce" = "Använd OCR-funktionen för att känna igen texter i bilden för senare sökning eller delning.";
+    
+"topscan_propdfeditor" = "PDF-redigerare";
+    
+"topscan_propdfeditorintroduce" = "Redigera PDF-sidor, lägg till signaturer och graffiti, PDF-lösenord, ta bort vattenmärken osv.";
+    
+"topscan_gotosetting" = "Gå till inställning";
+    
+"topscan_ocrnummorethan" = "Cloud OCR har använts för att identifiera 1 000 sidor/månad i den aktuella beräkningscykeln. Om du fortsätter att identifiera, måste du köpa OCR-sidor eller vänta tills nästa beräkningscykel automatiskt lägger till OCR 1 000-sidor.";
+    
+"topscan_upgradeaccount" = "20+ mer avancerade funktioner";
+    
+"topscan_upgradepremium" = "Uppgradera till Premium";
+    
+"topscan_premium" = "Premium";
+    
+"topscan_nopurrestore" = "Inga inköp för återställning !";
+    
+"topscan_restorefailed" = "Det gick inte att återställa köpet.";
+    
+"topscan_restoresuccessfully" = "Återställ köpet framgångsrikt.";
+    
+"topscan_bindcontent" = "Du har inte ställt in ditt e-postkonto. Gå till din telefon \"Inställning av e-post\", tryck på \"Lägg till konto\" för att skapa ditt e-postkonto";
+    
+"topscan_cameratypeidcardintroduce" = "Skanna och kopiera båda sidorna av ett ID-kort till en enda sida på 1 minut och behåll kortets originalstorlek. 100 % print-klar. ";
+    
+  
+"topscan_paymenttext1" = "Betalning debiteras iTunes-kontot vid bekräftelse av köpet.";
+    
+
+
+"topscan_forgotpsd" = "Glömt ditt lösenord?";
+    
+"topscan_signup" = "Registrera dig";
+    
+"topscan_noaccount" = "Inget konto ?";
+    
+"topscan_login" = "Logga in";
+    
+"topscan_quicklogin" = "Snabb inloggning";
+    
+"topscan_paynow" = "Betala nu";
+    
+"topscan_send" = "Skicka";
+    
+"topscan_signinsuccess" = "Inloggning framgångsrikt!";
+    
+"topscan_resend" = "Skicka igen";
+    
+"topscan_sendcodesuccess" = "Skicka framgångsrikt";
+    
+"topscan_entervercode" = "Ange verifieringskod";
+    
+"topscan_addorginalfile" = "Lägg till originalfil säkerhetskopia";
+    
+"topscan_turnonpassword" = "Aktivera lösenord";
+"topscan_rotate" = "Rotera";
+"topscan_tipask" = "Fråga aldrig";
+     
+"topscan_croptipmsg" = "Åtgärden kan rensa bort alla OCR -resultat,anteckningar, vattenstämplar ,signaturer, graffiti ,text. Fortsätta?";
+     
+"topscan_scoretitle" = "Om du gillar Simple Scanner, skulle du vänligen betygsätta oss snällt i App Store för att stödja oss?";
+     
+"topscan_resetpsd" = "Vi behöver bara ditt registrerade e-post-id från instruktionerna vi skickade om återställning av lösenord.";
+     
+"topscan_compressionration" = "Komprimeringsförhållande";
+     
+"topscan_size" = "Storlek";
+     
+"topscan_compression" = "Komprimering";
+     
+"topscan_pdfpagenumber" = "Sidnummer";
+     
+"topscan_pdfpagedirection" = "Sidriktning";
+     
+"topscan_image" = "Bild";
+     
+"topscan_subscriptfailedtips" = "Prenumerationsverifiering misslyckades, gå till Hem->Inställningar->Återställ köp!";
+     
+"topscan_cropautomaticcameraaip" = "Automatisk beskärning";
+     
+"topscan_nextstep" = "Nästa steg";
+     
+"topscan_addsignature" = "Lägg till signatur";
+    
+"topscan_subsctiptplan" = "Din prenumerationsplan";
+     
+"topscan_renewedday" = "Förnyad dag";
+     
+"topscan_automaticrenewal" = "Automatisk förnyelse";
+     
+"topscan_moredetails" = "Fler detaljer";
+     
+"topscan_drivedownloadfiles" = "Molnimport";
+     
+"topscan_download" = "Ladda ner";
+     
+"topscan_downloadsuccessfilly" = "Ladda ner framgångsrikt";
+     
+"topscan_downloadfailed" = "Nedladdningen misslyckades";
+     
+"topscan_uselimitedversion" = "Använd begränsad version";
+     
+"topscan_termsofserice" = "Användarvillkor";
+     
+"topscan_unlimitedfeatures" = "Obegränsade funktioner";
+     
+"topscan_subscriptiongives" = "Denna prenumeration ger dig obegränsad tillgång till våra privilegier. Om du inte avbokar innan testperioden slutar debiteras du automatiskt, tills du avbryter.";
+     
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+       
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

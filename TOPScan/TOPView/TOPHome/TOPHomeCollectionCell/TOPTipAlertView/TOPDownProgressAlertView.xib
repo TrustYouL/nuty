@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TOPDownProgressAlertView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PL1-3x-jGe">
+                    <rect key="frame" x="20" y="234" width="280" height="100"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fIY-PF-7nX">
+                            <rect key="frame" x="0.0" y="0.0" width="280" height="100"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Downloading" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="147-yw-ImK">
+                                    <rect key="frame" x="98" y="15" width="84" height="17"/>
+                                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                    <color key="textColor" red="0.13333333333333333" green="0.13333333333333333" blue="0.13333333333333333" alpha="1" colorSpace="calibratedRGB"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="mhB-BS-hri">
+                                    <rect key="frame" x="25" y="59" width="230" height="2"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="2" id="1qd-1Z-BXx"/>
+                                    </constraints>
+                                </progressView>
+                            </subviews>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            <constraints>
+                                <constraint firstItem="147-yw-ImK" firstAttribute="centerX" secondItem="fIY-PF-7nX" secondAttribute="centerX" id="1Yh-vR-eIH"/>
+                                <constraint firstItem="mhB-BS-hri" firstAttribute="leading" secondItem="fIY-PF-7nX" secondAttribute="leading" constant="25" id="H0i-bf-S79"/>
+                                <constraint firstAttribute="trailing" secondItem="mhB-BS-hri" secondAttribute="trailing" constant="25" id="RgQ-8E-gxx"/>
+                                <constraint firstItem="147-yw-ImK" firstAttribute="top" secondItem="fIY-PF-7nX" secondAttribute="top" constant="15" id="YXq-2M-A5r"/>
+                                <constraint firstItem="mhB-BS-hri" firstAttribute="centerY" secondItem="fIY-PF-7nX" secondAttribute="centerY" constant="10" id="n9n-oi-Rf1"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="100" id="0lf-WC-q3k"/>
+                        <constraint firstItem="fIY-PF-7nX" firstAttribute="top" secondItem="PL1-3x-jGe" secondAttribute="top" id="DIz-mH-G47"/>
+                        <constraint firstAttribute="bottom" secondItem="fIY-PF-7nX" secondAttribute="bottom" id="Nhk-jz-nAJ"/>
+                        <constraint firstAttribute="trailing" secondItem="fIY-PF-7nX" secondAttribute="trailing" id="ndK-02-g9s"/>
+                        <constraint firstItem="fIY-PF-7nX" firstAttribute="leading" secondItem="PL1-3x-jGe" secondAttribute="leading" id="uKP-Y8-fdi"/>
+                    </constraints>
+                </view>
+                <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yF6-U1-tkl">
+                    <rect key="frame" x="145" y="364" width="30" height="30"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="RQa-AG-XQU"/>
+                        <constraint firstAttribute="width" constant="30" id="h0s-32-rMj"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <state key="normal" image="menu_close">
+                        <color key="titleColor" red="0.13333333333333333" green="0.13333333333333333" blue="0.13333333333333333" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <connections>
+                        <action selector="buttonClick:" destination="iN0-l3-epB" eventType="touchUpInside" id="gxw-il-1WW"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.59999999999999998" green="0.59999999999999998" blue="0.59999999999999998" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="PL1-3x-jGe" secondAttribute="trailing" constant="20" id="CC8-rl-r5e"/>
+                <constraint firstItem="yF6-U1-tkl" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="Eiv-eA-kT3"/>
+                <constraint firstItem="PL1-3x-jGe" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Xg5-JS-Nd9"/>
+                <constraint firstItem="yF6-U1-tkl" firstAttribute="top" secondItem="PL1-3x-jGe" secondAttribute="bottom" constant="30" id="cOx-M1-jDG"/>
+                <constraint firstItem="PL1-3x-jGe" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="jnw-zK-RXv"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="alertHeightConstraint" destination="0lf-WC-q3k" id="Czh-gy-fdE"/>
+                <outlet property="alertView" destination="PL1-3x-jGe" id="dQ4-6j-j4Z"/>
+                <outlet property="backgroundTableView" destination="fIY-PF-7nX" id="xSp-tE-ARv"/>
+                <outlet property="closeButton" destination="yF6-U1-tkl" id="amT-QM-cru"/>
+                <outlet property="downProgressView" destination="mhB-BS-hri" id="kUl-fj-aAt"/>
+                <outlet property="downTitleLabel" destination="147-yw-ImK" id="xWr-vq-pBc"/>
+            </connections>
+            <point key="canvasLocation" x="438.39999999999998" y="161.91904047976013"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="menu_close" width="30" height="30"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,1219 @@
+
+
+"topscan_collage" = "Derleme";
+   
+"topscan_doctag" = "Etiketi Ayarla";
+   
+"topscan_picquality" = "Görüntü kalitesi";
+   
+"topscan_addto" = "Ekle";
+   
+"topscan_share" = "Paylaş";
+   
+"topscan_email" = "E-posta";
+   
+"topscan_merge" = "Birleştir";
+   
+"topscan_copy" = "Kopyala/Taşı";
+   
+"topscan_sortby" = "Göre sırala";
+   
+"topscan_more" = "Dahası";
+   
+"topscan_savetogallery" = "Galeriye kaydet";
+   
+"topscan_upload" = "Yükle";
+   
+"topscan_uploadsucceeded" = "Yükleme Başarılı";
+   
+"topscan_uploadfailed" = "Yükleme Başarısız";
+   
+"topscan_delete" = "Sil";
+   
+"topscan_cancel" = "İptal et";
+   
+"topscan_ok" = "Tamam";
+   
+"topscan_about" = "hakkında";
+   
+"topscan_error" = "Hata!";
+   
+"topscan_skip" = "Atla";
+   
+"topscan_decryption" = "Şifre çözme";
+   
+"topscan_allselect" = "Hepsini seç";
+   
+"topscan_cancelallselect" = "Tüm seçimleri kaldır";
+   
+"topscan_items" = "Seçilen";
+   
+"topscan_printing" = "Yazdır";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Not";
+   
+"topscan_retake" = "Geri al";
+   
+"topscan_ocr" = "Metin tanıma";
+   
+"topscan_watermarktitle" = "Filigran";
+   
+"topscan_addwatermark" = "Filigran ekle";
+   
+"topscan_editwatermark" = "Filigranı düzenle";
+   
+"topscan_clearwatermark" = "İçeriği temizle";
+   
+"topscan_removewatermark" = "Fligranı kaldır";
+   
+"topscan_remind" = "Uyarı";
+   
+"topscan_loading" = "Yükleniyor...";
+   
+"topscan_deleteoption" = "Seçili tüm belgeleri silmek istediğinize emin misiniz?";
+   
+"topscan_deletecurrentpage" = "Bu sayfayı silmek istediğinize emin misiniz?";
+   
+"topscan_deletecurrentdoc" = "Geçerli dili silmek istediğinize emin misiniz?";
+   
+"topscan_bind" = "E-posta Hesabı Kurulumu";
+   
+"topscan_savefail" = "Veri hatası!";
+   
+"topscan_phonememoryalert" = "Telefon hafızası sorunları nedeniyle, 30\'dan fazla resimden oluşan kolajlar çökmeye neden olabilir. Devam etmek istiyor musun?";
+   
+"topscan_continueshare" = "Paylaşmaya devam et";
+   
+"topscan_savealert" = "Değişiklikleri kaydetmeden ayrılacağınızdan emin misiniz?";
+   
+"topscan_deletesignatureimagealert" = "İmza resmini silmek istediğinizden emin misiniz?";
+   
+"topscan_discard" = "Değişiklikleri gözardı et";
+ 
+ 
+"topscan_movesuccess" = "Belgeleri başarıyla taşıyın!";
+   
+"topscan_copysuccess" = "Belgeleri başarıyla kopyalayın!";
+   
+"topscan_mergesuccess" = "Belgeleri başarıyla birleştirin!";
+   
+"topscan_clearphotos" = "Yeni çekilen fotoğraf(lar) kaydedilmeyecek. Fotoğrafları silmek istediğinizden emin misiniz?";
+   
+"topscan_noalert" = "Bir daha hatırlatma";
+   
+"topscan_editpdf" = "PDF\'yi düzenle";
+   
+"topscan_addpage" = "Sayfa ekle";
+   
+"topscan_collageimage" = "Kolaj Resmi...";
+   
+"topscan_collageproof" = "Mülkiyet Kanıtı";
+   
+"topscan_collagedriverlicense" = "Ehliyet";
+   
+"topscan_collageidcard" = "Kimlik kartı";
+   
+ 
+ 
+"topscan_collagepassport" = "Pasaport";
+   
+"topscan_collageaccountbook" = "Hesap kitabı";
+   
+"topscan_idcardanti" = "Özgün";
+   
+"topscan_importpic" = "Galeri";
+   
+"topscan_userdefinedsize" = "Kendinden tanımlı Paylaşım Dosyası boyutu";
+   
+"topscan_filecompressiontitle" = " 1-99 arası bir Sıkıştırma oranı girin";
+   
+"topscan_manualsorting" = "Manuel Sıralama";
+   
+"topscan_firstontop" = "Azalarak";
+   
+"topscan_lastontop" = "Artarak";
+   
+"topscan_siderename" = "Yeniden adlandır";
+   
+"topscan_creatdatadescend" = "Tarih Oluşturma (artan)";
+   
+"topscan_creatdataascend" = "Tarih Oluşturma (azalan)";
+   
+"topscan_filenameatoz" = "Dosya Adı(A\'dan Z\'ye)";
+   
+"topscan_filenameztoa" = "Dosya Adı(Z\'den A\'ya)";
+   
+"topscan_girdview2" = "Kuşak görünümü";
+   
+"topscan_girdview3" = "(3 sütun)";
+   
+"topscan_girdviewlist" = "Liste görünümü";
+   
+"topscan_folderlocationtop" = "Üstteki klasör";
+   
+"topscan_folderlocationbottom" = "Alttaki klasör";
+   
+"topscan_fax" = "Faks";
+   
+"topscan_hidepagedetails" = "Sayfa Ayrıntılarını Gizle";
+   
+"topscan_displaypagedetails" = "Sayfa Detaylarını Göster";
+   
+"topscan_batchedit" = "toplu düzenleme";
+   
+"topscan_pdffile" = "PDF dosyası";
+   
+"topscan_image_jpg" = "Resim(JPG)";
+   
+"topscan_longimage_jpg" = "Uzun resim olarak paylaş";
+   
+"topscan_txt" = "txt paylaş";
+   
+"topscan_originalsize" = "Orijinal boyut";
+   
+"topscan_medium" = "Orta";
+   
+"topscan_small" = "Küçük";
+   
+"topscan_superhigh" = "Süper yüksek";
+   
+"topscan_shareapp" = "Bu uygulamayı paylaş";
+   
+"topscan_backup" = "Yedekle ve Geri Yükle";
+   
+"topscan_icouldbackup" = "Yedekle";
+   
+"topscan_importimage" = "Resmi içe aktar";
+   
+"topscan_mergepdf" = "PDF birleştirme";
+   
+"topscan_importfile" = "Önemli dosya";
+   
+"topscan_longpresstip" = "Anladım";
+   
+"topscan_search" = "Ara";
+   
+"topscan_homemoredocremind" = "Belge hatırlatıcısı";
+   
+"topscan_settingtemplate" = "Şablon";
+   
+"topscan_settingfamily" = "Aile";
+   
+"topscan_shareappcontent" = "Harika bir tarayıcı yazılımı buldum, indirme bağlantısı";
+   
+"topscan_mergefilemethodtitle" = "Bir Birleştirme Yöntemi Seçin";
+   
+"topscan_mergefilemethodkeepold" = "Eski Belgeyi Birleştir ve Tut";
+   
+"topscan_mergefilemethoddeleteold" = "Eski Belgeyi Birleştir ve Sil";
+   
+"topscan_cameradiscardtitle" = "Sayfaları sil";
+   
+"topscan_cameradiscardmssage" = "Tüm sayfaları silmek mi siiyorsunuz?";
+   
+"topscan_cameraaccidenttitle" = "Bilgi";
+   
+"topscan_cameraaccidentmssage" = "en son çektiğiniz bazı resimler işlenmedi, yüklemek ister misiniz?";
+   
+"topscan_cameralighton" = "AÇ";
+   
+"topscan_cameralightoff" = "KAPA";
+   
+"topscan_cameralightauto" = "Oto";
+   
+"topscan_cameralighttorch" = "Meşale";
+   
+"topscan_cameratypetotext" = "Metne";
+   
+"topscan_cameratypesingle" = "Tek";
+   
+"topscan_cameratypebatch" = "Toplu";
+   
+"topscan_cameratypeqrbarcode" = "QR ve Barkod";
+   
+"topscan_camerapermissiontitle" = "Lütfen kamera izinlerini açın";
+   
+"topscan_camerapermissionguide" = "Ayar-Gizlilik-Kamera";
+   
+"topscan_albumpermissiontitle" = "Lütfen albüm izinlerini açın";
+   
+"topscan_albumpermissionguide" = "Ayarlar-Gizlilik-Fotoğraflar-Tüm Fotoğraflar";
+   
+"topscan_safeentertips" = "Lütfen 4 haneli şifreyi giriniz!";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Oturumu kapatmak istediğinizden emin misiniz?";
+       
+"topscan_psderror" = "Yanlış şifre. Lütfen tekrar deneyin!";
+       
+"topscan_pdferror" = "Şifre eşleşmedi, tekrar deneyin!";
+       
+"topscan_touchidnotenrolled" = "Cihaz, dokunmatik kimliği etkinleştirmek için algılanmadı, dokunmatik kimlik işlevini etkinleştirmek için lütfen telefon ayarları merkezine gidin.";
+       
+"topscan_faceidnotenrolled" = "Cihaz yüz kimliğini etkinleştirmek için algılanmadı, yüz kimliği işlevini etkinleştirmek için lütfen telefon ayarları merkezine gidin.";
+       
+"topscan_opensysset" = "Merkezi ayarlama yetkisi";
+       
+"topscan_againvafaceid" = "Face ID\'yi doğrulamak için tıklayın";
+       
+"topscan_againvatouchid" = "Touch ID\'yi doğrulamak için tıklayın";
+       
+"topscan_pdfpagenumberno" = "Sayfa numarası yok";
+       
+"topscan_pdfpagenumberlowerl" = "sol alt";
+       
+"topscan_pdfpagenumberbottomc" = "alt merkez";
+       
+"topscan_pdfpagenumberlowerr" = "sağ alt";
+       
+"topscan_pdfpagenumberupperl" = "sol üst";
+       
+"topscan_pdfpagenumberheadc" = "kafa merkezi";
+       
+"topscan_pdfpagenumberupperr" = "sağ üst";
+       
+"topscan_colletionfunctiontitle" = "Belge Seç";
+       
+"topscan_pdfdirectionauto" = "Görüntü boyutuna göre otomatik ayarlama";
+       
+"topscan_pdfdirectionlandscape" = "Manzara";
+       
+"topscan_pdfaddsignature" = "Vesika";
+       
+"topscan_changepdfsizealert" = "Mevcut değişiklikler PDF imzasını sıfırlayacaktır. Devam etmek istiyor musun?";
+       
+"topscan_emptypdfnamealert" = "PDF adı boş olamaz!";
+       
+"topscan_createdsuccessfully" = "Başarıyla oluşturuldu";
+       
+"topscan_hasfolder" = "Belge/klasör zaten var. Lütfen farklı bir ad seçin.";
+       
+"topscan_creationfailed" = "Oluşturulamadı";
+       
+"topscan_duplicationname" = "Bu isim kullanılıyor. Lütfen başka bir ad verin.";
+       
+"topscan_folderexists" = "Klasör zaten var.";
+       
+"topscan_emailinvalidtips" = "Lütfen doğru e-posta adresini girin";
+       
+"topscan_defaultprocess" = "Varsayılan İşlem";
+       
+"topscan_original" = "Orijinal";
+       
+"topscan_blackwhite" = "Siyah-Beyaz";
+       
+"topscan_blackwhite2" = "Siyah-Beyaz";
+       
+"topscan_blackwhite3" = "Siyah-Beyaz";
+       
+"topscan_nostalgic" = "Nostaljik";
+       
+"topscan_magiccolor" = "Sihirli Renk";
+       
+"topscan_magiccolor2" = "Sihirli Renk2";
+       
+"topscan_grayscale" = "Gri tonlama";
+       
+"topscan_lastfilter" = "Son filtre";
+       
+"topscan_clear" = "Temizle";
+       
+"topscan_clearmarks" = "İşaretleri temizle";
+       
+"topscan_markstip" = "Devam ederseniz işaretler(imza, grafiti vb.) silinecektir. İşaretleri temizleyeceğinizden emin misiniz?";
+       
+"topscan_setting" = "Ayarlara";
+       
+"topscan_deletedrive" = "Geçerli yedekleme dosyasını silmek istediğinize emin misiniz?";
+       
+"topscan_thereisnotstoragespaceon" = "Telefonunuzda yeterli depolama alanı yok. Lütfen tekrar deneyin!";
+       
+"topscan_dropboxsussess" = "Yedekleme Dropbox\'a transfer edildi.";
+       
+"topscan_boxsussess" = "Yedekleme Box\'a transfer edildi.";
+       
+"topscan_googledrivesussess" = "Yedekleme Google Drive\'a aktarıldı.";
+       
+"topscan_onedrivesussess" = "Yedekleme Onedrive\'a aktarıldı.";
+       
+"topscan_startbackupinbackground" = "Arka planda yedekleme dosyalarını yüklemeye başlayın";
+       
+"topscan_backupinbackgroundaleat" = "Yedekleme dosyasının yüklenmesi arka planda yapılacaktır, uygulamayı kapatmak yedeklemenin başarısız olmasına neden olabilir.";
+       
+"topscan_myselfemailshow" = "Kendime E-postala";
+       
+"topscan_toemailtitle" = "Kime";
+       
+"topscan_subjectplaceholder" = "Konu";
+       
+"topscan_bodyplaceholder" = "Gövde";
+       
+"topscan_emailsettingguide" = "E-postayı, Ayarlar -> Genel -> E-posta sekmesinden değiştirebilirsiniz.";
+       
+"topscan_picturequalityheight" = "Yükseklik";
+       
+"topscan_picturequalitylow" = "Düşük";
+       
+"topscan_defaultpagesize" = "Varsayılan Sayfa Boyutu";
+       
+"topscan_privacypolicy" = "Gizlilik Politikası";
+       
+"topscan_faq" = "SSS";
+       
+"topscan_sendfeedback" = "Geribildirim gönder";
+       
+"topscan_version" = "Versiyon";
+       
+"topscan_rateapp" = "Basit Tarayıcıyı Değerlendir";
+       
+"topscan_settinggeneral" = "GENEL";
+       
+"topscan_settingdocmanagement" = "Doküman Yönetimi";
+       
+"topscan_settingourapp" = "Uygulamamız";
+       
+"topscan_settingfaxname" = "Basit Faks";
+       
+"topscan_settingfaxreceivename" = "Faks Alma";
+       
+"topscan_settinguseragreement" = "Kullanıcı Sözleşmesi";
+       
+"topscan_settingusersuggestion" = "Öneri ve Geribildirim";
+       
+"topscan_settingdocname" = "Belge Adı";
+       
+"topscan_settingdoctime" = "Belge Süresi";
+       
+"topscan_changepagesize" = "Sayfa Boyutunu Değiştir";
+       
+"topscan_documentname" = "Kendinden tanımlı Belge Adı";
+       
+"topscan_documentdate" = "Kendinden Tanımlı Belge Süresi";
+       
+"topscan_autosavetogallery" = "Albüme Otomatik Kaydet";
+       
+"topscan_saveoriginalimage" = "Orijinal görüntüyü kaydet";
+       
+"topscan_saveoriginalimagetip" = "Bu özellik temel olarak depolama alanını artıran kırpma işlevini sıfırlar.";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Taramaları otomatik olarak Galeri\'ye kaydedin";
+   
+"topscan_textblankprompt" = "Resmi tanıyın ve metne dönüştürün";
+   
+"topscan_noteplaceholder" = "Not eklemeye başla!";
+   
+"topscan_ocrtexttdit" = "Düzenle";
+   
+"topscan_ocrtextcopy" = "Kopyala";
+   
+"topscan_ocrtextexport" = "Dışa Aktar";
+   
+"topscan_ocrtexttranslation" = "Tercüme";
+   
+"topscan_ocrdefaultlanguage" = "İngilizce";
+   
+"topscan_ocrautomatic" = "Otomatik";
+   
+"topscan_ocrtextagain" = "Tekrar OCR";
+   
+"topscan_ocrtypecloud" = "Bulut OCR\'si";
+   
+"topscan_ocrtypelocal" = "Yerel hızlı tanıma";
+   
+"topscan_ocrtypelocaltip" = "Yalnızca Latince karakterleri destekler";
+   
+"topscan_ocrdownfail" = "indirme başarısız";
+   
+"topscan_ocrrecentanguages" = "Son diller";
+   
+"topscan_ocralllanguages" = "Bütün diller";
+   
+"topscan_ocrexportcopy" = "Panoya kopyala";
+   
+"topscan_ocrchooseendpoint" = "En yakın uç noktayı seçin";
+   
+"topscan_ocrgoogleendpointprompt" = "En iyi global düğümü otomatik olarak seçin, seçmeye gerek yok!";
+   
+"topscan_ocrthirdocrfailprompt" = "İşlem hatası veya metin yok, lütfen tekrar deneyin!";
+   
+"topscan_networkstate" = "WLAN Kapalı";
+   
+"topscan_networkstatecontent" = "Ayarlar\'da \'simpleScan\' uygulaması için WLAN\'ı açabilirsiniz";
+   
+"topscan_ocragainallpage" = "Tüm sayfalar";
+   
+"topscan_ocragaincurrentpage" = "Geçerli sayfa";
+   
+"topscan_ocrtextagainvctip" = "Geri\'ye dokunursanız düzeltme okuması sırasında yapılan düzenlemeler kaybolur";
+   
+"topscan_ocrocrvctip" = "Geçerli metin tanımadan çıkmak istediğinizden emin misiniz?";
+   
+"topscan_ocrocrgooglepoint" = "Küresel";
+   
+"topscan_ocrocragaintitle" = "Düzenlemek için metne dokunun";
+   
+"topscan_ocrocrlanguagetitle" = "Dil";
+   
+"topscan_ocrocragainendpoint" = "Uç nokta";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Geçerli sayfayı tanı";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Tüm sayfaları tanı";
+ 
+"topscan_translatesourcelanguage" = "Kaynak dil";
+ 
+"topscan_translatetargetlanguage" = "Hedef dil";
+ 
+"topscan_deletelanguagepack" = "Dil modelini sil";
+ 
+"topscan_stoploadlanguagepack" = "Dil modelini indirmeyi durdur";
+ 
+"topscan_scorecancel" = "Şimdi değil";
+ 
+"topscan_scorefivestar" = "5 yıldız";
+ 
+"topscan_tagsungrouped" = "Gruplandırılmamış";
+ 
+"topscan_tagsalldocs" = "Tüm dokümanlar";
+ 
+"topscan_tagssearchplaceholder" = "Giriş etiketi";
+ 
+"topscan_tagsalltagstitle" = "Tüm Etiketler";
+ 
+"topscan_tagsalreadyexists" = "Bu etiket zaten var!";
+ 
+"topscan_tagstagdelete" = "Silinen etiketler kurtarılamaz. Silmek için onaylansın mı?";
+ 
+"topscan_tagsdone" = "Bitti";
+ 
+"topscan_tagssettag" = "Etiketleri Ayarla";
+ 
+"topscan_tagstagmanager" = "Etiket";
+ 
+"topscan_tagsentermanager" = "Etiketler";
+ 
+"topscan_tagstagnotecontent" = "Düzenlemeleri kaydetmek ister misiniz?";
+ 
+"topscan_tagstagmanageradd" = "Yeni Etiket Ekle";
+ 
+"topscan_tagstagmanageraddplac" = "Lütfen Etiket Adını Girin";
+ 
+"topscan_tagscreatelabs" = "Etiketler oluşturmak için ~";
+   
+"topscan_drivestartupdate" = "Yedekleme dosyası yüklenmeye başlıyor...";
+     
+"topscan_driveuploading" = "yükleniyor...";
+     
+"topscan_buildingpdf" = "PDF oluşturma";
+     
+"topscan_processingjpg" = "JPG işleniyor";
+     
+"topscan_processing" = "İşleniyor...";
+     
+"topscan_processingdoc" = "Belge İşleniyor";
+     
+"topscan_processingzip" = "ZIP işleniyor";
+     
+"topscan_sortprocessing" = "Sıralama işleme";
+     
+"topscan_removeing" = "Kaldırma";
+     
+"topscan_copyprocessing" = "Kopyalama";
+     
+"topscan_moveprocessing" = "Hareketli";
+     
+"topscan_mergeing" = "birleştirme";
+     
+"topscan_initdata" = "Veri başlatılıyor";
+     
+"topscan_docpasswordicon" = "Kilit";
+     
+"topscan_docpasswordunlockicon" = "Kilidini aç";
+     
+"topscan_pdfpassword" = "PDF aktarma şifresi";
+     
+"topscan_pdfpasswordclear" = "PDF şifresini temizle";
+     
+"topscan_touchtitle" = "Lütfen Dokunmatik Kimliği doğrulayın";
+     
+"topscan_clearapppsd" = "Uygulama parolası seçeneklerini temizlemek istiyor musunuz?";
+     
+"topscan_cleardocpsd" = "Belge Erişimi parola seçeneklerini temizlemek istiyor musunuz?";
+     
+"topscan_passwordhelptip" = "Yardıma mı ihtiyacınız var?";
+     
+"topscan_passwordhelpsubject" = "Belge şifresi Geribildirim";
+     
+"topscan_passwordapphelpsubject" = "Uygulama şifresi Geribildirim";
+     
+"topscan_enterpwd" = "Lütfen şifre giriniz";
+     
+"topscan_appsecurity" = "Uygulama güvenliği";
+     
+"topscan_apppwd" = "Uygulama şifresi";
+     
+"topscan_setpasswordlaceholder" = "Şifrenizi giriniz Lütfen";
+     
+"topscan_resetpasswordlaceholder" = "Lütfen şifrenizi tekrar girin";
+     
+"topscan_setpasswordtitle" = "Şifreyi belirle";
+     
+"topscan_setpdfpasswordtitle" = "PDF Şifre";
+     
+"topscan_resetpasswordtitle" = "Şifre girin";
+     
+"topscan_writepasswordfail" = "Şifreler uyuşmuyor, lütfen tekrar deneyin!";
+     
+"topscan_writetwopasswordfail" = " İki şifre girişi eşleşmiyor, lütfen tekrar deneyin!";
+     
+"topscan_backupbottomtitle" = "Daha önceki bir yedekten geri yükleyin veya taramaları başka bir cihazdan aktarın";
+     
+"topscan_docaccesspassword" = "Doküman Erişim Şifresi";
+     
+"topscan_turnoffpassword" = "Şifreyi kapat";
+     
+"topscan_changepassword" = "Şifre değiştir";
+     
+"topscan_storagespacenotenough" = "Telefonda yeterli depolama alanı yok";
+     
+"topscan_storagespacetitle" = "Telefonun depolama alanı 200M\'den az, dosyaların yazılamamasını önlemek için lütfen biraz boşluk bırakın";
+     
+"topscan_appheadingtitle" = "Belge güvenliğini korumak için uygulama parolası belirleyin";
+     
+"topscan_docheadingtitle" = "Parola korumalı belgeleri görüntülemek için parola belirleyin";
+     
+"topscan_pdfheadingtitle" = "Dosya gizliliğini korumak için PDF dosyalarını paylaşmak ve dışa aktarmak için şifre belirleyin";
+     
+"topscan_batchall" = "Tam";
+     
+"topscan_batchauto" = "Oto";
+     
+"topscan_batchfit" = "Uygun";
+     
+"topscan_left" = "Kalan";
+     
+"topscan_right" = "Sağ";
+     
+"topscan_crop" = "Kırp";
+     
+"topscan_filter" = "Filtre";
+     
+"topscan_prompt" = "Komut";
+     
+"topscan_promptcontent" = "Değişiklikler henüz kaydedilmedi. Şimdi kaydet?";
+     
+"topscan_no" = "Hayır";
+     
+"topscan_yes" = "Evet";
+     
+"topscan_batchsave" = "Kaydet";
+     
+"topscan_scansignature" = "İmzanızı tarayın";
+     
+"topscan_importsignature" = "Albümden içe aktar";
+     
+"topscan_waittip" = "Dosya işleniyor, lütfen bekleyin...";
+     
+"topscan_nooriginalimgdefault" = "Bazı dosyalar sıfırlanamaz ve kırpılamaz ve orijinal dosya bulunamaz";
+     
+"topscan_nooriginalimgfilter" = "Orijinal dosya bulunamadığından bazı dosyalar yeniden filtrelenemez.";
+     
+"topscan_nooriginalimgmore" = "ve dahası";
+     
+"topscan_nooriginalimgsetting" = "orijinal resim seçeneğini kaydetmek için ayarlar seçeneğini açabilirsiniz";
+     
+"topscan_alldatanooriginalimg" = "Kırpma sıfırlanamıyor, orijinal dosya mevcut değil!";
+     
+"topscan_alldatanooriginalimgfilter" = "Filtre işleme sıfırlanamıyor, orijinal dosya mevcut değil!";
+     
+"topscan_cropautomatic" = "Resmi Otomatik Kırp";
+     
+"topscan_cropautomatictip" = "Toplu Tarama modunda görüntüleri otomatik kırp";
+     
+"topscan_cropautomaticcameraaip" = "Otomatik ürün";
+     
+"topscan_camerafilterremind" = "Toplu mod varsayılan filtresini değiştirebilirsiniz";
+     
+"topscan_cameracropremindfirst" = "Olup olmadığını değiştirebilirsiniz";
+     
+"topscan_cameracropremindsecond" = "toplu mod kırpılır";
+     
+"topscan_flitertypeapplylocation" = "Tüm sayfalara uygula";
+     
+"topscan_colletionpdftolongpictitle" = "Uzun Resme PDF Dışa Aktarma";
+     
+"topscan_colletionpdftopictitle" = "PDF\'den Görüntüye";
+     
+"topscan_colletionpdfpasswordtitle" = "PDF Şifre";
+     
+"topscan_colletionpdfextracttitle" = "PDF Özü";
+     
+"topscan_colletiondocpasswordtitle" = "Belge Şifresi";
+     
+"topscan_colletionscanidcardtitle" = "Kimlik Kartını Tara";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF Filigran Ekle";
+     
+"topscan_colletionpdfsignaturetitle" = "PDF İmzası";
+     
+"topscan_colletionpdfpageadjustment" = "PDF Sayfa Ayarı";
+     
+"topscan_colletionimagetopdf" = "Resimden PDF\'ye";
+     
+"topscan_colletionbottomtitle" = "Sayfayı Çıkar";
+     
+"topscan_colletionmydevice" = "Cihazım";
+     
+"topscan_colletionpdfextractbottomtitle" = "Yeni belge oluştur ayıkla";
+     
+"topscan_docreminedtitle" = "Bildirim İzinlerini Etkinleştir";
+     
+"topscan_docreminedcontent" = "Bildirim izinlerini etkinleştirmediğiniz için Belge Uyarılarını etkinleştirilene kadar kullanamazsınız.";
+     
+"topscan_docreminetime" = "Belge hatırlatma süresinin mevcut sistem zamanından daha büyük olması gerekiyor!";
+     
+"topscan_questiontype" = "Lütfen bir tür seçin";
+     
+"topscan_questiondescrible" = "Lütfen sorunuzu veya önerinizi girin";
+     
+"topscan_suggestionremind" = "iPhone 8 ve önceki sürümlerde ekran görüntüsü almak için Uyut/Uyandır düğmesine ve Ana Sayfa düğmesine aynı anda basın";
+     
+"topscan_suggestionremindx" = "iPhone X ve sonraki modellerde ekran görüntüsü almak için Sesi Aç ve Kilitle düğmesine aynı anda basın.";
+     
+"topscan_questiontypecrash" = "Kilitlenme/gecikme";
+   
+"topscan_questiontypetaking" = "Fotoğraf çekme/albümden içe aktarma";
+   
+"topscan_questiontypephoto" = "Fotoğraf düzenleme";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Faks";
+   
+"topscan_questiontypepoint" = "C noktaları";
+   
+"topscan_questiontypeshare" = "Paylaş/E-posta/Yazdır";
+   
+"topscan_questiontypeinterface" = "Arayüz";
+   
+"topscan_questiontypefeatures" = "Daha fazla özellik";
+   
+"topscan_questiontypeother" = "Diğer sorular";
+   
+"topscan_questiontypetoast" = "Kullanım sorunları var mı? Veya uygulama işlevi önerileri ve gereksinimleri hakkında bize geri bildirimde bulunabilirsiniz ve görüşlerinizi dinlemekten memnuniyet duyarız.";
+   
+"topscan_questionsetting" = "Ayarlar";
+   
+"topscan_questioncontinue" = "Devam et";
+   
+"topscan_questioninvalidemail" = "Geçersiz e-posta adresi";
+   
+"topscan_questiontoasttitle" = "Ekran görüntüleri ekleyin (isteğe bağlı)";
+   
+"topscan_submittedsuccessfully" = "Başarıyla gönderildi !";
+   
+"topscan_suggestioncontenttitle" = "Detay";
+   
+"topscan_suggestionsubmit" = "Gönder";
+   
+"topscan_remindtitle" = "Başlık";
+   
+"topscan_remindreturn" = "Dönüş";
+   
+"topscan_guidetitleprofessional" = "Profesyonel";
+   
+"topscan_guidetitlecollage" = "Kimlik kolaj modu";
+   
+"topscan_guidetitlebackup" = "Yedekleme ve geri yükleme";
+   
+"topscan_guideprofessionaldes" = "Belgeleri otomatik olarak algılayın, hızlı kırpma işlemi yapın, belgeleri keskinleştirin ve geliştirin.";
+   
+"topscan_guidecollagedes" = "Kimlik kartı görüntülerini bir belgeye kolajlayın, birden çok şablon seçeneği ve özel boyut sağlayın.";
+   
+"topscan_guideimagedes" = "Bulut AI teknolojisi aracılığıyla metni otomatik olarak tanıyın, metninizi düzenleyin, kopyalayın, paylaşın, dışa aktarın.";
+   
+"topscan_guidebackupdes" = "Belgelerinizi bulut depolamaya veya yerel depolamaya yedekleyin ve yedeklenen belgeleri istediğiniz zaman geri yükleyin.";
+   
+"topscan_showstatustitle" = "Veri yükleniyor";
+   
+"topscan_placeholderpassword" = "parola";
+   
+"topscan_manualsorttitle" = "Elle Sıralamak İçin Uzun Basın";
+   
+"topscan_docgraffiti" = "Duvar yazısı";
+   
+"topscan_docaddtext" = "Yazı ekle";
+   
+"topscan_copypage" = "Geçerli sayfayı kopyala";
+   
+"topscan_copyallpages" = "Tüm sayfaları kopyala";
+   
+"topscan_showprocess" = "İşleniyor...";
+   
+"topscan_importimgerror" = "Dosya mevcut değil veya veri hatası!";
+   
+"topscan_somefileloss" = "Bazı dosya okuma hatası!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "Olması gereken bir özellik! Bir kimlik kartının 2 taraflı e-kopyasını 1 dakika içinde yapabilirsiniz. 100% rbaskıya hazır.";
+    
+"topscan_paperexample" = "A4 kağıt örneği";
+    
+"topscan_restorebackup" = "Şimdi yedekle";
+    
+"topscan_restorelastbackup" = "Son yedekleme tarihi";
+    
+"topscan_restoremerge" = "Mevcut tüm belgeleri geri yükleyin ve birleştirin";
+    
+"topscan_restoredelete" = "Mevcut tüm belgeleri geri yükleyin ve silin";
+    
+"topscan_restoretitle" = "Onar";
+    
+"topscan_restorenotlogin" = "Herhangi bir bulut hesabı tespit edilmedi.";
+    
+"topscan_restorenotrepeat" = "Yedek dosya yükleniyor, lütfen bekleyin...";
+    
+"topscan_restorebackwifi" = "Yalnızca Wi-Fi’de yedekle";
+    
+"topscan_restorenodocument" = "Şu anda mevcut bir belge yok, lütfen önce bir belge ekleyin.";
+    
+"topscan_restorequery" = "sorgulama...";
+    
+"topscan_restorequeryfailed" = "Sorgulama başarısız oldu veya yedekleme dosyası bulunamadı.";
+    
+"topscan_restoreprocessfiles" = "Dosyalar işleniyor";
+    
+"topscan_restorebackupfailed" = "Yedekleme başarısız oldu!";
+    
+"topscan_restoreuploadingfile" = "Dosya yükleniyor, lütfen bekleyiniz...";
+    
+"topscan_saferepasscode" = "Parolayı Tekrar Girin";
+    
+"topscan_saferepassword" = "Lütfen şifreyi tekrar girin";
+    
+"topscan_applicationsecrulty" = "Uygulama gizliliği";
+    
+"topscan_verifypasscode" = "Şifreyi Doğrula";
+    
+"topscan_setpasscode" = "Parola Ayarla";
+    
+"topscan_enternewpassword" = "Yeni Şifreyi Girin";
+    
+"topscan_filetype" = "Dosya tipi";
+    
+"topscan_fileformat" = "Dosya formatı";
+    
+"topscan_sharepdfformat" = "Dosyaları .PDF formatında paylaşın";
+    
+"topscan_sharezipformat" = "Dosyaları .ZIP biçiminde paylaşın";
+    
+"topscan_sharejpgformat" = "Dosyaları .JPG formatında paylaşın";
+    
+"topscan_newfolderprompt" = "Yeni dosya";
+    
+"topscan_currentdocument" = "Geçerli belge";
+    
+"topscan_recognizetitle" = "Tanı";
+    
+"topscan_filedeleteprompt" = "Yedekleme dosyası başarıyla silindi!";
+    
+"topscan_filedownbackup" = "Yedek dosyayı indir";
+    
+"topscan_filestartbackup" = "Yedekleme dosyası indirilmeye başlar";
+    
+"topscan_filerestoresuccessed" = "Yedekleme dosyası geri yükleme işlemi başarılı oldu.";
+    
+"topscan_uploadsingin" = "Oturum aç";
+    
+"topscan_singoutlowercase" = "Oturumu Kapat";
+    
+"topscan_processingerror" = "Dosya işleme hatası!";
+    
+"topscan_barcodeopenurl" = "Link aç";
+    
+"topscan_barcoderesult" = "Tanıma Sonucu";
+    
+"topscan_downloadlanguage" = "Dil indiriliyor...";
+    
+"topscan_graffitibrush" = "Fırça";
+    
+"topscan_graffitiopacity" = "Opaklık";
+    
+"topscan_graffitieraser" = "Silgi";
+    
+"topscan_graffiticolor" = "Renk";
+    
+"topscan_graffitiundo" = "Geri alma";
+    
+"topscan_graffitiredo" = "Yeniden yap";
+    
+"topscan_nosignture" = "İmza Yok!";
+    
+"topscan_graffititext" = "Metin";
+        
+"topscan_graffitireplacefile" = "Geçerli dosyayı değiştir";
+        
+"topscan_graffiticreatefile" = "Yeni dosya oluştur";
+        
+"topscan_graffiticopyto" = "Klasöre Kopyala";
+        
+"topscan_graffitimoveto" = "Taşı";
+        
+"topscan_graffititextrecognition" = "Tanıma metni";
+        
+"topscan_ocraccount" = "OCR hesap yönetimi";
+        
+"topscan_loginsuccessful" = "giriş başarılı !";
+        
+"topscan_appleloginsuccessful" = "Apple hesabı girişi başarılı!";
+        
+"topscan_googleloginsuccessful" = "Google hesabı girişi başarılı!";
+        
+"topscan_loginregister" = "Giriş yap veya kaydol";
+        
+"topscan_resetpassword" = "Şifreyi yenile";
+        
+"topscan_copysuccessful" = "Başarıyla Kopyala";
+        
+"topscan_copyfailed" = "Kopyalama Başarısız";
+        
+"topscan_loginicloudtips" = "Bakiyenizin kaybolmasını önlemek için, bakiyenizi bağlamak için hesabı kullanıyoruz. Aynı zamanda, birden fazla cihaz arasındaki dengeyi de kullanabilirsiniz. Lütfen giriş yapın veya hesabınızı kaydedin.";
+        
+"topscan_loginnow" = "Şimdi giriş yap";
+        
+"topscan_emailemptytips" = "E-posta boş bırakılamaz";
+        
+"topscan_psdemptytips" = "Şifre Boş olamaz";
+    
+"topscan_codeemptytips" = "Doğrulama Kodu boş bırakılamaz";
+    
+"topscan_tips" = "İpuçları";
+    
+"topscan_subscriptsuccessfully" = "Premium\'a abone olduğunuz için teşekkür ederiz! ";
+    
+"topscan_autorenewable" = "Otomatik yenilenebilir, istediğiniz zaman iptal edin.";
+    
+"topscan_nofreetrial" = "Ücretsiz Deneme YOK";
+    
+"topscan_details" = "Ayrıntılar";
+    
+"topscan_restorepurchase" = "Satın Alınan Öğeleri Geri Yükle";
+    
+"topscan_freetrial" = "Ücretsiz deneme";
+    
+"topscan_unlimitedfolders" = "Sınırsız Klasör";
+    
+"topscan_unlimitedfoldersintroduce" = "Sınırsız klasör ve alt klasör oluşturma.";
+    
+"topscan_noads" = "Reklamsız";
+    
+"topscan_noadsintroduce" = "Reklamları Basit Tarayıcıdan kaldırın.";
+    
+"topscan_pdffileencryption" = "PDF dosya şifreleme";
+    
+"topscan_pdffileencryptionintroduce" = "Gizliliğinizi korumak için taramalarınız (makbuzlar veya gizli dosyalar) için şifre belirleyebilirsiniz.";
+    
+"topscan_ocrtypecloudintroduce" = "Metni tanımak ve çıkarmak için bulut AI teknolojisini kullanın, ayda 1000\'den fazla sayfa kullanılabilir.";
+    
+"topscan_cloudservice" = "Bulut hizmeti";
+    
+"topscan_cloudserviceintroduce" = "Belge kaybını önlemek için belgelerinizi, PDF, jpg, dosya türlerini otomatik olarak Cloud Drive veya iCloud\'a yükleyin.";
+    
+"topscan_functionofcollage" = "Kolajın işlevi";
+    
+"topscan_functionofcollageintroduce" = "Birden çok sayfayı tek bir sayfada birleştirmek için kolaj işlevini kullanın.";
+    
+"topscan_unlimitedscans" = "Sınırsız Tarama";
+    
+"topscan_unlimitedscansintroduce" = "Taranan belge sayısında sınır yoktur.";
+    
+"topscan_clearwaternark" = "Filigranı temizle";
+    
+"topscan_clearwaternarkintroduce" = "PDF filigranını kaldırın ve PDF\'yi temiz ve düzenli tutun.";
+    
+"topscan_writesignature" = "İmza";
+    
+"topscan_writesignatureintroduce" = "Orijinaliyle tamamen aynı görünen bir e-imza üretmek için kağıt üzerinde yazılı imzanızı tarayın.";
+    
+"topscan_highqualitydoc" = "Yüksek Kaliteli Belge";
+    
+"topscan_highqualitydocintroduce" = "Çoklu görüntü kalitesi seçim seçenekleri, daha yüksek kalite seçenekleri seçin, belge PDF\'sini daha net hale getirin.";
+    
+"topscan_emailmyself" = "Kendime E-posta Gönder";
+    
+"topscan_emailmyselfintroduce" = "Belgeleri e-posta yoluyla kendinize daha hızlı ve daha rahat gönderin.";
+    
+"topscan_exportpdfdoc" = "PDF Belgesini Dışa Aktar";
+    
+"topscan_exportpdfdocintroduce" = "PDF\'yi diğer uygulamalara hızla dışa aktarın veya yerel olarak telefonunuzda saklayın.";
+    
+"topscan_backupintroduce" = "Belgeleri senkronize tutmak için çok cihazlı yedekleme ve geri yükleme.";
+    
+"topscan_graffiti" = "Duvar yazısı";
+    
+"topscan_graffitiintroduce" = "Belgeleri, grafitileri değiştirin, metin, imza vb. ekleyin.";
+    
+"topscan_applock" = "Uygulama kilidi";
+    
+"topscan_applockintroduce" = "SimpleScanner\'ın kilidini tek adımda açmak için Face ID veya Touch ID\'yi etkinleştirin.";
+    
+"topscan_imagetotext" = "Metne Resim";
+    
+"topscan_imagetotextintroduce" = "Daha sonra aramak veya paylaşmak üzere görüntüdeki metinleri tanımak için OCR özelliğini kullanın.";
+    
+"topscan_propdfeditor" = "PDF düzenleyici";
+    
+"topscan_propdfeditorintroduce" = "PDF sayfalarını düzenleyin, imza ve grafiti ekleyin, PDF şifreleri ekleyin, filigranları kaldırın, vb.";
+    
+"topscan_gotosetting" = "Ayara Git";
+    
+"topscan_ocrnummorethan" = "Bulut OCR, mevcut hesaplama döngüsünde ayda 1000 sayfayı belirlemek için kullanılmıştır. Tanımlamaya devam ederseniz, OCR sayfaları satın almanız veya OCR 1000 sayfasının otomatik olarak eklenmesi için lütfen bir sonraki hesaplama döngüsünü beklemeniz gerekir.";
+    
+"topscan_upgradeaccount" = "20\'den fazla gelişmiş özellik";
+    
+"topscan_upgradepremium" = "Premiuma yükselt";
+    
+"topscan_premium" = "Ödül";
+    
+"topscan_nopurrestore" = "Geri yükleme için satın alma yok!";
+    
+"topscan_restorefailed" = "Satın alma işlemi geri yüklenemedi.";
+    
+"topscan_restoresuccessfully" = "Satın alma işlemini başarıyla geri yükleyin.";
+    
+  
+  
+  
+  
+  
+  
+  
+"topscan_bindcontent" = "E-posta hesabınızı oluşturmadınız, lütfen telefonunuzdaki “Ayar-E-posta”ya gidin, “Hesap Ekle”ye dokunarak e-posta hesabınızı oluşturun";
+    
+"topscan_cameratypeidcardintroduce" = "Kartın orijinal boyutunu koruyarak bir kimlik kartının her iki tarafını 1 dakikada tek bir sayfaya tarayın ve kopyalayın. 100% pbaskıya hazır. ";
+    
+  
+"topscan_paymenttext1" = "Ödeme, satın alma onayı ile iTunes Hesabından tahsil edilecektir.";
+    
+
+    
+  
+"topscan_forgotpsd" = "Parolanızı mı unuttunuz?";
+    
+"topscan_signup" = "Kaydol";
+    
+"topscan_noaccount" = "Hesap yok ?";
+    
+"topscan_login" = "Oturum aç";
+    
+"topscan_quicklogin" = "Hızlı giriş";
+    
+"topscan_paynow" = "Şimdi öde";
+    
+"topscan_send" = "Gönder";
+    
+"topscan_signinsuccess" = "Giriş başarılı!";
+    
+"topscan_resend" = "Yeniden gönder";
+    
+"topscan_sendcodesuccess" = "Başarıyla gönder";
+    
+"topscan_entervercode" = "Dogrulama kodunu giriniz";
+    
+"topscan_addorginalfile" = "Orijinal dosya yedeğini ekle";
+    
+"topscan_turnonpassword" = "Şifreyi aç";
+"topscan_rotate" = "Döndür";
+"topscan_tipask" = "Asla sorma";
+    
+"topscan_croptipmsg" = "Eylem, tüm OCR sonuçlarını, notu, filigranı, imzaları, grafitiyi, Metni temizleyebilir. Devam etmek?";
+    
+"topscan_scoretitle" = "Simple Scanner\'ı beğendiyseniz, bizi desteklemek için lütfen App Store\'da bizi değerlendirir misiniz?";
+    
+"topscan_resetpsd" = "Sadece kayıtlı E-posta Kimliğinizin size şifre sıfırlama talimatları göndermesine ihtiyacımız var.";
+    
+"topscan_compressionration" = "Sıkıştırma oranı";
+    
+"topscan_size" = "Boyut";
+    
+"topscan_compression" = "Sıkıştırma";
+    
+"topscan_pdfpagenumber" = "Sayfa numarası";
+    
+"topscan_pdfpagedirection" = "Sayfa yönü";
+    
+"topscan_image" = "GÖRÜNTÜ";
+    
+"topscan_subscriptfailedtips" = "Abonelik doğrulaması başarısız oldu, lütfen Ana Sayfa->Ayarlar->Satın Alma İşlemini Geri Yükle\'ye gidin!";
+    
+"topscan_cropautomaticcameraaip" = "Otomatik ürün";
+    
+"topscan_nextstep" = "Sonraki adım";
+    
+"topscan_addsignature" = "İmza ekle";
+"topscan_subsctiptplan" = "Abonelik Planınız";
+    
+"topscan_renewedday" = "Yenilenen Gün";
+    
+"topscan_automaticrenewal" = "Otomatik Yenileme";
+    
+"topscan_moredetails" = "Daha fazla detay";
+    
+"topscan_drivedownloadfiles" = "Bulut içe aktarma";
+    
+"topscan_download" = "İndir";
+    
+"topscan_downloadsuccessfilly" = "Başarıyla İndir";
+    
+"topscan_downloadfailed" = "İndirme başarısız";
+    
+"topscan_uselimitedversion" = "Sınırlı sürümü kullan";
+    
+"topscan_termsofserice" = "Kullanım Şartları";
+    
+"topscan_unlimitedfeatures" = "Sınırsız Özellikler";
+    
+"topscan_subscriptiongives" = "Bu abonelik, ayrıcalıklarımıza sınırsız erişim sağlar. Deneme süresi sona ermeden iptal etmezseniz, siz iptal edene kadar sizden otomatik olarak ücret alınacaktır.";
+    
+
+    
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+       
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

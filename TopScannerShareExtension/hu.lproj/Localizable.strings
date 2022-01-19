@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "Mentés";
+"topscan_cancel" = "Mégsem";
+
+"topscan_pleasenote" = "Kérjük, vegye figyelembe";
+
+"topscan_importdatatype" = "Jelenleg csak a JPG, PNG, PDF formátumok importálását támogatja.";
+
+"topscan_fileothersuccessfully" = "Előfordulhat, hogy más formátumú fájlokat nem lehet sikeresen importálni.";
+
+"topscan_fileintotal" = "fájl összesen";
+
+
+

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "Kaydet";
+"topscan_cancel" = "İptal et";
+"topscan_pleasenote" = "Lütfen aklınızda bulundurun";
+    
+"topscan_importdatatype" = "Şu anda yalnızca JPG, PNG, PDF formatlarını içe aktarmayı destekler.";
+    
+"topscan_fileothersuccessfully" = "Diğer biçimlerdeki dosyalar başarıyla içe aktarılamayabilir.";
+    
+"topscan_fileintotal" = "Toplamda dosyalar";
+
+
+

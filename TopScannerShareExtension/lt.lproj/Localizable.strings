@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/29.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+"topscan_batchsave" = "Išsaugoti";
+"topscan_cancel" = "Atšaukti";
+"topscan_pleasenote" = "Atkreipkite dėmesį";
+    
+"topscan_importdatatype" = "Šiuo metu palaikykite tik importuojamus JPG, PNG, PDF formatus.";
+    
+"topscan_fileothersuccessfully" = "Kitų formatų failai gali būti nepavykę sėkmingai importuoti.";
+    
+"topscan_fileintotal" = "failų iš viso";
+
+
+

@@ -1,0 +1,1222 @@
+
+
+
+"topscan_collage" = "Cắt dán";
+
+"topscan_doctag" = "Đặt tag";
+
+"topscan_picquality" = "Chất lượng hình ảnh";
+
+"topscan_addto" = "Thêm vào";
+
+"topscan_share" = "Chia sẻ";
+
+"topscan_email" = "E-mail";
+
+"topscan_merge" = "Hợp nhất";
+
+"topscan_copy" = "Sao chép/Di chuyển";
+
+"topscan_sortby" = "Sắp xếp theo";
+
+"topscan_more" = "Nhiều hơn";
+
+"topscan_savetogallery" = "Lưu vào Bộ sưu tập";
+
+"topscan_upload" = "Tải lên";
+
+"topscan_uploadsucceeded" = "Tải lên thành công";
+
+"topscan_uploadfailed" = "Tải lên không thành công";
+
+"topscan_delete" = "Xóa";
+
+"topscan_cancel" = "Huỷ";
+
+"topscan_ok" = "OK";
+
+"topscan_about" = "khoảng";
+
+"topscan_error" = "LỖI";
+
+"topscan_skip" = "Bỏ qua";
+
+"topscan_decryption" = "Giải mã";
+
+"topscan_allselect" = "Chọn tất cả";
+
+"topscan_cancelallselect" = "Bỏ chọn tất cả";
+
+"topscan_items" = "Đã chọn";
+
+"topscan_printing" = "In";
+
+"topscan_pdf" = "PDF";
+
+"topscan_note" = "Ghi chú";
+
+"topscan_retake" = "Thực thi lại";
+
+"topscan_ocr" = "Nhận dạng Văn bản";
+
+"topscan_watermarktitle" = "Con dấu văn bản";
+
+"topscan_addwatermark" = "Thêm con dấu văn bản";
+
+"topscan_editwatermark" = "Chỉnh sửa con dấu văn bản";
+
+"topscan_clearwatermark" = "Xóa nội dung";
+
+"topscan_removewatermark" = "Xóa con dấu văn bản";
+
+"topscan_remind" = "Cảnh báo";
+
+"topscan_loading" = "đang tải...";
+
+"topscan_deleteoption" = "Bạn có chắc chắn muốn xóa tất cả các tài liệu đã chọn không?";
+
+"topscan_deletecurrentpage" = "Bạn có chắc chắn muốn xóa trang này không?";
+
+"topscan_deletecurrentdoc" = "Bạn có chắc chắn muốn xóa tài liệu hiện tại không?";
+
+"topscan_bind" = "Thiết lập tài khoản email";
+
+"topscan_savefail" = "Lỗi dữ liệu!";
+
+"topscan_phonememoryalert" = "Do các vấn đề về bộ nhớ điện thoại, những ảnh ghép lớn hơn 30 ảnh có thể gây ra sự cố. Bạn có muốn tiếp tục?";
+
+"topscan_continueshare" = "Tiếp tục chia sẻ";
+
+"topscan_savealert" = "Bạn có chắc chắn rời đi mà không lưu các thay đổi không?";
+
+"topscan_deletesignatureimagealert" = "Bạn có chắc chắn muốn xóa hình ảnh chữ ký không?";
+
+"topscan_discard" = "Loại bỏ những thay đổi";
+
+
+"topscan_movesuccess" = "Di chuyển (các) tài liệu thành công!";
+
+"topscan_copysuccess" = "Sao chép (các) tài liệu thành công!";
+
+"topscan_mergesuccess" = "Hợp nhất (các) tài liệu thành công!";
+
+"topscan_clearphotos" = "(Các) ảnh vừa chụp sẽ không được lưu. Bạn có chắc chắn muốn hủy (các) ảnh không?";
+
+"topscan_noalert" = "Đừng nhắc lại";
+
+"topscan_editpdf" = "Chỉnh sửa PDF";
+
+"topscan_addpage" = "Thêm trang";
+
+"topscan_collageimage" = "Ảnh ghép...";
+
+"topscan_collageproof" = "Bằng chứng về tài sản";
+
+"topscan_collagedriverlicense" = "Bằng lái xe";
+
+"topscan_collageidcard" = "Thẻ căn cước";
+
+
+
+"topscan_collagepassport" = "Hộ chiếu";
+
+"topscan_collageaccountbook" = "Sổ sách kế toán";
+
+"topscan_idcardanti" = "Chống hàng giả";
+
+"topscan_importpic" = "Bộ sưu tập";
+
+"topscan_userdefinedsize" = "Tự chia sẻ kích thước tệp";
+
+"topscan_filecompressiontitle" = "Nhập tỷ lệ nén 0-99";
+
+"topscan_manualsorting" = "Sắp xếp thủ công";
+
+"topscan_firstontop" = "Từ đầu tới cuối";
+
+"topscan_lastontop" = "Từ cuối tới đầu";
+
+"topscan_siderename" = "Đổi tên";
+
+"topscan_creatdatadescend" = "Ngày tạo (tăng dần)";
+
+"topscan_creatdataascend" = "Ngày tạo (giảm dần)";
+
+"topscan_filenameatoz" = "Tên tệp (A đến Z)";
+
+"topscan_filenameztoa" = "Tên tệp (Z đến A)";
+
+"topscan_girdview2" = "Chế độ xem Dạng lưới";
+
+"topscan_girdview3" = "(3 cột)";
+
+"topscan_girdviewlist" = "Chế độ xem dạng danh sách";
+
+"topscan_folderlocationtop" = "Thư mục trên cùng";
+
+"topscan_folderlocationbottom" = "Thư mục dưới cùng";
+
+"topscan_fax" = "Số fax";
+
+"topscan_hidepagedetails" = "Ẩn Thông tin Chi tiết của Trang";
+
+"topscan_displaypagedetails" = "Hiển thị Thông tin Chi tiết của Trang";
+
+"topscan_batchedit" = "Chỉnh sửa hàng loạt";
+
+"topscan_pdffile" = "File PDF";
+
+"topscan_image_jpg" = "Hình ảnh (JPG)";
+
+"topscan_longimage_jpg" = "Chia sẻ hình ảnh dài";
+
+"topscan_txt" = "Chia sẻ txt";
+
+"topscan_originalsize" = "Kích thước gốc";
+
+"topscan_medium" = "Trung bình";
+
+"topscan_small" = "Nhỏ";
+
+"topscan_superhigh" = "Siêu cao";
+
+"topscan_shareapp" = "Chia sẻ ứng dụng này";
+
+"topscan_backup" = "Sao lưu & Khôi phục";
+
+"topscan_icouldbackup" = "Sao lưu";
+
+"topscan_importimage" = "Nhập hình ảnh";
+
+"topscan_mergepdf" = "Hợp nhất PDF";
+
+"topscan_importfile" = "Nhập tệp";
+
+"topscan_longpresstip" = "Tôi hiểu rồi!";
+
+"topscan_search" = "Tìm kiếm";
+
+"topscan_homemoredocremind" = "Nhắc nhở tài liệu";
+
+"topscan_settingtemplate" = "Bản mẫu";
+
+"topscan_settingfamily" = "Gia đình";
+
+"topscan_shareappcontent" = "Đã tìm thấy một phần mềm scan tuyệt vời, liên kết tải xuống";
+
+"topscan_mergefilemethodtitle" = "Chọn Phương thức Hợp nhất";
+
+"topscan_mergefilemethodkeepold" = "Hợp nhất và giữ tài liệu cũ";
+
+"topscan_mergefilemethoddeleteold" = "Hợp nhất và xóa tài liệu cũ";
+
+"topscan_cameradiscardtitle" = "Bỏ các trang";
+
+"topscan_cameradiscardmssage" = "Bỏ tất cả các trang?";
+
+"topscan_cameraaccidenttitle" = "Thông tin";
+
+"topscan_cameraaccidentmssage" = "một số hình ảnh bạn chụp lần trước chưa được xử lý, bạn có muốn tải chúng không?";
+
+"topscan_cameralighton" = "Bật";
+
+"topscan_cameralightoff" = "Tắt";
+
+"topscan_cameralightauto" = "Tự động";
+
+"topscan_cameralighttorch" = "Chạm";
+
+"topscan_cameratypetotext" = "Chuyển thành văn bản";
+
+"topscan_cameratypesingle" = "Đơn lẻ";
+
+"topscan_cameratypebatch" = "Hàng loạt";
+
+"topscan_cameratypeqrbarcode" = "QR & mã vạch";
+
+"topscan_camerapermissiontitle" = "Vui lòng mở quyền đối với máy ảnh";
+
+"topscan_camerapermissionguide" = "Cài đặt-Quyền riêng tư-Máy ảnh";
+
+"topscan_albumpermissiontitle" = "Vui lòng mở quyền đối với album";
+
+"topscan_albumpermissionguide" = "Cài đặt-Bảo mật-Ảnh-Tất cả Ảnh";
+
+"topscan_safeentertips" = "Vui lòng nhập mật khẩu 4 chữ số!";
+
+
+
+"topscan_loginouttipsmessage" = "Bạn có chắc chắn muốn đăng xuất không?";
+    
+"topscan_psderror" = "Sai mật khẩu. Xin vui lòng thử lại!";
+    
+"topscan_pdferror" = "Mật khẩu không khớp, vui lòng thử lại!";
+    
+"topscan_touchidnotenrolled" = "Thiết bị không được phát hiện để kích hoạt ID cảm ứng, vui lòng vào trung tâm cài đặt trên điện thoại để kích hoạt chức năng ID cảm ứng.";
+    
+"topscan_faceidnotenrolled" = "Không nhận diện được thiết bị để kích hoạt Face ID, vui lòng vào trung tâm cài đặt trên điện thoại để kích hoạt chức năng Face ID.";
+    
+"topscan_opensysset" = "Ủy quyền thiết lập trung tâm";
+    
+"topscan_againvafaceid" = "Nhấp để xác minh Face ID";
+    
+"topscan_againvatouchid" = "Nhấp để xác minh Touch ID";
+    
+"topscan_pdfpagenumberno" = "Không có số trang";
+    
+"topscan_pdfpagenumberlowerl" = "phía dưới bên trái";
+    
+"topscan_pdfpagenumberbottomc" = "ở giữa dưới cùng";
+    
+"topscan_pdfpagenumberlowerr" = "phía dưới bên phải";
+    
+"topscan_pdfpagenumberupperl" = "phía trên bên trái";
+    
+"topscan_pdfpagenumberheadc" = "ở giữa trên đầu";
+    
+"topscan_pdfpagenumberupperr" = "phía trên bên phải";
+    
+"topscan_colletionfunctiontitle" = "Chọn tài liệu";
+    
+"topscan_pdfdirectionauto" = "Tự động điều chỉnh theo kích thước hình ảnh";
+    
+"topscan_pdfdirectionlandscape" = "Phong cảnh";
+    
+"topscan_pdfaddsignature" = "Chân dung";
+    
+"topscan_changepdfsizealert" = "Các thay đổi hiện tại sẽ đặt lại chữ ký PDF. Bạn có muốn tiếp tục?";
+    
+"topscan_emptypdfnamealert" = "Tên PDF không được để trống!";
+    
+"topscan_createdsuccessfully" = "Đã tạo thành công";
+    
+"topscan_hasfolder" = "Tài liệu/thư mục đã tồn tại. Vui lòng chọn tên khác";
+    
+"topscan_creationfailed" = "Tạo không thành công";
+    
+"topscan_duplicationname" = "Tên đã tồn tại. Vui lòng thay đổi sang tên khác.";
+    
+"topscan_folderexists" = "Thư mục đã tồn tại.";
+    
+"topscan_emailinvalidtips" = "Vui lòng nhập địa chỉ email chính xác";
+    
+"topscan_defaultprocess" = "Quy trình mặc định";
+    
+"topscan_original" = "Gốc";
+    
+"topscan_blackwhite" = "B&W";
+    
+"topscan_blackwhite2" = "B&W2";
+    
+"topscan_blackwhite3" = "B&W3";
+    
+"topscan_nostalgic" = "Hoài niệm";
+    
+"topscan_magiccolor" = "Sắc màu ma thuật";
+    
+"topscan_magiccolor2" = "Sắc màu ma thuật 2";
+    
+"topscan_grayscale" = "Thang độ xám";
+    
+"topscan_lastfilter" = "Bộ lọc cuối cùng";
+    
+"topscan_clear" = "Xóa";
+    
+"topscan_clearmarks" = "Xóa các dấu";
+    
+"topscan_markstip" = "Các dấu (chữ ký, hình vẽ nguệch ngoạc, v.v.) sẽ bị xóa nếu bạn tiếp tục. Bạn chắc chắn muốn xóa các dấu?";
+    
+"topscan_setting" = "Tới Cài đặt";
+    
+"topscan_deletedrive" = "Bạn có chắc chắn muốn xóa file sao lưu hiện tại?";
+    
+"topscan_thereisnotstoragespaceon" = "Không đủ dung lượng lưu trữ trên điện thoại của bạn. Vui lòng thử lại!";
+    
+"topscan_dropboxsussess" = "Bản sao lưu đã được chuyển sang Dropbox.";
+    
+"topscan_boxsussess" = "Bản sao lưu đã được chuyển sang Dropbox.";
+    
+"topscan_googledrivesussess" = "Bản sao lưu đã được chuyển sang Google Drive.";
+    
+"topscan_onedrivesussess" = "Bản sao lưu đã được chuyển sang Onedrive.";
+    
+"topscan_startbackupinbackground" = "Bắt đầu tải lên các file sao lưu khi chạy nền";
+    
+"topscan_backupinbackgroundaleat" = "Việc tải lên tệp sao lưu sẽ được thực hiện ở chế độ nền, việc đóng ứng dụng có thể khiến quá trình sao lưu không thành công.";
+    
+"topscan_myselfemailshow" = "Gửi email cho Chính tôi";
+    
+"topscan_toemailtitle" = "Đến";
+    
+"topscan_subjectplaceholder" = "Tiêu đề";
+    
+"topscan_bodyplaceholder" = "Nội dung";
+    
+"topscan_emailsettingguide" = "Bạn có thể thay đổi email trong Cài đặt->Chung->Email.";
+    
+"topscan_picturequalityheight" = "Cao";
+    
+"topscan_picturequalitylow" = "Thấp";
+    
+"topscan_defaultpagesize" = "Kích thước trang mặc định";
+    
+"topscan_privacypolicy" = "Chính sách bảo mật";
+    
+"topscan_faq" = "Câu hỏi thường gặp";
+    
+"topscan_sendfeedback" = "Gửi thông tin phản hồi";
+    
+"topscan_version" = "Phiên bản";
+    
+"topscan_rateapp" = "Đánh giá máy quét đơn giản";
+    
+"topscan_settinggeneral" = "Chung";
+    
+"topscan_settingdocmanagement" = "Quản lý Tài liệu";
+    
+"topscan_settingourapp" = "Ứng dụng của chúng tôi";
+    
+"topscan_settingfaxname" = "Fax đơn giản";
+    
+"topscan_settingfaxreceivename" = "Nhận fax";
+    
+"topscan_settinguseragreement" = "Thỏa thuận Người dùng";
+    
+"topscan_settingusersuggestion" = "Đề xuất và phản hồi";
+    
+"topscan_settingdocname" = "Tên tài liệu";
+    
+"topscan_settingdoctime" = "Thời gian tài liệu";
+    
+"topscan_changepagesize" = "Thay đổi kích thước trang";
+    
+"topscan_documentname" = "Tên Tài liệu Tự Xác định";
+    
+"topscan_documentdate" = "Thời gian tài liệu tự xác định";
+    
+"topscan_autosavetogallery" = "Tự động lưu vào album";
+    
+"topscan_saveoriginalimage" = "Lưu ảnh gốc";
+    
+"topscan_saveoriginalimagetip" = "Tính năng này chủ yếu thiết lập lại chức năng cắt xén nên sẽ làm tăng dung lượng lưu trữ.";
+
+
+
+
+"topscan_savetogallerytip" = "Tự động lưu các bản quét vào Thư viện";
+
+"topscan_textblankprompt" = "Nhận dạng hình ảnh và chuyển đổi sang văn bản";
+
+"topscan_noteplaceholder" = "Bắt đầu thêm ghi chú!";
+
+"topscan_ocrtexttdit" = "Chỉnh sửa";
+
+"topscan_ocrtextcopy" = "Sao chép";
+
+"topscan_ocrtextexport" = "Xuất";
+
+"topscan_ocrtexttranslation" = "Dịch";
+
+"topscan_ocrdefaultlanguage" = "Tiếng Anh";
+
+"topscan_ocrautomatic" = "Tự động";
+
+"topscan_ocrtextagain" = "OCR một lần nữa";
+
+"topscan_ocrtypecloud" = "Cloud OCR";
+
+"topscan_ocrtypelocal" = "Nhận dạng nhanh cục bộ";
+
+"topscan_ocrtypelocaltip" = "Chỉ hỗ trợ các ký tự Latinh";
+
+"topscan_ocrdownfail" = "tải xuống không thành công";
+
+"topscan_ocrrecentanguages" = "Các ngôn ngữ gần đây";
+
+"topscan_ocralllanguages" = "Tất cả các ngôn ngữ";
+
+"topscan_ocrexportcopy" = "Sao chép vào clipboard";
+
+"topscan_ocrchooseendpoint" = "Chọn điểm cuối gần nhất";
+
+"topscan_ocrgoogleendpointprompt" = "Tự động chọn nút toàn cục tốt nhất, không cần chọn!";
+
+"topscan_ocrthirdocrfailprompt" = "Lỗi xử lý hoặc không có văn bản, vui lòng thử lại!";
+
+"topscan_networkstate" = "WLAN bị Tắt";
+
+"topscan_networkstatecontent" = "Bạn có thể bật WLAN cho ứng dụng \'simpleScan\' trong Cài đặt";
+
+"topscan_ocragainallpage" = "Tất cả các trang";
+
+"topscan_ocragaincurrentpage" = "Trang hiện tại";
+
+"topscan_ocrtextagainvctip" = "Các chỉnh sửa được thực hiện trong quá trình hiệu đính sẽ bị mất nếu bạn nhấn vào Quay lại";
+
+"topscan_ocrocrvctip" = "Bạn có chắc chắn muốn thoát khỏi nhận dạng văn bản hiện tại không?";
+
+"topscan_ocrocrgooglepoint" = "Toàn cục";
+
+"topscan_ocrocragaintitle" = "Nhấn vào văn bản để chỉnh sửa";
+
+"topscan_ocrocrlanguagetitle" = "Ngôn ngữ";
+
+"topscan_ocrocragainendpoint" = "Điểm cuối";
+
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Nhận dạng trang hiện tại";
+
+"topscan_ocrocragainrecognizeallpages" = "Nhận dạng tất cả các trang";
+
+"topscan_translatesourcelanguage" = "Ngôn ngữ nguồn";
+
+"topscan_translatetargetlanguage" = "Ngôn ngữ mục tiêu";
+
+"topscan_deletelanguagepack" = "Xóa mô hình ngôn ngữ";
+
+"topscan_stoploadlanguagepack" = "Dừng tải xuống mô hình ngôn ngữ";
+
+"topscan_scorecancel" = "Không phải bây giờ";
+
+"topscan_scorefivestar" = "5 sao";
+
+"topscan_tagsungrouped" = "Hủy nhóm";
+
+"topscan_tagsalldocs" = "Tất cả tài liệu";
+
+"topscan_tagssearchplaceholder" = "Nhập tag";
+
+"topscan_tagsalltagstitle" = "Tất cả các tag";
+
+"topscan_tagsalreadyexists" = "Tag đã tồn tại!";
+
+"topscan_tagstagdelete" = "Không thể khôi phục các nhãn đã xóa. Xác nhận xóa?";
+
+"topscan_tagsdone" = "Xong";
+
+"topscan_tagssettag" = "Đặt tag";
+
+"topscan_tagstagmanager" = "Tag";
+
+"topscan_tagsentermanager" = "Tag";
+
+"topscan_tagstagnotecontent" = "Bạn có muốn lưu chỉnh sửa không?";
+
+"topscan_tagstagmanageradd" = "Thêm Tag mới";
+
+"topscan_tagstagmanageraddplac" = "Vui lòng nhập tên Tag";
+
+"topscan_tagscreatelabs" = "Để tạo nhãn ~";
+
+"topscan_drivestartupdate" = "File sao lưu bắt đầu tải lên";
+  
+"topscan_driveuploading" = "đang tải lên...";
+  
+"topscan_buildingpdf" = "Đang dựng tệp PDF";
+  
+"topscan_processingjpg" = "Đang xử lý tệp JPG";
+  
+"topscan_processing" = "Đang xử lý";
+  
+"topscan_processingdoc" = "Đang xử lý tài liệu";
+  
+"topscan_processingzip" = "Đang xử lý tệp ZIP";
+  
+"topscan_sortprocessing" = "Sắp xếp xử lý";
+  
+"topscan_removeing" = "Đang xóa";
+  
+"topscan_copyprocessing" = "Đang sao chép";
+  
+"topscan_moveprocessing" = "Đang di chuyển";
+  
+"topscan_mergeing" = "Đang hợp nhất";
+  
+"topscan_initdata" = "Đang khởi tạo dữ liệu";
+  
+"topscan_docpasswordicon" = "Khóa";
+  
+"topscan_docpasswordunlockicon" = "Mở khóa";
+  
+"topscan_pdfpassword" = "Mật khẩu xuất PDF";
+  
+"topscan_pdfpasswordclear" = "Xóa mật khẩu PDF";
+  
+"topscan_touchtitle" = "Vui lòng xác minh Touch ID";
+  
+"topscan_clearapppsd" = "Bạn có muốn xóa tùy chọn mật khẩu ứng dụng không?";
+  
+"topscan_cleardocpsd" = "Bạn có muốn xóa tùy chọn mật khẩu Truy cập Tài liệu không?";
+  
+"topscan_passwordhelptip" = "Cần trợ giúp?";
+  
+"topscan_passwordhelpsubject" = "Phản hồi về mật khẩu tài liệu";
+  
+"topscan_passwordapphelpsubject" = "Phản hồi về mật khẩu ứng dụng";
+  
+"topscan_enterpwd" = "Xin vui lòng nhập mật khẩu";
+  
+"topscan_appsecurity" = "Bảo mật ứng dụng";
+  
+"topscan_apppwd" = "Mật khẩu ứng dụng";
+  
+"topscan_setpasswordlaceholder" = "Vui lòng nhập mật khẩu của bạn";
+  
+"topscan_resetpasswordlaceholder" = "Vui lòng nhập lại mật khẩu của bạn";
+  
+"topscan_setpasswordtitle" = "Đặt mật khẩu";
+  
+"topscan_setpdfpasswordtitle" = "Mật khẩu PDF";
+  
+"topscan_resetpasswordtitle" = "Nhập mật khẩu";
+  
+"topscan_writepasswordfail" = "Mật khẩu không khớp, vui lòng thử lại!";
+  
+"topscan_writetwopasswordfail" = " Hai mục nhập mật khẩu không khớp, vui lòng thử lại!";
+  
+"topscan_backupbottomtitle" = "Khôi phục từ bản sao lưu trước đó hoặc chuyển dữ liệu quét từ thiết bị khác";
+  
+"topscan_docaccesspassword" = "Mật khẩu truy cập tài liệu";
+  
+"topscan_turnoffpassword" = "Tắt mật khẩu";
+  
+"topscan_changepassword" = "Đổi mật khẩu";
+  
+"topscan_storagespacenotenough" = "Điện thoại không có đủ dung lượng lưu trữ";
+  
+"topscan_storagespacetitle" = "Dung lượng lưu trữ của điện thoại nhỏ hơn 200M, để tránh không thể ghi tệp, vui lòng giải phóng bớt dung lượng";
+  
+"topscan_appheadingtitle" = "Đặt mật khẩu ứng dụng để bảo vệ bảo mật tài liệu";
+  
+"topscan_docheadingtitle" = "Đặt mật khẩu để xem các tài liệu được bảo vệ bằng mật khẩu";
+  
+"topscan_pdfheadingtitle" = "Đặt mật khẩu để chia sẻ và xuất tệp PDF để bảo vệ quyền riêng tư của tệp";
+  
+"topscan_batchall" = "Tràn đầy";
+  
+"topscan_batchauto" = "Tự động";
+  
+"topscan_batchfit" = "Vừa vặn";
+  
+"topscan_left" = "Trái";
+  
+"topscan_right" = "Phải";
+  
+"topscan_crop" = "Cắt xén";
+  
+"topscan_filter" = "Bộ lọc";
+  
+"topscan_prompt" = "Ngay lập tức";
+  
+"topscan_promptcontent" = "Các thay đổi chưa được lưu. Lưu bây giờ?";
+  
+"topscan_no" = "Không";
+  
+"topscan_yes" = "Đúng";
+  
+"topscan_batchsave" = "Lưu";
+  
+"topscan_scansignature" = "Quét chữ ký của bạn";
+  
+"topscan_importsignature" = "Nhập từ album";
+  
+"topscan_waittip" = "Đang xử lý tệp, vui lòng đợi...";
+  
+"topscan_nooriginalimgdefault" = "Không thể đặt lại và cắt một số tệp và không thể tìm thấy tệp gốc";
+  
+"topscan_nooriginalimgfilter" = "Không thể lọc lại một số tệp vì không tìm thấy tệp gốc";
+  
+"topscan_nooriginalimgmore" = "và nhiều hơn nữa";
+  
+"topscan_nooriginalimgsetting" = "bạn có thể mở tùy chọn cài đặt để lưu tùy chọn ảnh gốc";
+  
+"topscan_alldatanooriginalimg" = "Không thể đặt lại cắt xén, tệp gốc không tồn tại!";
+  
+"topscan_alldatanooriginalimgfilter" = "Không thể đặt lại quá trình xử lý bộ lọc, tệp gốc không tồn tại!";
+  
+"topscan_cropautomatic" = "Tự động cắt xén hình ảnh";
+  
+"topscan_cropautomatictip" = "Tự động cắt xén ảnh trong chế độ Quét hàng loạt";
+  
+"topscan_cropautomaticcameraaip" = "Tự động cắt xén";
+  
+"topscan_camerafilterremind" = "Bạn có thể thay đổi bộ lọc mặc định của chế độ hàng loạt";
+  
+"topscan_cameracropremindfirst" = "Bạn có thể thay đổi liệu";
+  
+"topscan_cameracropremindsecond" = "chế độ hàng loạt bị có được cắt xén hay không";
+  
+"topscan_flitertypeapplylocation" = "Áp dụng cho tất cả các trang";
+  
+"topscan_colletionpdftolongpictitle" = "Xuất PDF sang ảnh dài";
+  
+"topscan_colletionpdftopictitle" = "PDF sang hình ảnh";
+  
+"topscan_colletionpdfpasswordtitle" = "Mật khẩu PDF";
+  
+"topscan_colletionpdfextracttitle" = "Trích xuất PDF";
+  
+"topscan_colletiondocpasswordtitle" = "Mật khẩu tài liệu";
+  
+"topscan_colletionscanidcardtitle" = "Quét thẻ ID";
+  
+"topscan_colletionpdfaddwatermarktitle" = "PDF Thêm hình mờ";
+  
+"topscan_colletionpdfsignaturetitle" = "Chữ ký PDF";
+  
+"topscan_colletionpdfpageadjustment" = "Điều chỉnh trang PDF";
+  
+"topscan_colletionimagetopdf" = "Hình ảnh sang PDF";
+  
+"topscan_colletionbottomtitle" = "Trích xuất trang";
+  
+"topscan_colletionmydevice" = "Thiết bị của tôi";
+  
+"topscan_colletionpdfextractbottomtitle" = "Trích xuất tạo tài liệu mới";
+  
+"topscan_docreminedtitle" = "Bật quyền thông báo";
+  
+"topscan_docreminedcontent" = "Bạn không bật quyền thông báo, vì vậy bạn không thể sử dụng Thông báo tài liệu cho đến khi chúng được bật.";
+  
+"topscan_docreminetime" = "Thời gian nhắc tài liệu cần lớn hơn thời gian trên hệ thống hiện tại!";
+  
+"topscan_questiontype" = "Vui lòng chọn một loại";
+  
+"topscan_questiondescrible" = "Vui lòng nhập câu hỏi hoặc đề xuất của bạn";
+  
+"topscan_suggestionremind" = "Để tạo ảnh chụp màn hình trên iPhone 8 trở về trước, hãy nhấn đồng thời nút Sleep/Wake và nút Home";
+  
+"topscan_suggestionremindx" = "Để tạo ảnh chụp màn hình trên iPhone X trở lên, hãy nhấn đồng thời nút Tăng âm lượng và Khóa.";
+  
+"topscan_questiontypecrash" = "Sự cố/độ trễ";
+
+"topscan_questiontypetaking" = "Chụp ảnh/nhập từ album";
+
+"topscan_questiontypephoto" = "Chỉnh sửa ảnh";
+
+"topscan_questiontypeocr" = "OCR";
+
+"topscan_questiontypefax" = "Số fax";
+
+"topscan_questiontypepoint" = "Điểm C";
+
+"topscan_questiontypeshare" = "Chia sẻ/Email/In";
+
+"topscan_questiontypeinterface" = "Giao diện";
+
+"topscan_questiontypefeatures" = "Các tính năng khác";
+
+"topscan_questiontypeother" = "Các câu hỏi khác";
+
+"topscan_questiontypetoast" = "Có bất kỳ vấn đề sử dụng nào không? Hoặc bạn có thể cung cấp cho chúng tôi phản hồi về các đề xuất và yêu cầu về chức năng ứng dụng và chúng tôi rất sẵn lòng lắng nghe ý kiến của bạn.";
+
+"topscan_questionsetting" = "Cài đặt";
+
+"topscan_questioncontinue" = "Tiếp tục";
+
+"topscan_questioninvalidemail" = "Địa chỉ email không hợp lệ";
+
+"topscan_questiontoasttitle" = "Thêm ảnh chụp màn hình (tùy chọn)";
+
+"topscan_submittedsuccessfully" = "Đã gửi thành công!";
+
+"topscan_suggestioncontenttitle" = "Chi tiết";
+
+"topscan_suggestionsubmit" = "Gửi";
+
+"topscan_remindtitle" = "Tiêu đề";
+
+"topscan_remindreturn" = "Trở về";
+
+"topscan_guidetitleprofessional" = "Chuyên nghiệp";
+
+"topscan_guidetitlecollage" = "Chế độ cắt dán ID";
+
+"topscan_guidetitlebackup" = "Sao lưu và khôi phục";
+
+"topscan_guideprofessionaldes" = "Tự động phát hiện tài liệu, xử lý cắt nhanh, làm sắc nét và nâng cao tài liệu.";
+
+"topscan_guidecollagedes" = "Ghép ảnh thẻ ID vào một tài liệu, cung cấp nhiều tùy chọn mẫu và tùy chỉnh kích thước.";
+
+"topscan_guideimagedes" = "Tự động nhận dạng văn bản thông qua công nghệ AI đám mây, chỉnh sửa, sao chép, chia sẻ, xuất văn bản của bạn.";
+
+"topscan_guidebackupdes" = "Sao lưu tài liệu của bạn vào bộ nhớ đám mây hoặc bộ nhớ cục bộ và khôi phục các tài liệu đã sao lưu bất kỳ lúc nào.";
+
+"topscan_showstatustitle" = "Đang tải dữ liệu";
+
+"topscan_placeholderpassword" = "mật khẩu";
+
+"topscan_manualsorttitle" = "Nhấn và giữ để Sắp xếp Thủ công";
+
+"topscan_docgraffiti" = "Vẽ nguệch ngoạc";
+
+"topscan_docaddtext" = "Thêm văn bản";
+
+"topscan_copypage" = "Sao chép trang hiện tại";
+
+"topscan_copyallpages" = "Sao chép tất cả các trang";
+
+"topscan_showprocess" = "Đang xử lý...";
+
+"topscan_importimgerror" = "Tệp không tồn tại hoặc lỗi dữ liệu!";
+
+"topscan_somefileloss" = "Một số lỗi đọc tệp!";
+ 
+
+
+
+
+
+"topscan_cardprompt" = "Một tính năng phải có! Bạn có thể tạo bản sao điện tử 2 mặt của thẻ ID trong 1 phút. 100 % rsẵn sàng để in.";
+ 
+"topscan_paperexample" = "Ví dụ giấy A4";
+ 
+"topscan_restorebackup" = "SAO LƯU NGAY";
+ 
+"topscan_restorelastbackup" = "Ngày sao lưu cuối cùng";
+ 
+"topscan_restoremerge" = "Khôi phục và hợp nhất tất cả các tài liệu hiện tại";
+ 
+"topscan_restoredelete" = "Khôi phục và xóa tất cả các tài liệu hiện tại";
+ 
+"topscan_restoretitle" = "KHÔI PHỤC";
+ 
+"topscan_restorenotlogin" = "Không phát hiện trạng thái đăng nhập tài khoản đám mây.";
+ 
+"topscan_restorenotrepeat" = "Đang tải lên tệp sao lưu, vui lòng đợi...";
+ 
+"topscan_restorebackwifi" = "Chỉ sao lưu trên Wi-Fi";
+ 
+"topscan_restorenodocument" = "Hiện tại không có tài liệu nào, vui lòng thêm tài liệu trước.";
+ 
+"topscan_restorequery" = "đang truy vấn...";
+ 
+"topscan_restorequeryfailed" = "Truy vấn không thành công hoặc không tìm thấy tệp sao lưu.";
+ 
+"topscan_restoreprocessfiles" = "Đang xử lý tệp";
+ 
+"topscan_restorebackupfailed" = "Sao lưu thất bại!";
+ 
+"topscan_restoreuploadingfile" = "Đang tải tệp lên, vui lòng đợi...";
+ 
+"topscan_saferepasscode" = "Nhập lại mật mã";
+ 
+"topscan_saferepassword" = "Vui lòng nhập lại mật khẩu";
+ 
+"topscan_applicationsecrulty" = "Bảo mật ứng dụng";
+ 
+"topscan_verifypasscode" = "Xác minh mật mã";
+ 
+"topscan_setpasscode" = "Thiết lập mật mã";
+ 
+"topscan_enternewpassword" = "Nhập mật khẩu mới";
+ 
+"topscan_filetype" = "Loại tệp";
+ 
+"topscan_fileformat" = "Định dạng tệp";
+ 
+"topscan_sharepdfformat" = "Chia sẻ tệp ở định dạng .PDF";
+ 
+"topscan_sharezipformat" = "Chia sẻ tệp ở định dạng .ZIP";
+ 
+"topscan_sharejpgformat" = "Chia sẻ tệp ở định dạng .JPG";
+ 
+"topscan_newfolderprompt" = "Thư mục mới";
+ 
+"topscan_currentdocument" = "Tài liệu hiện tại";
+ 
+"topscan_recognizetitle" = "Nhận dạng";
+ 
+"topscan_filedeleteprompt" = "Đã xóa tệp sao lưu thành công!";
+ 
+"topscan_filedownbackup" = "Tải tệp sao lưu xuống";
+ 
+"topscan_filestartbackup" = "Tệp sao lưu bắt đầu tải xuống";
+ 
+"topscan_filerestoresuccessed" = "Khôi phục tệp sao lưu thành công.";
+ 
+"topscan_uploadsingin" = "ĐĂNG NHẬP";
+ 
+"topscan_singoutlowercase" = "Đăng xuất";
+ 
+"topscan_processingerror" = "Lỗi xử lý tệp!";
+ 
+"topscan_barcodeopenurl" = "Mở URL";
+ 
+"topscan_barcoderesult" = "Kết quả nhận dạng";
+ 
+"topscan_downloadlanguage" = "Đang tải xuống ngôn ngữ...";
+ 
+"topscan_graffitibrush" = "Chải";
+ 
+"topscan_graffitiopacity" = "Độ mờ";
+ 
+"topscan_graffitieraser" = "Cục tẩy";
+ 
+"topscan_graffiticolor" = "Màu sắc";
+ 
+"topscan_graffitiundo" = "Hoàn tác";
+ 
+"topscan_graffitiredo" = "Làm lại";
+ 
+"topscan_nosignture" = "Không có chữ ký!";
+ 
+"topscan_graffititext" = "Văn bản";
+     
+"topscan_graffitireplacefile" = "Thay thế tệp hiện tại";
+     
+"topscan_graffiticreatefile" = "Tạo tệp mới";
+     
+"topscan_graffiticopyto" = "Sao chép vào";
+     
+"topscan_graffitimoveto" = "Chuyển tới";
+     
+"topscan_graffititextrecognition" = "Văn bản nhận dạng";
+     
+"topscan_ocraccount" = "Quản lý tài khoản OCR";
+     
+"topscan_loginsuccessful" = "đăng nhập thành công!";
+     
+"topscan_appleloginsuccessful" = "Đăng nhập tài khoản Apple thành công!";
+     
+"topscan_googleloginsuccessful" = "Đăng nhập tài khoản Google thành công!";
+     
+"topscan_loginregister" = "Đăng nhập hoặc đăng ký";
+     
+"topscan_resetpassword" = "Đặt lại mật khẩu";
+     
+"topscan_copysuccessful" = "Sao chép thành công";
+     
+"topscan_copyfailed" = "Sao chép không thành công";
+     
+"topscan_loginicloudtips" = "Để tránh mất số dư của bạn, chúng tôi sử dụng tài khoản để ràng buộc số dư của bạn. Đồng thời, bạn cũng có thể sử dụng số dư giữa nhiều thiết bị. Vui lòng đăng nhập hoặc đăng ký tài khoản của bạn.";
+     
+"topscan_loginnow" = "Đăng nhập ngay bây giờ";
+     
+"topscan_emailemptytips" = "Email không được để trống";
+     
+"topscan_psdemptytips" = "Mật khẩu không được để trống";
+ 
+"topscan_codeemptytips" = "Mã xác minh không được để trống";
+ 
+"topscan_tips" = "Mẹo";
+ 
+"topscan_subscriptsuccessfully" = "Cảm ơn bạn đã đăng ký gói cao cấp! ";
+ 
+"topscan_autorenewable" = "Tự động gia hạn, hủy bỏ bất cứ lúc nào.";
+ 
+"topscan_nofreetrial" = "KHÔNG có bản dùng thử miễn phí";
+ 
+"topscan_details" = "Chi tiết";
+ 
+"topscan_restorepurchase" = "Khôi phục các Mặt hàng đã mua";
+ 
+"topscan_freetrial" = "Dùng thử miễn phí";
+ 
+"topscan_unlimitedfolders" = "Thư mục không giới hạn";
+ 
+"topscan_unlimitedfoldersintroduce" = "Tạo thư mục và thư mục con không giới hạn.";
+ 
+"topscan_noads" = "Không quảng cáo";
+ 
+"topscan_noadsintroduce" = "Xóa quảng cáo khỏi Simple Scanner.";
+ 
+"topscan_pdffileencryption" = "Mã hóa tệp PDF";
+ 
+"topscan_pdffileencryptionintroduce" = "Bạn có thể đặt mật khẩu cho bản quét của mình (biên nhận hoặc tệp bí mật) để bảo vệ quyền riêng tư của mình.";
+ 
+"topscan_ocrtypecloudintroduce" = "Sử dụng công nghệ AI đám mây để nhận dạng và trích xuất văn bản, hơn 1000 trang khả dụng mỗi tháng.";
+ 
+"topscan_cloudservice" = "Dịch vụ điện toán đám mây";
+ 
+"topscan_cloudserviceintroduce" = "Tự động tải tài liệu, PDF, jpg, các loại tệp của bạn lên Cloud Drive hoặc iCloud để tránh mất tài liệu.";
+ 
+"topscan_functionofcollage" = "Chức năng cắt ghép";
+ 
+"topscan_functionofcollageintroduce" = "Sử dụng chức năng cắt ghép để kết hợp nhiều trang thành một trang.";
+ 
+"topscan_unlimitedscans" = "Quét không giới hạn";
+ 
+"topscan_unlimitedscansintroduce" = "Không giới hạn số lượng tài liệu được quét.";
+ 
+"topscan_clearwaternark" = "Xóa hình mờ";
+ 
+"topscan_clearwaternarkintroduce" = "Xóa hình mờ PDF và giữ cho PDF sạch sẽ và gọn gàng.";
+ 
+"topscan_writesignature" = "Chữ ký";
+ 
+"topscan_writesignatureintroduce" = "Quét chữ ký của bạn được viết trên giấy để tạo ra một chữ ký điện tử giống hệt như bản gốc.";
+ 
+"topscan_highqualitydoc" = "Tài liệu chất lượng cao";
+ 
+"topscan_highqualitydocintroduce" = "Nhiều tùy chọn lựa chọn chất lượng hình ảnh, chọn các tùy chọn chất lượng cao hơn, làm cho tài liệu PDF rõ ràng hơn.";
+ 
+"topscan_emailmyself" = "Gửi email cho chính tôi";
+ 
+"topscan_emailmyselfintroduce" = "Gửi tài liệu cho chính bạn qua email, nhanh hơn và thuận tiện hơn.";
+ 
+"topscan_exportpdfdoc" = "Xuất tài liệu PDF";
+ 
+"topscan_exportpdfdocintroduce" = "Xuất nhanh PDF sang các ứng dụng khác hoặc lưu trữ cục bộ trên điện thoại của bạn.";
+ 
+"topscan_backupintroduce" = "Sao lưu và khôi phục nhiều thiết bị để giữ cho các tài liệu được đồng bộ hóa.";
+ 
+"topscan_graffiti" = "Vẽ nguệch ngoạc";
+ 
+"topscan_graffitiintroduce" = "Sửa đổi tài liệu, vẽ nguệch ngoạc, thêm văn bản, chữ ký, v.v.";
+ 
+"topscan_applock" = "Khóa ứng dụng";
+ 
+"topscan_applockintroduce" = "Bật Face ID hoặc Touch ID để mở khóa SimpleScanner trong một bước.";
+ 
+"topscan_imagetotext" = "Hình ảnh thành Văn bản";
+ 
+"topscan_imagetotextintroduce" = "Sử dụng tính năng OCR để nhận dạng văn bản trong hình ảnh để tìm kiếm hoặc chia sẻ sau này.";
+ 
+"topscan_propdfeditor" = "Trình chỉnh sửa PDF";
+ 
+"topscan_propdfeditorintroduce" = "Chỉnh sửa trang PDF, thêm chữ ký và vẽ nguệch ngoạc, mật khẩu PDF, xóa hình mờ, v.v.";
+ 
+"topscan_gotosetting" = "Đi tới Cài đặt";
+ 
+"topscan_ocrnummorethan" = "Cloud OCR đã được sử dụng để nhận dạng 1000 trang/tháng trong chu kỳ tính toán hiện tại. Nếu tiếp tục nhận dạng, bạn cần mua các trang OCR, hoặc vui lòng đợi chu kỳ tính toán tiếp theo để tự động thêm OCR 1000 trang.";
+ 
+"topscan_upgradeaccount" = "Hơn 20 tính năng nâng cao hơn";
+ 
+"topscan_upgradepremium" = "Nâng cấp lên gói cao cấp";
+ 
+"topscan_premium" = "Cao cấp";
+ 
+"topscan_nopurrestore" = "Không có giao dịch mua nào để khôi phục!";
+ 
+"topscan_restorefailed" = "Không thể khôi phục giao dịch mua.";
+ 
+"topscan_restoresuccessfully" = "Khôi phục giao dịch mua thành công.";
+ 
+
+
+
+
+
+
+
+"topscan_bindcontent" = "Bạn chưa cài đặt tài khoản email của mình, Vui lòng chuyển đến phần “Cài đặt-Email” trên điện thoại, chạm vào “Thêm tài khoản” để tạo tài khoản email của bạn";
+ 
+"topscan_cameratypeidcardintroduce" = "Quét và sao chép cả hai mặt của thẻ ID vào một trang duy nhất trong 1 phút, giữ nguyên kích thước ban đầu của thẻ. 100% psẵn sàng in. ";
+ 
+
+"topscan_paymenttext1" = "Thanh toán sẽ được tính vào Tài khoản iTunes khi xác nhận mua hàng.";
+ 
+
+"topscan_forgotpsd" = "Quên mật khẩu?";
+ 
+"topscan_signup" = "Đăng ký";
+ 
+"topscan_noaccount" = "Không có tài khoản?";
+ 
+"topscan_login" = "Đăng nhập";
+ 
+"topscan_quicklogin" = "Đăng nhập nhanh";
+ 
+"topscan_paynow" = "Thanh toán ngay";
+ 
+"topscan_send" = "Gửi";
+ 
+"topscan_signinsuccess" = "Đăng nhập thành công!";
+ 
+"topscan_resend" = "Gửi lại";
+ 
+"topscan_sendcodesuccess" = "Gửi thành công";
+ 
+"topscan_entervercode" = "Nhập mã xác nhận";
+ 
+"topscan_addorginalfile" = "Thêm sao lưu file gốc";
+ 
+"topscan_turnonpassword" = "Bật mật khẩu";
+
+
+"topscan_rotate" = "Quay";
+"topscan_tipask" = "Đừng bao giờ hỏi";
+    
+"topscan_croptipmsg" = "Hành động này có thể xóa tất cả các kết quả OCR, ghi chú, hình mờ, chữ ký, tranh vẽ nguệch ngoạc, Văn bản. Tiếp tục?";
+    
+"topscan_scoretitle" = "Nếu bạn thích Simple Scanner, bạn có vui lòng đánh giá chúng tôi trên App Store để ủng hộ chúng tôi không?";
+    
+"topscan_resetpsd" = "Chúng tôi chỉ cần Id Email đã đăng ký của bạn để gửi cho bạn hướng dẫn đặt lại mật khẩu.";
+    
+"topscan_compressionration" = "Tỷ lệ nén";
+    
+"topscan_size" = "Kích thước";
+    
+"topscan_compression" = "Nén";
+    
+"topscan_pdfpagenumber" = "Số trang";
+    
+"topscan_pdfpagedirection" = "Hướng trang";
+    
+"topscan_image" = "Ảnh";
+    
+"topscan_subscriptfailedtips" = "Xác minh đăng ký không thành công, vui lòng đi tới Trang chủ->Cài đặt->Khôi phục mua hàng!";
+    
+"topscan_cropautomaticcameraaip" = "Tự động cắt xén";
+    
+"topscan_nextstep" = "Bước tiếp theo";
+    
+"topscan_addsignature" = "Thêm chữ ký";
+
+"topscan_subsctiptplan" = "Gói đăng ký của bạn";
+    
+"topscan_renewedday" = "Ngày gia hạn";
+    
+"topscan_automaticrenewal" = "Tự động gia hạn";
+    
+"topscan_moredetails" = "Thêm chi tiết";
+    
+"topscan_drivedownloadfiles" = "Nhập đám mây";
+    
+"topscan_download" = "Tải xuống";
+    
+"topscan_downloadsuccessfilly" = "Tải xuống thành công";
+    
+"topscan_downloadfailed" = "Tải xuống không thành công";
+    
+"topscan_uselimitedversion" = "Sử dụng phiên bản giới hạn";
+    
+"topscan_termsofserice" = "Điều khoản Dịch vụ";
+    
+"topscan_unlimitedfeatures" = "Tính năng không giới hạn";
+    
+"topscan_subscriptiongives" = "Gói đăng ký này cung cấp cho bạn quyền truy cập không giới hạn vào các đặc quyền của chúng tôi. Nếu bạn không hủy trước khi kết thúc thời gian dùng thử, bạn sẽ tự động bị tính phí .cho đến khi hủy.";
+    
+
+    
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+    
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+ 
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

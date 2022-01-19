@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  SimpleScan
+
+  Created by admin4 on 2021/7/26.
+  Copyright © 2021 admin3. All rights reserved.
+*/
+//权限授权提示
+
+NSCameraUsageDescription = "Chạy ứng dụng để truy cập máy ảnh để quét tài liệu";
+ 
+NSPhotoLibraryUsageDescription = "Chạy ứng dụng để truy cập thư viện để lấy tài liệu";
+ 
+NSFaceIDUsageDescription = "Chạy ứng dụng để truy cập ứng dụng mở khóa FaceID";
+ 

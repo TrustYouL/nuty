@@ -1,0 +1,1212 @@
+
+
+"topscan_collage" = "Kollaasi";
+   
+"topscan_doctag" = "Aseta tunniste";
+   
+"topscan_picquality" = "Kuvanlaatu";
+   
+"topscan_addto" = "Lisää";
+   
+"topscan_share" = "Jaa";
+   
+"topscan_email" = "Sähköposti";
+   
+"topscan_merge" = "Yhdistä";
+   
+"topscan_copy" = "Kopioi/Siirrä";
+   
+"topscan_sortby" = "Lajittele";
+   
+"topscan_more" = "Lisää";
+   
+"topscan_savetogallery" = "Tallenna galleriaan";
+   
+"topscan_upload" = "Lataa";
+   
+"topscan_uploadsucceeded" = "Lataus onnistui";
+   
+"topscan_uploadfailed" = "Lataus epäonnistui";
+   
+"topscan_delete" = "Poista";
+   
+"topscan_cancel" = "Peruuta";
+   
+"topscan_ok" = "OK";
+   
+"topscan_about" = "noin";
+   
+"topscan_error" = "VIRHE!";
+   
+"topscan_skip" = "Ohita";
+   
+"topscan_decryption" = "Salauksen purku";
+   
+"topscan_allselect" = "Valitse kaikki";
+   
+"topscan_cancelallselect" = "Poista kaikkien valinta";
+   
+"topscan_items" = "Valittu";
+   
+"topscan_printing" = "Tulosta";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Merkintä";
+   
+"topscan_retake" = "Yritä uudelleen";
+   
+"topscan_ocr" = "Tunnista teksti";
+   
+"topscan_watermarktitle" = "Vesileima";
+   
+"topscan_addwatermark" = "Lisää vesileima";
+   
+"topscan_editwatermark" = "Muokkaa vesileima";
+   
+"topscan_clearwatermark" = "Tyhjennä sisältö";
+   
+"topscan_removewatermark" = "Poista vesileima";
+   
+"topscan_remind" = "Varoitus";
+   
+"topscan_loading" = "ladataan...";
+   
+"topscan_deleteoption" = "Haluatko varmasti poistaa kaikki valitut asiakirjat?";
+   
+"topscan_deletecurrentpage" = "Haluatko varmasti poistaa tämän sivun?";
+   
+"topscan_deletecurrentdoc" = "Haluatko varmasti poistaa nykyisen asiakirjan?";
+   
+"topscan_bind" = "Sähköpostitilin määritys";
+   
+"topscan_savefail" = "Tietovirhe!";
+   
+"topscan_phonememoryalert" = "Puhelimen muistiongelmista johtuen yli 30 kuvan kollaasit voivat aiheuttaa kaatumisen. Haluatko jatkaa?";
+   
+"topscan_continueshare" = "Jatka jakamista";
+   
+"topscan_savealert" = "Haluatko varmasti poistua tallentamatta muutoksia?";
+   
+"topscan_deletesignatureimagealert" = "Haluatko varmasti poistaa allekirjoituskuvan?";
+   
+"topscan_discard" = "Hylkää muutokset";
+ 
+ 
+"topscan_movesuccess" = "Siirrä asiakirja(t) onnistuneesti!";
+   
+"topscan_copysuccess" = "Kopioi asiakirja(t) onnistuneesti!";
+   
+"topscan_mergesuccess" = "Yhdistä asiakirja(t) onnistuneesti!";
+   
+"topscan_clearphotos" = "Juuri otettuja valokuvia ei tallenneta. Hävitätkö varmasti kuvat?";
+   
+"topscan_noalert" = "Älä muistuta uudelleen";
+   
+"topscan_editpdf" = "Muokkaa PDF-tiedostoa";
+   
+"topscan_addpage" = "Lisää sivu";
+   
+"topscan_collageimage" = "Kollaasikuva...";
+   
+"topscan_collageproof" = "Todistus omaisuudesta";
+   
+"topscan_collagedriverlicense" = "Ajokortti";
+   
+"topscan_collageidcard" = "Henkilökortti";
+   
+ 
+ 
+"topscan_collagepassport" = "Passi";
+   
+"topscan_collageaccountbook" = "Tilikirja";
+   
+"topscan_idcardanti" = "Väärentämätön";
+   
+"topscan_importpic" = "Galleria";
+   
+"topscan_userdefinedsize" = "Itse määritetty jaetun tiedoston koko";
+   
+"topscan_filecompressiontitle" = "Syötä puristussuhde 0-99";
+   
+"topscan_manualsorting" = "Manuaalinen lajittelu";
+   
+"topscan_firstontop" = "Ensimmäinen päällimmäisenä";
+   
+"topscan_lastontop" = "Viimeisin päällimmäisenä";
+   
+"topscan_siderename" = "Nimeä uudelleen";
+   
+"topscan_creatdatadescend" = "Päivämäärän luominen (nouseva)";
+   
+"topscan_creatdataascend" = "Päivämäärän luominen (laskeva)";
+   
+"topscan_filenameatoz" = "Tiedostonimi(A - Z)";
+   
+"topscan_filenameztoa" = "Tiedostonimi(Z - A)";
+   
+"topscan_girdview2" = "Ruudukkonäkymä";
+   
+"topscan_girdview3" = "(3 saraketta)";
+   
+"topscan_girdviewlist" = "Listanäkymä";
+   
+"topscan_folderlocationtop" = "Kansio ylimmäisenä";
+   
+"topscan_folderlocationbottom" = "Kansio alimmaisena";
+   
+"topscan_fax" = "Faksi";
+   
+"topscan_hidepagedetails" = "Piilota sivun tiedot";
+   
+"topscan_displaypagedetails" = "Näytä sivun tiedot";
+   
+"topscan_batchedit" = "Erämuokkaus";
+   
+"topscan_pdffile" = "PDF-tiedosto";
+   
+"topscan_image_jpg" = "Kuva(JPG)";
+   
+"topscan_longimage_jpg" = "Jaa pitkä kuva";
+   
+"topscan_txt" = "Jaa txt";
+   
+"topscan_originalsize" = "Alkuperäinen koko";
+   
+"topscan_medium" = "Keskikokoinen";
+   
+"topscan_small" = "Pieni";
+   
+"topscan_superhigh" = "Erittäin korkea";
+   
+"topscan_shareapp" = "Jaa tämä sovellus";
+   
+"topscan_backup" = "Varmuuskopiointi & palautus";
+   
+"topscan_icouldbackup" = "Varmuuskopioi";
+   
+"topscan_importimage" = "Tuo kuva";
+   
+"topscan_mergepdf" = "Yhdistä PDF";
+   
+"topscan_importfile" = "Tuo tiedosto";
+   
+"topscan_longpresstip" = "Selvä";
+   
+"topscan_search" = "Hae";
+   
+"topscan_homemoredocremind" = "Asiakirjamuistutus";
+   
+"topscan_settingtemplate" = "Malline";
+   
+"topscan_settingfamily" = "Perhe";
+   
+"topscan_shareappcontent" = "Löytyi loistava skanneriohjelmisto, latauslinkki";
+   
+"topscan_mergefilemethodtitle" = "Valitse yhdistämistapa";
+   
+"topscan_mergefilemethodkeepold" = "Yhdistä ja säilytä vanha asiakirja";
+   
+"topscan_mergefilemethoddeleteold" = "Yhdistä ja poista vanha asiakirja";
+   
+"topscan_cameradiscardtitle" = "Hylkää sivut";
+   
+"topscan_cameradiscardmssage" = "Hylätäänkö kaikki sivut?";
+   
+"topscan_cameraaccidenttitle" = "Tiedot";
+   
+"topscan_cameraaccidentmssage" = "joitakin viime kerralla ottamiasi kuvia ei ole käsitelty. Haluatko ladata ne?";
+   
+"topscan_cameralighton" = "On";
+   
+"topscan_cameralightoff" = "Off";
+   
+"topscan_cameralightauto" = "Automaattinen";
+   
+"topscan_cameralighttorch" = "Soihtu";
+   
+"topscan_cameratypetotext" = "Lähettää tekstiviesti";
+   
+"topscan_cameratypesingle" = "Yksittäinen";
+   
+"topscan_cameratypebatch" = "Erä";
+   
+"topscan_cameratypeqrbarcode" = "QR&viivakoodi";
+   
+"topscan_camerapermissiontitle" = "Avaa kameran käyttöoikeudet";
+   
+"topscan_camerapermissionguide" = "Asetus-yksityisyys-kamera";
+   
+"topscan_albumpermissiontitle" = "Avaa albumin käyttöoikeudet";
+   
+"topscan_albumpermissionguide" = "Asetukset-yksitysyys-valokuvat-kaikki valokuvat";
+   
+"topscan_safeentertips" = "Anna 4-numeroinen salasana!";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Haluatko varmasti kirjautua ulos?";
+       
+"topscan_psderror" = "Väärä salasana, yritä uudestaan!";
+       
+"topscan_pdferror" = "Salasana ei täsmää, yritä uudelleen!";
+       
+"topscan_touchidnotenrolled" = "Laitetta ei tunnistettu ottamaan käyttöön kosketustunnusta. Siirry puhelimen asetuksiin ja ota kosketustunnistustoiminto käyttöön.";
+       
+"topscan_faceidnotenrolled" = "Laitetta ei tunnistettu kasvotunnuksen ottamiseksi käyttöön. Ota käyttöön kasvotunnustoiminto siirtymällä puhelimen asetuksiin.";
+       
+"topscan_opensysset" = "Valtuutus asettaa keskus";
+       
+"topscan_againvafaceid" = "Napsauta vahvistaaksesi kasvotunnuksen";
+       
+"topscan_againvatouchid" = "Napsauta vahvistaaksesi Touch ID";
+       
+"topscan_pdfpagenumberno" = "Ei sivunumeroa";
+       
+"topscan_pdfpagenumberlowerl" = "vasemmassa alakulmassa";
+       
+"topscan_pdfpagenumberbottomc" = "pohjan keskellä";
+       
+"topscan_pdfpagenumberlowerr" = "oikeassa alakulmassa";
+       
+"topscan_pdfpagenumberupperl" = "vasemmassa yläkulmassa";
+       
+"topscan_pdfpagenumberheadc" = "pään keskelle";
+       
+"topscan_pdfpagenumberupperr" = "oikeassa yläkulmassa";
+       
+"topscan_colletionfunctiontitle" = "Valitse asiakirja";
+       
+"topscan_pdfdirectionauto" = "Automaattinen säätö kuvan koon mukaan";
+       
+"topscan_pdfdirectionlandscape" = "Maisema";
+       
+"topscan_pdfaddsignature" = "Muotokuva";
+       
+"topscan_changepdfsizealert" = "Nykyiset muutokset nollaavat PDF-allekirjoituksen. Haluatko jatkaa?";
+       
+"topscan_emptypdfnamealert" = "PDF-nimi ei voi olla tyhjä!";
+       
+"topscan_createdsuccessfully" = "Luominen onnistui";
+       
+"topscan_hasfolder" = "Asiakirja/kansio on jo olemassa.Valitse toinen nimi.";
+       
+"topscan_creationfailed" = "Luominen epäonnistui";
+       
+"topscan_duplicationname" = "Nimi on jo olemassa. Valitse toinen.";
+       
+"topscan_folderexists" = "Kansio on jo olemassa.";
+       
+"topscan_emailinvalidtips" = "Anna oikea sähköpostiosoite";
+       
+"topscan_defaultprocess" = "Oletusprosessi";
+       
+"topscan_original" = "Alkuperäinen";
+       
+"topscan_blackwhite" = "M&V";
+       
+"topscan_blackwhite2" = "M&V2";
+       
+"topscan_blackwhite3" = "M&V3";
+       
+"topscan_nostalgic" = "Nostalginen";
+       
+"topscan_magiccolor" = "Maaginen väri";
+       
+"topscan_magiccolor2" = "Maaginen väri2";
+       
+"topscan_grayscale" = "Harmaasävy";
+       
+"topscan_lastfilter" = "Viimeisin suodatin";
+       
+"topscan_clear" = "Tyhjennä";
+       
+"topscan_clearmarks" = "Tyhjennä merkit";
+       
+"topscan_markstip" = "Merkit(allekirjoitus, graffitit jne.)tyhjennetään, jos jatkat. Haluatko varmasti poistaa merkit?";
+       
+"topscan_setting" = "Asetuksiin";
+       
+"topscan_deletedrive" = "Haluatko varmasti poistaa nykyisen varmuuskopiotiedoston?";
+       
+"topscan_thereisnotstoragespaceon" = "Puhelimellasi ei ole tarpeeksi tallennustilaa. Yritä uudelleen!";
+       
+"topscan_dropboxsussess" = "Varmuuskopio siirrettiin Dropboxiin.";
+       
+"topscan_boxsussess" = "Varmuuskopio siirrettiin Boxiin.";
+       
+"topscan_googledrivesussess" = "Varmuuskopio siirrettiin Google Driveen.";
+       
+"topscan_onedrivesussess" = "Varmuuskopio siirrettiin Onedrivelle.";
+       
+"topscan_startbackupinbackground" = "Aloita varmuuskopioitujen tiedostojen lähettäminen taustalla";
+       
+"topscan_backupinbackgroundaleat" = "Varmuuskopiotiedoston lataaminen tapahtuu taustalla. Sovelluksen sulkeminen saattaa aiheuttaa varmuuskopion epäonnistumisen.";
+       
+"topscan_myselfemailshow" = "Lähetä sähköpostina itselleni";
+       
+"topscan_toemailtitle" = "Vastaanottaja";
+       
+"topscan_subjectplaceholder" = "Aihe";
+       
+"topscan_bodyplaceholder" = "Runko";
+       
+"topscan_emailsettingguide" = "Voit muuttaa sähköpostia valitsemalla Asetukset->Yleiset->Sähköposti.";
+       
+"topscan_picturequalityheight" = "Korkeus";
+       
+"topscan_picturequalitylow" = "Matala";
+       
+"topscan_defaultpagesize" = "Oletussivukoko";
+       
+"topscan_privacypolicy" = "Tietosuojakäytäntö";
+       
+"topscan_faq" = "UKK";
+       
+"topscan_sendfeedback" = "Lähetä palautetta";
+       
+"topscan_version" = "Versio";
+       
+"topscan_rateapp" = "Arvostele yksinkertainen skanneri";
+       
+"topscan_settinggeneral" = "YLEINEN";
+       
+"topscan_settingdocmanagement" = "Dokumenttien hallinta";
+       
+"topscan_settingourapp" = "Sovelluksemme";
+       
+"topscan_settingfaxname" = "Yksinkertainen faksi";
+       
+"topscan_settingfaxreceivename" = "Faksin vastaanotto";
+       
+"topscan_settinguseragreement" = "Käyttäjäsopimus";
+       
+"topscan_settingusersuggestion" = "Ehdotus ja palaute";
+       
+"topscan_settingdocname" = "Asiakirjan nimi";
+       
+"topscan_settingdoctime" = "Asiakirjan aika";
+       
+"topscan_changepagesize" = "Vaihda sivukoko";
+       
+"topscan_documentname" = "Itse määritelty asiakirjan nimi";
+       
+"topscan_documentdate" = "Itse määrittelemä asiakirjan aika";
+       
+"topscan_autosavetogallery" = "Automaattinen tallennus albumiin";
+       
+"topscan_saveoriginalimage" = "Tallenna alkuperäinen kuva";
+       
+"topscan_saveoriginalimagetip" = "Tämä ominaisuus nollaa pääasiassa rajaamistoiminnon, mikä vapauttaa tallennustilaa.";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Tallenna skannaukset Galleriaan automaattisesti";
+   
+"topscan_textblankprompt" = "Tunnista kuva ja muunna se tekstiksi";
+   
+"topscan_noteplaceholder" = "Aloita muistiinpanojen lisääminen!";
+   
+"topscan_ocrtexttdit" = "Muokkaa";
+   
+"topscan_ocrtextcopy" = "Kopioi";
+   
+"topscan_ocrtextexport" = "Vie";
+   
+"topscan_ocrtexttranslation" = "Käännös";
+   
+"topscan_ocrdefaultlanguage" = "Englanti";
+   
+"topscan_ocrautomatic" = "Automaattinen";
+   
+"topscan_ocrtextagain" = "Uudelleen OCR";
+   
+"topscan_ocrtypecloud" = "Pilvi-OCR";
+   
+"topscan_ocrtypelocal" = "Paikallinen nopea tunnistus";
+   
+"topscan_ocrtypelocaltip" = "Tukee vain latinalaisia merkkejä";
+   
+"topscan_ocrdownfail" = "lataus epäonnistui";
+   
+"topscan_ocrrecentanguages" = "Viimeisimmät kielet";
+   
+"topscan_ocralllanguages" = "Kaikki kielet";
+   
+"topscan_ocrexportcopy" = "Kopioi leikepöydälle";
+   
+"topscan_ocrchooseendpoint" = "Valitse lähin päätepiste";
+   
+"topscan_ocrgoogleendpointprompt" = "Valitse automaattisesti paras globaali solmu, sinun ei tarvitse valita!";
+   
+"topscan_ocrthirdocrfailprompt" = "Käsittelyvirhe tai tekstiä ei ole käytettävissä, yritä uudelleen!";
+   
+"topscan_networkstate" = "WLAN on pois päältä";
+   
+"topscan_networkstatecontent" = "Voit ottaa WLAN-yhteyden käyttöön \'simpleScan\' -sovelluksessa Asetuksissa";
+   
+"topscan_ocragainallpage" = "Kaikki sivut";
+   
+"topscan_ocragaincurrentpage" = "Nykyinen sivu";
+   
+"topscan_ocrtextagainvctip" = "Oikolukun aikana tehdyt muokkaukset menetetään, jos napautat Takaisin";
+   
+"topscan_ocrocrvctip" = "Haluatko varmasti poistua nykyisestä tekstintunnistuksesta?";
+   
+"topscan_ocrocrgooglepoint" = "Globaali";
+   
+"topscan_ocrocragaintitle" = "Napauta muokattavaa tekstiä";
+   
+"topscan_ocrocrlanguagetitle" = "Kieli";
+   
+"topscan_ocrocragainendpoint" = "Päätepiste";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Tunnista nykyinen sivu";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Tunnista kaikki sivut";
+ 
+"topscan_translatesourcelanguage" = "Lähdekieli";
+ 
+"topscan_translatetargetlanguage" = "Kohdekieli";
+ 
+"topscan_deletelanguagepack" = "Poista kielimalli";
+ 
+"topscan_stoploadlanguagepack" = "Lopeta kielimallin lataaminen";
+ 
+"topscan_scorecancel" = "Ei nyt";
+ 
+"topscan_scorefivestar" = "5 tähteä";
+ 
+"topscan_tagsungrouped" = "Ryhmittämättömät";
+ 
+"topscan_tagsalldocs" = "Kaikki asiakirjat";
+ 
+"topscan_tagssearchplaceholder" = "Syöttö tunniste";
+ 
+"topscan_tagsalltagstitle" = "Kaikki tunnisteet";
+ 
+"topscan_tagsalreadyexists" = "Tunniste on jo olemassa!";
+ 
+"topscan_tagstagdelete" = "Poistettuja tarroja ei voi palauttaa. Vahvistetaanko poisto?";
+ 
+"topscan_tagsdone" = "Valmis";
+ 
+"topscan_tagssettag" = "Aseta tunnisteet";
+ 
+"topscan_tagstagmanager" = "Tunniste";
+ 
+"topscan_tagsentermanager" = "Tunnisteet";
+ 
+"topscan_tagstagnotecontent" = "Haluatko tallentaa muokkaukset?";
+ 
+"topscan_tagstagmanageradd" = "Lisää uusi tunniste";
+ 
+"topscan_tagstagmanageraddplac" = "Anna tunnisteen nimi";
+ 
+"topscan_tagscreatelabs" = "Tunnisteiden luominen ~";
+   
+"topscan_drivestartupdate" = "Varmuuskopiotiedoston lataus alkaa";
+     
+"topscan_driveuploading" = "ladataan...";
+     
+"topscan_buildingpdf" = "Rakentaa PDF";
+     
+"topscan_processingjpg" = "Käsitellään JPG:tä";
+     
+"topscan_processing" = "Käsitellään";
+     
+"topscan_processingdoc" = "Käsitellään asiakirjaa";
+     
+"topscan_processingzip" = "Käsitellään postinumeroa";
+     
+"topscan_sortprocessing" = "Lajittele käsittely";
+     
+"topscan_removeing" = "Poistaminen";
+     
+"topscan_copyprocessing" = "Kopiointi";
+     
+"topscan_moveprocessing" = "Liikkuu";
+     
+"topscan_mergeing" = "Yhdistyminen";
+     
+"topscan_initdata" = "Alustetaan tietoja";
+     
+"topscan_docpasswordicon" = "Lukko";
+     
+"topscan_docpasswordunlockicon" = "Avata";
+     
+"topscan_pdfpassword" = "PDF-viennin salasana";
+     
+"topscan_pdfpasswordclear" = "Tyhjennä PDF-salasana";
+     
+"topscan_touchtitle" = "Vahvista Touch ID";
+     
+"topscan_clearapppsd" = "Haluatko tyhjentää sovelluksen salasanavaihtoehdot?";
+     
+"topscan_cleardocpsd" = "Haluatko tyhjentää asiakirjan käytön salasanavaihtoehdot?";
+     
+"topscan_passwordhelptip" = "Tarvitsetko apua ?";
+     
+"topscan_passwordhelpsubject" = "Asiakirjan salasanaa koskeva palaute";
+     
+"topscan_passwordapphelpsubject" = "Palaute sovelluksen salasanasta";
+     
+"topscan_enterpwd" = "Anna salasana";
+     
+"topscan_appsecurity" = "Sovelluksen turvallisuus";
+     
+"topscan_apppwd" = "Sovelluksen salasana";
+     
+"topscan_setpasswordlaceholder" = "Ole hyvä ja kirjoita salasanasi";
+     
+"topscan_resetpasswordlaceholder" = "Kirjoita salasanasi uudelleen";
+     
+"topscan_setpasswordtitle" = "Aseta salasana";
+     
+"topscan_setpdfpasswordtitle" = "PDF-salasana";
+     
+"topscan_resetpasswordtitle" = "Kirjoita salasana";
+     
+"topscan_writepasswordfail" = "Salasanat eivät täsmää, yritä uudelleen!";
+     
+"topscan_writetwopasswordfail" = " Kaksi salasanaa eivät täsmää, yritä uudelleen!";
+     
+"topscan_backupbottomtitle" = "Palauta aiemmasta varmuuskopiosta tai siirrä skannaukset toisesta laitteesta";
+     
+"topscan_docaccesspassword" = "Asiakirjan salasana";
+     
+"topscan_turnoffpassword" = "Poista salasana käytöstä";
+     
+"topscan_changepassword" = "Vaihda salasana";
+     
+"topscan_storagespacenotenough" = "Puhelimessa ei ole tarpeeksi tallennustilaa";
+     
+"topscan_storagespacetitle" = "Puhelimen tallennustila on alle 200 M, jotta tiedostoja ei voida kirjoittaa, tyhjennä tilaa";
+     
+"topscan_appheadingtitle" = "Aseta sovelluksen salasana asiakirjan suojaamiseksi";
+     
+"topscan_docheadingtitle" = "Aseta salasana salasanasuojattujen asiakirjojen katseluun";
+     
+"topscan_pdfheadingtitle" = "Aseta salasana PDF-tiedostojen jakamiseen ja vientiin tiedostojen yksityisyyden suojaamiseksi";
+     
+"topscan_batchall" = "Täynnä";
+     
+"topscan_batchauto" = "Automaattinen";
+     
+"topscan_batchfit" = "Sovita";
+     
+"topscan_left" = "Vasen";
+     
+"topscan_right" = "Oikea";
+     
+"topscan_crop" = "Rajaa";
+     
+"topscan_filter" = "Suodattaa";
+     
+"topscan_prompt" = "Nopea";
+     
+"topscan_promptcontent" = "Muutoksia ei ole vielä tallennettu. Tallenna nyt?";
+     
+"topscan_no" = "Ei";
+     
+"topscan_yes" = "Joo";
+     
+"topscan_batchsave" = "Tallenna";
+     
+"topscan_scansignature" = "Skannaa allekirjoituksesi";
+     
+"topscan_importsignature" = "Tuo albumista";
+     
+"topscan_waittip" = "Tiedoston käsittely, odota...";
+     
+"topscan_nooriginalimgdefault" = "Joitakin tiedostoja ei voi nollata ja rajata, eikä alkuperäistä tiedostoa löydy";
+     
+"topscan_nooriginalimgfilter" = "Joitakin tiedostoja ei voida suodattaa uudelleen, koska alkuperäistä tiedostoa ei löydy";
+     
+"topscan_nooriginalimgmore" = "ja enemmän";
+     
+"topscan_nooriginalimgsetting" = "Voit avata asetusvaihtoehdon tallentaaksesi alkuperäisen kuvan";
+     
+"topscan_alldatanooriginalimg" = "Rajausta ei voi nollata, alkuperäistä tiedostoa ei ole olemassa!";
+     
+"topscan_alldatanooriginalimgfilter" = "Suodatinkäsittelyä ei voi nollata, alkuperäistä tiedostoa ei ole olemassa!";
+     
+"topscan_cropautomatic" = "Automaattinen kuvan rajaus";
+     
+"topscan_cropautomatictip" = "Rajaa kuvat automaattisesti eräskannaustilassa";
+     
+"topscan_cropautomaticcameraaip" = "Automaattinen rajaus";
+     
+"topscan_camerafilterremind" = "Voit vaihtaa erätilan oletussuodattimen";
+     
+"topscan_cameracropremindfirst" = "Voit muuttaa sitä";
+     
+"topscan_cameracropremindsecond" = "erätila on rajattu";
+     
+"topscan_flitertypeapplylocation" = "Käytä kaikille sivuille";
+     
+"topscan_colletionpdftolongpictitle" = "PDF-vienti pitkään kuvaan";
+     
+"topscan_colletionpdftopictitle" = "PDF kuvaksi";
+     
+"topscan_colletionpdfpasswordtitle" = "PDF-salasana";
+     
+"topscan_colletionpdfextracttitle" = "PDF-pura";
+     
+"topscan_colletiondocpasswordtitle" = "Asiakirjan salasana";
+     
+"topscan_colletionscanidcardtitle" = "Skannaa henkilökortti";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF Lisää vesileima";
+     
+"topscan_colletionpdfsignaturetitle" = "PDF-allekirjoitus";
+     
+"topscan_colletionpdfpageadjustment" = "PDF-sivun säätö";
+     
+"topscan_colletionimagetopdf" = "Kuva PDF-muotoon";
+     
+"topscan_colletionbottomtitle" = "Pura sivu";
+     
+"topscan_colletionmydevice" = "Laitteeni";
+     
+"topscan_colletionpdfextractbottomtitle" = "Pura luo uusi asiakirja";
+     
+"topscan_docreminedtitle" = "Ota ilmoitusoikeudet käyttöön";
+     
+"topscan_docreminedcontent" = "Et ota käyttöön ilmoitusoikeuksia, joten et voi käyttää asiakirjahälytyksiä, ennen kuin ne on otettu käyttöön.";
+     
+"topscan_docreminetime" = "Asiakirjan muistutusajan on oltava pidempi kuin nykyinen järjestelmäaika!";
+     
+"topscan_questiontype" = "Valitse tyyppi";
+     
+"topscan_questiondescrible" = "Kirjoita kysymyksesi tai ehdotuksesi";
+     
+"topscan_suggestionremind" = "Jos haluat tehdä kuvakaappauksen iPhonesta 8 tai sitä vanhemmasta, paina Sleep/Wake ja Home painiketta samanaikaisesti";
+     
+"topscan_suggestionremindx" = "Jos haluat tehdä kuvakaappauksen iPhone X:ssä ja uudemmissa, paina Äänenvoimakkuuden ja Lukituspainiketta samanaikaisesti.";
+     
+"topscan_questiontypecrash" = "Kaatuminen/viive";
+   
+"topscan_questiontypetaking" = "Kuvien ottaminen/tuonti albumilta";
+   
+"topscan_questiontypephoto" = "Kuvan muokkaus";
+   
+"topscan_questiontypeocr" = "OCR";
+   
+"topscan_questiontypefax" = "Faksi";
+   
+"topscan_questiontypepoint" = "C-pisteet";
+   
+"topscan_questiontypeshare" = "Jaa/Email/Tulosta";
+   
+"topscan_questiontypeinterface" = "Käyttöliittymä";
+   
+"topscan_questiontypefeatures" = "Lisää ominaisuuksia";
+   
+"topscan_questiontypeother" = "Muut kysymykset";
+   
+"topscan_questiontypetoast" = "Onko käyttöongelmia? Tai voit antaa meille palautetta sovellustoimintojen ehdotuksista ja vaatimuksista,ja kuuntelemme mielellämme mielipiteitäsi.";
+   
+"topscan_questionsetting" = "Asetukset";
+   
+"topscan_questioncontinue" = "Jatkaa";
+   
+"topscan_questioninvalidemail" = "Virheellinen sähköpostiosoite";
+   
+"topscan_questiontoasttitle" = "Lisää kuvakaappauksia (valinnainen)";
+   
+"topscan_submittedsuccessfully" = "Lähetys onnistui !";
+   
+"topscan_suggestioncontenttitle" = "Yksityiskohta";
+   
+"topscan_suggestionsubmit" = "Lähetä";
+   
+"topscan_remindtitle" = "Otsikko";
+   
+"topscan_remindreturn" = "Palata";
+   
+"topscan_guidetitleprofessional" = "Ammattilainen";
+   
+"topscan_guidetitlecollage" = "ID-kollaasitila";
+   
+"topscan_guidetitlebackup" = "Varmuuskopiointi ja palautus";
+   
+"topscan_guideprofessionaldes" = "Tunnista asiakirjat automaattisesti, rajaa nopeasti, terävöittää ja parantaa asiakirjoja.";
+   
+"topscan_guidecollagedes" = "Kerää henkilökortin kuvat asiakirjaan, tarjoa useita mallivaihtoehtoja ja mukautetun koon.";
+   
+"topscan_guideimagedes" = "Tunnista teksti automaattisesti AI-pilvitekniikan avulla, muokkaa, kopioi, jaa ja vie tekstiä.";
+   
+"topscan_guidebackupdes" = "Varmuuskopioi asiakirjat pilvitallennustilaan tai paikalliseen tallennustilaan ja palauta varmuuskopioidut asiakirjat milloin tahansa.";
+   
+"topscan_showstatustitle" = "Ladataan tietoja";
+   
+"topscan_placeholderpassword" = "salasana";
+   
+"topscan_manualsorttitle" = "Paina pitkään lajitellaksesi manuaalisesti";
+   
+"topscan_docgraffiti" = "Graffiti";
+   
+"topscan_docaddtext" = "Lisää teksti";
+   
+"topscan_copypage" = "Kopioi nykyinen sivu";
+   
+"topscan_copyallpages" = "Kopioi kaikki sivut";
+   
+"topscan_showprocess" = "käsitellään...";
+   
+"topscan_importimgerror" = "Tiedostoa ei ole, tai tietovirhe !";
+   
+"topscan_somefileloss" = "Jotkin tiedostojen lukuvirheet !";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "Pakollinen ominaisuus ! Voit tehdä 2-puolisen sähköisen kopion henkilökortista 1 minuutissa. 100 % r valmiina tulostusta varten.";
+    
+"topscan_paperexample" = "Esimerkki A4-paperista";
+    
+"topscan_restorebackup" = "Varmuuskopioi nyt";
+    
+"topscan_restorelastbackup" = "Viimeinen varmuuskopiopäivämäärä";
+    
+"topscan_restoremerge" = "Palauta ja yhdistä kaikki nykyiset asiakirjat";
+    
+"topscan_restoredelete" = "Palauta ja poista kaikki nykyiset asiakirjat";
+    
+"topscan_restoretitle" = "PALAUTA";
+    
+"topscan_restorenotlogin" = "Pilvitilin sisäänkirjautumisen tilaa ei havaittu.";
+    
+"topscan_restorenotrepeat" = "Lähetetään varmuuskopiotiedostoa, odota...";
+    
+"topscan_restorebackwifi" = "Varmuuskopiointi vain Wi-Fissä";
+    
+"topscan_restorenodocument" = "Tällä hetkellä ei ole saatavilla asiakirjaa, lisää ensin asiakirja.";
+    
+"topscan_restorequery" = "kysely...";
+    
+"topscan_restorequeryfailed" = "Pyyntö epäonnistui tai varmuuskopiotiedostoa ei löytynyt.";
+    
+"topscan_restoreprocessfiles" = "Käsitellään tiedostoja";
+    
+"topscan_restorebackupfailed" = "Varmuuskopiointi epäonnistui!";
+    
+"topscan_restoreuploadingfile" = "Tiedostoa lähetetään, odota ole hyvä...";
+    
+"topscan_saferepasscode" = "Anna koodi uudelleen";
+    
+"topscan_saferepassword" = "Anna salasana uudelleen";
+    
+"topscan_applicationsecrulty" = "Sovelluksen salaisuus";
+    
+"topscan_verifypasscode" = "Tarkista salasana";
+    
+"topscan_setpasscode" = "Aseta salasana";
+    
+"topscan_enternewpassword" = "Syötä uusi salasana";
+    
+"topscan_filetype" = "Tiedostotyyppi";
+    
+"topscan_fileformat" = "Tiedosto muoto";
+    
+"topscan_sharepdfformat" = "Jaa tiedostot .PDF-muodossa";
+    
+"topscan_sharezipformat" = "Jaa tiedostot .ZIP-muodossa";
+    
+"topscan_sharejpgformat" = "Jaa tiedostot .JPG-muodossa";
+    
+"topscan_newfolderprompt" = "Uusi kansio";
+    
+"topscan_currentdocument" = "Nykyinen asiakirja";
+    
+"topscan_recognizetitle" = "Tunnista";
+    
+"topscan_filedeleteprompt" = "Varmuuskopiotiedosto poistettu onnistuneesti!";
+    
+"topscan_filedownbackup" = "Lataa varmuuskopiotiedosto";
+    
+"topscan_filestartbackup" = "Varmuuskopiotiedoston lataaminen alkaa";
+    
+"topscan_filerestoresuccessed" = "Varmuuskopiotiedoston palautus onnistui.";
+    
+"topscan_uploadsingin" = "KIRJAUDU SISÄÄN";
+    
+"topscan_singoutlowercase" = "Kirjaudu ulos";
+    
+"topscan_processingerror" = "Tiedoston käsittelyvirhe!";
+    
+"topscan_barcodeopenurl" = "Avaa URL";
+    
+"topscan_barcoderesult" = "Tunnustustulos";
+    
+"topscan_downloadlanguage" = "Kieli ladataan...";
+    
+"topscan_graffitibrush" = "Harjata";
+    
+"topscan_graffitiopacity" = "Opasiteetti";
+    
+"topscan_graffitieraser" = "Pyyhekumi";
+    
+"topscan_graffiticolor" = "Väri";
+    
+"topscan_graffitiundo" = "Kumoa";
+    
+"topscan_graffitiredo" = "Tee uudelleen";
+    
+"topscan_nosignture" = "Ei allekirjoitusta!";
+    
+"topscan_graffititext" = "Teksti";
+        
+"topscan_graffitireplacefile" = "Korvaa nykyinen tiedosto";
+        
+"topscan_graffiticreatefile" = "Luo uusi tiedosto";
+        
+"topscan_graffiticopyto" = "Kopioi kohteeseen";
+        
+"topscan_graffitimoveto" = "Siirrä";
+        
+"topscan_graffititextrecognition" = "Tunnustusteksti";
+        
+"topscan_ocraccount" = "OCR-tilin hallinta";
+        
+"topscan_loginsuccessful" = "Kirjaudu sisään onnistuneesti!";
+        
+"topscan_appleloginsuccessful" = "Apple-tilin kirjautuminen onnistui!";
+        
+"topscan_googleloginsuccessful" = "Google-tiliin kirjautuminen onnistui!";
+        
+"topscan_loginregister" = "Kirjaudu sisään tai rekisteröidy";
+        
+"topscan_resetpassword" = "Nollaa Salasana";
+        
+"topscan_copysuccessful" = "Kopiointi onnistui";
+        
+"topscan_copyfailed" = "Kopiointi epäonnistui";
+        
+"topscan_loginicloudtips" = "Saldosi menetyksen estämiseksi käytämme tiliä sitomaan saldosi. Samanaikaisesti voit käyttää myös useiden laitteiden välistä tasapainoa. Kirjaudu sisään tai rekisteröi tilisi.";
+        
+"topscan_loginnow" = "Kirjaudu sisään nyt";
+        
+"topscan_emailemptytips" = "Sähköposti ei voi olla tyhjä";
+        
+"topscan_psdemptytips" = "Salasana ei voi olla tyhjä";
+    
+"topscan_codeemptytips" = "Vahvistuskoodi ei voi olla tyhjä";
+    
+"topscan_tips" = "Vinkkejä";
+    
+"topscan_subscriptsuccessfully" = "Kiitos tilauksesta premium! ";
+    
+"topscan_autorenewable" = "Automaattisesti uusittava, peruuta milloin tahansa.";
+    
+"topscan_nofreetrial" = "EI ilmaista kokeilua";
+    
+"topscan_details" = "Yksityiskohdat";
+    
+"topscan_restorepurchase" = "Palauta ostetut tuotteet";
+    
+"topscan_freetrial" = "Ilmainen kokeilu";
+    
+"topscan_unlimitedfolders" = "Rajoittamaton kansio";
+    
+"topscan_unlimitedfoldersintroduce" = "Rajoittamaton kansioiden ja alikansioiden luominen.";
+    
+"topscan_noads" = "Ei mainoksia";
+    
+"topscan_noadsintroduce" = "Poista mainokset Simple Scannerista.";
+    
+"topscan_pdffileencryption" = "PDF-tiedostojen salaus";
+    
+"topscan_pdffileencryptionintroduce" = "Voit asettaa salasanan skannauksillesi (kuitit tai luottamukselliset tiedostot) yksityisyyden suojaamiseksi.";
+    
+"topscan_ocrtypecloudintroduce" = "Käytä pilvi-AI-tekniikkaa tunnistamaan ja poimimaan tekstiä, yli 1000 sivua käytettävissä kuukaudessa.";
+    
+"topscan_cloudservice" = "Pilvipalvelu";
+    
+"topscan_cloudserviceintroduce" = "Lataa asiakirjat, PDF, JPG, tiedostotyypit automaattisesti Cloud Driveen tai iCloudiin asiakirjojen häviämisen välttämiseksi.";
+    
+"topscan_functionofcollage" = "Kollaasin toiminta";
+    
+"topscan_functionofcollageintroduce" = "Kollaasitoiminnon avulla voit yhdistää useita sivuja yhdeksi sivuksi.";
+    
+"topscan_unlimitedscans" = "Rajoittamaton skannaus";
+    
+"topscan_unlimitedscansintroduce" = "Skannattujen asiakirjojen lukumäärää ei rajoiteta.";
+    
+"topscan_clearwaternark" = "Tyhjennä vesileima";
+    
+"topscan_clearwaternarkintroduce" = "Poista PDF-vesileima ja pidä PDF puhtaana ja siistinä.";
+    
+"topscan_writesignature" = "Allekirjoitus";
+    
+"topscan_writesignatureintroduce" = "Skannaa paperille kirjoitettu allekirjoitus, jotta saat sähköisen allekirjoituksen, joka näyttää täsmälleen samalta kuin alkuperäinen.";
+    
+"topscan_highqualitydoc" = "Laadukas asiakirja";
+    
+"topscan_highqualitydocintroduce" = "Useita kuvanlaadun valintavaihtoehtoja, valitse korkealaatuisemmat vaihtoehdot, tee dokumentista PDF selkeämpi.";
+    
+"topscan_emailmyself" = "Lähetä sähköpostia itselleni";
+    
+"topscan_emailmyselfintroduce" = "Lähetä asiakirjoja itsellesi sähköpostitse, nopeammin ja helpommin.";
+    
+"topscan_exportpdfdoc" = "Vie PDF-asiakirja";
+    
+"topscan_exportpdfdocintroduce" = "Vie PDF nopeasti muihin sovelluksiin tai tallenna paikallisesti puhelimeesi.";
+    
+"topscan_backupintroduce" = "Usean laitteen varmuuskopiointi ja palautus asiakirjojen synkronoimiseksi.";
+    
+"topscan_graffiti" = "Graffiti";
+    
+"topscan_graffitiintroduce" = "Muokkaa asiakirjoja, graffitteja, lisää tekstiä, allekirjoituksia jne.";
+    
+"topscan_applock" = "APP-lukitus";
+    
+"topscan_applockintroduce" = "Ota Face ID tai Touch ID käyttöön avataksesi SimpleScannerin lukituksen yhdessä vaiheessa.";
+    
+"topscan_imagetotext" = "Kuva tekstiksi";
+    
+"topscan_imagetotextintroduce" = "Käytä OCR-ominaisuutta tunnistaaksesi kuvassa olevat tekstit myöhempää hakua tai jakamista varten.";
+    
+"topscan_propdfeditor" = "PDF-editori";
+    
+"topscan_propdfeditorintroduce" = "Muokkaa PDF-sivuja, lisää allekirjoituksia ja graffitteja, PDF-salasanoja, poista vesileimat jne.";
+    
+"topscan_gotosetting" = "Siirry Asetukset";
+    
+"topscan_ocrnummorethan" = "Pilvitunnistinta on käytetty tunnistamaan 1000 sivua kuukaudessa nykyisessä laskentajaksossa. Jos jatkat tunnistamista, sinun on ostettava tekstintunnistussivut tai odota seuraavaa laskentajaksoa, jotta voit lisätä automaattisen tekstintunnistuksen 1000 sivua automaattisesti.";
+    
+"topscan_upgradeaccount" = "20 + edistyneempiä ominaisuuksia";
+    
+"topscan_upgradepremium" = "Päivitä premiumiin";
+    
+"topscan_premium" = "Premium";
+    
+"topscan_nopurrestore" = "Ei ostoksia palautettavaksi!";
+    
+"topscan_restorefailed" = "Ostoksen palauttaminen epäonnistui.";
+    
+"topscan_restoresuccessfully" = "Palauta ostos onnistuneesti.";
+  
+"topscan_bindcontent" = "Et ole määrittänyt sähköpostitiliäsi. Siirry puhelimesi asetukset \"Sähköpostin asettaminen\" ja napauta \"Lisää tili\" luodaksesi sähköpostitilisi";
+    
+"topscan_cameratypeidcardintroduce" = "Skannaa ja kopioi henkilökortin molemmat puolet yhdelle sivulle 1 minuutissa,säilyttäen kortin alkuperäinen koko. 100 % print valmis. ";
+    
+  
+"topscan_paymenttext1" = "Maksu veloitetaan iTunes-tililtä oston vahvistuksen yhteydessä.";
+
+"topscan_forgotpsd" = "Unohditko salasanasi?";
+    
+"topscan_signup" = "Kirjaudu";
+    
+"topscan_noaccount" = "Ei tiliä ?";
+    
+"topscan_login" = "Kirjaudu sisään";
+    
+"topscan_quicklogin" = "Nopea kirjautuminen";
+    
+"topscan_paynow" = "Maksa nyt";
+    
+"topscan_send" = "Lähettää";
+    
+"topscan_signinsuccess" = "Kirjaudu sisään onnistuneesti!";
+    
+"topscan_resend" = "Uudelleen lähettää";
+    
+"topscan_sendcodesuccess" = "Lähetä onnistuneesti";
+    
+"topscan_entervercode" = "Syötä vahvistus koodi";
+    
+"topscan_addorginalfile" = "Lisää alkuperäisen tiedoston varmuuskopio";
+    
+"topscan_turnonpassword" = "Ota salasana käyttöön";
+
+
+"topscan_rotate" = "Kiertää";
+"topscan_tipask" = "Älä koskaan kysy";
+    
+"topscan_croptipmsg" = "Toiminto voi poistaa kaikki OCR -tulokset, muistiinpanon, vesileiman, allekirjoitukset, graffitit ja tekstin. Jatkaa?";
+    
+"topscan_scoretitle" = "Jos pidät Simple Scannerista, arvostatko meidät ystävällisesti App Storesta tukemaan meitä?";
+    
+"topscan_resetpsd" = "Tarvitsemme vain rekisteröidyn sähköpostiosoittees lähettääksemme sinulle salasanan palautusohjeet.";
+    
+"topscan_compressionration" = "Puristussuhde";
+    
+"topscan_size" = "Koko";
+    
+"topscan_compression" = "Puristus";
+    
+"topscan_pdfpagenumber" = "Sivunumero";
+    
+"topscan_pdfpagedirection" = "Sivun suunta";
+    
+"topscan_image" = "Kuva";
+    
+"topscan_subscriptfailedtips" = "Tilauksen vahvistus epäonnistui, siirry kohtaan Koti->Asetukset->Palauta ostos!";
+    
+"topscan_cropautomaticcameraaip" = "Rajaa automaattisesti";
+    
+"topscan_nextstep" = "Seuraava askel";
+    
+"topscan_addsignature" = "Lisää allekirjoitus";
+  
+"topscan_subsctiptplan" = "Tilaussuunnitelmasi";
+    
+"topscan_renewedday" = "Uusittu päivä";
+    
+"topscan_automaticrenewal" = "Automaattinen uusiminen";
+    
+"topscan_moredetails" = "Lisätietoja";
+    
+"topscan_drivedownloadfiles" = "Pilvien tuonti";
+    
+"topscan_download" = "Lataa";
+    
+"topscan_downloadsuccessfilly" = "Lataa onnistuneesti";
+    
+"topscan_downloadfailed" = "Lataus epäonnistui";
+    
+"topscan_uselimitedversion" = "Käytä rajoitettua versiota";
+    
+"topscan_termsofserice" = "Käyttöehdot";
+    
+"topscan_unlimitedfeatures" = "Rajattomasti ominaisuuksia";
+    
+"topscan_subscriptiongives" = "Tämä tilaus antaa sinulle rajoittamattoman pääsyn käyttöoikeuksiimme. Jos et peruuta tilausta ennen kokeilujakson päättymistä, sinua veloitetaan automaattisesti .Kunnes peruutat.";
+    
+
+    
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+/**
+ 新增未翻译字段
+ */
+"topscan_datarefresh" = "Refresh data";
+
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+   
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

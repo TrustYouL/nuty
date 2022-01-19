@@ -1,0 +1,1207 @@
+
+
+"topscan_collage" = "Колаж";
+   
+"topscan_doctag" = "Встановити тег";
+   
+"topscan_picquality" = "Якість зображення";
+   
+"topscan_addto" = "Додати";
+   
+"topscan_share" = "Поділитися";
+   
+"topscan_email" = "Електронна пошта";
+   
+"topscan_merge" = "Поєднати";
+   
+"topscan_copy" = "Копіювати/перемістити";
+   
+"topscan_sortby" = "Сортувати за";
+   
+"topscan_more" = "Більше";
+   
+"topscan_savetogallery" = "Зберегти в галереї";
+   
+"topscan_upload" = "Завантажити";
+   
+"topscan_uploadsucceeded" = "Завантаження вдалося";
+   
+"topscan_uploadfailed" = "Помилка завантаження";
+   
+"topscan_delete" = "Видалити";
+   
+"topscan_cancel" = "Скасувати";
+   
+"topscan_ok" = "OK";
+   
+"topscan_about" = "про";
+   
+"topscan_error" = "Помилка!";
+   
+"topscan_skip" = "Пропустити";
+   
+"topscan_decryption" = "Розшифровка";
+   
+"topscan_allselect" = "Вибрати все";
+   
+"topscan_cancelallselect" = "Скасувати вибір всіх файлів";
+   
+"topscan_items" = "Вибрано";
+   
+"topscan_printing" = "Друкувати";
+   
+"topscan_pdf" = "PDF";
+   
+"topscan_note" = "Примітка";
+   
+"topscan_retake" = "Повторити";
+   
+"topscan_ocr" = "Розпізнати текст";
+   
+"topscan_watermarktitle" = "Водяний знак";
+   
+"topscan_addwatermark" = "Додайте водяний знак";
+   
+"topscan_editwatermark" = "Редагуйте водяний знак";
+   
+"topscan_clearwatermark" = "Очистити вміст";
+   
+"topscan_removewatermark" = "Видалити водяний знак";
+   
+"topscan_remind" = "Увага";
+   
+"topscan_loading" = "завантаження...";
+   
+"topscan_deleteoption" = "Ви впевнені, що хочете видалити всі вибрані документи?";
+   
+"topscan_deletecurrentpage" = "Ви дійсно бажаєте видалити цю сторінку?";
+   
+"topscan_deletecurrentdoc" = "Ви дійсно бажаєте видалити поточну мову?";
+   
+"topscan_bind" = "Налаштування облікового запису електронної пошти";
+   
+"topscan_savefail" = "Помилка даних.";
+   
+"topscan_phonememoryalert" = "Через проблеми з пам’яттю телефону колажі розміром більше 30 зображень можуть спричинити збій. Ви хочете продовжити?";
+   
+"topscan_continueshare" = "Продовжуйте ділитися";
+   
+"topscan_savealert" = "Ви підете, не зберігаючи зміни?";
+   
+"topscan_deletesignatureimagealert" = "Ви впевнені, що хочете видалити зображення підпису?";
+   
+"topscan_discard" = "Скасувати зміни";
+ 
+ 
+"topscan_movesuccess" = "Документ(и) переміщено успішно!";
+   
+"topscan_copysuccess" = "Копіювання здійснено успішно!";
+   
+"topscan_mergesuccess" = "Об’єднання здійснено успішно!";
+   
+"topscan_clearphotos" = "Щойно зроблені фотографії не будуть збережені. Дійсно викинути фотографії?";
+   
+"topscan_noalert" = "Більше не нагадувати";
+   
+"topscan_editpdf" = "Редагувати PDF";
+   
+"topscan_addpage" = "Додати сторінку";
+   
+"topscan_collageimage" = "Зображення колажу...";
+   
+"topscan_collageproof" = "Підтвердження власності";
+   
+"topscan_collagedriverlicense" = "Водійські права";
+   
+"topscan_collageidcard" = "Посвідчення особи";
+   
+ 
+ 
+"topscan_collagepassport" = "Паспорт";
+   
+"topscan_collageaccountbook" = "Книга рахунків";
+   
+"topscan_idcardanti" = "Захист від підробок";
+   
+"topscan_importpic" = "Галерея";
+   
+"topscan_userdefinedsize" = "Розмір внутрішнього файлового ресурсу";
+   
+"topscan_filecompressiontitle" = "Введіть коефіцієнт стиснення 1-99";
+   
+"topscan_manualsorting" = "Ручне сортування";
+   
+"topscan_firstontop" = "Спочатку перші";
+   
+"topscan_lastontop" = "Спочатку останні";
+   
+"topscan_siderename" = "Перейменувати";
+   
+"topscan_creatdatadescend" = "Дата створення (за зростанням)";
+   
+"topscan_creatdataascend" = "Дата створення (за спаданням)";
+   
+"topscan_filenameatoz" = "Ім\'я файлу (від A до Z)";
+   
+"topscan_filenameztoa" = "Ім\'я файлу (від Z до A)";
+   
+"topscan_girdview2" = "Сітка";
+   
+"topscan_girdview3" = "(3 колонки)";
+   
+"topscan_girdviewlist" = "Список";
+   
+"topscan_folderlocationtop" = "Папки на початок списку";
+   
+"topscan_folderlocationbottom" = "Папки в кінець списку";
+   
+"topscan_fax" = "Факс";
+   
+"topscan_hidepagedetails" = "Приховати дані сторінки";
+   
+"topscan_displaypagedetails" = "Показати дані сторінки";
+   
+"topscan_batchedit" = "Пакетне редагування";
+   
+"topscan_pdffile" = "PDF-файл";
+   
+"topscan_image_jpg" = "Зображення (JPG)";
+   
+"topscan_longimage_jpg" = "Передати як довге зображення";
+   
+"topscan_txt" = "Поділитися (TXT)";
+   
+"topscan_originalsize" = "Оригінальний розмір";
+   
+"topscan_medium" = "Середній";
+   
+"topscan_small" = "Малий";
+   
+"topscan_superhigh" = "Супервисокий";
+   
+"topscan_shareapp" = "Поділитися програмою";
+   
+"topscan_backup" = "Резервне копіювання та відновлення";
+   
+"topscan_icouldbackup" = "Резервне копіювання";
+   
+"topscan_importimage" = "Імпортувати зображення";
+   
+"topscan_mergepdf" = "Об’єднати PDF";
+   
+"topscan_importfile" = "Імпортувати файл";
+   
+"topscan_longpresstip" = "Зрозуміло";
+   
+"topscan_search" = "Пошук";
+   
+"topscan_homemoredocremind" = "Нагадування про документ";
+   
+"topscan_settingtemplate" = "Шаблон";
+   
+"topscan_settingfamily" = "Сім\'я";
+   
+"topscan_shareappcontent" = "Знайшли чудове програмне забезпечення сканера, посилання для завантаження";
+   
+"topscan_mergefilemethodtitle" = "Виберіть спосіб поєднання";
+   
+"topscan_mergefilemethodkeepold" = "Злиття та збереження старого документа";
+   
+"topscan_mergefilemethoddeleteold" = "Злиття та видалення старого документа";
+   
+"topscan_cameradiscardtitle" = "Скасувати сторінки";
+   
+"topscan_cameradiscardmssage" = "Скасувати всі сторінки?";
+   
+"topscan_cameraaccidenttitle" = "Інформація";
+   
+"topscan_cameraaccidentmssage" = "Деякі зображення, зроблені минулого разу, не були оброблені, чи хотіли б ви їх завантажити?";
+   
+"topscan_cameralighton" = "УВІМК";
+   
+"topscan_cameralightoff" = "ВИМК";
+   
+"topscan_cameralightauto" = "Авто";
+   
+"topscan_cameralighttorch" = "Ліхтар";
+   
+"topscan_cameratypetotext" = "До тексту";
+   
+"topscan_cameratypesingle" = "Один";
+   
+"topscan_cameratypebatch" = "Пакет";
+   
+"topscan_cameratypeqrbarcode" = "QR- та штрих-код";
+   
+"topscan_camerapermissiontitle" = "Відкрийте дозволи для камери";
+   
+"topscan_camerapermissionguide" = "Налаштування-конфіденційності для камери";
+   
+"topscan_albumpermissiontitle" = "Будь ласка, відкрийте дозволи на альбоми";
+   
+"topscan_albumpermissionguide" = "Налаштування-конфіденційності — всі фото";
+   
+"topscan_safeentertips" = "Введіть 4-значний пароль";
+   
+ 
+ 
+"topscan_loginouttipsmessage" = "Ви впевнені, що хочете вийти?";
+       
+"topscan_psderror" = "Неправильний пароль. Повторіть спробу!";
+       
+"topscan_pdferror" = "Пароль не збігається, спробуйте ще раз!";
+       
+"topscan_touchidnotenrolled" = "Пристрій не виявлено. Щоб увімкнути сенсорний ідентифікатор, перейдіть до центру налаштувань телефону, щоб увімкнути функцію сенсорного ідентифікатора.";
+       
+"topscan_faceidnotenrolled" = "Пристрій не виявлено. Щоб увімкнути ідентифікатор обличчя, перейдіть до центру налаштувань телефону, щоб увімкнути функцію ідентифікатора обличчя.";
+       
+"topscan_opensysset" = "Дозвіл на встановлення центру";
+       
+"topscan_againvafaceid" = "Клацніть, щоб підтвердити ідентифікатор обличчя";
+       
+"topscan_againvatouchid" = "Клацніть, щоб підтвердити Touch ID";
+       
+"topscan_pdfpagenumberno" = "Немає номера сторінки";
+       
+"topscan_pdfpagenumberlowerl" = "внизу ліворуч";
+       
+"topscan_pdfpagenumberbottomc" = "внизу по центру";
+       
+"topscan_pdfpagenumberlowerr" = "внизу праворуч";
+       
+"topscan_pdfpagenumberupperl" = "вверху ліворуч";
+       
+"topscan_pdfpagenumberheadc" = "вверху по центру";
+       
+"topscan_pdfpagenumberupperr" = "вверху праворуч";
+       
+"topscan_colletionfunctiontitle" = "Виберіть документ";
+       
+"topscan_pdfdirectionauto" = "Автоматичне налаштування за розміром зображення";
+       
+"topscan_pdfdirectionlandscape" = "Пейзаж";
+       
+"topscan_pdfaddsignature" = "Портрет";
+       
+"topscan_changepdfsizealert" = "Поточні зміни скинуть підпис PDF. Ви хочете продовжити?";
+       
+"topscan_emptypdfnamealert" = "Ім\'я PDF не може бути порожнім!";
+       
+"topscan_createdsuccessfully" = "Створено успішно";
+       
+"topscan_hasfolder" = "Такий документ/папка вже існує. Оберіть іншу назву.";
+       
+"topscan_creationfailed" = "Помилка створення";
+       
+"topscan_duplicationname" = "Така назва вже існує. Оберіть іншу.";
+       
+"topscan_folderexists" = "Папка вже існує.";
+       
+"topscan_emailinvalidtips" = "Введіть правильну адресу електронної пошти";
+       
+"topscan_defaultprocess" = "Стандартний процес";
+       
+"topscan_original" = "Оригінал";
+       
+"topscan_blackwhite" = "Ч/Б";
+       
+"topscan_blackwhite2" = "Ч/Б2";
+       
+"topscan_blackwhite3" = "Ч/Б3";
+       
+"topscan_nostalgic" = "Ностальгічний";
+       
+"topscan_magiccolor" = "Чарівний колір";
+       
+"topscan_magiccolor2" = "Чарівний колір2";
+       
+"topscan_grayscale" = "Відтінки сірого";
+       
+"topscan_lastfilter" = "Останній фільтр";
+       
+"topscan_clear" = "Очистити";
+       
+"topscan_clearmarks" = "Чіткі позначки";
+       
+"topscan_markstip" = "Якщо продовжити, позначки (підпис, графіті тощо) буде видалено. Впевнені, що треба очистити позначки?";
+       
+"topscan_setting" = "До налаштувань";
+       
+"topscan_deletedrive" = "Ви дійсно хочете видалити цей файл резервної копії?";
+       
+"topscan_thereisnotstoragespaceon" = "На вашому телефоні недостатньо місця для збереження. Спробуйте ще раз.";
+       
+"topscan_dropboxsussess" = "Резервну копію було перенесено на Dropbox.";
+       
+"topscan_boxsussess" = "Резервну копію було передано до Box.";
+       
+"topscan_googledrivesussess" = "Резервну копію було перенесено на Google Drive.";
+       
+"topscan_onedrivesussess" = "Резервну копію було передано до Onedrive.";
+       
+"topscan_startbackupinbackground" = "Почніть завантажувати резервні копії файлів у фоновому режимі";
+       
+"topscan_backupinbackgroundaleat" = "Завантаження файлу резервної копії здійснюватиметься у фоновому режимі, закриття програми може призвести до збою резервного копіювання.";
+       
+"topscan_myselfemailshow" = "Надіслати листа на мою електронну адресу";
+       
+"topscan_toemailtitle" = "Кому";
+       
+"topscan_subjectplaceholder" = "Тема";
+       
+"topscan_bodyplaceholder" = "Тіло";
+       
+"topscan_emailsettingguide" = "Ви можете змінити електронну пошту в Налаштування -> Загальне -> Електронна пошта.";
+       
+"topscan_picturequalityheight" = "Високо";
+       
+"topscan_picturequalitylow" = "Низька";
+       
+"topscan_defaultpagesize" = "Стандартний розмір сторінки";
+       
+"topscan_privacypolicy" = "Політика конфіденційності";
+       
+"topscan_faq" = "Питання та відповіді";
+       
+"topscan_sendfeedback" = "Надіслати відгук";
+       
+"topscan_version" = "Версія";
+       
+"topscan_rateapp" = "Оцініть Простий сканер";
+       
+"topscan_settinggeneral" = "Загальне";
+       
+"topscan_settingdocmanagement" = "Управління документами";
+       
+"topscan_settingourapp" = "Наша програма";
+       
+"topscan_settingfaxname" = "Простий факс";
+       
+"topscan_settingfaxreceivename" = "Отримання факсу";
+       
+"topscan_settinguseragreement" = "Угода з користувачем";
+       
+"topscan_settingusersuggestion" = "Пропозиція та відгуки";
+       
+"topscan_settingdocname" = "Назва документа";
+       
+"topscan_settingdoctime" = "Час документа";
+       
+"topscan_changepagesize" = "Змінити розмір сторінки";
+       
+"topscan_documentname" = "Назва документа, що самостійно визначається";
+       
+"topscan_documentdate" = "Самовизначений час документа";
+       
+"topscan_autosavetogallery" = "Автоматичне збереження в альбомі";
+       
+"topscan_saveoriginalimage" = "Зберегти оригінальне зображення";
+       
+"topscan_saveoriginalimagetip" = "Ця функція переважно скидає функцію обрізання, що звільнює місце для збереження.";
+   
+ 
+ 
+ 
+"topscan_savetogallerytip" = "Збережіть скановані зображення в галереї автоматично";
+   
+"topscan_textblankprompt" = "Розпізнайте зображення та перетворіть у текст";
+   
+"topscan_noteplaceholder" = "Почніть додавати примітки.";
+   
+"topscan_ocrtexttdit" = "Редагувати";
+   
+"topscan_ocrtextcopy" = "Скопіювати";
+   
+"topscan_ocrtextexport" = "Експортувати";
+   
+"topscan_ocrtexttranslation" = "Переклад";
+   
+"topscan_ocrdefaultlanguage" = "Англійська";
+   
+"topscan_ocrautomatic" = "Автоматичний";
+   
+"topscan_ocrtextagain" = "Розпізнати знову";
+   
+"topscan_ocrtypecloud" = "Хмарне розпізнавання";
+   
+"topscan_ocrtypelocal" = "Локальне швидке розпізнавання";
+   
+"topscan_ocrtypelocaltip" = "Підтримуються лише латинські символи";
+   
+"topscan_ocrdownfail" = "не вдалося завантажити";
+   
+"topscan_ocrrecentanguages" = "Останні мови";
+   
+"topscan_ocralllanguages" = "Усі мови";
+   
+"topscan_ocrexportcopy" = "Копіювати в буфер обміну";
+   
+"topscan_ocrchooseendpoint" = "Виберіть найближчу кінцеву точку";
+   
+"topscan_ocrgoogleendpointprompt" = "Автоматично вибирайте найкращий глобальний вузол. Не потрібно вибирати!";
+   
+"topscan_ocrthirdocrfailprompt" = "Помилка обробки або відсутність тексту, спробуйте ще раз!";
+   
+"topscan_networkstate" = "WLAN вимкнено";
+   
+"topscan_networkstatecontent" = "Ви можете увімкнути WLAN для програми \'simpleScan\' у налаштуваннях";
+   
+"topscan_ocragainallpage" = "Усі сторінки";
+   
+"topscan_ocragaincurrentpage" = "Поточна сторінка";
+   
+"topscan_ocrtextagainvctip" = "Зміни, зроблені під час вичитки, будуть втрачені, якщо натиснути Назад";
+   
+"topscan_ocrocrvctip" = "Ви впевнені, що хочете вийти з поточного розпізнавання тексту?";
+   
+"topscan_ocrocrgooglepoint" = "Глобальний";
+   
+"topscan_ocrocragaintitle" = "Торкніться тексту для редагування";
+   
+"topscan_ocrocrlanguagetitle" = "Мова";
+   
+"topscan_ocrocragainendpoint" = "Кінцева точка";
+   
+
+
+
+
+
+"topscan_ocrocragainrecognizecurrentpage" = "Розпізнати поточну сторінку";
+ 
+"topscan_ocrocragainrecognizeallpages" = "Розпізнати всі сторінки";
+ 
+"topscan_translatesourcelanguage" = "Мова-джерела";
+ 
+"topscan_translatetargetlanguage" = "Мова перекладу";
+ 
+"topscan_deletelanguagepack" = "Видалити мовну модель";
+ 
+"topscan_stoploadlanguagepack" = "Зупинити завантаження мовної моделі";
+ 
+"topscan_scorecancel" = "Не зараз";
+ 
+"topscan_scorefivestar" = "5 зірок";
+ 
+"topscan_tagsungrouped" = "Незгрупований файл";
+ 
+"topscan_tagsalldocs" = "Усі документи";
+ 
+"topscan_tagssearchplaceholder" = "Ввести тег";
+ 
+"topscan_tagsalltagstitle" = "Усі теги";
+ 
+"topscan_tagsalreadyexists" = "Тег уже існує.";
+ 
+"topscan_tagstagdelete" = "Видалені мітки неможливо відновити. Підтвердити видалення?";
+ 
+"topscan_tagsdone" = "Готово";
+ 
+"topscan_tagssettag" = "Встановити теги";
+ 
+"topscan_tagstagmanager" = "Позначка";
+ 
+"topscan_tagsentermanager" = "Теги";
+ 
+"topscan_tagstagnotecontent" = "Бажаєте зберегти правки?";
+ 
+"topscan_tagstagmanageradd" = "Додати новий тег";
+ 
+"topscan_tagstagmanageraddplac" = "Введіть назву тегу";
+ 
+"topscan_tagscreatelabs" = "Для створення міток ~";
+   
+"topscan_drivestartupdate" = "Файл резервної копії починає завантажуватися...";
+     
+"topscan_driveuploading" = "завантаження...";
+     
+"topscan_buildingpdf" = "Будівництво PDF";
+     
+"topscan_processingjpg" = "Обробка JPG";
+     
+"topscan_processing" = "Відбувається обробка...";
+     
+"topscan_processingdoc" = "Обробка документа";
+     
+"topscan_processingzip" = "Обробка ZIP";
+     
+"topscan_sortprocessing" = "Обробка сортування";
+     
+"topscan_removeing" = "Видалення";
+     
+"topscan_copyprocessing" = "Копіювання";
+     
+"topscan_moveprocessing" = "Переміщення";
+     
+"topscan_mergeing" = "Злиття";
+     
+"topscan_initdata" = "Ініціалізація даних";
+     
+"topscan_docpasswordicon" = "Блокувати";
+     
+"topscan_docpasswordunlockicon" = "Розблокувати";
+     
+"topscan_pdfpassword" = "Пароль експорту PDF";
+     
+"topscan_pdfpasswordclear" = "Очистити пароль PDF";
+     
+"topscan_touchtitle" = "Перевірте Touch ID";
+     
+"topscan_clearapppsd" = "Ви хочете очистити параметри пароля програми?";
+     
+"topscan_cleardocpsd" = "Ви хочете очистити параметри пароля доступу до документа?";
+     
+"topscan_passwordhelptip" = "Потрібна допомога?";
+     
+"topscan_passwordhelpsubject" = "Пароль документа. Зворотній зв\'язок";
+     
+"topscan_passwordapphelpsubject" = "Зворотній зв\'язок. Пароль програми";
+     
+"topscan_enterpwd" = "Введіть пароль";
+     
+"topscan_appsecurity" = "Безпека програми";
+     
+"topscan_apppwd" = "Пароль програми";
+     
+"topscan_setpasswordlaceholder" = "Введіть свій пароль";
+     
+"topscan_resetpasswordlaceholder" = "Будь ласка, повторно введіть свій пароль";
+     
+"topscan_setpasswordtitle" = "Встановити пароль";
+     
+"topscan_setpdfpasswordtitle" = "PDF-пароль";
+     
+"topscan_resetpasswordtitle" = "Введіть пароль";
+     
+"topscan_writepasswordfail" = "Паролі не збігаються, спробуйте ще раз!";
+     
+"topscan_writetwopasswordfail" = " Два записи пароля не збігаються, спробуйте ще раз!";
+     
+"topscan_backupbottomtitle" = "Відновити з попередньої резервної копії або перенести відскановані копії з іншого пристрою";
+     
+"topscan_docaccesspassword" = "Пароль доступу до документа";
+     
+"topscan_turnoffpassword" = "Вимкнути пароль";
+     
+"topscan_changepassword" = "Змінити пароль";
+     
+"topscan_storagespacenotenough" = "У телефоні недостатньо місця для зберігання";
+     
+"topscan_storagespacetitle" = "Місце для зберігання менше 200 МБ. Щоб записати файли, звільніть місце";
+     
+"topscan_appheadingtitle" = "Встановіть пароль програми для захисту документів";
+     
+"topscan_docheadingtitle" = "Встановіть пароль для перегляду захищених паролем документів";
+     
+"topscan_pdfheadingtitle" = "Встановіть пароль для спільного використання та експорту файлів PDF для захисту конфіденційності";
+     
+"topscan_batchall" = "Повна";
+     
+"topscan_batchauto" = "Авто";
+     
+"topscan_batchfit" = "Підбір";
+     
+"topscan_left" = "Ліворуч";
+     
+"topscan_right" = "Праворуч";
+     
+"topscan_crop" = "Обрізка";
+     
+"topscan_filter" = "Фільтр";
+     
+"topscan_prompt" = "Підказка";
+     
+"topscan_promptcontent" = "Зміни ще не збережено. Зберегти зараз?";
+     
+"topscan_no" = "Ні";
+     
+"topscan_yes" = "Так";
+     
+"topscan_batchsave" = "Зберегти";
+     
+"topscan_scansignature" = "Відскануйте свій підпис";
+     
+"topscan_importsignature" = "Імпорт з альбому";
+     
+"topscan_waittip" = "Обробка файлів, зачекайте...";
+     
+"topscan_nooriginalimgdefault" = "Деякі файли неможливо скинути та обрізати, а оригінальний файл не вдається знайти";
+     
+"topscan_nooriginalimgfilter" = "Деякі файли неможливо повторно відфільтрувати, оскільки оригінальний файл не вдається знайти";
+     
+"topscan_nooriginalimgmore" = "і більше";
+     
+"topscan_nooriginalimgsetting" = "Ви можете відкрити опцію налаштувань, щоб зберегти оригінальні параметри зображення";
+     
+"topscan_alldatanooriginalimg" = "Не вдається скинути обрізання, оригінальний файл не існує!";
+     
+"topscan_alldatanooriginalimgfilter" = "Неможливо скинути обробку фільтра, оригінальний файл не існує!";
+     
+"topscan_cropautomatic" = "Автоматичне обрізання зображення";
+     
+"topscan_cropautomatictip" = "Автоматичне обрізання зображень у режимі пакетного сканування";
+     
+"topscan_cropautomaticcameraaip" = "Автоматичне обрізання";
+     
+"topscan_camerafilterremind" = "Ви можете змінити стандартний фільтр пакетного режиму";
+     
+"topscan_cameracropremindfirst" = "Ви можете змінити, чи";
+     
+"topscan_cameracropremindsecond" = "пакетний режим обрізається";
+     
+"topscan_flitertypeapplylocation" = "Застосувати до всіх сторінок";
+     
+"topscan_colletionpdftolongpictitle" = "Експорт PDF у довге зображення";
+     
+"topscan_colletionpdftopictitle" = "PDF в зображення";
+     
+"topscan_colletionpdfpasswordtitle" = "PDF-пароль";
+     
+"topscan_colletionpdfextracttitle" = "Витяг з PDF";
+     
+"topscan_colletiondocpasswordtitle" = "Пароль документа";
+     
+"topscan_colletionscanidcardtitle" = "Сканувати посвідчення особи";
+     
+"topscan_colletionpdfaddwatermarktitle" = "PDF. Додати водяний знак";
+     
+"topscan_colletionpdfsignaturetitle" = "Підпис у форматі PDF";
+     
+"topscan_colletionpdfpageadjustment" = "Налаштування сторінки PDF";
+     
+"topscan_colletionimagetopdf" = "Зображення в PDF";
+     
+"topscan_colletionbottomtitle" = "Витяг сторінки";
+     
+"topscan_colletionmydevice" = "Мій пристрій";
+     
+"topscan_colletionpdfextractbottomtitle" = "Витяг. Генерувати новий документ";
+     
+"topscan_docreminedtitle" = "Увімкнути дозволи на сповіщення";
+     
+"topscan_docreminedcontent" = "Ви не ввімкнули дозволи на сповіщення. Тому ви не можете використовувати сповіщення про документи, поки вони не ввімкнені.";
+     
+"topscan_docreminetime" = "Час нагадування про документ повинен бути більшим, ніж поточний системний час!";
+     
+"topscan_questiontype" = "Виберіть тип";
+     
+"topscan_questiondescrible" = "Будь ласка, введіть своє запитання чи пропозицію";
+     
+"topscan_suggestionremind" = "Щоб зробити знімок екрана на iPhone 8 та новіших версіях, одночасно натисніть кнопку Sleep/Wake та кнопку Home";
+     
+"topscan_suggestionremindx" = "Щоб зробити знімок екрана на iPhone X та пізніших версіях, одночасно натисніть кнопку збільшення та блокування.";
+     
+"topscan_questiontypecrash" = "Збій/відставання";
+   
+"topscan_questiontypetaking" = "Фотографування/імпорт з альбому";
+   
+"topscan_questiontypephoto" = "Редагування фотографій";
+   
+"topscan_questiontypeocr" = "Розпізнавання тексту (OCR)";
+   
+"topscan_questiontypefax" = "Факс";
+   
+"topscan_questiontypepoint" = "С-точки";
+   
+"topscan_questiontypeshare" = "Поділитися/Email/Друк";
+   
+"topscan_questiontypeinterface" = "Інтерфейс";
+   
+"topscan_questiontypefeatures" = "Більше можливостей";
+   
+"topscan_questiontypeother" = "Інші питання";
+   
+"topscan_questiontypetoast" = "Чи є проблеми з використанням? Або ви можете надіслати нам відгук щодо пропозицій та вимог щодо функцій програми, і ми із задоволенням вислухаємо ваші думки.";
+   
+"topscan_questionsetting" = "Налаштування";
+   
+"topscan_questioncontinue" = "Продовжуйте";
+   
+"topscan_questioninvalidemail" = "Невірна адреса електронної пошти";
+   
+"topscan_questiontoasttitle" = "Додати скріншоти (необов’язково)";
+   
+"topscan_submittedsuccessfully" = "Відправлено успішно!";
+   
+"topscan_suggestioncontenttitle" = "Подробиці";
+   
+"topscan_suggestionsubmit" = "Надіслати";
+   
+"topscan_remindtitle" = "Назва";
+   
+"topscan_remindreturn" = "Повернути";
+   
+"topscan_guidetitleprofessional" = "Професійно";
+   
+"topscan_guidetitlecollage" = "Режим колажу ID";
+   
+"topscan_guidetitlebackup" = "Резервне копіювання і відновлення";
+   
+"topscan_guideprofessionaldes" = "Автоматично розпізнавати документи, швидко обробляти кадрування, робити чіткими та покращувати документи.";
+   
+"topscan_guidecollagedes" = "Зображення ідентифікаційних карток колажу в документ, надають кілька варіантів шаблону та власний розмір.";
+   
+"topscan_guideimagedes" = "Автоматично розпізнавати текст за допомогою хмарної технології ШІ, редагувати, копіювати, ділитися, експортувати текст.";
+   
+"topscan_guidebackupdes" = "Створіть резервну копію документів у хмарному або локальному сховищі та відновіть резервні копії документів у будь-який час.";
+   
+"topscan_showstatustitle" = "Завантаження даних";
+   
+"topscan_placeholderpassword" = "пароль";
+   
+"topscan_manualsorttitle" = "Натисніть та утримуйте, щоб сортувати вручну";
+   
+"topscan_docgraffiti" = "Графіті";
+   
+"topscan_docaddtext" = "Додайте текст";
+   
+"topscan_copypage" = "Скопіювати поточну сторінку";
+   
+"topscan_copyallpages" = "Скопіюйте всі сторінки";
+   
+"topscan_showprocess" = "Відбувається обробка...";
+   
+"topscan_importimgerror" = "Файл не існує, або помилка даних!";
+   
+"topscan_somefileloss" = "Помилка читання файлу!";
+    
+  
+  
+  
+  
+  
+"topscan_cardprompt" = "Обов’язкова функція! Ви можете зробити двосторонню електронну копію посвідчення особи за 1 хв. На 100 % r готову до друку.";
+    
+"topscan_paperexample" = "Приклад паперу формату А4";
+    
+"topscan_restorebackup" = "Зробити резервну копію зараз";
+    
+"topscan_restorelastbackup" = "Дата останнього резервного копіювання";
+    
+"topscan_restoremerge" = "Відновити та об’єднати всі поточні документи";
+    
+"topscan_restoredelete" = "Відновіть та видаліть усі поточні документи";
+    
+"topscan_restoretitle" = "Відновлення";
+    
+"topscan_restorenotlogin" = "Не виявлено жодного випадку входу в обліковий запис хмарного сховища.";
+    
+"topscan_restorenotrepeat" = "Завантаження файлу резервної копії, зачекайте...";
+    
+"topscan_restorebackwifi" = "Резервне копіювання лише через Wi-Fi";
+    
+"topscan_restorenodocument" = "Наразі немає документа. Будь ласка, додайте документ спочатку.";
+    
+"topscan_restorequery" = "запит...";
+    
+"topscan_restorequeryfailed" = "Помилка запиту або файл резервної копії не знайдено.";
+    
+"topscan_restoreprocessfiles" = "Обробка файлів";
+    
+"topscan_restorebackupfailed" = "Не вдалося створити резервну копію!";
+    
+"topscan_restoreuploadingfile" = "Файл завантажується, зачекайте...";
+    
+"topscan_saferepasscode" = "Повторно введіть пароль";
+    
+"topscan_saferepassword" = "Будь ласка, повторно введіть пароль";
+    
+"topscan_applicationsecrulty" = "Безпека програми";
+    
+"topscan_verifypasscode" = "Підтвердіть пароль";
+    
+"topscan_setpasscode" = "Встановіть пароль";
+    
+"topscan_enternewpassword" = "Введіть новий пароль";
+    
+"topscan_filetype" = "Тип файлу";
+    
+"topscan_fileformat" = "Формат файлу";
+    
+"topscan_sharepdfformat" = "Діліться файлами у форматі .PDF";
+    
+"topscan_sharezipformat" = "Діліться файлами у форматі .ZIP";
+    
+"topscan_sharejpgformat" = "Діліться файлами у форматі .JPG";
+    
+"topscan_newfolderprompt" = "Нова папка";
+    
+"topscan_currentdocument" = "Поточний документ";
+    
+"topscan_recognizetitle" = "Розпізнати";
+    
+"topscan_filedeleteprompt" = "Файл резервної копії успішно видалено.";
+    
+"topscan_filedownbackup" = "Завантажити файл резервної копії";
+    
+"topscan_filestartbackup" = "Починається завантаження файлу резервної копії";
+    
+"topscan_filerestoresuccessed" = "Відновлення файлу резервної копії виконано успішно.";
+    
+"topscan_uploadsingin" = "Увійти";
+    
+"topscan_singoutlowercase" = "Вийти";
+    
+"topscan_processingerror" = "Помилка обробки файлів!";
+    
+"topscan_barcodeopenurl" = "Відкрити URL";
+    
+"topscan_barcoderesult" = "Результат розпізнавання";
+    
+"topscan_downloadlanguage" = "Завантаження мови...";
+    
+"topscan_graffitibrush" = "Щітка";
+    
+"topscan_graffitiopacity" = "Непрозорість";
+    
+"topscan_graffitieraser" = "Гумка";
+    
+"topscan_graffiticolor" = "Колір";
+    
+"topscan_graffitiundo" = "Скасувати";
+    
+"topscan_graffitiredo" = "Повторити";
+    
+"topscan_nosignture" = "Ніякого підпису!";
+    
+"topscan_graffititext" = "Текст";
+        
+"topscan_graffitireplacefile" = "Замінити поточний файл";
+        
+"topscan_graffiticreatefile" = "Створити новий файл";
+        
+"topscan_graffiticopyto" = "Скопіювати в";
+        
+"topscan_graffitimoveto" = "Перейти до";
+        
+"topscan_graffititextrecognition" = "Текст розпізнавання";
+        
+"topscan_ocraccount" = "Управління рахунком OCR";
+        
+"topscan_loginsuccessful" = "Увійти успішно!";
+        
+"topscan_appleloginsuccessful" = "Вхід в обліковий запис Apple успішний!";
+        
+"topscan_googleloginsuccessful" = "Вхід в обліковий запис Google успішний!";
+        
+"topscan_loginregister" = "Увійдіть або зареєструйтесь";
+        
+"topscan_resetpassword" = "Скинути пароль";
+        
+"topscan_copysuccessful" = "Копіювання здійснено успішно";
+        
+"topscan_copyfailed" = "Помилка копіювання";
+        
+"topscan_loginicloudtips" = "Щоб запобігти втраті Вашого балансу, ми використовуємо рахунок для прив’язки Вашого балансу. Одночасно ви також можете використовувати баланс між кількома пристроями. Будь ласка, увійдіть або зареєструйте свій обліковий запис.";
+        
+"topscan_loginnow" = "Увійдіть зараз";
+        
+"topscan_emailemptytips" = "Електронна адреса не може бути порожньою";
+        
+"topscan_psdemptytips" = "Пароль не може бути порожнім";
+    
+"topscan_codeemptytips" = "Код підтвердження не може бути порожнім";
+    
+"topscan_tips" = "Поради";
+    
+"topscan_subscriptsuccessfully" = "Дякуємо, що підписалися на преміум! ";
+    
+"topscan_autorenewable" = "Поновлюється автоматично, скасувати будь-коли.";
+    
+"topscan_nofreetrial" = "БЕЗКОШТОВНОЇ пробної версії не існує";
+    
+"topscan_details" = "Деталі";
+    
+"topscan_restorepurchase" = "Відновити придбані предмети";
+    
+"topscan_freetrial" = "Безкоштовний пробний період";
+    
+"topscan_unlimitedfolders" = "Необмежена кількість папок";
+    
+"topscan_unlimitedfoldersintroduce" = "Необмежене створення папок та підпапок.";
+    
+"topscan_noads" = "Без реклами";
+    
+"topscan_noadsintroduce" = "Видаліть рекламу з Simple Scanner.";
+    
+"topscan_pdffileencryption" = "Шифрування файлу PDF";
+    
+"topscan_pdffileencryptionintroduce" = "Ви можете встановити пароль для сканування (квитанцій або конфіденційних файлів), щоб захистити конфіденційність.";
+    
+"topscan_ocrtypecloudintroduce" = "Використовуйте хмарну технологію ШІ для розпізнавання та вилучення тексту. Доступно понад 1000 сторінок на місяць.";
+    
+"topscan_cloudservice" = "Хмарний сервіс";
+    
+"topscan_cloudserviceintroduce" = "Автоматично завантажуйте документи, PDF, JPG, типи файлів на Cloud Drive або iCloud, щоб уникнути втрати документа.";
+    
+"topscan_functionofcollage" = "Функція колажу";
+    
+"topscan_functionofcollageintroduce" = "Використовуйте функцію колажу, щоб об’єднати кілька сторінок в одну сторінку.";
+    
+"topscan_unlimitedscans" = "Необмежена кількість сканувань";
+    
+"topscan_unlimitedscansintroduce" = "Немає обмежень на кількість сканованих документів.";
+    
+"topscan_clearwaternark" = "Видалити водяний знак";
+    
+"topscan_clearwaternarkintroduce" = "Видаліть водяний знак з PDF та підтримуйте його чистоту та порядок.";
+    
+"topscan_writesignature" = "Підпис";
+    
+"topscan_writesignatureintroduce" = "Відскануйте свій підпис, написаний на папері, щоб отримати електронний підпис, який виглядає так само, як оригінал.";
+    
+"topscan_highqualitydoc" = "Якісний документ";
+    
+"topscan_highqualitydocintroduce" = "Кілька варіантів вибору якості зображення. Виберіть варіанти вищої якості, зробіть документ PDF більш чітким.";
+    
+"topscan_emailmyself" = "Надіслати електронною поштою";
+    
+"topscan_emailmyselfintroduce" = "Надсилайте документи собі електронною поштою, швидше та зручніше.";
+    
+"topscan_exportpdfdoc" = "Експортувати документ PDF";
+    
+"topscan_exportpdfdocintroduce" = "Швидко експортуйте PDF в інші програми або зберігайте локально на телефоні.";
+    
+"topscan_backupintroduce" = "Резервне копіювання та відновлення на декількох пристроях для синхронізації документів.";
+    
+"topscan_graffiti" = "Графіті";
+    
+"topscan_graffitiintroduce" = "Змінюйте документи, графіті, додавайте текст, підписи тощо.";
+    
+"topscan_applock" = "Блокування програми";
+    
+"topscan_applockintroduce" = "Увімкніть Face ID або Touch ID, щоб розблокувати SimpleScanner за один крок.";
+    
+"topscan_imagetotext" = "Зображення в текст";
+    
+"topscan_imagetotextintroduce" = "Використовуйте функцію розпізнавання текстів на зображенні для подальшого пошуку або спільного використання.";
+    
+"topscan_propdfeditor" = "Редактор PDF";
+    
+"topscan_propdfeditorintroduce" = "Редагуйте сторінки PDF, додавайте підписи та графіті, паролі в PDF, видаляйте водяні знаки тощо.";
+    
+"topscan_gotosetting" = "Перейдіть до Налаштування";
+    
+"topscan_ocrnummorethan" = "Cloud OCR використовується для розпізнавання 1000 сторінок на місяць у поточному циклі обчислення. Якщо ви продовжуєте розпізнавання, вам потрібно придбати сторінки OCR або, будь ласка, зачекайте наступного циклу обчислення, щоб автоматично додати 1000 сторінок.";
+    
+"topscan_upgradeaccount" = "Більше 20 вдосконалених функцій";
+    
+"topscan_upgradepremium" = "Оновіть до преміум-класу";
+    
+"topscan_premium" = "Преміум";
+    
+"topscan_nopurrestore" = "Немає покупок для відновлення!";
+    
+"topscan_restorefailed" = "Не вдалося відновити покупку.";
+    
+"topscan_restoresuccessfully" = "Відновіть покупку успішно.";
+"topscan_bindcontent" = "Ви не встановили свій обліковий запис електронної пошти. Перейдіть на телефоні у налаштування Email, торкніться “Додати запис”, щоб створити свій обліковий запис електронної пошти";
+    
+"topscan_cameratypeidcardintroduce" = "Скануйте та скопіюйте обидві сторони посвідчення особи на одну сторінку за 1 хв, зберігаючи оригінальний розмір картки. 100 % p готових до друку. ";
+    
+"topscan_paymenttext1" = "Оплата буде стягнута з рахунку iTunes при підтвердженні покупки.";
+    
+"topscan_forgotpsd" = "Забули свій пароль?";
+    
+"topscan_signup" = "Зареєструйтесь";
+    
+"topscan_noaccount" = "Немає облікового запису?";
+    
+"topscan_login" = "Увійти";
+    
+"topscan_quicklogin" = "Швидкий вхід";
+    
+"topscan_paynow" = "Платити зараз";
+    
+"topscan_send" = "Надіслати";
+    
+"topscan_signinsuccess" = "Вхід здійснено успішно!";
+    
+"topscan_resend" = "Повторно відправити";
+    
+"topscan_sendcodesuccess" = "Відправлено успішно";
+    
+"topscan_entervercode" = "Введіть код підтвердження";
+    
+"topscan_addorginalfile" = "Додати оригінальну резервну копію файлу";
+    
+"topscan_turnonpassword" = "Увімкнути пароль";
+"topscan_rotate" = "Обертати";
+"topscan_tipask" = "Ніколи не питайте";
+    
+"topscan_croptipmsg" = "Ця дія видалить всі результати OCR, примітку, водяний знак, підписи, графіті, текст тощо. Продовжити?";
+    
+"topscan_scoretitle" = "Якщо вам подобається Simple Scanner, будь ласка, оцініть нас люб\'язно в App Store, щоб підтримати нас?";
+    
+"topscan_resetpsd" = "Нам просто потрібен ваш зареєстрований ідентифікатор електронної пошти, який надіслав вам інструкції щодо скидання пароля.";
+    
+"topscan_compressionration" = "Компресія";
+    
+"topscan_size" = "Розмір";
+    
+"topscan_compression" = "Компресія";
+    
+"topscan_pdfpagenumber" = "Номер сторінки";
+    
+"topscan_pdfpagedirection" = "Напрямок сторінки";
+    
+"topscan_image" = "Зображення";
+    
+"topscan_subscriptfailedtips" = "Не вдалося підтвердити підписку, перейдіть на головну сторінку -> Налаштування -> Відновити покупку!";
+    
+"topscan_cropautomaticcameraaip" = "Автоматичне обрізання";
+    
+"topscan_nextstep" = "Наступний крок";
+    
+"topscan_addsignature" = "Додати підпис";
+   
+"topscan_subsctiptplan" = "Ваш план передплати";
+    
+"topscan_renewedday" = "Оновлений день";
+    
+"topscan_automaticrenewal" = "Автоматичне оновлення";
+    
+"topscan_moredetails" = "Детальніше";
+    
+"topscan_drivedownloadfiles" = "Імпорт у хмару";
+    
+"topscan_download" = "Завантажити";
+    
+"topscan_downloadsuccessfilly" = "Завантажено успішно";
+    
+"topscan_downloadfailed" = "Не вдалося завантажити";
+    
+"topscan_uselimitedversion" = "Використовуйте обмежену версію";
+    
+"topscan_termsofserice" = "Умови обслуговування";
+    
+"topscan_unlimitedfeatures" = "Необмежені можливості";
+    
+"topscan_subscriptiongives" = "Ця підписка надає вам необмежений доступ до наших привілеїв. Якщо ви не скасуєте до закінчення пробного періоду, з вас буде автоматично стягнено плату.";
+    
+
+
+//"simpleScan.gaussianblur" = "G&B";
+//"simpleScan.colorreplace" = "Color Replace";
+
+/**
+ pdf大小设置 尺寸大小不需要进行翻译
+ */
+"topscan_letter" = "Letter(21.6cm*27.9cm)";
+"topscan_a4" = "A4(21.0cm*29.7cm)";
+"topscan_legal" = "Legal(21.6cm*35.6cm)";
+"topscan_a3" = "A3(29.7cm*42.0cm)";
+"topscan_a5" = "A5(14.9cm*21.0cm)";
+"topscan_businesscard" = "Business Card(8.5cm*5.5cm)";
+"topscan_b4" = "B4(25.0cm*35.3cm)";
+"topscan_b5" = "B5(17.6cm*25.0cm)";
+"topscan_tabloid" = "Tabloid(27.9cm*43.2cm)";
+"topscan_executive" = "Executive(18.4cm*26.7cm)";
+"topscan_postcard" = "Postcard(10.0cm*14.7cm)";
+"topscan_flsa" = "Flsa(21.6cm*33.0cm)";
+"topscan_flse" = "Flse(22.9cm*33.0cm)";
+"topscan_arch_a" = "Arch_A(23.0cm*30.5cm)";
+"topscan_arch_b" = "Arch_B(30.5cm*46.0cm)";
+"topscan_sharezipname" = "Share with SimpleScan.zip";
+"topscan_ocrexporttxt" = ".TXT";
+"topscan_box" = "Box";
+"topscan_googledrive" = "Google Drive";
+"topscan_onedrive"  = "OneDrive";
+"topscan_dropbox" = "Dropbox";
+"topscan_touchidtitle" = "Touch ID";
+"topscan_faceidtitle" = "Face ID";
+"topscan_day" = "day";
+"topscan_week" = "week";
+"topscan_month" = "month";
+"topscan_year" = "year";
+
+
+/**
+ 新增未翻译字段
+ */
+
+"topscan_datarefresh" = "Refresh data";
+"topscan_paymenttext2" = "Account will be charged for renewal within 24\-hours prior to the end of the current subscription period.";
+"topscan_paymenttext3" = "Subscriptions may be managed by the user and auto\-renewal may be turned off by going to the user\'s Account Settings after purchase.";
+
+"topscan_filenull" = "File cannot be null!";
+"topscan_updatedatadescend" = "Date Update (ascending)";
+"topscan_updatedataascend" = "Date Update (descending)";
+"topscan_tabbartitlerecent" = "Recent";
+"topscan_tabbartitlehome" = "Home";
+"topscan_tabbartitledocs" = "Docs";
+"topscan_tabbartitleapplication" = "Application";
+/// app快捷选项
+"topscan_shortlibrary" = "Scan from Photos";
+"topscan_batchscan" = "Batch Scan Mode";
+"topscan_singlescan" = "Single Scan Mode";
+
+//PDF签名 最多三张
+"topscan_maxsignatures" = "you can add max. 3 signatures on the current page. Please delete the unwanted ones";
+"topscan_transferdata" = "Transfer Data Across Devices";
+/// 设备之间传输数据
+"topscan_searching" = "Searching available device";
+"topscan_transferdata" = "Transfer Data Across Devices";
+"topscan_availabledevice" = "available device";
+"topscan_directlyexport" = "Directly export your data to another iOS device.";
+"topscan_turnonwifi" = "Please turn on your Wi-Fi, and enable permission for SimpleScan in iOS Settings > Privacy > Local Network.";
+"topscan_keepnear" = "Keep your device near the other and keep both devices in this page.";
+
+"topscan_connecting" = "Connecting";
+"topscan_requestfrom" = "Received data transfer request from";
+"topscan_receivedata" = "Receive Data";
+"topscan_senddata" = "Send Data";
+"topscan_thisdevice" = "This Device";
+"topscan_sending" = "Sending";
+"topscan_receiving" = "Receiving";
+"topscan_keepscreen" = "Keep both screen on and make sure the other device is nearby until the transfer finished";
+
+"topscan_transferunfinished" = "Data Transfer Unfinished";
+"topscan_stopexit" = "Are you sure to exit and stop transfering data?";
+"topscan_exit" = "Exit";
+
+"topscan_trylater" = "is busy,please try again later.";
+"topscan_busy" = "Busy";
+//暗黑
+"topscan_darkmode" = "Dark Mode";
+"topscan_lightmode" = "Light Mode";
+"topscan_darkmodefollowsystem" = "Follow the System";
+"topscan_darkmodeclosed" = "Closed";
+"topscan_darkmodeopened" = "Opened";
+"topscan_darkmodeldescrible" = "When enabled, SimpleScan will switch dark mode on/off to mach your system settings";
+"topscan_darkmodchoosetitle" = "Select Manually";
+"topscan_successfullyunlocked" = "Successfully unlocked";
+"topscan_wlantitle" = "WLAN is Turned Off for “SimpleScan”";
+"topscan_wlancontent" = "You can turn on WLAN for this app in Settings.";
+"topscan_shotfeedback" = "Feedback";
+"topscan_shotsavedoc" = "Save file";
+"topscan_shottipshare" = "Screenshot sharing";
+//回收站
+"topscan_recyclebindeletetip" = "(After deleting the document, it cannot be recovered)";
+"topscan_recyclebinempty" = "Recycle bin is empty";
+"topscan_recyclebinsavetip" = "Recycle Bin keeps documents deleted in the last 30 days";
+"topscan_recyclebinsuccess" = "Restored successfully";
+"topscan_recyclebin" = "Recycle bin";
+"topscan_deleteall" = "Delete all";
+"topscan_recyclebininstructions" = " Deleted documents will be placed in the 'Recycle Bin', we will keep them for you for 30 days, after which they will be automatically cleared, during this period, you can go to the 'Recycle Bin' to restore.";
+"topscan_filesize" = "File size";
+"topscan_restorefirst" = "Please restore the file before viewing";
+"topscan_clearupalert" = "Are you sure you want to delete all files ?";
+"topscan_deletealert" = "Delete warning";
+"topscan_howmuchmonth" = " days";
+"topscan_savefiletime" = "Keep file time";
+"topscan_takephoto" = "Take Photo";
+
+//新的评论弹框
+"topscan_newsuggestiontitle" = "Rate Simple Scanner";
+"topscan_newsuggestioncontent" = "If you like our app, please rate us";
+"topscan_newlisttype" = "Folders";
+"topscan_newlistselecttitle" = "All";
+"topscan_newlistnormaltitle" = "Hide";
+"topscan_newlisttitle" = "Detial View";
+"topscan_picdetailtitle" = "Details";
+"topscan_piccreattime" = "Date Create";
+"topscan_picupdatetime" = "Date Update";
+"topscan_childsettingview" = "View";
+"topscan_childimportant" = "Important";
+"topscan_networkunavailable" = "The network is unavailable, please check the network settings";

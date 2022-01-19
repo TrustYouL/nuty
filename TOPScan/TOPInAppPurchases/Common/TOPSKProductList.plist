@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Consumables</key>
+	<array>
+		<string>20210624_ocrpages_1</string>
+		<string>20210624_ocrpages_1</string>
+	</array>
+	<key>Subscriptions</key>
+	<array>
+		<string>20210624_1_month_sub</string>
+		<string>20210624_1_year_sub</string>
+		<string>20211123_year_sub</string>
+	</array>
+	<key>ProductDetail</key>
+	<dict>
+		<key>20210624_1_month_sub</key>
+		<dict>
+			<key>type</key>
+			<string>subs</string>
+			<key>description</key>
+			<string>按月订阅</string>
+			<key>periodUnit</key>
+			<string>month</string>
+		</dict>
+		<key>20210624_1_year_sub</key>
+		<dict>
+			<key>type</key>
+			<string>subs</string>
+			<key>description</key>
+			<string>按年订阅</string>
+			<key>periodUnit</key>
+			<string>year</string>
+		</dict>
+		<key>20210624_ocrpages_1</key>
+		<dict>
+			<key>type</key>
+			<string>ocr</string>
+			<key>description</key>
+			<string>200pageOCR</string>
+			<key>periodUnit</key>
+			<string>always</string>
+		</dict>
+		<key>20210624_ocrpages_2</key>
+		<dict>
+			<key>type</key>
+			<string>ocr</string>
+			<key>description</key>
+			<string>1000pageOCR</string>
+			<key>periodUnit</key>
+			<string>always</string>
+		</dict>
+		<key>20211123_year_sub</key>
+		<dict>
+			<key>type</key>
+			<string>subs</string>
+			<key>description</key>
+			<string>首年订阅优惠半价</string>
+			<key>periodUnit</key>
+			<string>year</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
